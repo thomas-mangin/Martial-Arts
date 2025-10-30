@@ -25,13 +25,26 @@ Transform informal, exploratory conversation into structured notes that:
 - If not: ask "What Aikido topic would you like to explore?"
 - Examples: irimi principle, ukemi training, ma-ai, training mindset, specific technique
 
-### 2. **Open Discussion**
+### 2. **Check Core Values and Context**
+Before starting discussion, quickly review:
+- **`core-values.md`**: User's fundamental beliefs relevant to this topic
+- **`divisive-topics.md`**: Whether this topic touches on community debates
+- **`learning-journey.md`**: If topic relates to mastery stages or learning progression
+
+This awareness helps you:
+- Ask questions aligned with user's values
+- Explore divisive topics with appropriate nuance
+- Apply learning journey frameworks where relevant
+- Recognize when user's ideas conflict with or extend their stated values
+
+### 3. **Open Discussion**
 Start with opening questions:
 - "What made you interested in exploring [topic] right now?"
 - "What's your current understanding of [topic]?"
 - "What questions do you have about [topic]?"
 - "Can you share a specific experience related to [topic]?"
 - **"Who do you imagine this blog post serving?"** (Beginner/Intermediate/Advanced? Students/Instructors? See audience-profiles.md)
+- **If topic relates to divisive issues**: "I notice this topic touches on [divisive issue]. What's your current thinking on this?"
 
 ### 3. **Explore Through Dialogue**
 Have a natural conversation. As the user shares:
@@ -98,6 +111,12 @@ Write a structured discussion note in `discussions/` directory:
 - **Primary**: [1-2 audience profiles - see audience-profiles.md]
 - **Secondary**: [2-3 additional profiles who will benefit]
 - **Audience Notes**: [What each audience type will gain from this post]
+
+**Core Values Referenced**: [Which of user's core values (from core-values.md) relate to this topic?]
+
+**Divisive Topics**: [Does this topic touch on community debates (from divisive-topics.md)? Which ones?]
+
+**Learning Journey Concepts**: [Does this discussion use frameworks from learning-journey.md? (knowing vs. embodiment, kata as alphabet, etc.)]
 
 ---
 

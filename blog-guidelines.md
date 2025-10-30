@@ -410,6 +410,136 @@ Your blog serves a diverse community with different experience levels, roles, in
 
 ---
 
+## Authenticity: Writing from Your Core Values
+
+### Why Your Values Matter
+
+Your blog isn't just information—it's your perspective, grounded in your personal experience and beliefs as a martial artist. **Authenticity and consistency of voice come from clarity about what you believe.**
+
+**Three foundational documents guide your authentic voice:**
+- **`core-values.md`** - Your fundamental beliefs as a martial artist
+- **`divisive-topics.md`** - Topics that cause disagreement in the community
+- **`learning-journey.md`** - Your understanding of mastery stages and learning progression
+
+### Using Core Values in Writing
+
+**Before writing, review `core-values.md` to:**
+1. Ground your perspective on the topic
+2. Ensure consistency with your stated beliefs
+3. Identify potential blog angles aligned with your values
+4. Avoid contradicting your established positions
+
+**Example - Biomechanics vs. Mysticism:**
+
+If your core value is teaching through biomechanics rather than abstract concepts:
+- ✅ "Let's break down why kokyu-nage works: When you drop your weight while extending forward..."
+- ❌ "Simply let the ki flow through you and uke will fall naturally..."
+
+**Your values shape:**
+- Which examples you choose
+- How you explain techniques
+- What teaching methods you recommend
+- Which controversies you engage with
+
+### Navigating Divisive Topics
+
+**When writing about controversial subjects, consult `divisive-topics.md` to:**
+1. Recognize you're entering debated territory
+2. Understand multiple perspectives in the community
+3. Position your stance clearly and respectfully
+4. Anticipate counter-arguments
+5. Acknowledge legitimate alternative views
+
+**Framework for handling divisive topics:**
+
+```markdown
+## [Divisive Topic Title]
+
+Many practitioners debate [topic]. Some believe [Perspective A] because [reasons].
+Others emphasize [Perspective B] because [different reasons].
+
+In my experience, [your stance]. Here's why: [your reasoning grounded in practice].
+
+I respect those who approach it differently, but [explain your position clearly].
+What I've found in training is [concrete evidence from your practice].
+```
+
+**Example - Iwama vs. Blending:**
+
+❌ **Dismissive approach:**
+> "Iwama practitioners just stay rigid and never learn to relax. Blending is the only true Aikido."
+
+✅ **Nuanced approach:**
+> "Many practitioners debate whether weapons training or blending practice should come first. Iwama emphasizes building structure through ken and jo, while other approaches prioritize flowing movement from day one. In my training, I've found that weapons training builds a solid foundation—but I've also noticed many Iwama practitioners never complete the journey to genuine relaxation. My view: strong structure must come first, but it's only the beginning, not the destination."
+
+### Writing About Learning and Mastery
+
+**When discussing training progression, reference `learning-journey.md` for:**
+1. Clear frameworks for explaining growth stages
+2. Distinction between knowing and embodied mastery
+3. The "kata as alphabet" concept
+4. Teaching implications of different mastery levels
+
+**Common blog applications:**
+
+**Topic: Plateau problems**
+- Reference knowing vs. embodiment distinction
+- Explain why intellectual understanding isn't enough
+- Guide readers toward embodied practice
+
+**Topic: Teaching methodology**
+- Reference kata as alphabet concept
+- Explain progression: learn forms → understand principles → create spontaneously
+- Warn against treating kata as scripture
+
+**Topic: Respecting advanced practitioners**
+- Reference what master-level martial artists see
+- Explain depth visible only after embodiment
+- Discuss humility about your own learning stage
+
+### Consistency Across Posts
+
+**Track your positions:**
+- If you write about biomechanics in one post, don't suddenly advocate for mystical ki concepts in another
+- If you critique rigid Iwama practitioners, acknowledge their valid foundation-building approach
+- If you emphasize embodied mastery, explain learning journey from knowing to embodying
+
+**When your views evolve:**
+1. Update the relevant document (core-values.md, etc.)
+2. Note the evolution in decisions.md
+3. Consider writing a post about what changed your thinking
+4. Don't contradict past posts without acknowledgment
+
+### Finding Your Unique Voice
+
+**Your authentic voice emerges from:**
+- Your core values (what you believe)
+- Your awareness of debates (what others believe)
+- Your learning journey framework (how mastery develops)
+- Your specific experiences and insights
+
+**This combination is unique to you.** Two instructors might both emphasize biomechanics, but one focuses on Iwama structure while another emphasizes blending. Your particular constellation of beliefs creates your distinctive voice.
+
+### Practical Application
+
+**When drafting a post:**
+
+1. **Check relevance**: Does this topic touch on your core values or divisive topics?
+2. **Review position**: What's your stance from core-values.md?
+3. **Consider controversy**: Is this divisive? Check divisive-topics.md
+4. **Apply framework**: Does learning-journey.md provide useful concepts?
+5. **Write authentically**: Express your genuine perspective
+6. **Stay consistent**: Align with your established positions
+
+**When reviewing a post** (`/review-aikido` will check):
+
+1. **Value alignment**: Does post contradict your stated values?
+2. **Divisive topic handling**: If controversial, are multiple views acknowledged?
+3. **Consistency**: Does this match your positions in other posts?
+4. **Authenticity**: Does this sound like genuine insight or generic advice?
+
+---
+
 ## Quality Standards
 
 ### Before Publishing
@@ -432,6 +562,36 @@ Your blog serves a diverse community with different experience levels, roles, in
 - Personal but not self-centered
 - Respectful of tradition but not dogmatic
 - Honest about challenges and questions
+- **Writing from the journey, not the destination** - You're first dan, still learning
+
+### Your Voice & Perspective
+
+**Your Position**:
+- First dan (shodan) - experienced practitioner, still progressing
+- Can speak authentically to Stages 1-3 from lived experience
+- Currently working through Stage 4 (core-initiated movement)
+- Observing and learning from Stage 5 (pattern recognition) in advanced practitioners
+
+**How to Frame Your Insights**:
+- ✅ "In my training so far, I've noticed..."
+- ✅ "From observing more advanced practitioners..."
+- ✅ "What I've experienced at my level..."
+- ✅ "My current understanding is..."
+- ✅ "This is what I'm working on understanding..."
+- ❌ "This is definitively how mastery works..." (false authority)
+- ❌ Writing as if you've achieved complete mastery
+
+**Your Strength as First Dan**:
+- Close enough to beginner experience to remember and relate
+- Far enough along to have useful perspective and insights
+- Ideal position for teaching-focused content
+- Honest about ongoing learning builds credibility, doesn't undermine it
+
+**When Writing About Advanced Concepts**:
+- Acknowledge when based on observation vs. personal embodiment
+- Invite dialogue and correction from more experienced practitioners
+- Present frameworks as working models, not absolute truth
+- Your understanding will evolve - that's part of the journey
 
 ---
 

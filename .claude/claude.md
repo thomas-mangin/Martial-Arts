@@ -49,6 +49,28 @@ A complete workflow system has been implemented to maintain context between sess
    - Japanese terminology usage guidelines
    - Quality standards and review process
    - Common pitfalls to avoid
+   - **NEW**: Authenticity section referencing core values, divisive topics, learning journey
+
+6. **core-values.md** - User's fundamental beliefs as martial artist
+   - Teaching philosophy (biomechanics vs. mysticism)
+   - Mastery concepts (knowing vs. embodied understanding)
+   - Style perspectives (Iwama approach, relaxation, structure)
+   - Aikido philosophy positions (peace vs. martial effectiveness)
+   - Guides authentic voice and consistency across posts
+
+7. **divisive-topics.md** - Community debates and controversies
+   - Aikido-specific debates (art of peace vs. martial, Iwama vs. blending, ki vs. biomechanics)
+   - General martial arts debates (kata vs. alive training, traditional vs. modern, competition)
+   - Cross-discipline debates (hard vs. soft styles, weapons vs. empty hand)
+   - Frameworks for handling controversial topics with nuance
+   - Helps write with awareness of multiple perspectives
+
+8. **learning-journey.md** - Mastery stages and progression frameworks
+   - Knowing (intellectual) vs. Embodied (natural movement) distinction
+   - The journey from thinking to automatic response
+   - Kata as alphabet concept (forms as foundation, not scripture)
+   - Teaching implications at different mastery levels
+   - Blog ideas about learning, plateaus, and progression
 
 #### Directory Structure
 
@@ -75,6 +97,9 @@ A complete workflow system has been implemented to maintain context between sess
 ├── decisions.md                # Decision log
 ├── blog-template.md            # Post template
 ├── blog-guidelines.md          # Writing guidelines
+├── core-values.md              # User's martial arts beliefs and philosophy
+├── divisive-topics.md          # Community debates and controversies
+├── learning-journey.md         # Mastery stages and progression frameworks
 └── help.md                     # User guide
 ```
 
@@ -394,6 +419,95 @@ A complete workflow system has been implemented to maintain context between sess
 
 ---
 
+## Authenticity & Philosophical Grounding System
+
+**Purpose**: Ensure blog posts are authentic, consistent, and grounded in user's genuine beliefs and perspectives.
+
+### Core Documents
+
+**Three foundational documents establish user's voice and perspective:**
+
+1. **core-values.md** - User's fundamental beliefs as martial artist
+   - Teaching philosophy (e.g., biomechanics over mysticism)
+   - Mastery concepts (knowing vs. embodied understanding)
+   - Style perspectives (e.g., Iwama approach critique)
+   - Aikido philosophy positions
+   - What the user genuinely believes and why
+
+2. **divisive-topics.md** - Community debates and controversies
+   - Aikido-specific debates (peace vs. martial, Iwama vs. blending, ki vs. biomechanics)
+   - General martial arts debates (kata vs. alive training, traditional vs. modern)
+   - Cross-discipline debates (hard vs. soft styles, weapons focus)
+   - Multiple perspectives on each issue
+   - Framework for handling controversies with nuance
+
+3. **learning-journey.md** - Mastery stages and progression
+   - Knowing (intellectual) vs. Embodied (natural movement)
+   - Journey from conscious to automatic
+   - Kata as alphabet (not scripture)
+   - Teaching implications at different mastery levels
+   - Framework for discussing learning and plateaus
+
+### How These Files Are Used
+
+**During Topic Exploration** (`/discuss`):
+- Command checks these files before starting
+- Questions align with user's values
+- Explores divisive topics with awareness
+- Applies learning journey frameworks where relevant
+- Captures authentic voice and perspective
+
+**During Blog Writing**:
+- Reference core-values.md to ensure consistency
+- Check divisive-topics.md if topic is controversial
+- Apply learning-journey.md frameworks when discussing mastery/progression
+- Maintain authentic voice, not generic advice
+- Stay aligned with stated positions
+
+**During Review** (`/review-aikido`):
+- Checks alignment with core values
+- Flags contradictions with stated beliefs
+- Assesses handling of divisive topics (nuance, multiple perspectives)
+- Verifies application of learning journey concepts
+- Ensures authenticity (genuine voice vs. generic)
+
+### Key Principles
+
+**Consistency**:
+- Don't contradict core values without acknowledgment
+- If views evolve, update files and note in decisions.md
+- Reference established frameworks across posts
+
+**Nuance on Divisive Topics**:
+- Acknowledge multiple perspectives respectfully
+- State your position clearly with reasoning
+- Avoid false dichotomies (often "both/and" not "either/or")
+- Anticipate counter-arguments
+
+**Authentic Voice**:
+- Write from genuine experience and belief
+- Apply your unique combination of values
+- Don't sound like generic advice anyone could give
+- Let specific beliefs shape examples and explanations
+
+**Living Documents**:
+- Update as beliefs evolve or crystallize
+- Add new values and debates as encountered
+- Refine frameworks through practice
+- Date significant changes in decisions.md
+
+### Example Usage
+
+**Before writing about "Teaching Relaxation in Aikido":**
+1. Check core-values.md: User believes in biomechanics, critiques Iwama practitioners who never learn to relax
+2. Check divisive-topics.md: Iwama vs. blending debate is relevant
+3. Check learning-journey.md: Knowing vs. embodied mastery applies to teaching
+4. Write with: biomechanical explanations, acknowledge Iwama approach while noting common failure to progress, explain embodiment journey
+
+**Result**: Authentic post consistent with user's perspective, handles controversy with nuance, applies established frameworks.
+
+---
+
 ## Important Notes for Future Sessions
 
 ### Always Start With:
@@ -407,6 +521,9 @@ A complete workflow system has been implemented to maintain context between sess
 - Log important decisions to decisions.md
 - Keep blog posts in posts/ directory
 - Follow blog-guidelines.md for content quality
+- **Update core-values.md** when beliefs crystallize or evolve
+- **Update divisive-topics.md** when encountering new debates
+- **Update learning-journey.md** when refining mastery frameworks
 
 ### Always End With:
 1. Run `/checkpoint` to save state

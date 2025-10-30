@@ -42,13 +42,43 @@
 - Martial camp: "If it doesn't work martially, it's not Aikido"
 - Moderates: "Both are necessary at different stages"
 
-**Your Stance**: [Reference core-values.md - to be defined]
+**Your Stance** (from core-values.md and personal experience):
+
+**Both/And, Not Either/Or**: Aikido should be martially effective AND peace-oriented. These aren't contradictory.
+
+**Why You Value Peace**:
+- Not from weakness or naivety
+- From understanding the cost of violence (military background, observed PTSD in combat veterans)
+- **Key observation**: Those who've faced real war never want to see it again and avoid conflicts
+- Those who romanticize violence often haven't experienced its psychological cost
+- Martial training should build confidence and reduce need for conflict, not increase aggression
+
+**Why Effectiveness Still Matters**:
+- Survived knife attack pre-training (learned you don't freeze under pressure)
+- Real self-defense situations require functional technique
+- Training must prepare you for pressure, not just cooperative partners
+- "Peace through strength" - effective technique gives you choice not to use it
+- **No defense, only attack on attack**: This resolves the false dichotomy - you attack the attack itself with timing, which appears peaceful but is martially sound
+
+**Your Position**:
+- Train for effectiveness (biomechanics, pressure testing, functional technique)
+- But orient toward peace (confidence reduces need for violence)
+- Real violence survivors seek peace; violence fantasists seek conflict
+- O'Sensei's evolution makes sense: build martial foundation, then emphasize peace
+- Can't have meaningful peace without capability - otherwise it's just helplessness
+
+**Nuance**:
+- You're not a great fighter and don't claim to be
+- But understand difference between dojo theory and pressure response
+- Value both technical skill AND psychological/philosophical development
+- Peace-focused aikido makes most sense after understanding violence, not before
 
 **Blog Opportunities**:
-- Reconciling peace philosophy with martial training
-- What O'Sensei meant by different things at different times
-- Why both camps have valid points
-- How to train peacefully while remaining effective
+- "Why Combat Veterans Value Peace: Lessons for Aikido"
+- "Peace Through Strength: Why Effectiveness Enables Non-Violence"
+- "The Gap Between Training and Reality: What Matters Under Pressure"
+- "Those Who've Faced Violence vs. Those Who Imagine It"
+- "No Defense, Only Attack on Attack: Resolving Peace vs. Martial"
 
 ---
 

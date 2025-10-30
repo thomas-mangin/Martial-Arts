@@ -213,5 +213,91 @@ This document tracks important decisions made during the project.
 - User sees confirmation that push succeeded
 - All commits remain descriptive and well-documented
 
+### Honest Positioning: Writing from First Dan Perspective
+**Decision**: Acknowledge experience level (first dan) and write from "on the journey" perspective, not as ultimate authority
+**Rationale**: User clarified: "I am only a first dan so I can not be sure that I am correctly understanding the ultimate end of the learning." This honest self-assessment is crucial for authentic voice and appropriate framing of insights.
+
+**What This Means**:
+- Stages 1-3: Speak from direct personal experience (lived these stages)
+- Stage 4: Speak from emerging understanding (currently working through this)
+- Stage 5: Speak from observation (watching advanced practitioners, not yet embodied)
+- Ultimate mastery: Cannot claim to fully understand yet
+
+**Writing Approach**:
+- Use framing: "In my experience so far...", "What I've observed...", "My current understanding..."
+- Avoid false authority: Not "This is how mastery definitively works"
+- Acknowledge uncertainty about later stages
+- Invite dialogue and correction from more experienced practitioners
+- Present frameworks as working models, not absolute truth
+
+**Why This Strengthens the Blog**:
+- **Authenticity**: Writing from genuine experience level, not claiming unearned authority
+- **Relatability**: Most readers are also on the journey, not at the end - this perspective resonates
+- **Credibility**: Honesty about level builds trust more than false expertise
+- **Growth**: Allows understanding to evolve over time as training deepens
+- **Ideal position**: First dan is close enough to remember early struggles, far enough to have useful perspective
+- **Teaching value**: Many instructors are at similar levels - this perspective is practical
+
+**Files Updated**:
+- core-values.md: Added "Your Position" and "Important Context: Writing from the Journey" sections
+- learning-journey.md: Added "Source" note and "A Note on Perspective" section
+- blog-guidelines.md: Added "Your Voice & Perspective" section with framing guidance
+
+**Impact**:
+- All blog posts will maintain honest perspective about experience level
+- Frameworks presented as observed patterns, not claimed absolute truth
+- Readers understand they're learning alongside a fellow practitioner
+- Opens door for dialogue with more advanced practitioners
+- Understanding can evolve and deepen over time without contradicting earlier posts
+- Avoids pretension while maintaining valuable teaching perspective
+
+### Background and Real Experience Context
+**Decision**: Document personal background to establish authentic voice grounded in real experience, not fantasy or theory
+**Rationale**: User clarified important context: "I value honesty and while I understand biomechanic better than most martial artist, I am not a great fighter and will not pretend to be." Also shared: knife attack defense (pre-training), military service (les chasseurs), observed PTSD in combat veterans, key insight about veterans vs. non-veterans relationship to violence.
+
+**Background Elements**:
+1. **Honesty about ability**: Not a great fighter, won't pretend to be, but understands biomechanics deeply
+2. **Real violence experience**: Defended against knife attack before martial arts training - learned doesn't freeze under pressure
+3. **Military background**: French mountain infantry (les chasseurs) - one year intense physical training
+4. **Witnessed trauma**: Met Iraq war veterans with PTSD, observed their relationship to violence
+5. **Critical observation**: Those who faced real war avoid conflict and seek peace; those who never saw combat romanticize it and often create unnecessary conflict
+6. **Overcame bullying**: Through military service
+
+**Why This Matters**:
+- Separates technical understanding from fighting prowess (both have value)
+- Can speak to pressure situations authentically (knife attack, military training)
+- Understands gap between training and reality
+- Values peace from understanding cost, not from weakness
+- Informs perspective on "Aikido as art of peace" vs. martial effectiveness debate
+- Explains why real capability enables choosing peace (peace through strength)
+
+**Your Position on Peace vs. Martial**:
+- **Both/And**: Martially effective AND peace-oriented (not contradictory)
+- Train for effectiveness but orient toward peace
+- Real violence survivors seek peace; violence fantasists seek conflict
+- Confidence reduces need for violence
+- Can't have meaningful peace without capability - otherwise just helplessness
+- "No defense, only attack on attack" resolves the false dichotomy
+
+**Files Updated**:
+- core-values.md: Added "Background and Real Experience" section
+- divisive-topics.md: Filled in "Peace vs. Martial Effectiveness" with user's stance
+
+**Blog Topics Generated** (5 new ideas):
+1. "Why Combat Veterans Value Peace: Lessons for Aikido"
+2. "Peace Through Strength: Why Effectiveness Enables Non-Violence"
+3. "The Gap Between Training and Reality: What Matters Under Pressure"
+4. "Those Who've Faced Violence vs. Those Who Imagine It"
+5. "No Defense, Only Attack on Attack: Resolving Peace vs. Martial"
+
+**Impact**:
+- Authentic voice rooted in real experience, not theory
+- Can discuss violence and peace from informed perspective
+- Unique position: technical understanding + real pressure experience + military training + witness to trauma
+- Credibility comes from honesty: not claiming to be ultimate fighter, but has faced real situations
+- Perspective on peace is earned through understanding cost, not naive idealism
+- Military background explains systematic/analytical approach to biomechanics
+- Can bridge peace and martial camps in aikido debates
+
 ---
 
