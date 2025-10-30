@@ -382,5 +382,40 @@ This document tracks important decisions made during the project.
 - Makes it easier for future sessions to find relevant files
 - Professional project structure suitable for MA thesis work
 
+### Research Directory Organization and Documentation
+**Decision**: Extract major frameworks from areas-needing-development.md to dedicated files, create research.md overview, and place it at root level
+**Rationale**: areas-needing-development.md had grown to 807 lines with 4 complete frameworks (~860 lines) buried inside. These frameworks (contextual-design, weapons-training, stance-principles, demonstration-robotization) were substantial enough to deserve dedicated files like core-values.md and learning-journey.md. Additionally, research/ directory needed high-level overview document for discoverability.
+
+**Changes Made**:
+1. **Extracted 4 Major Frameworks** (~860 lines total):
+   - contextual-design-framework.md (~400 lines) - Martial arts context principle
+   - weapons-training-framework.md (~190 lines) - Ken/jo biomechanics & taijutsu
+   - stance-principles.md (~140 lines) - Stability/power/movement, transitions
+   - demonstration-robotization.md (~130 lines) - Teaching trap problem
+2. **Streamlined areas-needing-development.md**: Reduced from 807 to 361 lines (55% reduction), now references extracted frameworks
+3. **Created research.md**: Comprehensive research directory overview with:
+   - Purpose and relationships of all 10 files
+   - Categories (Foundational Philosophy, Major Frameworks, Technical Collections, Tracking)
+   - Workflow guidance (research → blog), reading order recommendations
+   - Maintenance guidelines, quick reference checklist, summary table
+4. **Moved research.md to root**: Placed at same level as help.md for better discoverability
+5. **File cleanup**: Deleted redundant SESSION-SUMMARY-BIOMECHANICS.md, moved SYSTEM_REVIEW.md to root (not Aikido research)
+6. **Updated .claude/claude.md**: Reflected new file structure and locations
+
+**Benefits**:
+- Major frameworks now discoverable (like core-values.md, learning-journey.md)
+- areas-needing-development.md is lean tracking file (not bloated with complete frameworks)
+- research.md provides clear entry point for understanding research directory
+- Follows established patterns (help.md for project, research.md for research/ directory)
+- Easy to reference frameworks in blog writing and /discuss commands
+- Clear distinction between developed frameworks vs. topics needing development
+
+**Impact**:
+- 4 frameworks containing 60+ blog post ideas now easily accessible
+- Repository organization matches established patterns throughout project
+- Research directory self-documenting with comprehensive overview
+- Easier for future sessions and collaborators to navigate research materials
+- Professional documentation suitable for MA thesis project
+
 ---
 
