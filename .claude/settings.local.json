@@ -10,7 +10,8 @@
       "WebFetch(domain:www.lionelfroidure.com)",
       "Bash(chmod:*)",
       "Bash(python scripts/youtube-transcript.py:*)",
-      "Bash(git mv:*)"
+      "Bash(git mv:*)",
+      "Bash(tree:*)"
     ],
     "deny": [],
     "ask": []
