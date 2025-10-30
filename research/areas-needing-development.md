@@ -1,12 +1,19 @@
-# Areas Needing Development for Blog Quality
+# Research Topics Needing Development
 
-**Purpose**: Track topics that need deeper exploration through `/discuss` sessions before authoring blog posts. This is part of the data gathering stage.
+**Purpose**: Track topics that need deeper exploration through `/discuss` sessions before authoring blog posts. These are high-priority research areas where frameworks don't yet exist or need significant expansion.
 
 **Last Updated**: 2025-10-30
+
+**Related Files**:
+- `syllabus/BACKLOG.md` - Missing technique/kata documentation
+- `sources/youtube/ANALYSIS-QUEUE.md` - Video analysis work
+- `topics.md` - Blog topics and queue
 
 ---
 
 ## Priority Topics for /discuss Sessions
+
+**Note**: Items marked ✅ have frameworks extracted but may need additional /discuss sessions for blog-level content.
 
 ### 1. Weapons Training Develops Biomechanics ⭐⭐⭐ HIGHEST PRIORITY
 
@@ -253,7 +260,115 @@
 
 ---
 
-### 12. Cross-Discipline Insights Need Examples
+### 12. Ki - Demystification Needed ⭐⭐ HIGH PRIORITY
+
+**Current State**: Values stated in core-values.md (biomechanics over mysticism) but mechanics not detailed
+
+**What's Missing**:
+- What "ki" actually is biomechanically (alignment, structure, connection)
+- How "ki exercises" actually work (testing partner resistance as calibration)
+- Why mystical language persists despite biomechanical reality
+- Practical applications without mysticism
+- How to teach ki concepts without woo-woo
+
+**Questions for /discuss**:
+- What do you think ki actually is (not mystically, mechanically)?
+- How do "ki tests" work biomechanically?
+- Why do people feel something when doing ki exercises?
+- Can you explain unbendable arm without mysticism?
+- How do you teach ki concepts to skeptical students?
+
+**Blog Potential**:
+- "Ki Without Mysticism: What's Really Happening"
+- "The Biomechanics of 'Ki Tests'"
+- "Why Unbendable Arm Works (And It's Not Magic)"
+- "Teaching Ki to Skeptics: A Practical Approach"
+- "From Magic to Mechanics: Demystifying Aikido Concepts"
+
+---
+
+### 13. Ukemi - Progressive Learning
+
+**Current State**: Not documented anywhere
+
+**What's Missing**:
+- Learning stages of falling/rolling safely
+- Biomechanics of safe ukemi (how to absorb impact)
+- When to take ukemi vs. resist (training context dependent)
+- Advanced ukemi for weapons attacks
+- How ukemi develops over time
+- Common ukemi errors and injuries
+
+**Questions for /discuss**:
+- What are the progression stages for learning ukemi?
+- How do you teach someone to fall safely?
+- What's the biomechanics of rolling (why round, not flat)?
+- When should students resist vs. take ukemi?
+- How does ukemi change for weapons vs empty-hand?
+
+**Blog Potential**:
+- "Learning to Fall: The Progressive Path of Ukemi"
+- "Why Rolling Works: The Biomechanics of Safe Falls"
+- "When to Fall, When to Stand: The Ukemi Decision"
+- "Advanced Ukemi: Weapons and High-Speed Attacks"
+
+---
+
+### 14. Ma-ai (Distance Management)
+
+**Current State**: Not documented anywhere
+
+**What's Missing**:
+- Types of distance (physical, psychological, temporal)
+- How distance affects technique selection
+- Training ma-ai awareness
+- Relationship between ma-ai and timing
+- How weapons change ma-ai requirements
+- Cultural aspects (Japanese vs Western space concepts)
+
+**Questions for /discuss**:
+- What are the different types of ma-ai?
+- How does distance dictate which techniques work?
+- How do you develop ma-ai awareness?
+- How does ma-ai change with weapons vs. empty-hand?
+- Is ma-ai purely physical or also psychological?
+
+**Blog Potential**:
+- "Ma-ai: The Critical Distance in Aikido"
+- "How Distance Dictates Technique Selection"
+- "Training Ma-ai Awareness: From Gross to Subtle"
+- "Weapons Change Everything: Ma-ai in Ken and Jo"
+
+---
+
+### 15. Atemi (Strikes) in Aikido
+
+**Current State**: Not documented anywhere
+
+**What's Missing**:
+- Role of atemi in aikido technique
+- Types of atemi (distraction vs. damage)
+- When/how to use strikes
+- Iwama vs. Aikikai approach to atemi
+- Why aikido has strikes despite "peace" reputation
+- Integration of atemi with techniques
+
+**Questions for /discuss**:
+- What role does atemi play in aikido?
+- Are aikido strikes meant to damage or distract?
+- How does Iwama approach differ from Aikikai on atemi?
+- When do you use atemi in technique?
+- How does atemi connect to the "peace vs. martial" debate?
+
+**Blog Potential**:
+- "The Role of Atemi in Aikido: More Than You Think"
+- "Distraction vs. Damage: Understanding Aikido Strikes"
+- "Why Aikido Has Strikes: The Martial Reality"
+- "Iwama vs. Aikikai: Different Approaches to Atemi"
+
+---
+
+### 16. Cross-Discipline Insights Need Examples
 
 **Current State**:
 - blog-series-structure.md has Series 9: Cross-Discipline Insights (5 posts)

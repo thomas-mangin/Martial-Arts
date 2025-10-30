@@ -87,6 +87,19 @@ A complete workflow system has been implemented to maintain context between sess
    - Tracking checkboxes for each series
    - Writing strategy recommendations
 
+11. **PROJECT-STATUS.md** - High-level project overview
+   - Current phase and progress (85-100% complete systems)
+   - Phase roadmap with milestones
+   - Estimated work remaining by priority
+   - Success metrics and principles
+   - Updated monthly or after major milestones
+
+12. **Backlog Tracking Files** - Distributed work tracking:
+   - **syllabus/BACKLOG.md** - Missing techniques, incomplete weapons files, rank files
+   - **sources/youtube/ANALYSIS-QUEUE.md** - Priority video series and strategic sampling approach
+   - **research/areas-needing-development.md** - Topics needing /discuss sessions (15+ high-priority topics)
+   - Purpose: Track incomplete work in context, add strategically as needed
+
 #### Directory Structure
 
 ```
@@ -123,9 +136,16 @@ A complete workflow system has been implemented to maintain context between sess
 │   ├── registry/              # Blogger profiles
 │   └── findings/              # Content analysis and ideas
 ├── sessions/                   # Session history (timestamped summaries)
-├── topics.md                   # Topic tracking
+├── syllabus/                   # Technical reference system
+│   ├── BACKLOG.md             # Missing techniques, incomplete weapons, rank files
+│   ├── README.md              # Syllabus system overview
+│   ├── terminology.md         # 100+ term comprehensive dictionary
+│   ├── techniques/            # Technique files (ikkyo, nikyo, shiho-nage, irimi-nage)
+│   └── weapons/               # Complete kata sequences (31 jo, 13 jo, ken suburi)
+├── topics.md                   # Topic tracking and blog queue
 ├── session-context.md          # Session state
 ├── decisions.md                # Decision log
+├── PROJECT-STATUS.md           # High-level overview and phase roadmap
 ├── research.md                 # Research directory overview & guide
 └── help.md                     # User guide
 ```
