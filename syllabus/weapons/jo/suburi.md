@@ -28,8 +28,15 @@ Jo suburi are solo staff striking and thrusting exercises. The jo is central to 
 
 ## The Twenty Jo Suburi
 
-### Suburi #1: Chokutsuki (直突き)
-**Translation**: Straight thrust
+The 20 jo suburi are organized into five categories: Tsuki (thrusting), Uchi (striking), Katate (one-handed), Hassō (figure-eight), and Nagare (flowing).
+
+---
+
+### TSUKI (突き) - Thrusting Movements (5 suburi)
+
+#### Suburi #1: Chokutsuki (直突き)
+**Translation**: Direct thrust / Straight thrust
+**Category**: Tsuki (thrusting)
 **Grade**: Rokkyu (6th kyu)
 **Description**: Direct thrust forward with jo
 **Key Points**:
@@ -40,23 +47,135 @@ Jo suburi are solo staff striking and thrusting exercises. The jo is central to 
 
 [TO BE FILLED: Detailed mechanics, common errors, teaching points]
 
-### Suburi #2: [TO BE FILLED]
-**Description**: [Research needed from practice/instruction]
+#### Suburi #2: Kaeshi-tsuki (返し突き)
+**Translation**: Counter thrust
+**Category**: Tsuki (thrusting)
+**Grade**: Rokkyu (6th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
 
-### Suburi #3: [TO BE FILLED]
-**Description**: [Research needed]
+#### Suburi #3: Ushiro-tsuki (後ろ突き)
+**Translation**: Rear thrust
+**Category**: Tsuki (thrusting)
+**Grade**: Rokkyu (6th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
 
-### Suburi #4-10: [TO BE FILLED]
-**Grade**: Introduced at Gokyu (5th kyu)
-**Description**: [Need detailed documentation]
+#### Suburi #4: Tsuki gedan-gaeshi (突き下段返し)
+**Translation**: Thrust, low counter strike
+**Category**: Tsuki (thrusting)
+**Grade**: Gokyu (5th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
 
-### Suburi #11-13: [TO BE FILLED]
-**Grade**: Introduced at Yonkyu (4th kyu)
-**Description**: [Need detailed documentation]
+#### Suburi #5: Tsuki jōdan-gaeshi-uchi (突き上段返し打ち)
+**Translation**: Thrust, high counter strike
+**Category**: Tsuki (thrusting)
+**Grade**: Gokyu (5th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
 
-### Suburi #14-20: [TO BE FILLED]
-**Grade**: Introduced at Sankyu (3rd kyu)
-**Description**: [Need detailed documentation]
+---
+
+### UCHI (打ち) - Striking Movements (5 suburi)
+
+#### Suburi #6: Shōmen'uchikomi (正面打ち込み)
+**Translation**: Front-of-the-head stepping strike
+**Category**: Uchi (striking)
+**Grade**: Gokyu (5th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #7: Renzoku uchikomi (連続打ち込み)
+**Translation**: Repeating stepping strike / Continuous strike
+**Category**: Uchi (striking)
+**Grade**: Gokyu (5th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #8: Men'uchi gedan-gaeshi (面打ち下段返し)
+**Translation**: Head strike, low counter
+**Category**: Uchi (striking)
+**Grade**: Gokyu (5th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #9: Men'uchi ushiro-tsuki (面打ち後ろ突き)
+**Translation**: Head strike, rear thrust
+**Category**: Uchi (striking)
+**Grade**: Gokyu (5th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #10: Gyaku-yoko'men ushiro-tsuki (逆横面後ろ突き)
+**Translation**: Reverse side-of-the-head strike, rear thrust
+**Category**: Uchi (striking)
+**Grade**: Gokyu (5th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+---
+
+### KATATE (片手) - One-handed Movements (3 suburi)
+
+#### Suburi #11: Katate gedan-gaeshi (片手下段返し)
+**Translation**: One-handed low counter
+**Category**: Katate (one-handed)
+**Grade**: Yonkyu (4th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #12: Katate tōma-uchi (片手遠間打ち)
+**Translation**: One-handed distant-interval strike
+**Category**: Katate (one-handed)
+**Grade**: Yonkyu (4th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #13: Katate hachi-no-ji gaeshi (片手八の字返し)
+**Translation**: One-handed figure-eight counter
+**Category**: Katate (one-handed)
+**Grade**: Yonkyu (4th kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+---
+
+### HASSŌ (八相) - Figure-eight Movements (5 suburi)
+
+#### Suburi #14: Hassō-gaeshi uchi (八相返し打ち)
+**Translation**: Figure-eight counter, strike
+**Category**: Hassō (figure-eight)
+**Grade**: Sankyu (3rd kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #15: Hassō-gaeshi tsuki (八相返し突き)
+**Translation**: Figure-eight counter, thrust
+**Category**: Hassō (figure-eight)
+**Grade**: Sankyu (3rd kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #16: Hassō-gaeshi ushiro-tsuki (八相返し後ろ突き)
+**Translation**: Figure-eight counter, rear thrust
+**Category**: Hassō (figure-eight)
+**Grade**: Sankyu (3rd kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #17: Hassō-gaeshi ushiro-uchi (八相返し後ろ打ち)
+**Translation**: Figure-eight counter, rear strike
+**Category**: Hassō (figure-eight)
+**Grade**: Sankyu (3rd kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #18: Hassō-gaeshi ushiro-barai (八相返し後ろ払い)
+**Translation**: Figure-eight counter, rear sweep
+**Category**: Hassō (figure-eight)
+**Grade**: Sankyu (3rd kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+---
+
+### NAGARE (流れ) - Flowing Movements (2 suburi)
+
+#### Suburi #19: Hidari nagare-gaeshi-uchi (左流れ返し打ち)
+**Translation**: Left flowing counter strike
+**Category**: Nagare (flowing)
+**Grade**: Sankyu (3rd kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
+
+#### Suburi #20: Migi nagare-gaeshi-tsuki (右流れ返し突き)
+**Translation**: Right flowing counter thrust
+**Category**: Nagare (flowing)
+**Grade**: Sankyu (3rd kyu)
+**Description**: [TO BE FILLED: Movement details from practice]
 
 ---
 
@@ -65,8 +184,10 @@ Jo suburi are solo staff striking and thrusting exercises. The jo is central to 
 ### Roku no Jo (六の杖)
 **Translation**: Six jo / Jo of six
 **Grade**: Gokyu (5th kyu)
-**Description**: Solo form using 6 movements
-[TO BE FILLED: Movement sequence]
+**Description**: Solo form using 6 movements (corresponds to movements 13-18 of 31 Jo Kata)
+**Movements**: Choku-tsuki, high defensive parry, shōmen uchikomi, draw to rear left, gedan-gaeshi, return to tsuki no kamae
+
+*See: syllabus/weapons/jo/6-jo-kata.md for complete details*
 
 ### 13 Jo Kata (十三の杖)
 **Translation**: Thirteen jo
@@ -75,29 +196,85 @@ Jo suburi are solo staff striking and thrusting exercises. The jo is central to 
 **Grade**: Ikkyu (1st kyu) and above - all 13
 **Grade**: Shodan - all 13 kata
 **Description**: Solo form with 13 movements/sections
-[TO BE FILLED: Movement sequence]
+
+*See: syllabus/weapons/jo/13-jo-kata.md for complete details*
 
 ### 31 Jo Kata (三十一の杖)
-**Translation**: Thirty-one jo
+**Translation**: Thirty-one jo / San-ju-ichi no jo kata
 **Grade**: Yonkyu (4th kyu) - sections 1-12
 **Grade**: Nikyu (2nd kyu) - sections 1-18
 **Grade**: Nikyu (2nd kyu) - complete 1-31
 **Grade**: Shodan and above - all 31
-**Description**: Comprehensive solo form with 31 movements
-**Note**: This is a major component of Iwama training
+**Description**: Comprehensive solo form with 31 movements created by O-Sensei after WWII. Saito Sensei formalized the division into 31 countable movements to facilitate learning. Showcases wide variety of attack and defensive movements with jo.
+**Note**: This is a major component of Iwama training; movements 13-18 are also practiced separately as Roku no Jo (6 jo kata)
 
-[TO BE FILLED: Detailed section breakdown]
+**Starting Position**: Stand in left kamae, holding jo vertically in left hand approximately one foot from top (thumb up), with right hand at top in reverse hold (thumb down).
+
+**Complete Movement Sequence**:
+
+**Movements 1-10:**
+1. Pivot jo about left hand to strike temple
+2. Slide back/right into upper block
+3. Slide forward with tsuki chudan (middle thrust)
+4. Slide back/right into upper block
+5. Step forward right foot, right yokomen uchi (side strike)
+6. Step forward left foot, left yokomen uchi
+7. Turn 180° (hips/torso), right kamae, right yokomen uchi
+8. Step forward left foot, left yokomen uchi
+9. Bring jo to left shoulder, tenkan 180°, strike legs behind
+10. Step forward, upper block (right foot forward)
+
+**Movements 11-20:**
+11. Step forward left foot, shomen uchi (front strike)
+12. Slide back, reposition hands to block shin
+13. Tsuki forward, slide left foot
+14. Slide back/right into upper block
+15. Turn jo around, shomen uchi, step right foot forward
+16. Tsuki backward aiming for knee
+17. Step forward left foot, strike legs
+18. Turn jo over, tsuki to knee
+19. Slide back/right into upper block
+20. Shomen uchi stepping right foot forward, kneel on left knee
+
+**Movements 21-31:**
+21. Tsuki back aiming for knee (kneeling)
+22. Stand, slide back/right into upper block
+23. Tsuki jodan (high thrust - jo parallel to ground)
+24. Tsuki to chest
+25. Tsuki to chest
+26. Tsuki backward aiming for knee
+27. Step back left foot, strike legs
+28. Slide back/left into upper block
+29. Tsuki jodan
+30. Turn jo over, tsuki to knee
+31. Step forward left foot, shomen uchi, kneel on right knee with kiai
+
+**Key Learning Points**:
+- Begin and end in same position
+- Foot position returns to start at counts: 10, 12, 18, and 26
+- Kata divided into component parts that differ when applied in paired practice (31 kumijo)
+- O-Sensei disliked "1-2-3 approach" but structure necessary for teaching large groups
+
+**Sources**: Morihiro Saito Sensei instruction, AikidoFAQ.com (via alternate sources), Yumpu.com documentation
 
 ---
 
 ## Partner Practice
+
+### 10 Kumijo (十組杖)
+**Translation**: Ten paired-staff
+**Grade**: [TO BE FILLED]
+**Description**: [TO BE FILLED: Relationship to other kumijo forms]
+
+*See: syllabus/weapons/jo/10-kumijo.md for complete details*
 
 ### 13 Kumijo Awase (十三組杖合わせ)
 **Translation**: Thirteen paired-staff blending
 **Grade**: Nikyu (2nd kyu) - sections 1-3, 4-6
 **Grade**: Ikkyu (1st kyu) - all sections
 **Description**: Partner form derived from 13 Jo Kata
-[TO BE FILLED: Section descriptions]
+
+[TO BE FILLED: Section descriptions - user has knowledge]
 
 ### 31 Kumijo (三十一組杖)
 **Translation**: Thirty-one paired-staff
@@ -105,7 +282,8 @@ Jo suburi are solo staff striking and thrusting exercises. The jo is central to 
 **Grade**: Ikkyu (1st kyu) - all sections
 **Grade**: Shodan - complete form (13 kumijo OR 31 kumijo)
 **Description**: Partner form derived from 31 Jo Kata
-[TO BE FILLED: Section descriptions]
+
+*See: syllabus/weapons/jo/31-kumijo.md for complete details*
 
 ### Happotsuki (八方突き)
 **Translation**: Eight-direction thrusting
@@ -116,7 +294,9 @@ Jo suburi are solo staff striking and thrusting exercises. The jo is central to 
 ### Ken tai Jo (剣対杖)
 **Translation**: Sword vs. staff
 **Description**: Paired practice with one partner using ken, one using jo
-[TO BE FILLED: When introduced, specific forms]
+**Grade**: [TO BE FILLED]
+
+*See: syllabus/weapons/ken-tai-jo.md for complete details*
 
 ---
 
@@ -195,6 +375,6 @@ Jo is everywhere in Iwama Aikido. The staff work feels more central than sword w
 ---
 
 *Last Updated: 2025-10-30*
-*Source: Takemusu/Iwama Aikido Syllabus*
-*Status: Framework created - individual suburi and kata need detailed documentation*
-*Known Unknowns: Individual suburi #2-20 details; kata movement sequences; kumijo section details; specific jodori/jonage techniques*
+*Source: Takemusu/Iwama Aikido Syllabus, https://takemusu-iwama-aikido.org/the-20-jo-suburi/*
+*Status: All 20 suburi names, translations, and categories documented - detailed movement descriptions need to be filled from practice*
+*Known Unknowns: Detailed mechanics for suburi #2-20; kata movement sequences; kumijo section details; specific jodori/jonage techniques; connection between specific suburi and taijutsu techniques*

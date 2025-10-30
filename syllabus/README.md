@@ -21,7 +21,7 @@ This syllabus system provides:
 /syllabus/
 ├── README.md                    # This file
 ├── overview.md                  # Lineage, philosophy, grading structure
-├── terminology.md               # Quick Japanese-English reference
+├── terminology.md               # Japanese-English reference (includes comprehensive dictionary from takemusu-iwama-aikido.org)
 ├── attacks.md                   # All attack types explained
 ├── ranks/                       # Rank-specific requirements
 │   ├── rokkyu.md               # 6th kyu
@@ -51,16 +51,18 @@ This syllabus system provides:
 │   └── ... (add as needed)
 ├── weapons/                     # Weapons techniques
 │   ├── ken/                    # Sword
-│   │   ├── suburi.md          # Solo cutting practice
-│   │   ├── kumitachi.md       # Paired sword practice
-│   │   └── ...
+│   │   ├── suburi.md          # 7 Ken Suburi (solo cutting practice)
+│   │   └── ...                # (kumitachi, ki musubi no tachi in suburi.md)
 │   ├── jo/                     # Staff
-│   │   ├── suburi.md          # Solo striking practice
-│   │   ├── kata.md            # Solo forms
-│   │   ├── kumijo.md          # Paired staff practice
-│   │   └── ...
-│   └── paired/                 # Ken tai jo, etc.
-│       └── ken-tai-jo.md
+│   │   ├── suburi.md          # 20 Jo Suburi (solo striking practice)
+│   │   ├── 6-jo-kata.md       # Roku no Jo (movements 13-18 of 31 Jo)
+│   │   ├── 13-jo-kata.md      # 13 Jo Kata
+│   │   ├── 10-kumijo.md       # 10 Kumijo (paired jo)
+│   │   ├── 31-kumijo.md       # 31 Kumijo (paired jo)
+│   │   └── ...                # (31 jo kata in suburi.md)
+│   ├── ken-tai-jo.md          # Sword vs. staff paired practice
+│   └── ...
+├── henka-waza.md               # Advanced technique variations
 └── attacks/                     # (Currently attacks.md, may expand)
 ```
 
@@ -174,16 +176,33 @@ Each technique file should include:
 
 ### Complete
 ✅ `overview.md` - Grading structure, philosophy, progression
-✅ `terminology.md` - Japanese-English quick reference
+✅ `terminology.md` - Japanese-English quick reference (180+ terms)
 ✅ `attacks.md` - All attack types explained
-✅ `techniques/ikkyo.md` - Example technique (pin)
-✅ `techniques/irimi-nage.md` - Example technique (projection)
+✅ `techniques/ikkyo.md` - Example pin technique
+✅ `techniques/nikyo.md` - Pin technique
+✅ `techniques/shiho-nage.md` - Projection technique
+✅ `techniques/irimi-nage.md` - Example projection
+✅ `weapons/ken/suburi.md` - All 7 ken suburi documented + Ki Musubi no Tachi
+✅ `weapons/jo/suburi.md` - All 20 jo suburi documented
+✅ `weapons/jo/6-jo-kata.md` - Roku no Jo (6 movements)
+✅ `weapons/jo/13-jo-kata.md` - 13 Jo Kata placeholder
+✅ `weapons/jo/10-kumijo.md` - 10 Kumijo placeholder
+✅ `weapons/jo/31-kumijo.md` - 31 Kumijo placeholder
+✅ `weapons/ken-tai-jo.md` - Ken vs Jo placeholder
+✅ `henka-waza.md` - Advanced variations placeholder
+
+### To Be Filled with User Knowledge
+📝 7 Ken Suburi - detailed mechanics (user has extensive knowledge)
+📝 13 Jo Kata - complete movement sequences
+📝 10 Kumijo - complete details
+📝 31 Kumijo - section breakdowns
+📝 Ken Tai Jo - all forms and principles
+📝 Henka Waza - specific examples and applications
 
 ### To Be Added (As Needed)
 ⏳ `ranks/*.md` - Individual rank requirement files
-⏳ `techniques/*.md` - Additional technique files (nikyo, sankyo, yonkyo, gokyo, rokkyo, shiho-nage, kote-gaeshi, kaiten-nage, etc.)
-⏳ `weapons/ken/*.md` - Sword techniques details
-⏳ `weapons/jo/*.md` - Staff techniques details
+⏳ `techniques/*.md` - Additional technique files as blog topics require
+⏳ Additional kata and kumijo details as discussed
 
 ---
 
@@ -246,6 +265,21 @@ Each technique file should include:
 **Primary Source**: Aikido Syllabus Booklet - Takemusu/Iwama Style
 **Lineage**: Saito Morihiro Sensei (Iwama)
 **Your Training**: First dan (shodan) perspective
+
+---
+
+## Important Concept: Kata and Anti-Kata
+
+**Key Insight**: All Aikido kata have an "anti-kata" - the attacking movements that uke performs while tori executes the kata. While kata are practiced solo, they can also be performed as paired practice (kumitachi/kumijo) where one person executes the kata and the other executes the anti-kata (the attacks).
+
+**Example**:
+- **Solo**: Practitioner performs 13 Jo Kata movements alone
+- **Paired (Kumijo)**: One partner performs 13 Jo Kata movements (tori), other partner performs anti-kata attack sequence (uke)
+
+This dual nature (solo/paired) explains:
+- Why solo kata must be learned before paired practice
+- How kumitachi/kumijo are derived from solo kata
+- The relationship between kata and partner timing/distance training
 
 ---
 
