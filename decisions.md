@@ -188,5 +188,30 @@ This document tracks important decisions made during the project.
 
 **System Completeness**: All procedures, templates, commands, and frameworks now incorporate audience awareness. Blog is ready to create strategically targeted content that serves diverse community.
 
+### Checkpoint Command: Push to GitHub by Default
+**Decision**: Update /checkpoint command to automatically push to GitHub after committing
+**Rationale**: User has GitHub remote configured and wants work backed up to remote repository. Previously, checkpoint only committed locally with explicit instruction "DO NOT push to remote". This was overly cautious - if user has remote configured, they want backups.
+
+**Changes Made**:
+- Updated `.claude/commands/checkpoint.md`:
+  - Removed "DO NOT push to remote" instruction from step 2
+  - Added new step 7: "Push to GitHub"
+  - Updated step 8 (formerly 7): Summary now confirms push
+  - Updated Important Notes: Changed from "never push" to "pushed to GitHub"
+- Push step includes error handling: if push fails, inform user but complete checkpoint anyway
+
+**Benefits**:
+- Automatic GitHub backup of all work
+- Remote repository stays current
+- No risk of losing work if local machine fails
+- Collaboration-ready (others can pull latest changes)
+- Maintains git best practices (commit + push)
+
+**Safety**:
+- Only pushes to configured remote (if exists)
+- Graceful failure handling (checkpoint completes even if push fails)
+- User sees confirmation that push succeeded
+- All commits remain descriptive and well-documented
+
 ---
 
