@@ -299,5 +299,66 @@ This document tracks important decisions made during the project.
 - Military background explains systematic/analytical approach to biomechanics
 - Can bridge peace and martial camps in aikido debates
 
+### Data Gathering Phase: Areas Needing Development Before Blog Writing
+**Decision**: Create areas-needing-development.md to systematically track topics requiring deeper exploration through /discuss before authoring blogs
+**Rationale**: User identified gaps in biomechanics framework: "we need to add more information about how the weapon allow to develop the martial principle and biomechanic presented. How the Aikdo sword is similar to the Wing Chun hands." User clarified: "we are still at the data gathering stage."
+
+**Key Insights**:
+1. Having 70+ blog ideas doesn't mean ready to write - many need more depth
+2. Weapons training connection to biomechanics not yet captured
+3. Cross-discipline insights (Aikido sword = Wing Chun hands) not documented
+4. Circle principle mentioned but not explained
+5. Several principles exist but lack practical application detail
+
+**System Created**:
+- **areas-needing-development.md**: Comprehensive tracking document with:
+  - 10+ topics identified as needing /discuss sessions
+  - What's currently documented (current state)
+  - What's missing (gaps)
+  - Questions for /discuss sessions
+  - Blog potential for each topic
+  - "Ready to Write" section (topics with sufficient material)
+  - Recommended /discuss sequence
+
+**Priority /discuss Topics** (tracked in todos):
+1. Weapons Training Develops Biomechanics - How ken/jo builds martial principles
+2. Aikido Sword = Wing Chun Hands - Cross-discipline structural insight
+3. Circle Principle - Widely misunderstood, needs clarification
+4. No Defense Only Attack on Attack - Timing principle
+5. Taking Balance - Reading balance, continuous kuzushi
+
+**Benefits**:
+- Clear visibility into what needs development before writing
+- Prevents writing shallow posts that lack depth
+- Prioritizes /discuss sessions for maximum value
+- Identifies which of 70+ blog ideas are actually ready to write
+- Systematic approach to data gathering phase
+- TodoWrite tracks /discuss progress
+
+**Impact**:
+- 70+ blog ideas now triaged: some ready, many need depth first
+- 5 priority /discuss sessions identified
+- Data gathering phase has clear structure and goals
+- Won't start writing blogs until key topics have sufficient depth
+- areas-needing-development.md becomes living document (updated as topics explored)
+- When topic sufficiently developed, moves to "Ready to Write"
+
+**Files Updated**:
+- Created areas-needing-development.md (10+ topics detailed)
+- Updated session-context.md (current status: data gathering phase)
+- Created todos for 5 priority /discuss sessions
+
+**Workflow**:
+1. Run `/discuss [priority topic]` to explore and gather depth
+2. Capture insights in discussions/ directory
+3. Update areas-needing-development.md when topic sufficiently developed
+4. Move to "Ready to Write" section
+5. Then blog post can be written with depth
+
+**Example of Gap Identified**:
+- **Current**: core-values.md says "Iwama uses ken/jo to build strong core"
+- **Missing**: HOW does sword training teach body mechanics? What biomechanical principles does jo develop? Why is weapons training more effective than empty hand for certain foundations?
+- **Action**: Need /discuss session to explore and document
+
 ---
 
