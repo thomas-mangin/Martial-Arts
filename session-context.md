@@ -1,124 +1,149 @@
 # Session Context
 
-**Last Updated**: 2025-10-30 01:30 PM
+**Last Updated**: 2025-10-30 01:45 PM
 
 ---
 
 ## Current Status
 
-**Data Gathering Phase - Second Major Source Complete**: Alexander Gent's complete 137-video YouTube channel analyzed (85 transcripts downloaded, comprehensive findings report created).
+**Syllabus Reference System Complete**: Created comprehensive `/syllabus/` directory with Takemusu/Iwama Aikido technical reference for ensuring accuracy in `/discuss` and `/review-aikido`.
 
-**Two Major YouTube Sources Now Complete**:
-1. **Tony Sargeant** (456 videos): Traditional Iwama master teacher - systematic transmission of Phase 2 curriculum
-2. **Alexander Gent** (85 videos): Traditional + Modern practitioner - Shoot Aikido, cross-discipline integration, alive training
+**System Architecture**:
+- `/syllabus/` = Factual information (techniques, terminology, requirements)
+- `/research/` = Interpretation and analysis (frameworks, principles)
+- Clear separation maintains integrity
 
-**Ready for**: Continue data gathering (more sources) OR start blog writing from massive evidence base (40+ blog post ideas ready)
+**Ready for**: Enhanced `/discuss` sessions and `/review-aikido` with technical accuracy, OR continue blog writing with solid technical grounding.
 
 ---
 
 ## Recent Work (This Session)
 
-### 1. Alexander Gent Complete Channel Analysis
-- **Tracked channel**: 137 videos, 3,200 subscribers
-- **Downloaded transcripts**: 85 videos (62% success rate, 255 files)
-- **Created registry**: sources/youtube/registry/alexander-gent.md
-- **Comprehensive findings**: sources/youtube/findings/2025-10-30-alexander-gent-complete-channel-analysis.md (~700+ lines)
+### 1. Syllabus System Created
+**Purpose**: Provide factual technical reference separate from interpretation
 
-### 2. Critical Discovery: Traditional + Modern Integration
-- Alexander bridges traditional Iwama AND Shoot Aikido (alive training/sparring)
-- Cross-trains in HEMA, Wing Chun, Kali, Krabi Krabong
-- **Living proof that "both/and" philosophy works** - doesn't choose between traditional and modern
-- Resolves kata vs. alive training false dichotomy
+**Files Created**:
+- `syllabus/overview.md`: Lineage, grading structure, Takemusu/Iwama philosophy
+- `syllabus/terminology.md`: 180+ Japanese-English terms
+- `syllabus/attacks.md`: All attack types with progressive introduction
+- `syllabus/techniques/ikkyo.md`: Example pin technique (complete template)
+- `syllabus/techniques/irimi-nage.md`: Example projection (complete template)
+- `syllabus/README.md`: System documentation
 
-### 3. Seven Major Themes Identified
-1. Traditional Iwama + Shoot Aikido (Both/And Philosophy)
-2. Cross-Discipline Insights (Universal Biomechanics)
-3. Staff Spinning as Martial Biomechanics
-4. Progressive Weapons Training (Solo → Kata → Sparring)
-5. "Becoming Part of the Weapon" (Embodied Mastery)
-6. Center Control and Biomechanical Unity
-7. Context and Intention Over Rigid Technique
+**Key Information Documented**:
+- Takemusu/Iwama lineage (Morihei Ueshiba → Saito Morihiro Sensei)
+- Grading progression: Rokkyu (6th kyu) through Yondan (4th dan)
+- Kihon (basic form) vs. Kinonagare (flowing form) distinction
+- Progressive attack introduction by rank
+- Integrated weapons (ken, jo) and empty-hand training
+- School variations (Iwama vs. Aikikai, Yoshinkan, Ki Society)
 
-### 4. Framework Validation Complete
-**✅ Core-Values.md**: Validates biomechanics over mysticism, weapons centrality, cross-discipline learning, both/and philosophy
+### 2. Sources Processed
+**PDF 1**: "Aikido Syllabus Booklet Format Idea"
+- User's dojo syllabus
+- Philosophy and progression overview
+- Technique requirements by rank
 
-**✅ Divisive-Topics.md**: RESOLVES multiple false dichotomies (kata vs. alive, traditional vs. modern, peace vs. martial)
+**PDF 2**: TIAE (Takemusu Iwama Aikido Europe) 2024 Syllabus
+- Official European organization syllabus
+- Author: Nigel Porter (Feb 2024)
+- More detailed requirements
+- Important rule: Kihon only up to 3rd kyu; from 2nd kyu demonstrate both Kihon and Kinonagare
+- Advanced techniques: Henkawaza (variations), Kaeshiwaza (counters), Kentaijo (ken vs jo)
 
-**✅ Weapons-Training-Framework.md**: Shows complete progression from solo practice to sparring with equipment progression (foam→plastic→rattan→wood)
+### 3. Integration with Existing Systems
+**For `/discuss` sessions**:
+- Reference terminology.md for correct Japanese terms
+- Check attacks.md for attack progression
+- Use techniques/*.md for technical details
+- Understand rank-appropriate content
 
-**✅ Learning-Journey.md**: Demonstrates both knowing (Stage 1-3) AND embodied mastery (Stage 4-5)
+**For `/review-aikido` quality checks**:
+- Verify Japanese spelling and macrons
+- Check technical accuracy against technique files
+- Ensure audience appropriateness matches rank progression
+- Confirm Iwama-specific details
 
-**✅ Teaching-Transmission-Gap.md**: Alexander shows RESULTS of complete Iwama path (complements Tony's TEACHING)
+**For Blog Writing**:
+- Determine appropriate techniques for target audience
+- Use correct terminology
+- Note school-specific variations
+- Apply progressive learning expectations
 
-### 5. Content Generated
-- **20 blog post ideas** organized into 4 series
-- **40+ total blog ideas** from both YouTube sources (Tony + Alexander)
-- All ideas include: audiences, evidence, framework connections, depth assessment
-- Multiple series potential identified
+### 4. System Design Principles
+**Factual vs. Interpretive Separation**:
+- Syllabus: "Ikkyo is taught at Rokkyu" (fact)
+- Research: "Why ikkyo is pedagogically first" (interpretation)
 
-### 6. Tony + Alexander Together Prove
-- **Tony Sargeant**: Master teacher (systematic transmission: "here's HOW to progress from Phase 1 to Phase 2")
-- **Alexander Gent**: Master practitioner (practical application: "here's WHAT complete training looks like")
-- **Together**: Complete Iwama path exists AND works when traditional foundation meets alive application
-- **Your blog's value**: Synthesizing both perspectives for broader aikido community
+**Scalability**:
+- Template established for adding more techniques
+- One file per technique for easy reference
+- Can add rank files as needed
+- Video evidence integration ready (Tony Sargeant, Alexander Gent clips)
+
+**Cross-References**:
+- Links to biomechanical-principles.md
+- Connections to learning-journey.md
+- Framework integration without mixing fact and analysis
 
 ---
 
 ## Next Steps
 
-### IMMEDIATE (Choose Direction):
+### IMMEDIATE (System Integration):
 
-**Option A: Continue Data Gathering**
-- Track and analyze more YouTube channels
-- Scan blog sources (Leo Tamaki, Lionel Froidure, etc.)
-- Build even larger evidence base
-- Goal: Comprehensive martial arts discourse analysis
+**Option A: Enhance Slash Commands** (RECOMMENDED)
+- Update `/.claude/commands/review-aikido.md`:
+  - Add step: "Check Japanese terminology against /syllabus/terminology.md"
+  - Add step: "Verify technical descriptions against /syllabus/techniques/"
+  - Add step: "Confirm audience level matches /syllabus/overview.md ranks"
+- Update `/.claude/commands/discuss.md`:
+  - Add reference to /syllabus/ for technical accuracy
+  - Note rank-appropriate expectations
+- Update `blog/blog-guidelines.md`:
+  - Add section on using /syllabus/ for technical verification
 
-**Option B: Start Blog Writing from Current Research**
-- 40+ blog post ideas ready with full evidence
-- All frameworks validated and documented
-- Can write high-quality posts immediately
-- Start with highest-impact topics from Alexander/Tony analysis
+**Option B: Expand Syllabus Content**
+- Add more technique files (nikyo, sankyo, yonkyo, shiho-nage, kote-gaeshi, etc.)
+- Create rank-specific files (ranks/*.md) with exact requirements
+- Add weapons details (weapons/ken/*.md, weapons/jo/*.md)
+- Document TIAE-specific requirements
 
-**Option C: Deep Dive Specific Topics via /discuss**
-- Use /discuss for topics needing more depth before writing
-- Examples: Weapons Training Framework, Contextual Design, Demonstration Robotization
-- Build out frameworks before converting to blog posts
+**Option C: Start Blog Writing**
+- Use syllabus system for technical accuracy
+- Write first post with solid grounding
+- Test integration of syllabus during review process
 
-### RECOMMENDED APPROACH:
+### CONTINUING WORK:
 
-Start **selective blog writing** (Option B) while continuing occasional data gathering. Benefits:
-- Capitalize on momentum from major breakthroughs
-- Test blog writing workflow with strong evidence base
-- Can gather more data between writing sessions
-- Validates that research translates to actual blog content
+**Two Major Threads**:
+1. **Data Gathering**: 541 videos analyzed (Tony + Alexander) with 40+ blog ideas
+2. **Technical Foundation**: Syllabus system now provides accuracy check
 
-**Suggested first posts**:
-1. "The Shoot Aikido Approach: When Traditional Meets Pressure-Testing" (Alexander evidence)
-2. "The Complete Iwama Path: Why Most Practitioners Never Finish Saito's Journey" (Tony evidence)
-3. "Universal Biomechanics: Why Different Martial Arts Discover the Same Truths" (Cross-discipline from Alexander)
+**Recommended Approach**: Integrate syllabus into slash commands (Option A), then resume blog writing with enhanced technical accuracy.
 
 ---
 
 ## Blockers/Questions
 
-**None** - Clear path forward on multiple fronts
+**None** - System is functional and ready for integration
 
-**Decision Point**: Data gathering vs. blog writing balance
-- Current evidence base is **substantial** (456 + 85 = 541 videos analyzed)
-- Can write many high-quality posts now
-- More sources would provide additional perspectives but may delay actual blog production
-- Recommend starting writing while continuing selective data gathering
+**Note**: Context usage reached 88% (176k/200k tokens) during this session, indicating comprehensive syllabus work. Good checkpoint timing.
 
 ---
 
 ## Key Files for Next Session
 
+**Syllabus System (NEW)**:
+- syllabus/README.md - System overview
+- syllabus/overview.md - Grading and lineage
+- syllabus/terminology.md - Quick reference
+- syllabus/attacks.md - Attack types
+- syllabus/techniques/*.md - Technique files (ikkyo, irimi-nage so far)
+
 **YouTube Evidence Base**:
 - sources/youtube/findings/2025-10-30-complete-channel-analysis-456-videos.md (Tony Sargeant)
 - sources/youtube/findings/2025-10-30-alexander-gent-complete-channel-analysis.md (Alexander Gent)
-- sources/youtube/registry/tony-sargeant.md
-- sources/youtube/registry/alexander-gent.md
 
 **Research Frameworks** (All Validated):
 - research/core-values.md
@@ -128,22 +153,23 @@ Start **selective blog writing** (Option B) while continuing occasional data gat
 - research/teaching-transmission-gap.md
 - research/biomechanical-principles.md
 
-**Blog Guidelines**:
-- blog/blog-template.md
-- blog/blog-guidelines.md
-- blog/blog-series-structure.md
+**Slash Commands** (To Be Updated):
+- .claude/commands/review-aikido.md - Needs syllabus integration
+- .claude/commands/discuss.md - Needs syllabus reference
 
 ---
 
 ## Notes
 
-**Session Significance**: Completed second major YouTube source analysis. Now have complementary evidence from both traditional teaching (Tony) and modern application (Alexander). The "both/and" philosophy is no longer theoretical - it's documented in 541 videos.
+**Session Significance**: Created foundational technical reference system that ensures accuracy in all future blog writing, discussions, and reviews. This separates facts (syllabus) from interpretation (research), maintaining intellectual integrity.
 
-**Research Maturity**: Evidence base is now sufficient for significant blog writing. Frameworks validated by multiple independent sources. Can confidently write from first-dan perspective with solid backing.
+**System Philosophy**: The `/syllabus/` system embodies the principle that technical accuracy must come from documented sources (PDFs from dojo/TIAE), not interpretation. This grounds all blog content in verifiable facts.
 
-**Data Volume**: 541 videos analyzed, 85+ blog post ideas generated, 7+ research frameworks validated. This is substantial MA thesis material.
+**Scalability**: Template-based system allows incremental expansion. Don't need to document every technique immediately—add as blog topics require them.
 
-**Strategic Choice Ahead**: Balance between gathering more data (breadth) vs. writing from current research (depth and production). Both are valuable - timing matters.
+**Integration Value**: When `/discuss` and `/review-aikido` reference `/syllabus/`, blog posts will be technically accurate from the start, reducing revision cycles and increasing quality.
+
+**First-Dan Perspective**: Personal notes in technique files acknowledge writing from first-dan perspective, maintaining authenticity established in core-values.md.
 
 ---
 
