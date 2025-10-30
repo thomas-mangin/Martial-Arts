@@ -111,10 +111,12 @@ A complete workflow system has been implemented to maintain context between sess
 │   ├── divisive-topics.md      # Community debates and controversies
 │   ├── learning-journey.md     # Mastery stages and progression frameworks
 │   ├── biomechanical-principles.md # 25+ core biomechanical principles
+│   ├── contextual-design-framework.md # Martial arts context principle (weapons, time, environment)
+│   ├── weapons-training-framework.md # How ken/jo develop biomechanics & taijutsu
+│   ├── stance-principles.md    # Stability/power/movement, stances as transitions
+│   ├── demonstration-robotization.md # Teaching trap (rigid demos → rigid students)
 │   ├── areas-needing-development.md # Topics needing /discuss sessions
-│   ├── audience-profiles.md    # Reader profiles and targeting
-│   ├── SESSION-SUMMARY-BIOMECHANICS.md # Biomechanics overview
-│   └── SYSTEM_REVIEW.md        # System review notes
+│   └── audience-profiles.md    # Reader profiles and targeting
 ├── posts/                      # Blog posts directory
 ├── discussions/                # Discussion notes (informal explorations)
 ├── sources/                    # Source tracking and monitoring
