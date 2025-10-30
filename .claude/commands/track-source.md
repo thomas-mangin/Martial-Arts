@@ -1,36 +1,55 @@
-# Track Source - Register Martial Arts Bloggers
+# Track Source - Register Martial Arts Content Creators
 
-You are helping the user track martial arts bloggers and maintain their source registry.
+You are helping the user track martial arts content creators (bloggers, YouTube channels) and maintain their source registry.
 
 ## Purpose
 
-Create and maintain profiles for martial arts bloggers whose content the user wants to monitor for:
+Create and maintain profiles for martial arts content creators whose work the user wants to monitor for:
 - Inspiration and ideas
 - Points worthy of response
 - Alternative perspectives to explore
 - Community engagement
 - Content quality references
 
+## Content Types Supported
+
+1. **Blogs/Websites**: Traditional written content
+2. **YouTube Channels**: Video content creators
+
 ## Steps to Execute
 
-### 1. **Gather Source Information**
+### 1. **Detect Content Type**
+
+Check the URL to determine if it's a blog or YouTube channel:
+- **YouTube Channel**: URL contains `youtube.com/@` or `youtube.com/c/` or `youtube.com/channel/`
+  - Create profile in `sources/youtube/registry/[name].md`
+  - Use YouTube channel template (simpler format)
+  - Reference `/youtube-fetch` for video analysis
+- **Blog/Website**: All other URLs
+  - Create profile in `sources/registry/[name].md`
+  - Use full blog tracking template
+  - Reference `/scan-sources` for content monitoring
+
+### 2. **Gather Source Information**
 
 If user provides all info inline:
 ```
 /track-source "Leo Tamaki" "https://www.leotamaki.com" "Aikido"
+/track-source https://www.youtube.com/@Tony_Sargeant
 ```
 
 If user only provides name or partial info, ask for:
-- **Name**: Full name of the blogger/author
-- **URL**: Primary blog or website URL
+- **Name**: Full name of the creator/channel
+- **URL**: Primary URL (blog or YouTube channel)
 - **Discipline**: Martial art they practice/teach (Aikido, Karate, etc.)
-- **Language**: Primary language of their content (optional)
-- **Focus**: What they mainly write about (optional, can be added later)
+- **Language**: Primary language of their content (optional, for blogs)
+- **Focus**: What they mainly create about (optional, can be added later)
 
-### 2. **Check if Source Exists**
+### 3. **Check if Source Exists**
 
-- Generate filename: Convert name to lowercase-kebab-case (e.g., "Leo Tamaki" → "leo-tamaki")
-- Check if `sources/registry/[filename].md` already exists
+- Generate filename: Convert name to lowercase-kebab-case (e.g., "Leo Tamaki" → "leo-tamaki", "Tony Sargeant" → "tony-sargeant")
+- **For YouTube**: Check if `sources/youtube/registry/[filename].md` already exists
+- **For Blogs**: Check if `sources/registry/[filename].md` already exists
 - If exists: Ask if user wants to update it
 - If new: Proceed to create
 
@@ -52,6 +71,8 @@ To create a useful profile, ask:
 - **Active?** "Is this an active blog or historical archive?"
 
 ### 5. **Create Source Profile**
+
+#### For Blogs/Websites
 
 Create file: `sources/registry/[name-kebab-case].md`
 
@@ -136,10 +157,75 @@ Create file: `sources/registry/[name-kebab-case].md`
 *Use `/scan-sources` to scan all tracked sources*
 ```
 
+#### For YouTube Channels
+
+Create file: `sources/youtube/registry/[name-kebab-case].md`
+
+**Format**:
+
+```markdown
+# [Channel Name] - YouTube Channel
+
+**Channel URL**: [YouTube channel URL]
+
+**Channel Type**: YouTube Channel
+
+**Discipline/Focus**: [Martial art - to be determined from video analysis if unknown]
+
+**Date Added**: [Today's date]
+
+---
+
+## Channel Overview
+
+**Description**: [Channel name]'s YouTube channel - [brief description if known]
+
+**Why Tracking**:
+- [Reason 1 - e.g., Potential martial arts insights and techniques]
+- [Reason 2 - e.g., Cross-discipline perspectives]
+- [Reason 3 - e.g., Teaching methods and biomechanics explanations]
+
+---
+
+## Scan History
+
+### Initial Registration
+- **Date**: [Today's date]
+- **Status**: Registered, awaiting first video analysis
+- **Videos Analyzed**: 0
+- **Blog Ideas Generated**: 0
+
+---
+
+## Videos Analyzed
+
+*No videos analyzed yet. Use /youtube-fetch with specific video URLs to analyze content and generate blog ideas.*
+
+---
+
+## Blog Ideas Generated
+
+*Blog ideas will be added here as videos are analyzed.*
+
+---
+
+## Notes
+
+- Channel registered for tracking
+- First video analysis will populate discipline/focus information
+- Use `/youtube-fetch <video_url>` to analyze specific videos from this channel
+- Check channel periodically for new content relevant to blog topics
+
+---
+
+*Last Updated: [Today's date]*
+```
+
 ### 6. **Confirm and Guide**
 
 After creating the profile, tell the user:
 
+**For Blogs**:
 ```
 ✅ Source tracked: [Name]
 
@@ -160,6 +246,27 @@ After creating the profile, tell the user:
 - More detailed focus areas
 - Additional notes
 - Updated URL if it changes
+```
+
+**For YouTube Channels**:
+```
+✅ YouTube channel tracked: [Channel Name]
+
+📁 Profile saved: sources/youtube/registry/[filename].md
+
+📋 Summary:
+- Channel: [Channel name]
+- URL: [YouTube channel URL]
+- Discipline: [Martial art or "To be determined"]
+- Status: Active (pending video analysis)
+
+🔍 Next steps:
+1. Visit the channel to find interesting videos
+2. Run `/youtube-fetch <video_url>` to analyze specific videos
+3. Review findings in sources/youtube/findings/
+4. Video analysis will populate channel discipline/focus information
+
+📝 The profile will be automatically updated as videos are analyzed
 ```
 
 ### 7. **Update Source Registry Index** (Optional)
