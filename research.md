@@ -57,6 +57,16 @@ These files establish WHO you are as a martial artist and writer:
 
 These files contain comprehensive frameworks ready for /discuss sessions:
 
+#### **teaching-transmission-gap.md** - ⭐⭐⭐ CRITICAL - Thesis-Level Finding
+- **Major discovery**: Complete Iwama system exists (Phase 1 Structure + Phase 2 Embodiment) but Phase 2 rarely transmitted
+- Evidence from Tony Sargeant's 456-video teaching library
+- Explains why "Iwama practitioners often never learn to relax"
+- Saito's complete journey (brutal → soft) documented
+- Phase 2 curriculum exists (Teachers Intro series) but not widely taught
+- **Blog potential**: Multiple thesis-level posts, entire series possible
+- **Status**: NEWLY DOCUMENTED - Ready for immediate blog writing
+- **See also**: tony-sargeant-evidence-summary.md (quick reference)
+
 #### **contextual-design-framework.md** - Martial Arts Context Principle
 - **Core insight**: Martial arts designed for specific contexts, not in vacuum
 - 8 contexts explored: Krav Maga (time), Silat (environment), Karambit (protection), Ground Fighting (public space), Aikido (weapons), Time Period/Cultural, Legal/Social, Range/Strategy
@@ -310,7 +320,32 @@ First dan perspective, learning alongside readers, not claiming ultimate mastery
 | **biomechanical-principles.md** | 25+ principles | Reference for blog posts | Actively growing |
 | **areas-needing-development.md** | Topic tracking | Prioritize /discuss sessions | Tracking file |
 | **audience-profiles.md** | Reader profiles | Before blog writing | Reference |
+| **tony-sargeant-evidence-summary.md** | Tony's 456-video findings | Quick reference for thesis/blog | Evidence summary |
+| **teaching-transmission-gap.md** | Phase 1 vs Phase 2 analysis | Thesis writing, major blog posts | ⭐⭐⭐ CRITICAL |
+
+---
+
+## NEW: Tony Sargeant Evidence Integration (2025-10-30)
+
+**Major Research Breakthrough**: Analysis of Tony Sargeant's 456-video YouTube library validates ALL your frameworks and identifies the **teaching transmission gap** as core thesis finding.
+
+**Key Discovery**: Complete Iwama system exists (Phase 1 Structure + Phase 2 Embodied Mastery) but Phase 2 rarely transmitted systematically.
+
+**Evidence Integrated Into**:
+- ✓ learning-journey.md - Tony's "Technical vs Just Knowing" validates your framework
+- ✓ core-values.md - Complete Iwama path documented, explains rigidity critique
+- ✓ demonstration-robotization.md - Tony's "teaching by floating" solution added
+- ✓ divisive-topics.md - Iwama vs Blending false dichotomy resolved
+- ✓ weapons-training-framework.md - 100+ videos confirm weapons centrality
+- ✓ NEW teaching-transmission-gap.md - Comprehensive analysis of the gap
+- ✓ NEW tony-sargeant-evidence-summary.md - Quick reference for all findings
+
+**For Your Thesis**: This evidence provides independent validation of your frameworks from a traditional Iwama source, strengthens your critique with systematic documentation, and honors the complete tradition while identifying solvable problems.
+
+**For Your Blog**: 20+ major blog post ideas generated, including thesis-level content ready to write immediately.
 
 ---
 
 *This overview helps you navigate the research directory and understand how each file contributes to your authentic, technically-grounded Aikido blog.*
+
+*Last Updated: 2025-10-30 - Added Tony Sargeant evidence integration*

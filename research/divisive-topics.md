@@ -355,3 +355,30 @@ This file grows as you engage more deeply with martial arts discourse.
 ---
 
 *Last Updated: 2025-10-30*
+
+---
+
+## Resolution: Iwama vs Blending Styles is False Dichotomy
+
+**Date Added**: 2025-10-30
+**Evidence**: Tony Sargeant 456-video analysis
+
+### The Debate Resolved
+
+**False Dichotomy**: "Iwama = Rigid/Structural" vs "Other Styles = Soft/Blending"
+
+**Reality**: Complete Iwama path = Structure (Phase 1) → Softness (Phase 2)
+
+**Evidence from Tony's Teaching**:
+- Saito completed journey: "Brutal training" → "Untouchable because blending with person"
+- Phase 2 curriculum exists (Teachers Intro series)
+- Most practitioners stop at Phase 1 (teaching transmission gap)
+
+**Both Sides Have Partial Truth**:
+- Iwama critics observe: Most practitioners ARE rigid (correct observation)
+- Iwama defenders claim: System includes softness (also correct - Phase 2 exists)
+- **Problem**: Phase 2 rarely transmitted systematically
+
+**Resolution**: Don't debate which is better - complete the teaching transmission. Iwama CAN produce soft, blending practitioners when full curriculum taught.
+
+See: research/teaching-transmission-gap.md, research/core-values.md (updated sections)

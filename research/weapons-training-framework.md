@@ -229,3 +229,21 @@ Or one very comprehensive session covering all elements (90+ minutes).
 ---
 
 *This is a living document. Update after /discuss sessions to capture insights.*
+
+---
+
+## Evidence: 100+ Videos Confirm Weapons Centrality
+
+**Date Added**: 2025-10-30
+**Source**: Tony Sargeant 456-video analysis
+
+Tony's library contains **~100+ weapons training videos**, confirming weapons are CENTRAL (not peripheral) to Iwama Aikido pedagogy:
+- Ki Musubi series (20+ videos) - primarily taught through weapons
+- Kumitachi variations and applications
+- Ken and jo kata progressions
+- "Weapons should feel the same in your hands" (Improving Aikido 6)
+- Taijutsu emerges FROM weapons training
+
+**This validates your framework**: Weapons training is the METHOD for developing core biomechanics in Iwama system.
+
+See: sources/youtube/findings/2025-10-30-complete-channel-analysis-456-videos.md

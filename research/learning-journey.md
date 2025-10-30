@@ -690,4 +690,126 @@ Many practitioners:
 
 ---
 
+## Validation from Traditional Teaching: Tony Sargeant's "Technical vs Just Knowing"
+
+**Date Added**: 2025-10-30
+**Evidence Source**: Tony Sargeant YouTube Channel (456-video analysis)
+
+### The Traditional Framework Matches This Modern Framework
+
+In analyzing 456 videos from Tony Sargeant's Iwama Aikido teaching library, a remarkable discovery emerged: **Tony explicitly teaches the same framework using traditional language**.
+
+**Tony's Language**: "Technical" vs "Just Knowing"
+**Your Language**: "Knowing" vs "Embodied"
+
+**Same phenomenon, different terminology.**
+
+### Tony's Exact Words (Teachers Intro Series)
+
+>"I can do kata mechanically - so there's the technical and there's the just knowing. I don't expect you to get it."
+
+>"There's a bridge from technical to enso [embodied/enlightenment]. We have to look at how bad we are at wanting it."
+
+>"When I said I've reached my goal in aikido... I've understood that you can't keep saying 'two people must become one' if I don't really mean it. I don't need to win anymore."
+
+### What This Validation Means
+
+**1. Framework is Not Just Modern Interpretation**
+- Traditional Iwama teachers recognize same distinction
+- "Technical vs Just Knowing" maps perfectly to "Knowing vs Embodied"
+- Progression exists in traditional teaching (when taught completely)
+- Your frameworks TRANSLATE traditional wisdom to modern language
+
+**2. The Gap Between Stages is Real**
+- Tony: "I don't expect you to get it" - acknowledges difficulty of transition
+- Not automatic progression - requires specific work
+- Psychological barriers ("how bad we are at wanting it")
+- Ego death required ("I don't need to win anymore")
+
+**3. Stage 4-5 (Embodied) Characteristics Confirmed**
+- "Just knowing" = automatic, not mechanical
+- Can execute "kata mechanically" (Stage 3) but that's NOT the goal
+- True mastery = beyond technical correctness
+- "Two people become one" actually realized (not just concept)
+
+**4. Most Practitioners Stop at "Technical"**
+- Tony created "Teachers Intro" series specifically for this transition
+- Separate from technical curriculum (Phase 1 vs Phase 2)
+- Many instructors never cross bridge themselves
+- **Teaching transmission gap** (see teaching-transmission-gap.md)
+
+### Integration with Physical Progression Stages
+
+**Tony's "Technical"** = **Your Stages 1-3**:
+- Stage 1 (Hands): Copying external form
+- Stage 2 (Coordination): Body parts work together
+- Stage 3 (Timing): Form correct, developing flow
+- **Can execute kata mechanically**
+- Conscious competence
+
+**Tony's "Just Knowing"** = **Your Stages 4-5**:
+- Stage 4 (Core): Movement originates from center
+- Stage 5 (Patterns): Cross-technique principle recognition
+- **Unconscious competence**
+- Automatic, natural, effortless
+
+### The Bridge: What's Required
+
+From Tony's teaching (Teachers Intro series):
+1. **Ego death**: "I don't need to win anymore"
+2. **Letting go of control**: "I don't need to be in the right place anymore"
+3. **Soft wall development**: Remove expected resistance completely
+4. **Psychological awareness**: "How bad we are at wanting it" (attachment to being right)
+5. **Time and repetition**: Until automatic (matches your framework)
+6. **Permission to forget form**: Once internalized, stop thinking about it
+
+### Why This Validation Matters
+
+**For Your Thesis**:
+- Independent corroboration from traditional source
+- Not imposing modern concepts on tradition
+- Actually translating what tradition already teaches
+- Shows frameworks are accurate observation, not invention
+
+**For Your Blog**:
+- Can reference Tony's language alongside your biomechanical explanations
+- "Even traditional Iwama teachers recognize this distinction"
+- Bridges traditional and modern approaches
+- Validates your frameworks while respecting tradition
+
+**For Teaching**:
+- Use both languages (Tony's traditional + your modern)
+- Students can choose which resonates
+- Both point to same reality
+- Proves progression is teachable (Tony systematically teaches it)
+
+### Where to Learn More
+
+**Tony's Primary Sources**:
+- Teachers Intro 1-7 (philosophical progression)
+- Teachers Intro Final 22 (culmination)
+- Improving Your Aikido series (practical progression)
+
+**Your Analysis Documents**:
+- sources/youtube/findings/2025-10-30-complete-channel-analysis-456-videos.md
+- sources/youtube/findings/2025-10-30-WM5DryYIgvQ-teachers-intro-7.md
+- research/teaching-transmission-gap.md (why most don't receive Phase 2)
+
+### Key Insight
+
+**This validation is powerful because:**
+- Tony reached Stage 5 mastery ("I've reached my goal in aikido")
+- He's teaching FROM embodiment, not TO it
+- He explicitly identified the same progression you discovered
+- He created systematic curriculum for the transition (Teachers Intro)
+- But this curriculum isn't widely transmitted (the gap you observed)
+
+**Your frameworks give modern language to what Tony teaches traditionally.**
+
+**Together they provide**: Traditional wisdom (credibility) + Modern explanation (accessibility) = Complete teaching system.
+
+---
+
 *This is a living document. Update as your understanding of the learning journey deepens.*
+
+*Last Updated: 2025-10-30 - Added Tony Sargeant validation section*

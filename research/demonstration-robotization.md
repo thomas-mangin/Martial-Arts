@@ -192,4 +192,174 @@
 
 ---
 
+## Solution from Tony Sargeant: "Teaching by Floating, Not Giving"
+
+**Date Added**: 2025-10-30
+**Evidence Source**: Teachers Intro series (456-video analysis)
+
+### The Problem Confirmed
+
+Tony Sargeant explicitly addresses this problem in his Teachers Intro series:
+
+>"You know you're not all I'm trying to say to you when you wear the teachers hat you're usually in a giving mode but I want you to be in a mode where you float and think."
+
+**He recognizes**:
+- Teachers stuck in "giving mode" (correcting, demonstrating, controlling)
+- This creates rigidity in both teacher and students
+- Need for alternative teaching approach
+
+### The Solution: Float, Don't Give
+
+**Tony's Instructions to Teachers**:
+
+>"Go off afterwards and go 'I don't know what I experienced the night teaching but it was as if they were actually doing the technique for me or they were helping me do the technique.'"
+
+**What This Means**:
+1. **Stop trying to give/teach actively**
+2. **Let students help YOU do technique**
+3. **They're doing technique, not you doing TO them**
+4. **Float and observe rather than demonstrate and correct**
+
+**Tony's Analogy**:
+- NOT: Teacher demonstrates → Students copy → Teacher corrects
+- INSTEAD: Teacher embodies principle → Students discover → Teacher guides
+
+### Why This Prevents Robotization
+
+**Traditional "Giving Mode"**:
+- Teacher repeats same demonstration 10+ times per class
+- Must make demonstration clear and repeatable
+- Movement becomes increasingly stylized and rigid
+- Body learns rigid pattern through repetition
+- Teacher can't move naturally anymore
+- Students copy the rigidity
+
+**"Floating Mode"**:
+- Teacher doesn't demonstrate excessively
+- Movement stays natural and spontaneous
+- Students learn through exploration, not copying
+- Teacher embodies principle, doesn't perform pattern
+- Natural movement preserved
+- Students develop their own fluidity
+
+### Connection to Phase 2 Teaching
+
+**This solution requires Phase 2 mastery**:
+- Can't "float" while stuck in technical mode (Phase 1)
+- Requires ego death ("I don't need to win")
+- Requires soft wall (not forcing technique)
+- Requires embodiment (can demonstrate naturally without thinking)
+- **This is WHY solution isn't widely used** - teachers haven't received Phase 2 training
+
+**The Cycle**:
+1. Teacher never receives Phase 2 training
+2. Teaches from "giving mode" (Phase 1 approach)
+3. Becomes increasingly rigid through demonstration
+4. Students copy rigid demonstrations
+5. Those students become teachers
+6. Cycle repeats
+
+**Breaking the Cycle**:
+1. Teach Phase 2 systematically (Teachers Intro curriculum)
+2. Instructors learn "floating" methodology
+3. Natural movement preserved in teachers
+4. Students learn fluidity, not rigidity
+5. Next generation teaches from embodiment
+
+### Practical Application
+
+**From Tony's Teaching**:
+
+>"When I said you was too close I'm not too close because we could put this paper between us but the paper mustn't move towards him. If he wants to move into me then that's his prerogative but I'm not move into his space."
+
+**Teaching by Example, Not Demonstration**:
+- Embody the principle naturally
+- Don't exaggerate or stylize
+- Let student discover what's happening
+- Guide rather than dictate
+- Your natural movement is the lesson
+
+**How to Practice**:
+1. **Reduce demonstrations**: Let students explore more
+2. **Demonstrate naturally**: If you must show, move normally
+3. **Use uke as teacher**: Let partner show what works
+4. **Verbal guidance first**: Describe before demonstrating
+5. **Trust the process**: Students will discover with guidance
+6. **Check your body**: Still fluid after class? Or rigid?
+
+### Evidence This Works
+
+**Tony's Results**:
+- Teaching at Stage 5 mastery level ("reached my goal in aikido")
+- Students describe feeling "soft wall" (advanced blending)
+- 456+ videos showing natural movement maintained
+- Teachers Intro series created specifically to teach this approach
+- Decades of teaching without apparent robotization
+
+**Why It's Effective**:
+- Teacher stays in embodied mode (not reverting to mechanical)
+- Students learn principles, not patterns
+- Natural movement preserved throughout system
+- Advanced teaching becomes possible (can't teach Phase 2 from rigidity)
+
+### Integration with Other Solutions
+
+**This solution works WITH**:
+1. **Kata practice** (weapons-training-framework.md): Solo practice prevents demo rigidity
+2. **Physical progression** (learning-journey.md): Float = teach from Stage 4-5, not Stage 2-3
+3. **Advanced practice** (stance-principles.md): Maintain stances as transitions through floating
+
+**The Complete Solution**:
+- Phase 1: Build structure through kata and weapons
+- **Float even in Phase 1**: Don't excessively demonstrate even basic technique
+- Phase 2: Float becomes natural (ego death enables it)
+- Result: Teacher AND students progress to embodiment
+
+### For Your Teaching
+
+**Immediate Actions**:
+1. Count your demonstrations per class - reduce by 50%
+2. When you must demonstrate, move naturally (not stylized)
+3. Practice "letting students do technique for you"
+4. Notice when you're in "giving mode" and shift to "floating mode"
+5. Check your body after teaching - still fluid?
+
+**Long-Term Development**:
+6. Study Teachers Intro series for floating methodology
+7. Work on your own ego death (enables floating)
+8. Develop soft wall in your own technique
+9. Progress to Phase 2 mastery (can't float from Phase 1)
+10. Create curriculum that doesn't require excessive demonstration
+
+### Key Insight
+
+**The demonstration robotization problem** = **Symptom of teaching from Phase 1 instead of Phase 2**
+
+**The solution isn't technical** (better demo methods)
+**The solution is developmental** (progress to Phase 2 mastery)
+
+**Once you've reached "just knowing"** (Tony's language) / **embodied mastery** (your language), you can teach by floating naturally.
+
+**The problem perpetuates because** most teachers never receive Phase 2 training themselves.
+
+**Your contribution**: Documenting this with evidence, pointing toward solution.
+
+---
+
+## References
+
+**Tony Sargeant Sources**:
+- Teachers Intro 5, 6, 7: Teaching by floating methodology
+- 456-video library: Natural movement maintained over decades
+- sources/youtube/findings/2025-10-30-WM5DryYIgvQ-teachers-intro-7.md
+
+**Your Frameworks**:
+- learning-journey.md: Teaching from Stage 4-5, not Stage 2-3
+- teaching-transmission-gap.md: Why floating isn't widely taught
+- core-values.md: Complete Iwama path includes this progression
+
+---
+
 *This is a living document. Update after /discuss session to capture solutions and teaching methods that avoid this trap.*
+
+*Last Updated: 2025-10-30 - Added Tony Sargeant's "teaching by floating" solution*

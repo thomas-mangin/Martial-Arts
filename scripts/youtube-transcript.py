@@ -147,12 +147,16 @@ def download_transcript(video_url, output_dir="sources/youtube/transcripts"):
         # Parse SRT format and extract text
         lines = srt_content.split('\n')
         text_lines = []
+        prev_line = None  # Track previous line to detect duplicates
 
         for line in lines:
             line = line.strip()
             # Skip sequence numbers, timestamps, and empty lines
             if line and not line.isdigit() and '-->' not in line:
-                text_lines.append(line)
+                # Only add if different from previous line (removes consecutive duplicates)
+                if line != prev_line:
+                    text_lines.append(line)
+                    prev_line = line
 
         # Join into readable text
         readable_text = '\n'.join(text_lines)
