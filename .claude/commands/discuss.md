@@ -31,6 +31,7 @@ Start with opening questions:
 - "What's your current understanding of [topic]?"
 - "What questions do you have about [topic]?"
 - "Can you share a specific experience related to [topic]?"
+- **"Who do you imagine this blog post serving?"** (Beginner/Intermediate/Advanced? Students/Instructors? See audience-profiles.md)
 
 ### 3. **Explore Through Dialogue**
 Have a natural conversation. As the user shares:
@@ -92,6 +93,11 @@ Write a structured discussion note in `discussions/` directory:
 **Date**: YYYY-MM-DD
 **Duration**: [Approximate time]
 **Status**: Fresh | In Progress | Ready for Extraction | Extracted
+
+**Target Audiences**:
+- **Primary**: [1-2 audience profiles - see audience-profiles.md]
+- **Secondary**: [2-3 additional profiles who will benefit]
+- **Audience Notes**: [What each audience type will gain from this post]
 
 ---
 

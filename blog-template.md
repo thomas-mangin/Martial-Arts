@@ -3,6 +3,14 @@
 **Date**: YYYY-MM-DD
 **Author**: [Your Name]
 **Category**: [Technique / Philosophy / Training / History / Personal Reflection]
+**Primary Audience**: [Experience level + Interest/Role - See audience-profiles.md]
+**Secondary Audiences**: [2-3 additional profiles who will gain value]
+**Estimated Length**: [800-1200 words / 1200-1800 words / 1800+ words]
+
+**Audience Notes**:
+- What will beginners gain: [Brief note]
+- What will intermediate/advanced gain: [Brief note]
+- What will instructors gain: [Brief note if applicable]
 
 ---
 
@@ -47,11 +55,19 @@
 
 ## Practical Takeaways
 
-[Provide 3-5 concrete, actionable insights that readers can apply:]
+[Provide 3-5 concrete, actionable insights that readers can apply. Consider tiering by audience level:]
 
-1. **[First takeaway]**: Brief explanation
-2. **[Second takeaway]**: Brief explanation
-3. **[Third takeaway]**: Brief explanation
+**For Beginners**:
+1. **[Foundational takeaway]**: Start here
+2. **[Simple practice]**: What to focus on
+
+**For Intermediate/Advanced**:
+1. **[Deeper principle]**: Next level understanding
+2. **[Refinement practice]**: How to develop further
+
+**For Instructors** (if applicable):
+1. **[Teaching insight]**: How to convey this concept
+2. **[Curriculum idea]**: Incorporating into classes
 
 ---
 
@@ -76,4 +92,7 @@
 
 ---
 
-*Note: Review with `/review-aikido` before publishing*
+*Notes:*
+*- See `audience-profiles.md` for complete audience definitions*
+*- Aim to serve 3-5 different audience profiles per post through layered content*
+*- Review with `/review-aikido` before publishing to check audience appropriateness*

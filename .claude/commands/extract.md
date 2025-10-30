@@ -32,6 +32,8 @@ Identify:
 - **Core thesis**: What's the main insight or argument?
 - **Key points**: What are the 2-4 main ideas?
 - **Best examples**: Which stories/examples are most illustrative?
+- **Target audiences**: Who will this serve? (From discussion note or infer from content - see audience-profiles.md)
+- **Audience value**: What will each audience type gain from this?
 - **Structure**: What's the logical flow?
 - **Gaps**: What's missing or needs development?
 - **Angle**: What's the unique perspective?
@@ -76,6 +78,10 @@ Copy blog-template.md structure and fill it in:
 - Date: Today
 - Author: [User's name if known, or [Your Name]]
 - Category: [From step 3]
+- Primary Audience: [1-2 audience profiles from analysis in step 2]
+- Secondary Audiences: [2-3 additional profiles who will benefit]
+- Audience Notes: [What each audience type will gain - brief summary]
+- Estimated Length: [Based on content depth: 800-1200 / 1200-1800 / 1800+ words]
 
 #### Introduction (100-200 words)
 - **Hook**: Start with compelling question, story, or observation from discussion
@@ -103,6 +109,11 @@ Extract actionable insights:
 - What can readers do with this?
 - What should they remember?
 - What can they apply immediately?
+
+**Consider tiering by audience level** (see blog-template.md and blog-guidelines.md):
+- For Beginners: Foundational actions
+- For Intermediate/Advanced: Refinement practices
+- For Instructors: Teaching insights (if applicable)
 
 Format as bulleted list with brief explanations
 

@@ -52,13 +52,20 @@ For each major point or concept:
 - **Deeper exploration**: What questions does it raise?
 - **Aikido relevance**: How does this connect to your practice?
 - **Comparative analysis**: How does Aikido approach this differently?
+- **Audience fit**: Which audience profiles would find this valuable? (See audience-profiles.md)
 
-### Step 8: Assess Blog Potential
+### Step 8: Assess Blog Potential and Audience Fit
 - Which ideas have the most substance?
 - Which connect to your personal experience?
 - Which would interest your readers?
 - Which offer a fresh perspective?
 - Which can you add unique value to?
+- **Which audiences does each idea serve?** Consider:
+  - Experience level (Beginner / Intermediate / Advanced)
+  - Role (Student / Instructor / Dojo Owner)
+  - Interest focus (Technical / Philosophical / Practical / Historical)
+  - Can the idea serve multiple audiences through layered content?
+  - Are you covering diverse audience needs over time?
 
 ---
 
@@ -231,6 +238,9 @@ For each major point or concept:
 ### Idea 1: [Specific, Concrete Title]
 - **Type**: [Response/Alternative/Extension/Comparative/Inspired]
 - **Angle**: [Exact approach you'd take]
+- **Primary Audience**: [1-2 profiles from audience-profiles.md]
+- **Secondary Audiences**: [2-3 additional profiles who will benefit]
+- **Audience Value**: [What each audience type will gain from this post]
 - **Your Perspective**: [What you'd say that's unique]
 - **Aikido Connection**: [How it relates to your practice]
 - **Key Question**: [What you're exploring]

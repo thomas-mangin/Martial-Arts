@@ -92,6 +92,10 @@ WebFetch(
 - **Summary**: What is this post about? (2-3 sentences)
 - **Key Arguments**: Main points the author makes
 - **Martial Art Context**: Principles, techniques, or concepts discussed
+- **Audience Fit**: Which audiences would find this valuable? (see audience-profiles.md)
+  - Experience level (Beginner/Intermediate/Advanced)
+  - Interest type (Technical/Philosophical/Practical/Historical)
+  - Role (Students/Instructors/Leaders)
 - **Interesting Aspects**: What stands out or is particularly valuable
 - **Response Opportunities**: Points that could be:
   - Agreed with and expanded
@@ -108,6 +112,9 @@ For each post, create 2-4 potential blog ideas:
 **Idea: [Proposed blog title]**
 - **Type**: [Response / Alternative Perspective / Inspired Exploration / Extension / Comparative Analysis]
 - **Angle**: [How you'd approach this topic]
+- **Primary Audience**: [1-2 profiles who will gain most value - see audience-profiles.md]
+- **Secondary Audiences**: [2-3 additional profiles who will benefit]
+- **Audience Value**: [What each audience type will gain from this post]
 - **Connection**: [How it relates to the source post]
 - **Your Perspective**: [What unique angle could you bring?]
 - **Aikido Relevance**: [How this connects to Aikido practice/philosophy]
@@ -194,6 +201,9 @@ Create file: `sources/findings/YYYY-MM-DD-[source-name].md`
 #### Idea 1: [Proposed Title]
 - **Type**: Response
 - **Angle**: [How you'd approach it]
+- **Primary Audience**: [1-2 audience profiles - see audience-profiles.md]
+- **Secondary Audiences**: [2-3 additional profiles]
+- **Audience Value**: [What each audience type will gain]
 - **Connection**: [Link to source post]
 - **Your Perspective**: [Initial thoughts]
 - **Aikido Relevance**: [How it connects]

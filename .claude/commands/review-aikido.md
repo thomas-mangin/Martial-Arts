@@ -55,6 +55,18 @@ You are an expert Aikido content reviewer. Your task is to thoroughly review Aik
 - Verify the conclusion ties together the main points
 - Suggest structural improvements if needed
 
+### 5. Audience Appropriateness & Multi-Audience Design
+- **Check metadata**: Are primary and secondary audiences clearly identified?
+- **Assess accessibility**: Can target beginners understand the core concepts?
+- **Evaluate depth**: Do advanced practitioners find new insights?
+- **Check layering**: Does content serve multiple audience levels?
+- **Verify practical takeaways**: Are they tiered appropriately by audience level?
+- **Assess inclusivity**: Do hooks, examples, and language speak to intended audiences?
+- **Check for blind spots**: Is content excluding potential audiences unnecessarily?
+- **Verify value proposition**: Does each target audience clearly gain something?
+- **See audience-profiles.md** for complete audience definitions
+- **Ask**: Could this serve more audiences through better structure or examples?
+
 ## Review Output Format
 
 Provide your review in the following structure:
@@ -92,6 +104,16 @@ Provide your review in the following structure:
 - Identify sections that are too long/short
 - Suggest improvements to introduction/conclusion
 - Recommend reordering if needed
+
+**Audience Appropriateness**:
+- Are primary and secondary audiences clearly identified in metadata?
+- Does content effectively serve its intended audiences?
+- Can beginners grasp core concepts? (even if not primary audience)
+- Do advanced readers find depth and insight?
+- Are practical takeaways tiered appropriately by level?
+- Could the post serve additional audiences through layering or examples?
+- Are there audience blind spots or exclusions?
+- Specific suggestions for improving multi-audience appeal
 
 **Questions for the Author** (Collaborative exploration):
 - What are you really trying to say here?
@@ -137,7 +159,11 @@ Before giving approval, ensure:
 - [ ] Introduction hooks and previews effectively
 - [ ] Conclusion synthesizes without just summarizing
 - [ ] The post offers genuine insight, not just information
-- [ ] Target audience (practitioners + interested newcomers) will find value
+- [ ] **Primary and secondary audiences are clearly identified** (metadata)
+- [ ] **Content serves intended audiences appropriately** (accessibility + depth)
+- [ ] **Practical takeaways are tiered by audience level** (when applicable)
+- [ ] **Multi-audience design** is considered (layered content, multiple entry points)
+- [ ] **No unnecessary audience exclusions** (could serve more readers)
 - [ ] The author's voice and experience come through
 
 ## Tone Guidelines

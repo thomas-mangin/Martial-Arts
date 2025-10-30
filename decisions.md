@@ -124,5 +124,69 @@ This document tracks important decisions made during the project.
 - Source connections documented
 - Supports all three workflow approaches
 
+### Audience Targeting and Multi-Profile Content Strategy
+**Decision**: Implement comprehensive audience targeting system to serve diverse reader profiles
+**Rationale**: User realized "our blog reader will have different profiles, martial artists beginner, advanced, some will be teaching and seek for idea for their course, perhaps parent looking for advice for their kid, etc." Single-audience writing excludes potential readers and limits blog impact.
+
+**System Components**:
+- **audience-profiles.md**: 16+ distinct reader profiles across 5 categories
+  - Experience-based (Beginners, Intermediate, Advanced, Returning)
+  - Role-based (Students, Instructors, Dojo Owners, Seminar Attendees)
+  - Interest-based (Technical, Philosophical, Practical, Historical)
+  - Life-stage (Youth, Young Adults, Middle-Aged, Seniors)
+  - Adjacent (Parents, Prospective Students, Cross-Training Martial Artists)
+- **Layered Content Approach**: Posts serve 3-5 audience profiles simultaneously
+- **Metadata Tracking**: Every post identifies primary + secondary audiences
+- **Tiered Takeaways**: Practical insights organized by experience level
+- **Audience-Specific Hooks**: Hook formulas customized for different reader types
+- **Quarterly Review System**: Track coverage to ensure all profiles receive content
+
+**Updates Made**:
+1. **blog-template.md**: Added audience targeting metadata fields
+2. **blog-guidelines.md**: Added extensive "Writing for Multiple Audiences" section (100+ lines)
+3. **blog-engagement-techniques.md**: Added audience-specific hook examples for all major profiles
+4. **content-analysis-framework.md**: Added audience fit consideration in analysis steps
+5. **topics.md**: Added audience tracking per topic + quarterly coverage review section
+6. **All slash commands updated**:
+   - /discuss: Asks who post will serve
+   - /extract: Identifies and preserves audience targeting
+   - /scan-sources: Identifies which audiences source content serves
+   - /review-aikido: Checks audience appropriateness and multi-audience design
+
+**Design Principles**:
+- **Inclusive Layering**: Multiple audiences find value in same post through structure
+- **Clear Signaling**: Readers know immediately if content is for them
+- **Progressive Depth**: Accessible to beginners, challenging for advanced
+- **Balanced Coverage**: No audience systematically overlooked over time
+- **Respectful Tone**: All experience levels treated with equal respect
+- **Multi-Entry Points**: Hooks, sections, examples serve different reader types
+
+**Benefits**:
+- **Broader Reach**: Content serves 3-5 audiences vs. single audience
+- **Strategic Coverage**: Quarterly tracking ensures no profiles neglected
+- **Better Value**: Each post provides layered value to multiple reader types
+- **Inclusive Community**: Parents, prospective students, cross-trainers included
+- **Instructor Support**: Teaching-focused content explicitly addressed
+- **Life-Long Relevance**: Youth through senior practitioners served
+
+**Impact**:
+- Blog becomes resource for entire aikido community ecosystem
+- Posts strategically designed for audience diversity from inception
+- Quality review includes audience appropriateness check
+- Topic planning considers which audiences need content
+- Engagement techniques customized for different reader motivations
+- Long-term tracking prevents audience blind spots
+
+**Example Multi-Audience Post**:
+"The Three Types of Relaxation in Aikido"
+- Beginners: Learn "relax" doesn't mean limp
+- Intermediate: Understand three distinct types in detail
+- Advanced: Explore subtle distinctions and applications
+- Instructors: Framework for teaching to students
+- Technical: Biomechanical breakdown
+- Philosophical: Connection to mushin concepts
+
+**System Completeness**: All procedures, templates, commands, and frameworks now incorporate audience awareness. Blog is ready to create strategically targeted content that serves diverse community.
+
 ---
 
