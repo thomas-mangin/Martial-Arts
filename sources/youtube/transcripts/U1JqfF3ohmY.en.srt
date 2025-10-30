@@ -1,0 +1,8705 @@
+1
+00:00:01,199 --> 00:00:02,869
+
+i'm christopher hine and today we're
+
+2
+00:00:02,869 --> 00:00:02,879
+i'm christopher hine and today we're
+ 
+
+3
+00:00:02,879 --> 00:00:04,870
+i'm christopher hine and today we're
+going to be talking about
+
+4
+00:00:04,870 --> 00:00:04,880
+going to be talking about
+ 
+
+5
+00:00:04,880 --> 00:00:08,070
+going to be talking about
+ikey live training and how to do that
+
+6
+00:00:08,070 --> 00:00:08,080
+ikey live training and how to do that
+ 
+
+7
+00:00:08,080 --> 00:00:08,950
+ikey live training and how to do that
+stuff so
+
+8
+00:00:08,950 --> 00:00:08,960
+stuff so
+ 
+
+9
+00:00:08,960 --> 00:00:10,870
+stuff so
+uh this is the second part of a two-part
+
+10
+00:00:10,870 --> 00:00:10,880
+uh this is the second part of a two-part
+ 
+
+11
+00:00:10,880 --> 00:00:12,310
+uh this is the second part of a two-part
+series first part we talked about
+
+12
+00:00:12,310 --> 00:00:12,320
+series first part we talked about
+ 
+
+13
+00:00:12,320 --> 00:00:14,070
+series first part we talked about
+kumiuchi and what that was and
+
+14
+00:00:14,070 --> 00:00:14,080
+kumiuchi and what that was and
+ 
+
+15
+00:00:14,080 --> 00:00:15,669
+kumiuchi and what that was and
+how we can start to train that in a live
+
+16
+00:00:15,669 --> 00:00:15,679
+how we can start to train that in a live
+ 
+
+17
+00:00:15,679 --> 00:00:17,830
+how we can start to train that in a live
+way and now we're going to talk about uh
+
+18
+00:00:17,830 --> 00:00:17,840
+way and now we're going to talk about uh
+ 
+
+19
+00:00:17,840 --> 00:00:19,910
+way and now we're going to talk about uh
+ikey and how to train that in a live way
+
+20
+00:00:19,910 --> 00:00:19,920
+ikey and how to train that in a live way
+ 
+
+21
+00:00:19,920 --> 00:00:21,429
+ikey and how to train that in a live way
+and with the last video i talked a
+
+22
+00:00:21,429 --> 00:00:21,439
+and with the last video i talked a
+ 
+
+23
+00:00:21,439 --> 00:00:23,109
+and with the last video i talked a
+little more about the word sparring and
+
+24
+00:00:23,109 --> 00:00:23,119
+little more about the word sparring and
+ 
+
+25
+00:00:23,119 --> 00:00:24,390
+little more about the word sparring and
+use the word sparring which kind of
+
+26
+00:00:24,390 --> 00:00:24,400
+use the word sparring which kind of
+ 
+
+27
+00:00:24,400 --> 00:00:25,670
+use the word sparring which kind of
+means to struggle
+
+28
+00:00:25,670 --> 00:00:25,680
+means to struggle
+ 
+
+29
+00:00:25,680 --> 00:00:27,509
+means to struggle
+um in this we should really not be doing
+
+30
+00:00:27,509 --> 00:00:27,519
+um in this we should really not be doing
+ 
+
+31
+00:00:27,519 --> 00:00:29,189
+um in this we should really not be doing
+a lot of struggle at least not physical
+
+32
+00:00:29,189 --> 00:00:29,199
+a lot of struggle at least not physical
+ 
+
+33
+00:00:29,199 --> 00:00:29,990
+a lot of struggle at least not physical
+struggle so
+
+34
+00:00:29,990 --> 00:00:30,000
+struggle so
+ 
+
+35
+00:00:30,000 --> 00:00:31,109
+struggle so
+it doesn't mean we're not going to
+
+36
+00:00:31,109 --> 00:00:31,119
+it doesn't mean we're not going to
+ 
+
+37
+00:00:31,119 --> 00:00:32,470
+it doesn't mean we're not going to
+intellectually struggle with the right
+
+38
+00:00:32,470 --> 00:00:32,480
+intellectually struggle with the right
+ 
+
+39
+00:00:32,480 --> 00:00:33,830
+intellectually struggle with the right
+thing to do at the right time it just
+
+40
+00:00:33,830 --> 00:00:33,840
+thing to do at the right time it just
+ 
+
+41
+00:00:33,840 --> 00:00:35,030
+thing to do at the right time it just
+means we're ideally not going to
+
+42
+00:00:35,030 --> 00:00:35,040
+means we're ideally not going to
+ 
+
+43
+00:00:35,040 --> 00:00:36,310
+means we're ideally not going to
+physically struggle with the other
+
+44
+00:00:36,310 --> 00:00:36,320
+physically struggle with the other
+ 
+
+45
+00:00:36,320 --> 00:00:36,790
+physically struggle with the other
+person
+
+46
+00:00:36,790 --> 00:00:36,800
+person
+ 
+
+47
+00:00:36,800 --> 00:00:38,549
+person
+and that's what i key actually is it's
+
+48
+00:00:38,549 --> 00:00:38,559
+and that's what i key actually is it's
+ 
+
+49
+00:00:38,559 --> 00:00:40,150
+and that's what i key actually is it's
+about an energetic exchange
+
+50
+00:00:40,150 --> 00:00:40,160
+about an energetic exchange
+ 
+
+51
+00:00:40,160 --> 00:00:42,069
+about an energetic exchange
+and not a physical exchange so i'm going
+
+52
+00:00:42,069 --> 00:00:42,079
+and not a physical exchange so i'm going
+ 
+
+53
+00:00:42,079 --> 00:00:43,350
+and not a physical exchange so i'm going
+to call josh and maya here we're going
+
+54
+00:00:43,350 --> 00:00:43,360
+to call josh and maya here we're going
+ 
+
+55
+00:00:43,360 --> 00:00:44,950
+to call josh and maya here we're going
+to talk about the live training that we
+
+56
+00:00:44,950 --> 00:00:44,960
+to talk about the live training that we
+ 
+
+57
+00:00:44,960 --> 00:00:46,869
+to talk about the live training that we
+use in this school to work on the i keep
+
+58
+00:00:46,869 --> 00:00:46,879
+use in this school to work on the i keep
+ 
+
+59
+00:00:46,879 --> 00:00:59,189
+use in this school to work on the i keep
+principles josh maya
+
+60
+00:00:59,189 --> 00:00:59,199
+principles josh maya
+ 
+
+61
+00:00:59,199 --> 00:01:00,630
+principles josh maya
+all right so today we're going to be
+
+62
+00:01:00,630 --> 00:01:00,640
+all right so today we're going to be
+ 
+
+63
+00:01:00,640 --> 00:01:02,869
+all right so today we're going to be
+talking about how to do a live training
+
+64
+00:01:02,869 --> 00:01:02,879
+talking about how to do a live training
+ 
+
+65
+00:01:02,879 --> 00:01:03,590
+talking about how to do a live training
+practice
+
+66
+00:01:03,590 --> 00:01:03,600
+practice
+ 
+
+67
+00:01:03,600 --> 00:01:06,630
+practice
+with the ikey stuff so
+
+68
+00:01:06,630 --> 00:01:06,640
+with the ikey stuff so
+ 
+
+69
+00:01:06,640 --> 00:01:08,310
+with the ikey stuff so
+what is that stuff and how does it work
+
+70
+00:01:08,310 --> 00:01:08,320
+what is that stuff and how does it work
+ 
+
+71
+00:01:08,320 --> 00:01:10,870
+what is that stuff and how does it work
+so uh we can't really use the word
+
+72
+00:01:10,870 --> 00:01:10,880
+so uh we can't really use the word
+ 
+
+73
+00:01:10,880 --> 00:01:12,789
+so uh we can't really use the word
+sparring when we're talking about aikido
+
+74
+00:01:12,789 --> 00:01:12,799
+sparring when we're talking about aikido
+ 
+
+75
+00:01:12,799 --> 00:01:14,310
+sparring when we're talking about aikido
+and because the idea is really we don't
+
+76
+00:01:14,310 --> 00:01:14,320
+and because the idea is really we don't
+ 
+
+77
+00:01:14,320 --> 00:01:16,310
+and because the idea is really we don't
+want to struggle at least not physically
+
+78
+00:01:16,310 --> 00:01:16,320
+want to struggle at least not physically
+ 
+
+79
+00:01:16,320 --> 00:01:17,990
+want to struggle at least not physically
+and so and that's another thing we can
+
+80
+00:01:17,990 --> 00:01:18,000
+and so and that's another thing we can
+ 
+
+81
+00:01:18,000 --> 00:01:19,590
+and so and that's another thing we can
+kind of argue about whether
+
+82
+00:01:19,590 --> 00:01:19,600
+kind of argue about whether
+ 
+
+83
+00:01:19,600 --> 00:01:21,270
+kind of argue about whether
+mental struggle is really struggle and
+
+84
+00:01:21,270 --> 00:01:21,280
+mental struggle is really struggle and
+ 
+
+85
+00:01:21,280 --> 00:01:22,950
+mental struggle is really struggle and
+of course it is on some level but
+
+86
+00:01:22,950 --> 00:01:22,960
+of course it is on some level but
+ 
+
+87
+00:01:22,960 --> 00:01:24,710
+of course it is on some level but
+in aikido we want to keep everything
+
+88
+00:01:24,710 --> 00:01:24,720
+in aikido we want to keep everything
+ 
+
+89
+00:01:24,720 --> 00:01:27,030
+in aikido we want to keep everything
+energetic and ideally we want to have it
+
+90
+00:01:27,030 --> 00:01:27,040
+energetic and ideally we want to have it
+ 
+
+91
+00:01:27,040 --> 00:01:28,149
+energetic and ideally we want to have it
+energetically
+
+92
+00:01:28,149 --> 00:01:28,159
+energetically
+ 
+
+93
+00:01:28,159 --> 00:01:30,469
+energetically
+work together and not oppose each other
+
+94
+00:01:30,469 --> 00:01:30,479
+work together and not oppose each other
+ 
+
+95
+00:01:30,479 --> 00:01:31,910
+work together and not oppose each other
+so struggle's the antithesis of what
+
+96
+00:01:31,910 --> 00:01:31,920
+so struggle's the antithesis of what
+ 
+
+97
+00:01:31,920 --> 00:01:32,789
+so struggle's the antithesis of what
+we're trying to do
+
+98
+00:01:32,789 --> 00:01:32,799
+we're trying to do
+ 
+
+99
+00:01:32,799 --> 00:01:34,950
+we're trying to do
+so we're trying to ideally if we're
+
+100
+00:01:34,950 --> 00:01:34,960
+so we're trying to ideally if we're
+ 
+
+101
+00:01:34,960 --> 00:01:36,710
+so we're trying to ideally if we're
+really skilled we'd be able to to figure
+
+102
+00:01:36,710 --> 00:01:36,720
+really skilled we'd be able to to figure
+ 
+
+103
+00:01:36,720 --> 00:01:38,230
+really skilled we'd be able to to figure
+out a way to always make the energies
+
+104
+00:01:38,230 --> 00:01:38,240
+out a way to always make the energies
+ 
+
+105
+00:01:38,240 --> 00:01:38,710
+out a way to always make the energies
+match
+
+106
+00:01:38,710 --> 00:01:38,720
+match
+ 
+
+107
+00:01:38,720 --> 00:01:39,830
+match
+that wouldn't be a struggle and
+
+108
+00:01:39,830 --> 00:01:39,840
+that wouldn't be a struggle and
+ 
+
+109
+00:01:39,840 --> 00:01:41,749
+that wouldn't be a struggle and
+everything would come off really well so
+
+110
+00:01:41,749 --> 00:01:41,759
+everything would come off really well so
+ 
+
+111
+00:01:41,759 --> 00:01:42,789
+everything would come off really well so
+when we're talking about that we can't
+
+112
+00:01:42,789 --> 00:01:42,799
+when we're talking about that we can't
+ 
+
+113
+00:01:42,799 --> 00:01:44,389
+when we're talking about that we can't
+really use the word sparring anymore
+
+114
+00:01:44,389 --> 00:01:44,399
+really use the word sparring anymore
+ 
+
+115
+00:01:44,399 --> 00:01:46,710
+really use the word sparring anymore
+we now have to use the word uh live
+
+116
+00:01:46,710 --> 00:01:46,720
+we now have to use the word uh live
+ 
+
+117
+00:01:46,720 --> 00:01:47,990
+we now have to use the word uh live
+training and live training just means a
+
+118
+00:01:47,990 --> 00:01:48,000
+training and live training just means a
+ 
+
+119
+00:01:48,000 --> 00:01:49,670
+training and live training just means a
+situation that's live you know so all
+
+120
+00:01:49,670 --> 00:01:49,680
+situation that's live you know so all
+ 
+
+121
+00:01:49,680 --> 00:01:50,950
+situation that's live you know so all
+kinds of different variables could
+
+122
+00:01:50,950 --> 00:01:50,960
+kinds of different variables could
+ 
+
+123
+00:01:50,960 --> 00:01:51,429
+kinds of different variables could
+happen
+
+124
+00:01:51,429 --> 00:01:51,439
+happen
+ 
+
+125
+00:01:51,439 --> 00:01:52,950
+happen
+and you have to be able to act in the
+
+126
+00:01:52,950 --> 00:01:52,960
+and you have to be able to act in the
+ 
+
+127
+00:01:52,960 --> 00:01:54,870
+and you have to be able to act in the
+moment and deal with those variables as
+
+128
+00:01:54,870 --> 00:01:54,880
+moment and deal with those variables as
+ 
+
+129
+00:01:54,880 --> 00:01:55,510
+moment and deal with those variables as
+we go
+
+130
+00:01:55,510 --> 00:01:55,520
+we go
+ 
+
+131
+00:01:55,520 --> 00:01:58,389
+we go
+so remember the way we break down aikido
+
+132
+00:01:58,389 --> 00:01:58,399
+so remember the way we break down aikido
+ 
+
+133
+00:01:58,399 --> 00:01:59,670
+so remember the way we break down aikido
+here in the school
+
+134
+00:01:59,670 --> 00:01:59,680
+here in the school
+ 
+
+135
+00:01:59,680 --> 00:02:01,910
+here in the school
+we have three major components one is
+
+136
+00:02:01,910 --> 00:02:01,920
+we have three major components one is
+ 
+
+137
+00:02:01,920 --> 00:02:04,069
+we have three major components one is
+tai sabaki and that's how you organize
+
+138
+00:02:04,069 --> 00:02:04,079
+tai sabaki and that's how you organize
+ 
+
+139
+00:02:04,079 --> 00:02:05,270
+tai sabaki and that's how you organize
+your body so that's
+
+140
+00:02:05,270 --> 00:02:05,280
+your body so that's
+ 
+
+141
+00:02:05,280 --> 00:02:08,150
+your body so that's
+any way you make strength or power or
+
+142
+00:02:08,150 --> 00:02:08,160
+any way you make strength or power or
+ 
+
+143
+00:02:08,160 --> 00:02:08,949
+any way you make strength or power or
+force or
+
+144
+00:02:08,949 --> 00:02:08,959
+force or
+ 
+
+145
+00:02:08,959 --> 00:02:11,589
+force or
+step or fall down any of that stuff's
+
+146
+00:02:11,589 --> 00:02:11,599
+step or fall down any of that stuff's
+ 
+
+147
+00:02:11,599 --> 00:02:13,589
+step or fall down any of that stuff's
+all how you personally organize your own
+
+148
+00:02:13,589 --> 00:02:13,599
+all how you personally organize your own
+ 
+
+149
+00:02:13,599 --> 00:02:14,229
+all how you personally organize your own
+body
+
+150
+00:02:14,229 --> 00:02:14,239
+body
+ 
+
+151
+00:02:14,239 --> 00:02:17,190
+body
+then we have aiki and ikea is the
+
+152
+00:02:17,190 --> 00:02:17,200
+then we have aiki and ikea is the
+ 
+
+153
+00:02:17,200 --> 00:02:19,270
+then we have aiki and ikea is the
+ability to energetically interact and
+
+154
+00:02:19,270 --> 00:02:19,280
+ability to energetically interact and
+ 
+
+155
+00:02:19,280 --> 00:02:21,270
+ability to energetically interact and
+kumiuchi and that's the ability to
+
+156
+00:02:21,270 --> 00:02:21,280
+kumiuchi and that's the ability to
+ 
+
+157
+00:02:21,280 --> 00:02:21,990
+kumiuchi and that's the ability to
+struggle
+
+158
+00:02:21,990 --> 00:02:22,000
+struggle
+ 
+
+159
+00:02:22,000 --> 00:02:23,830
+struggle
+and aikido we don't want to struggle as
+
+160
+00:02:23,830 --> 00:02:23,840
+and aikido we don't want to struggle as
+ 
+
+161
+00:02:23,840 --> 00:02:25,430
+and aikido we don't want to struggle as
+a means to an end
+
+162
+00:02:25,430 --> 00:02:25,440
+a means to an end
+ 
+
+163
+00:02:25,440 --> 00:02:27,430
+a means to an end
+we want to struggle only to set us back
+
+164
+00:02:27,430 --> 00:02:27,440
+we want to struggle only to set us back
+ 
+
+165
+00:02:27,440 --> 00:02:29,270
+we want to struggle only to set us back
+to ikey so that's the idea we
+
+166
+00:02:29,270 --> 00:02:29,280
+to ikey so that's the idea we
+ 
+
+167
+00:02:29,280 --> 00:02:31,910
+to ikey so that's the idea we
+only use kumiuch in a very limited way
+
+168
+00:02:31,910 --> 00:02:31,920
+only use kumiuch in a very limited way
+ 
+
+169
+00:02:31,920 --> 00:02:33,830
+only use kumiuch in a very limited way
+so we can get back to setting up ikey
+
+170
+00:02:33,830 --> 00:02:33,840
+so we can get back to setting up ikey
+ 
+
+171
+00:02:33,840 --> 00:02:34,869
+so we can get back to setting up ikey
+and that's what we're always working
+
+172
+00:02:34,869 --> 00:02:34,879
+and that's what we're always working
+ 
+
+173
+00:02:34,879 --> 00:02:35,350
+and that's what we're always working
+towards
+
+174
+00:02:35,350 --> 00:02:35,360
+towards
+ 
+
+175
+00:02:35,360 --> 00:02:37,430
+towards
+all right so today maya's going to
+
+176
+00:02:37,430 --> 00:02:37,440
+all right so today maya's going to
+ 
+
+177
+00:02:37,440 --> 00:02:38,949
+all right so today maya's going to
+represent ikey for us so we're going to
+
+178
+00:02:38,949 --> 00:02:38,959
+represent ikey for us so we're going to
+ 
+
+179
+00:02:38,959 --> 00:02:41,670
+represent ikey for us so we're going to
+have her doing all the ikey stuff
+
+180
+00:02:41,670 --> 00:02:41,680
+have her doing all the ikey stuff
+ 
+
+181
+00:02:41,680 --> 00:02:43,110
+have her doing all the ikey stuff
+and then we're going to go through the
+
+182
+00:02:43,110 --> 00:02:43,120
+and then we're going to go through the
+ 
+
+183
+00:02:43,120 --> 00:02:44,630
+and then we're going to go through the
+basic live drills all right so i think
+
+184
+00:02:44,630 --> 00:02:44,640
+basic live drills all right so i think
+ 
+
+185
+00:02:44,640 --> 00:02:46,550
+basic live drills all right so i think
+the first thing to understand and one of
+
+186
+00:02:46,550 --> 00:02:46,560
+the first thing to understand and one of
+ 
+
+187
+00:02:46,560 --> 00:02:48,470
+the first thing to understand and one of
+the most important lessons for an aikido
+
+188
+00:02:48,470 --> 00:02:48,480
+the most important lessons for an aikido
+ 
+
+189
+00:02:48,480 --> 00:02:49,589
+the most important lessons for an aikido
+student is
+
+190
+00:02:49,589 --> 00:02:49,599
+student is
+ 
+
+191
+00:02:49,599 --> 00:02:53,350
+student is
+what range does making ikey become
+
+192
+00:02:53,350 --> 00:02:53,360
+what range does making ikey become
+ 
+
+193
+00:02:53,360 --> 00:02:55,350
+what range does making ikey become
+very very difficult right so
+
+194
+00:02:55,350 --> 00:02:55,360
+very very difficult right so
+ 
+
+195
+00:02:55,360 --> 00:02:57,110
+very very difficult right so
+understanding that range is super super
+
+196
+00:02:57,110 --> 00:02:57,120
+understanding that range is super super
+ 
+
+197
+00:02:57,120 --> 00:02:57,589
+understanding that range is super super
+important
+
+198
+00:02:57,589 --> 00:02:57,599
+important
+ 
+
+199
+00:02:57,599 --> 00:02:58,949
+important
+so we're going to show a really simple
+
+200
+00:02:58,949 --> 00:02:58,959
+so we're going to show a really simple
+ 
+
+201
+00:02:58,959 --> 00:03:00,390
+so we're going to show a really simple
+drill that i use all the time i use it
+
+202
+00:03:00,390 --> 00:03:00,400
+drill that i use all the time i use it
+ 
+
+203
+00:03:00,400 --> 00:03:01,830
+drill that i use all the time i use it
+in my self-defense classes when i'm
+
+204
+00:03:01,830 --> 00:03:01,840
+in my self-defense classes when i'm
+ 
+
+205
+00:03:01,840 --> 00:03:02,550
+in my self-defense classes when i'm
+talking about
+
+206
+00:03:02,550 --> 00:03:02,560
+talking about
+ 
+
+207
+00:03:02,560 --> 00:03:04,309
+talking about
+just in general to people you know what
+
+208
+00:03:04,309 --> 00:03:04,319
+just in general to people you know what
+ 
+
+209
+00:03:04,319 --> 00:03:06,229
+just in general to people you know what
+is a dangerous self-defense range and
+
+210
+00:03:06,229 --> 00:03:06,239
+is a dangerous self-defense range and
+ 
+
+211
+00:03:06,239 --> 00:03:08,229
+is a dangerous self-defense range and
+what is an acceptable self-defense range
+
+212
+00:03:08,229 --> 00:03:08,239
+what is an acceptable self-defense range
+ 
+
+213
+00:03:08,239 --> 00:03:10,390
+what is an acceptable self-defense range
+um and also in aikido and aikido is
+
+214
+00:03:10,390 --> 00:03:10,400
+um and also in aikido and aikido is
+ 
+
+215
+00:03:10,400 --> 00:03:11,750
+um and also in aikido and aikido is
+where i actually got all these ideas
+
+216
+00:03:11,750 --> 00:03:11,760
+where i actually got all these ideas
+ 
+
+217
+00:03:11,760 --> 00:03:12,390
+where i actually got all these ideas
+from so
+
+218
+00:03:12,390 --> 00:03:12,400
+from so
+ 
+
+219
+00:03:12,400 --> 00:03:14,630
+from so
+these are the lessons of aikido um so
+
+220
+00:03:14,630 --> 00:03:14,640
+these are the lessons of aikido um so
+ 
+
+221
+00:03:14,640 --> 00:03:15,670
+these are the lessons of aikido um so
+we're gonna talk about that first we're
+
+222
+00:03:15,670 --> 00:03:15,680
+we're gonna talk about that first we're
+ 
+
+223
+00:03:15,680 --> 00:03:17,350
+we're gonna talk about that first we're
+gonna set up josh and maya at a really
+
+224
+00:03:17,350 --> 00:03:17,360
+gonna set up josh and maya at a really
+ 
+
+225
+00:03:17,360 --> 00:03:18,229
+gonna set up josh and maya at a really
+simple distance
+
+226
+00:03:18,229 --> 00:03:18,239
+simple distance
+ 
+
+227
+00:03:18,239 --> 00:03:19,990
+simple distance
+they're going to be at a shoulder touch
+
+228
+00:03:19,990 --> 00:03:20,000
+they're going to be at a shoulder touch
+ 
+
+229
+00:03:20,000 --> 00:03:21,509
+they're going to be at a shoulder touch
+okay so now i see if josh sticks out his
+
+230
+00:03:21,509 --> 00:03:21,519
+okay so now i see if josh sticks out his
+ 
+
+231
+00:03:21,519 --> 00:03:23,509
+okay so now i see if josh sticks out his
+hand he can touch my shoulder without
+
+232
+00:03:23,509 --> 00:03:23,519
+hand he can touch my shoulder without
+ 
+
+233
+00:03:23,519 --> 00:03:25,350
+hand he can touch my shoulder without
+moving his body at all so he can easily
+
+234
+00:03:25,350 --> 00:03:25,360
+moving his body at all so he can easily
+ 
+
+235
+00:03:25,360 --> 00:03:26,710
+moving his body at all so he can easily
+touch her shoulder
+
+236
+00:03:26,710 --> 00:03:26,720
+touch her shoulder
+ 
+
+237
+00:03:26,720 --> 00:03:28,070
+touch her shoulder
+all right now from this it's going to be
+
+238
+00:03:28,070 --> 00:03:28,080
+all right now from this it's going to be
+ 
+
+239
+00:03:28,080 --> 00:03:29,830
+all right now from this it's going to be
+real simple all josh is going to try to
+
+240
+00:03:29,830 --> 00:03:29,840
+real simple all josh is going to try to
+ 
+
+241
+00:03:29,840 --> 00:03:31,270
+real simple all josh is going to try to
+do is touch my shoulder
+
+242
+00:03:31,270 --> 00:03:31,280
+do is touch my shoulder
+ 
+
+243
+00:03:31,280 --> 00:03:32,789
+do is touch my shoulder
+that's it try and touch her shoulder now
+
+244
+00:03:32,789 --> 00:03:32,799
+that's it try and touch her shoulder now
+ 
+
+245
+00:03:32,799 --> 00:03:34,149
+that's it try and touch her shoulder now
+understand if he could touch her
+
+246
+00:03:34,149 --> 00:03:34,159
+understand if he could touch her
+ 
+
+247
+00:03:34,159 --> 00:03:35,110
+understand if he could touch her
+shoulder like that
+
+248
+00:03:35,110 --> 00:03:35,120
+shoulder like that
+ 
+
+249
+00:03:35,120 --> 00:03:36,710
+shoulder like that
+that means he could hit her in the face
+
+250
+00:03:36,710 --> 00:03:36,720
+that means he could hit her in the face
+ 
+
+251
+00:03:36,720 --> 00:03:38,070
+that means he could hit her in the face
+he could cut her with a knife he could
+
+252
+00:03:38,070 --> 00:03:38,080
+he could cut her with a knife he could
+ 
+
+253
+00:03:38,080 --> 00:03:39,509
+he could cut her with a knife he could
+anything all you got to do is move his
+
+254
+00:03:39,509 --> 00:03:39,519
+anything all you got to do is move his
+ 
+
+255
+00:03:39,519 --> 00:03:41,030
+anything all you got to do is move his
+arm then he could do all those actions
+
+256
+00:03:41,030 --> 00:03:41,040
+arm then he could do all those actions
+ 
+
+257
+00:03:41,040 --> 00:03:42,229
+arm then he could do all those actions
+he could grab her to pull her in and
+
+258
+00:03:42,229 --> 00:03:42,239
+he could grab her to pull her in and
+ 
+
+259
+00:03:42,239 --> 00:03:43,030
+he could grab her to pull her in and
+wrestle with her
+
+260
+00:03:43,030 --> 00:03:43,040
+wrestle with her
+ 
+
+261
+00:03:43,040 --> 00:03:45,430
+wrestle with her
+whatever stuff so that's the range at
+
+262
+00:03:45,430 --> 00:03:45,440
+whatever stuff so that's the range at
+ 
+
+263
+00:03:45,440 --> 00:03:46,390
+whatever stuff so that's the range at
+which he could do that
+
+264
+00:03:46,390 --> 00:03:46,400
+which he could do that
+ 
+
+265
+00:03:46,400 --> 00:03:47,830
+which he could do that
+okay so he's only going to touch your
+
+266
+00:03:47,830 --> 00:03:47,840
+okay so he's only going to touch your
+ 
+
+267
+00:03:47,840 --> 00:03:49,430
+okay so he's only going to touch your
+shoulder and what maya is going to try
+
+268
+00:03:49,430 --> 00:03:49,440
+shoulder and what maya is going to try
+ 
+
+269
+00:03:49,440 --> 00:03:49,990
+shoulder and what maya is going to try
+to do
+
+270
+00:03:49,990 --> 00:03:50,000
+to do
+ 
+
+271
+00:03:50,000 --> 00:03:52,949
+to do
+is always get out of the way so every
+
+272
+00:03:52,949 --> 00:03:52,959
+is always get out of the way so every
+ 
+
+273
+00:03:52,959 --> 00:03:54,630
+is always get out of the way so every
+time josh tries to touch her shoulder
+
+274
+00:03:54,630 --> 00:03:54,640
+time josh tries to touch her shoulder
+ 
+
+275
+00:03:54,640 --> 00:03:55,990
+time josh tries to touch her shoulder
+maya is going to just do a slow one so
+
+276
+00:03:55,990 --> 00:03:56,000
+maya is going to just do a slow one so
+ 
+
+277
+00:03:56,000 --> 00:03:57,670
+maya is going to just do a slow one so
+we can see josh going to be right there
+
+278
+00:03:57,670 --> 00:03:57,680
+we can see josh going to be right there
+ 
+
+279
+00:03:57,680 --> 00:03:59,589
+we can see josh going to be right there
+we go so every time he moves his hand
+
+280
+00:03:59,589 --> 00:03:59,599
+we go so every time he moves his hand
+ 
+
+281
+00:03:59,599 --> 00:04:00,710
+we go so every time he moves his hand
+maya's going to try to move out of the
+
+282
+00:04:00,710 --> 00:04:00,720
+maya's going to try to move out of the
+ 
+
+283
+00:04:00,720 --> 00:04:02,309
+maya's going to try to move out of the
+way so we can see that okay now josh is
+
+284
+00:04:02,309 --> 00:04:02,319
+way so we can see that okay now josh is
+ 
+
+285
+00:04:02,319 --> 00:04:02,789
+way so we can see that okay now josh is
+going to go
+
+286
+00:04:02,789 --> 00:04:02,799
+going to go
+ 
+
+287
+00:04:02,799 --> 00:04:04,630
+going to go
+freely of his own accord whenever he
+
+288
+00:04:04,630 --> 00:04:04,640
+freely of his own accord whenever he
+ 
+
+289
+00:04:04,640 --> 00:04:06,390
+freely of his own accord whenever he
+wants to do it so if he can detect some
+
+290
+00:04:06,390 --> 00:04:06,400
+wants to do it so if he can detect some
+ 
+
+291
+00:04:06,400 --> 00:04:08,470
+wants to do it so if he can detect some
+kind of rhythms or patterns maya is in
+
+292
+00:04:08,470 --> 00:04:08,480
+kind of rhythms or patterns maya is in
+ 
+
+293
+00:04:08,480 --> 00:04:09,830
+kind of rhythms or patterns maya is in
+or get her at a moment she's not
+
+294
+00:04:09,830 --> 00:04:09,840
+or get her at a moment she's not
+ 
+
+295
+00:04:09,840 --> 00:04:11,110
+or get her at a moment she's not
+expecting it if he sees she kind of
+
+296
+00:04:11,110 --> 00:04:11,120
+expecting it if he sees she kind of
+ 
+
+297
+00:04:11,120 --> 00:04:12,789
+expecting it if he sees she kind of
+dozes off then he's going to use that
+
+298
+00:04:12,789 --> 00:04:12,799
+dozes off then he's going to use that
+ 
+
+299
+00:04:12,799 --> 00:04:13,990
+dozes off then he's going to use that
+time to get her right so
+
+300
+00:04:13,990 --> 00:04:14,000
+time to get her right so
+ 
+
+301
+00:04:14,000 --> 00:04:15,429
+time to get her right so
+he's whenever he wants to come in and
+
+302
+00:04:15,429 --> 00:04:15,439
+he's whenever he wants to come in and
+ 
+
+303
+00:04:15,439 --> 00:04:23,590
+he's whenever he wants to come in and
+try and touch her
+
+304
+00:04:23,590 --> 00:04:23,600
+
+ 
+
+305
+00:04:23,600 --> 00:04:26,710
+
+all right good enough okay now we could
+
+306
+00:04:26,710 --> 00:04:26,720
+all right good enough okay now we could
+ 
+
+307
+00:04:26,720 --> 00:04:27,510
+all right good enough okay now we could
+make lots of
+
+308
+00:04:27,510 --> 00:04:27,520
+make lots of
+ 
+
+309
+00:04:27,520 --> 00:04:29,030
+make lots of
+inferences from that right so we could
+
+310
+00:04:29,030 --> 00:04:29,040
+inferences from that right so we could
+ 
+
+311
+00:04:29,040 --> 00:04:31,749
+inferences from that right so we could
+say well maya sucks at martial arts so
+
+312
+00:04:31,749 --> 00:04:31,759
+say well maya sucks at martial arts so
+ 
+
+313
+00:04:31,759 --> 00:04:33,590
+say well maya sucks at martial arts so
+because she sucks at martial arts
+
+314
+00:04:33,590 --> 00:04:33,600
+because she sucks at martial arts
+ 
+
+315
+00:04:33,600 --> 00:04:34,870
+because she sucks at martial arts
+then she needs to do more training
+
+316
+00:04:34,870 --> 00:04:34,880
+then she needs to do more training
+ 
+
+317
+00:04:34,880 --> 00:04:37,909
+then she needs to do more training
+because josh got her every single time
+
+318
+00:04:37,909 --> 00:04:37,919
+because josh got her every single time
+ 
+
+319
+00:04:37,919 --> 00:04:39,830
+because josh got her every single time
+if we took a large group of people and
+
+320
+00:04:39,830 --> 00:04:39,840
+if we took a large group of people and
+ 
+
+321
+00:04:39,840 --> 00:04:41,430
+if we took a large group of people and
+looked at him doing this we would see
+
+322
+00:04:41,430 --> 00:04:41,440
+looked at him doing this we would see
+ 
+
+323
+00:04:41,440 --> 00:04:43,670
+looked at him doing this we would see
+that most people get hit at that range
+
+324
+00:04:43,670 --> 00:04:43,680
+that most people get hit at that range
+ 
+
+325
+00:04:43,680 --> 00:04:45,030
+that most people get hit at that range
+now the reason is because
+
+326
+00:04:45,030 --> 00:04:45,040
+now the reason is because
+ 
+
+327
+00:04:45,040 --> 00:04:48,070
+now the reason is because
+this range is inherently dangerous there
+
+328
+00:04:48,070 --> 00:04:48,080
+this range is inherently dangerous there
+ 
+
+329
+00:04:48,080 --> 00:04:50,310
+this range is inherently dangerous there
+is not a skill set you can train
+
+330
+00:04:50,310 --> 00:04:50,320
+is not a skill set you can train
+ 
+
+331
+00:04:50,320 --> 00:04:53,110
+is not a skill set you can train
+at this range to make you regularly
+
+332
+00:04:53,110 --> 00:04:53,120
+at this range to make you regularly
+ 
+
+333
+00:04:53,120 --> 00:04:53,990
+at this range to make you regularly
+successful
+
+334
+00:04:53,990 --> 00:04:54,000
+successful
+ 
+
+335
+00:04:54,000 --> 00:04:55,189
+successful
+now that's not to say you can't
+
+336
+00:04:55,189 --> 00:04:55,199
+now that's not to say you can't
+ 
+
+337
+00:04:55,199 --> 00:04:56,870
+now that's not to say you can't
+sometimes get out of the way but again
+
+338
+00:04:56,870 --> 00:04:56,880
+sometimes get out of the way but again
+ 
+
+339
+00:04:56,880 --> 00:04:58,310
+sometimes get out of the way but again
+that's a roll of the dice and remember
+
+340
+00:04:58,310 --> 00:04:58,320
+that's a roll of the dice and remember
+ 
+
+341
+00:04:58,320 --> 00:04:59,909
+that's a roll of the dice and remember
+we're trying to look at trained skills
+
+342
+00:04:59,909 --> 00:04:59,919
+we're trying to look at trained skills
+ 
+
+343
+00:04:59,919 --> 00:05:01,110
+we're trying to look at trained skills
+things we can get better at
+
+344
+00:05:01,110 --> 00:05:01,120
+things we can get better at
+ 
+
+345
+00:05:01,120 --> 00:05:02,710
+things we can get better at
+now the reason that it's so hard for
+
+346
+00:05:02,710 --> 00:05:02,720
+now the reason that it's so hard for
+ 
+
+347
+00:05:02,720 --> 00:05:04,469
+now the reason that it's so hard for
+maya to get out of the range here
+
+348
+00:05:04,469 --> 00:05:04,479
+maya to get out of the range here
+ 
+
+349
+00:05:04,479 --> 00:05:07,909
+maya to get out of the range here
+is because two reasons one josh's hand
+
+350
+00:05:07,909 --> 00:05:07,919
+is because two reasons one josh's hand
+ 
+
+351
+00:05:07,919 --> 00:05:10,230
+is because two reasons one josh's hand
+is significantly faster than maya's foot
+
+352
+00:05:10,230 --> 00:05:10,240
+is significantly faster than maya's foot
+ 
+
+353
+00:05:10,240 --> 00:05:11,909
+is significantly faster than maya's foot
+so when she's trying to take an action
+
+354
+00:05:11,909 --> 00:05:11,919
+so when she's trying to take an action
+ 
+
+355
+00:05:11,919 --> 00:05:14,150
+so when she's trying to take an action
+with her foot to counter josh's action
+
+356
+00:05:14,150 --> 00:05:14,160
+with her foot to counter josh's action
+ 
+
+357
+00:05:14,160 --> 00:05:15,189
+with her foot to counter josh's action
+with his hands
+
+358
+00:05:15,189 --> 00:05:15,199
+with his hands
+ 
+
+359
+00:05:15,199 --> 00:05:17,350
+with his hands
+then it's going to be inherently slow so
+
+360
+00:05:17,350 --> 00:05:17,360
+then it's going to be inherently slow so
+ 
+
+361
+00:05:17,360 --> 00:05:18,950
+then it's going to be inherently slow so
+we're teaching the students something
+
+362
+00:05:18,950 --> 00:05:18,960
+we're teaching the students something
+ 
+
+363
+00:05:18,960 --> 00:05:19,749
+we're teaching the students something
+really
+
+364
+00:05:19,749 --> 00:05:19,759
+really
+ 
+
+365
+00:05:19,759 --> 00:05:21,830
+really
+true and visceral at this point which is
+
+366
+00:05:21,830 --> 00:05:21,840
+true and visceral at this point which is
+ 
+
+367
+00:05:21,840 --> 00:05:23,510
+true and visceral at this point which is
+you can't move your feet as fast as
+
+368
+00:05:23,510 --> 00:05:23,520
+you can't move your feet as fast as
+ 
+
+369
+00:05:23,520 --> 00:05:25,510
+you can't move your feet as fast as
+someone can move their hands okay now
+
+370
+00:05:25,510 --> 00:05:25,520
+someone can move their hands okay now
+ 
+
+371
+00:05:25,520 --> 00:05:27,350
+someone can move their hands okay now
+we could of course add to this that maya
+
+372
+00:05:27,350 --> 00:05:27,360
+we could of course add to this that maya
+ 
+
+373
+00:05:27,360 --> 00:05:29,110
+we could of course add to this that maya
+could block so let's say josh comes in
+
+374
+00:05:29,110 --> 00:05:29,120
+could block so let's say josh comes in
+ 
+
+375
+00:05:29,120 --> 00:05:30,790
+could block so let's say josh comes in
+to hit her and maya blocks okay now
+
+376
+00:05:30,790 --> 00:05:30,800
+to hit her and maya blocks okay now
+ 
+
+377
+00:05:30,800 --> 00:05:32,710
+to hit her and maya blocks okay now
+that's very reasonable maya can use
+
+378
+00:05:32,710 --> 00:05:32,720
+that's very reasonable maya can use
+ 
+
+379
+00:05:32,720 --> 00:05:35,029
+that's very reasonable maya can use
+her hand speed to match josh's hand
+
+380
+00:05:35,029 --> 00:05:35,039
+her hand speed to match josh's hand
+ 
+
+381
+00:05:35,039 --> 00:05:37,510
+her hand speed to match josh's hand
+speed however the problem with this is
+
+382
+00:05:37,510 --> 00:05:37,520
+speed however the problem with this is
+ 
+
+383
+00:05:37,520 --> 00:05:39,830
+speed however the problem with this is
+maya just doesn't have much reaction
+
+384
+00:05:39,830 --> 00:05:39,840
+maya just doesn't have much reaction
+ 
+
+385
+00:05:39,840 --> 00:05:40,790
+maya just doesn't have much reaction
+time in this
+
+386
+00:05:40,790 --> 00:05:40,800
+time in this
+ 
+
+387
+00:05:40,800 --> 00:05:43,270
+time in this
+now if she trained a whole lot and maybe
+
+388
+00:05:43,270 --> 00:05:43,280
+now if she trained a whole lot and maybe
+ 
+
+389
+00:05:43,280 --> 00:05:45,430
+now if she trained a whole lot and maybe
+had a better reaction time than josh has
+
+390
+00:05:45,430 --> 00:05:45,440
+had a better reaction time than josh has
+ 
+
+391
+00:05:45,440 --> 00:05:46,950
+had a better reaction time than josh has
+to to make his action happen
+
+392
+00:05:46,950 --> 00:05:46,960
+to to make his action happen
+ 
+
+393
+00:05:46,960 --> 00:05:49,029
+to to make his action happen
+she might be able to kind of get closer
+
+394
+00:05:49,029 --> 00:05:49,039
+she might be able to kind of get closer
+ 
+
+395
+00:05:49,039 --> 00:05:50,550
+she might be able to kind of get closer
+to 50 50 or so
+
+396
+00:05:50,550 --> 00:05:50,560
+to 50 50 or so
+ 
+
+397
+00:05:50,560 --> 00:05:52,950
+to 50 50 or so
+but in truth if this guy is at all close
+
+398
+00:05:52,950 --> 00:05:52,960
+but in truth if this guy is at all close
+ 
+
+399
+00:05:52,960 --> 00:05:54,150
+but in truth if this guy is at all close
+to her ability level
+
+400
+00:05:54,150 --> 00:05:54,160
+to her ability level
+ 
+
+401
+00:05:54,160 --> 00:05:57,110
+to her ability level
+he'll always win because he is acting
+
+402
+00:05:57,110 --> 00:05:57,120
+he'll always win because he is acting
+ 
+
+403
+00:05:57,120 --> 00:05:57,830
+he'll always win because he is acting
+first
+
+404
+00:05:57,830 --> 00:05:57,840
+first
+ 
+
+405
+00:05:57,840 --> 00:05:59,749
+first
+first person to act is generally going
+
+406
+00:05:59,749 --> 00:05:59,759
+first person to act is generally going
+ 
+
+407
+00:05:59,759 --> 00:06:00,870
+first person to act is generally going
+to win the situation
+
+408
+00:06:00,870 --> 00:06:00,880
+to win the situation
+ 
+
+409
+00:06:00,880 --> 00:06:02,390
+to win the situation
+so we're teaching them something else
+
+410
+00:06:02,390 --> 00:06:02,400
+so we're teaching them something else
+ 
+
+411
+00:06:02,400 --> 00:06:04,629
+so we're teaching them something else
+really important that reacting is
+
+412
+00:06:04,629 --> 00:06:04,639
+really important that reacting is
+ 
+
+413
+00:06:04,639 --> 00:06:06,710
+really important that reacting is
+slower than acting right and that's an
+
+414
+00:06:06,710 --> 00:06:06,720
+slower than acting right and that's an
+ 
+
+415
+00:06:06,720 --> 00:06:07,990
+slower than acting right and that's an
+important thing to understand
+
+416
+00:06:07,990 --> 00:06:08,000
+important thing to understand
+ 
+
+417
+00:06:08,000 --> 00:06:09,590
+important thing to understand
+so two good things come out of this
+
+418
+00:06:09,590 --> 00:06:09,600
+so two good things come out of this
+ 
+
+419
+00:06:09,600 --> 00:06:11,110
+so two good things come out of this
+drill and it's a very live drill
+
+420
+00:06:11,110 --> 00:06:11,120
+drill and it's a very live drill
+ 
+
+421
+00:06:11,120 --> 00:06:13,909
+drill and it's a very live drill
+one is that your hand moves way faster
+
+422
+00:06:13,909 --> 00:06:13,919
+one is that your hand moves way faster
+ 
+
+423
+00:06:13,919 --> 00:06:15,350
+one is that your hand moves way faster
+than the foot
+
+424
+00:06:15,350 --> 00:06:15,360
+than the foot
+ 
+
+425
+00:06:15,360 --> 00:06:18,309
+than the foot
+and two is that reaction time is slower
+
+426
+00:06:18,309 --> 00:06:18,319
+and two is that reaction time is slower
+ 
+
+427
+00:06:18,319 --> 00:06:18,629
+and two is that reaction time is slower
+than
+
+428
+00:06:18,629 --> 00:06:18,639
+than
+ 
+
+429
+00:06:18,639 --> 00:06:20,950
+than
+action time right so so we learned that
+
+430
+00:06:20,950 --> 00:06:20,960
+action time right so so we learned that
+ 
+
+431
+00:06:20,960 --> 00:06:21,830
+action time right so so we learned that
+all right now
+
+432
+00:06:21,830 --> 00:06:21,840
+all right now
+ 
+
+433
+00:06:21,840 --> 00:06:24,870
+all right now
+that being said as iq students we're not
+
+434
+00:06:24,870 --> 00:06:24,880
+that being said as iq students we're not
+ 
+
+435
+00:06:24,880 --> 00:06:26,710
+that being said as iq students we're not
+going to spend much time working at this
+
+436
+00:06:26,710 --> 00:06:26,720
+going to spend much time working at this
+ 
+
+437
+00:06:26,720 --> 00:06:28,150
+going to spend much time working at this
+range and in fact we're going to learn
+
+438
+00:06:28,150 --> 00:06:28,160
+range and in fact we're going to learn
+ 
+
+439
+00:06:28,160 --> 00:06:28,870
+range and in fact we're going to learn
+that we
+
+440
+00:06:28,870 --> 00:06:28,880
+that we
+ 
+
+441
+00:06:28,880 --> 00:06:31,430
+that we
+hate this range the reason we hate this
+
+442
+00:06:31,430 --> 00:06:31,440
+hate this range the reason we hate this
+ 
+
+443
+00:06:31,440 --> 00:06:32,550
+hate this range the reason we hate this
+range is because
+
+444
+00:06:32,550 --> 00:06:32,560
+range is because
+ 
+
+445
+00:06:32,560 --> 00:06:34,070
+range is because
+it's unlikely that we're going to be
+
+446
+00:06:34,070 --> 00:06:34,080
+it's unlikely that we're going to be
+ 
+
+447
+00:06:34,080 --> 00:06:35,670
+it's unlikely that we're going to be
+successful at this range
+
+448
+00:06:35,670 --> 00:06:35,680
+successful at this range
+ 
+
+449
+00:06:35,680 --> 00:06:38,150
+successful at this range
+this range is for different kinds of
+
+450
+00:06:38,150 --> 00:06:38,160
+this range is for different kinds of
+ 
+
+451
+00:06:38,160 --> 00:06:39,749
+this range is for different kinds of
+martial arts right so
+
+452
+00:06:39,749 --> 00:06:39,759
+martial arts right so
+ 
+
+453
+00:06:39,759 --> 00:06:41,749
+martial arts right so
+studying boxing for this kind of range
+
+454
+00:06:41,749 --> 00:06:41,759
+studying boxing for this kind of range
+ 
+
+455
+00:06:41,759 --> 00:06:43,270
+studying boxing for this kind of range
+and arguably those guys are always
+
+456
+00:06:43,270 --> 00:06:43,280
+and arguably those guys are always
+ 
+
+457
+00:06:43,280 --> 00:06:44,629
+and arguably those guys are always
+trying to stay out of that range except
+
+458
+00:06:44,629 --> 00:06:44,639
+trying to stay out of that range except
+ 
+
+459
+00:06:44,639 --> 00:06:46,390
+trying to stay out of that range except
+for when they want to be in that range
+
+460
+00:06:46,390 --> 00:06:46,400
+for when they want to be in that range
+ 
+
+461
+00:06:46,400 --> 00:06:48,230
+for when they want to be in that range
+studying grappling is good for this kind
+
+462
+00:06:48,230 --> 00:06:48,240
+studying grappling is good for this kind
+ 
+
+463
+00:06:48,240 --> 00:06:49,990
+studying grappling is good for this kind
+of range right so other martial arts
+
+464
+00:06:49,990 --> 00:06:50,000
+of range right so other martial arts
+ 
+
+465
+00:06:50,000 --> 00:06:50,309
+of range right so other martial arts
+which
+
+466
+00:06:50,309 --> 00:06:50,319
+which
+ 
+
+467
+00:06:50,319 --> 00:06:52,150
+which
+are very valid and good to study there's
+
+468
+00:06:52,150 --> 00:06:52,160
+are very valid and good to study there's
+ 
+
+469
+00:06:52,160 --> 00:06:53,430
+are very valid and good to study there's
+nothing wrong with selling other martial
+
+470
+00:06:53,430 --> 00:06:53,440
+nothing wrong with selling other martial
+ 
+
+471
+00:06:53,440 --> 00:06:53,749
+nothing wrong with selling other martial
+arts
+
+472
+00:06:53,749 --> 00:06:53,759
+arts
+ 
+
+473
+00:06:53,759 --> 00:06:55,909
+arts
+are better for this range than aikido is
+
+474
+00:06:55,909 --> 00:06:55,919
+are better for this range than aikido is
+ 
+
+475
+00:06:55,919 --> 00:06:57,430
+are better for this range than aikido is
+so now we got to figure out what an
+
+476
+00:06:57,430 --> 00:06:57,440
+so now we got to figure out what an
+ 
+
+477
+00:06:57,440 --> 00:06:59,670
+so now we got to figure out what an
+aikido acceptable range is all right now
+
+478
+00:06:59,670 --> 00:06:59,680
+aikido acceptable range is all right now
+ 
+
+479
+00:06:59,680 --> 00:07:01,430
+aikido acceptable range is all right now
+we have the aikido ma eye and this is
+
+480
+00:07:01,430 --> 00:07:01,440
+we have the aikido ma eye and this is
+ 
+
+481
+00:07:01,440 --> 00:07:02,150
+we have the aikido ma eye and this is
+the classic
+
+482
+00:07:02,150 --> 00:07:02,160
+the classic
+ 
+
+483
+00:07:02,160 --> 00:07:03,909
+the classic
+eye that everyone learns first day of
+
+484
+00:07:03,909 --> 00:07:03,919
+eye that everyone learns first day of
+ 
+
+485
+00:07:03,919 --> 00:07:05,430
+eye that everyone learns first day of
+aikido class you go into an aikido
+
+486
+00:07:05,430 --> 00:07:05,440
+aikido class you go into an aikido
+ 
+
+487
+00:07:05,440 --> 00:07:05,749
+aikido class you go into an aikido
+school
+
+488
+00:07:05,749 --> 00:07:05,759
+school
+ 
+
+489
+00:07:05,759 --> 00:07:06,950
+school
+and this is probably one of the very
+
+490
+00:07:06,950 --> 00:07:06,960
+and this is probably one of the very
+ 
+
+491
+00:07:06,960 --> 00:07:08,629
+and this is probably one of the very
+first lessons you learned and again
+
+492
+00:07:08,629 --> 00:07:08,639
+first lessons you learned and again
+ 
+
+493
+00:07:08,639 --> 00:07:10,070
+first lessons you learned and again
+we're going to have a game they play at
+
+494
+00:07:10,070 --> 00:07:10,080
+we're going to have a game they play at
+ 
+
+495
+00:07:10,080 --> 00:07:11,350
+we're going to have a game they play at
+this range right which is
+
+496
+00:07:11,350 --> 00:07:11,360
+this range right which is
+ 
+
+497
+00:07:11,360 --> 00:07:12,629
+this range right which is
+they're both going to measure out this
+
+498
+00:07:12,629 --> 00:07:12,639
+they're both going to measure out this
+ 
+
+499
+00:07:12,639 --> 00:07:14,710
+they're both going to measure out this
+distance now we're going to play the
+
+500
+00:07:14,710 --> 00:07:14,720
+distance now we're going to play the
+ 
+
+501
+00:07:14,720 --> 00:07:16,469
+distance now we're going to play the
+exact same game we did a second ago josh
+
+502
+00:07:16,469 --> 00:07:16,479
+exact same game we did a second ago josh
+ 
+
+503
+00:07:16,479 --> 00:07:17,830
+exact same game we did a second ago josh
+is gonna try to hit my shoulder and
+
+504
+00:07:17,830 --> 00:07:17,840
+is gonna try to hit my shoulder and
+ 
+
+505
+00:07:17,840 --> 00:07:24,950
+is gonna try to hit my shoulder and
+maya's gonna try to get out of the way
+
+506
+00:07:24,950 --> 00:07:24,960
+
+ 
+
+507
+00:07:24,960 --> 00:07:27,029
+
+as fast and as erratic as he wants to be
+
+508
+00:07:27,029 --> 00:07:27,039
+as fast and as erratic as he wants to be
+ 
+
+509
+00:07:27,039 --> 00:07:29,270
+as fast and as erratic as he wants to be
+he can go
+
+510
+00:07:29,270 --> 00:07:29,280
+he can go
+ 
+
+511
+00:07:29,280 --> 00:07:32,150
+he can go
+okay now we're already seeing something
+
+512
+00:07:32,150 --> 00:07:32,160
+okay now we're already seeing something
+ 
+
+513
+00:07:32,160 --> 00:07:33,510
+okay now we're already seeing something
+very different
+
+514
+00:07:33,510 --> 00:07:33,520
+very different
+ 
+
+515
+00:07:33,520 --> 00:07:36,070
+very different
+now we could infer from that josh sucks
+
+516
+00:07:36,070 --> 00:07:36,080
+now we could infer from that josh sucks
+ 
+
+517
+00:07:36,080 --> 00:07:37,350
+now we could infer from that josh sucks
+he needs to learn to hit
+
+518
+00:07:37,350 --> 00:07:37,360
+he needs to learn to hit
+ 
+
+519
+00:07:37,360 --> 00:07:39,029
+he needs to learn to hit
+faster and move faster and all that
+
+520
+00:07:39,029 --> 00:07:39,039
+faster and move faster and all that
+ 
+
+521
+00:07:39,039 --> 00:07:40,629
+faster and move faster and all that
+stuff and of course he could always get
+
+522
+00:07:40,629 --> 00:07:40,639
+stuff and of course he could always get
+ 
+
+523
+00:07:40,639 --> 00:07:41,830
+stuff and of course he could always get
+better at that we could all get better
+
+524
+00:07:41,830 --> 00:07:41,840
+better at that we could all get better
+ 
+
+525
+00:07:41,840 --> 00:07:42,309
+better at that we could all get better
+at things
+
+526
+00:07:42,309 --> 00:07:42,319
+at things
+ 
+
+527
+00:07:42,319 --> 00:07:44,390
+at things
+but something else if we looked at a big
+
+528
+00:07:44,390 --> 00:07:44,400
+but something else if we looked at a big
+ 
+
+529
+00:07:44,400 --> 00:07:45,749
+but something else if we looked at a big
+group of people doing this
+
+530
+00:07:45,749 --> 00:07:45,759
+group of people doing this
+ 
+
+531
+00:07:45,759 --> 00:07:47,990
+group of people doing this
+we would learn that generally as long as
+
+532
+00:07:47,990 --> 00:07:48,000
+we would learn that generally as long as
+ 
+
+533
+00:07:48,000 --> 00:07:49,029
+we would learn that generally as long as
+the person receiving
+
+534
+00:07:49,029 --> 00:07:49,039
+the person receiving
+ 
+
+535
+00:07:49,039 --> 00:07:51,430
+the person receiving
+is attentive they can get out of the way
+
+536
+00:07:51,430 --> 00:07:51,440
+is attentive they can get out of the way
+ 
+
+537
+00:07:51,440 --> 00:07:52,950
+is attentive they can get out of the way
+now the reason they can get out of the
+
+538
+00:07:52,950 --> 00:07:52,960
+now the reason they can get out of the
+ 
+
+539
+00:07:52,960 --> 00:07:54,710
+now the reason they can get out of the
+way again is twofold
+
+540
+00:07:54,710 --> 00:07:54,720
+way again is twofold
+ 
+
+541
+00:07:54,720 --> 00:07:57,670
+way again is twofold
+because josh can't just use his hand he
+
+542
+00:07:57,670 --> 00:07:57,680
+because josh can't just use his hand he
+ 
+
+543
+00:07:57,680 --> 00:07:59,270
+because josh can't just use his hand he
+has to move his foot
+
+544
+00:07:59,270 --> 00:07:59,280
+has to move his foot
+ 
+
+545
+00:07:59,280 --> 00:08:01,430
+has to move his foot
+maya can move her foot as well and that
+
+546
+00:08:01,430 --> 00:08:01,440
+maya can move her foot as well and that
+ 
+
+547
+00:08:01,440 --> 00:08:03,189
+maya can move her foot as well and that
+means they're going to be in equal time
+
+548
+00:08:03,189 --> 00:08:03,199
+means they're going to be in equal time
+ 
+
+549
+00:08:03,199 --> 00:08:03,589
+means they're going to be in equal time
+so
+
+550
+00:08:03,589 --> 00:08:03,599
+so
+ 
+
+551
+00:08:03,599 --> 00:08:05,270
+so
+if josh moves his foot and maya moves
+
+552
+00:08:05,270 --> 00:08:05,280
+if josh moves his foot and maya moves
+ 
+
+553
+00:08:05,280 --> 00:08:07,029
+if josh moves his foot and maya moves
+her foot they're in equal time
+
+554
+00:08:07,029 --> 00:08:07,039
+her foot they're in equal time
+ 
+
+555
+00:08:07,039 --> 00:08:08,869
+her foot they're in equal time
+the second thing and arguably more
+
+556
+00:08:08,869 --> 00:08:08,879
+the second thing and arguably more
+ 
+
+557
+00:08:08,879 --> 00:08:10,230
+the second thing and arguably more
+important is that
+
+558
+00:08:10,230 --> 00:08:10,240
+important is that
+ 
+
+559
+00:08:10,240 --> 00:08:13,270
+important is that
+maya has enough reaction time to deal
+
+560
+00:08:13,270 --> 00:08:13,280
+maya has enough reaction time to deal
+ 
+
+561
+00:08:13,280 --> 00:08:15,029
+maya has enough reaction time to deal
+with this situation right so
+
+562
+00:08:15,029 --> 00:08:15,039
+with this situation right so
+ 
+
+563
+00:08:15,039 --> 00:08:16,790
+with this situation right so
+she actually can cognitively figure out
+
+564
+00:08:16,790 --> 00:08:16,800
+she actually can cognitively figure out
+ 
+
+565
+00:08:16,800 --> 00:08:18,950
+she actually can cognitively figure out
+what's going on and deal with that
+
+566
+00:08:18,950 --> 00:08:18,960
+what's going on and deal with that
+ 
+
+567
+00:08:18,960 --> 00:08:21,270
+what's going on and deal with that
+before he can get to her this gives you
+
+568
+00:08:21,270 --> 00:08:21,280
+before he can get to her this gives you
+ 
+
+569
+00:08:21,280 --> 00:08:22,230
+before he can get to her this gives you
+a fighting
+
+570
+00:08:22,230 --> 00:08:22,240
+a fighting
+ 
+
+571
+00:08:22,240 --> 00:08:24,950
+a fighting
+chance now if we go beyond this range we
+
+572
+00:08:24,950 --> 00:08:24,960
+chance now if we go beyond this range we
+ 
+
+573
+00:08:24,960 --> 00:08:26,070
+chance now if we go beyond this range we
+will just skew
+
+574
+00:08:26,070 --> 00:08:26,080
+will just skew
+ 
+
+575
+00:08:26,080 --> 00:08:28,469
+will just skew
+maya's advantages more and more and more
+
+576
+00:08:28,469 --> 00:08:28,479
+maya's advantages more and more and more
+ 
+
+577
+00:08:28,479 --> 00:08:29,830
+maya's advantages more and more and more
+and so it gets to where you know if
+
+578
+00:08:29,830 --> 00:08:29,840
+and so it gets to where you know if
+ 
+
+579
+00:08:29,840 --> 00:08:31,189
+and so it gets to where you know if
+they're really far apart she can
+
+580
+00:08:31,189 --> 00:08:31,199
+they're really far apart she can
+ 
+
+581
+00:08:31,199 --> 00:08:32,630
+they're really far apart she can
+definitely see what's coming way before
+
+582
+00:08:32,630 --> 00:08:32,640
+definitely see what's coming way before
+ 
+
+583
+00:08:32,640 --> 00:08:34,310
+definitely see what's coming way before
+it ever gets there right that is the
+
+584
+00:08:34,310 --> 00:08:34,320
+it ever gets there right that is the
+ 
+
+585
+00:08:34,320 --> 00:08:34,709
+it ever gets there right that is the
+first
+
+586
+00:08:34,709 --> 00:08:34,719
+first
+ 
+
+587
+00:08:34,719 --> 00:08:36,469
+first
+live training drill for i key that your
+
+588
+00:08:36,469 --> 00:08:36,479
+live training drill for i key that your
+ 
+
+589
+00:08:36,479 --> 00:08:38,149
+live training drill for i key that your
+students have to get you have to
+
+590
+00:08:38,149 --> 00:08:38,159
+students have to get you have to
+ 
+
+591
+00:08:38,159 --> 00:08:39,589
+students have to get you have to
+inherently understand
+
+592
+00:08:39,589 --> 00:08:39,599
+inherently understand
+ 
+
+593
+00:08:39,599 --> 00:08:42,709
+inherently understand
+what maw eye is okay now the second
+
+594
+00:08:42,709 --> 00:08:42,719
+what maw eye is okay now the second
+ 
+
+595
+00:08:42,719 --> 00:08:44,070
+what maw eye is okay now the second
+drill you need to work with with the
+
+596
+00:08:44,070 --> 00:08:44,080
+drill you need to work with with the
+ 
+
+597
+00:08:44,080 --> 00:08:44,630
+drill you need to work with with the
+guys
+
+598
+00:08:44,630 --> 00:08:44,640
+guys
+ 
+
+599
+00:08:44,640 --> 00:08:46,790
+guys
+is what happens if the person can
+
+600
+00:08:46,790 --> 00:08:46,800
+is what happens if the person can
+ 
+
+601
+00:08:46,800 --> 00:08:48,710
+is what happens if the person can
+encroach on that distance okay
+
+602
+00:08:48,710 --> 00:08:48,720
+encroach on that distance okay
+ 
+
+603
+00:08:48,720 --> 00:08:50,630
+encroach on that distance okay
+now this is not a live training drill at
+
+604
+00:08:50,630 --> 00:08:50,640
+now this is not a live training drill at
+ 
+
+605
+00:08:50,640 --> 00:08:52,470
+now this is not a live training drill at
+all but it's a way to start slowly
+
+606
+00:08:52,470 --> 00:08:52,480
+all but it's a way to start slowly
+ 
+
+607
+00:08:52,480 --> 00:08:53,750
+all but it's a way to start slowly
+easing your students into something
+
+608
+00:08:53,750 --> 00:08:53,760
+easing your students into something
+ 
+
+609
+00:08:53,760 --> 00:08:55,910
+easing your students into something
+that's later gonna become a very fast
+
+610
+00:08:55,910 --> 00:08:55,920
+that's later gonna become a very fast
+ 
+
+611
+00:08:55,920 --> 00:08:57,910
+that's later gonna become a very fast
+uh progression as josh is gonna come in
+
+612
+00:08:57,910 --> 00:08:57,920
+uh progression as josh is gonna come in
+ 
+
+613
+00:08:57,920 --> 00:08:59,990
+uh progression as josh is gonna come in
+towards maya with his hands extended
+
+614
+00:08:59,990 --> 00:09:00,000
+towards maya with his hands extended
+ 
+
+615
+00:09:00,000 --> 00:09:02,630
+towards maya with his hands extended
+just like a frankenstein or zombie and
+
+616
+00:09:02,630 --> 00:09:02,640
+just like a frankenstein or zombie and
+ 
+
+617
+00:09:02,640 --> 00:09:04,790
+just like a frankenstein or zombie and
+maya is going to suppress the arm and
+
+618
+00:09:04,790 --> 00:09:04,800
+maya is going to suppress the arm and
+ 
+
+619
+00:09:04,800 --> 00:09:07,110
+maya is going to suppress the arm and
+get out of the way
+
+620
+00:09:07,110 --> 00:09:07,120
+get out of the way
+ 
+
+621
+00:09:07,120 --> 00:09:09,110
+get out of the way
+all right there we go so real simple now
+
+622
+00:09:09,110 --> 00:09:09,120
+all right there we go so real simple now
+ 
+
+623
+00:09:09,120 --> 00:09:10,389
+all right there we go so real simple now
+there are six
+
+624
+00:09:10,389 --> 00:09:10,399
+there are six
+ 
+
+625
+00:09:10,399 --> 00:09:12,470
+there are six
+ways in in aikido in which we can do
+
+626
+00:09:12,470 --> 00:09:12,480
+ways in in aikido in which we can do
+ 
+
+627
+00:09:12,480 --> 00:09:14,550
+ways in in aikido in which we can do
+this so in this school we use six tai no
+
+628
+00:09:14,550 --> 00:09:14,560
+this so in this school we use six tai no
+ 
+
+629
+00:09:14,560 --> 00:09:15,350
+this so in this school we use six tai no
+hinko six
+
+630
+00:09:15,350 --> 00:09:15,360
+hinko six
+ 
+
+631
+00:09:15,360 --> 00:09:17,509
+hinko six
+body variations position variations and
+
+632
+00:09:17,509 --> 00:09:17,519
+body variations position variations and
+ 
+
+633
+00:09:17,519 --> 00:09:19,350
+body variations position variations and
+we can use all six of those now five of
+
+634
+00:09:19,350 --> 00:09:19,360
+we can use all six of those now five of
+ 
+
+635
+00:09:19,360 --> 00:09:19,910
+we can use all six of those now five of
+those are
+
+636
+00:09:19,910 --> 00:09:19,920
+those are
+ 
+
+637
+00:09:19,920 --> 00:09:22,230
+those are
+outside moving right so what we mean by
+
+638
+00:09:22,230 --> 00:09:22,240
+outside moving right so what we mean by
+ 
+
+639
+00:09:22,240 --> 00:09:23,990
+outside moving right so what we mean by
+that is here's a if we drew a line
+
+640
+00:09:23,990 --> 00:09:24,000
+that is here's a if we drew a line
+ 
+
+641
+00:09:24,000 --> 00:09:24,870
+that is here's a if we drew a line
+between them
+
+642
+00:09:24,870 --> 00:09:24,880
+between them
+ 
+
+643
+00:09:24,880 --> 00:09:26,790
+between them
+five of those uh tai no hinko are going
+
+644
+00:09:26,790 --> 00:09:26,800
+five of those uh tai no hinko are going
+ 
+
+645
+00:09:26,800 --> 00:09:29,030
+five of those uh tai no hinko are going
+to move outside the line and only one of
+
+646
+00:09:29,030 --> 00:09:29,040
+to move outside the line and only one of
+ 
+
+647
+00:09:29,040 --> 00:09:30,310
+to move outside the line and only one of
+those is going to move inside the line
+
+648
+00:09:30,310 --> 00:09:30,320
+those is going to move inside the line
+ 
+
+649
+00:09:30,320 --> 00:09:31,670
+those is going to move inside the line
+so that one's special so first we're
+
+650
+00:09:31,670 --> 00:09:31,680
+so that one's special so first we're
+ 
+
+651
+00:09:31,680 --> 00:09:33,750
+so that one's special so first we're
+just going to hit the five basic outside
+
+652
+00:09:33,750 --> 00:09:33,760
+just going to hit the five basic outside
+ 
+
+653
+00:09:33,760 --> 00:09:36,070
+just going to hit the five basic outside
+okay so as josh comes in towards maya
+
+654
+00:09:36,070 --> 00:09:36,080
+okay so as josh comes in towards maya
+ 
+
+655
+00:09:36,080 --> 00:09:38,550
+okay so as josh comes in towards maya
+mike can practice a 45
+
+656
+00:09:38,550 --> 00:09:38,560
+mike can practice a 45
+ 
+
+657
+00:09:38,560 --> 00:09:40,310
+mike can practice a 45
+she can practice an outside turn also
+
+658
+00:09:40,310 --> 00:09:40,320
+she can practice an outside turn also
+ 
+
+659
+00:09:40,320 --> 00:09:41,590
+she can practice an outside turn also
+okay so mike can practice
+
+660
+00:09:41,590 --> 00:09:41,600
+okay so mike can practice
+ 
+
+661
+00:09:41,600 --> 00:09:47,350
+okay so mike can practice
+a45 good mike can practice eating me
+
+662
+00:09:47,350 --> 00:09:47,360
+a45 good mike can practice eating me
+ 
+
+663
+00:09:47,360 --> 00:09:52,630
+a45 good mike can practice eating me
+good maya can practice a 90.
+
+664
+00:09:52,630 --> 00:09:52,640
+
+ 
+
+665
+00:09:52,640 --> 00:09:55,990
+
+good and mike can practice a triangle
+
+666
+00:09:55,990 --> 00:09:56,000
+good and mike can practice a triangle
+ 
+
+667
+00:09:56,000 --> 00:09:57,829
+good and mike can practice a triangle
+all right so there's her five outside
+
+668
+00:09:57,829 --> 00:09:57,839
+all right so there's her five outside
+ 
+
+669
+00:09:57,839 --> 00:09:59,990
+all right so there's her five outside
+right so she has a 45 she has an outside
+
+670
+00:09:59,990 --> 00:10:00,000
+right so she has a 45 she has an outside
+ 
+
+671
+00:10:00,000 --> 00:10:00,550
+right so she has a 45 she has an outside
+turn
+
+672
+00:10:00,550 --> 00:10:00,560
+turn
+ 
+
+673
+00:10:00,560 --> 00:10:03,910
+turn
+she has a triangle step she has a 90
+
+674
+00:10:03,910 --> 00:10:03,920
+she has a triangle step she has a 90
+ 
+
+675
+00:10:03,920 --> 00:10:06,230
+she has a triangle step she has a 90
+and she has edema eating me right so
+
+676
+00:10:06,230 --> 00:10:06,240
+and she has edema eating me right so
+ 
+
+677
+00:10:06,240 --> 00:10:07,430
+and she has edema eating me right so
+those five are five
+
+678
+00:10:07,430 --> 00:10:07,440
+those five are five
+ 
+
+679
+00:10:07,440 --> 00:10:09,030
+those five are five
+outside steps she's going to use okay
+
+680
+00:10:09,030 --> 00:10:09,040
+outside steps she's going to use okay
+ 
+
+681
+00:10:09,040 --> 00:10:11,670
+outside steps she's going to use okay
+now we have one inside step now this
+
+682
+00:10:11,670 --> 00:10:11,680
+now we have one inside step now this
+ 
+
+683
+00:10:11,680 --> 00:10:13,509
+now we have one inside step now this
+inside step until you kind of understand
+
+684
+00:10:13,509 --> 00:10:13,519
+inside step until you kind of understand
+ 
+
+685
+00:10:13,519 --> 00:10:14,949
+inside step until you kind of understand
+how aikido theory works
+
+686
+00:10:14,949 --> 00:10:14,959
+how aikido theory works
+ 
+
+687
+00:10:14,959 --> 00:10:16,470
+how aikido theory works
+seems stupid because she's actually
+
+688
+00:10:16,470 --> 00:10:16,480
+seems stupid because she's actually
+ 
+
+689
+00:10:16,480 --> 00:10:17,990
+seems stupid because she's actually
+going to turn inside the
+
+690
+00:10:17,990 --> 00:10:18,000
+going to turn inside the
+ 
+
+691
+00:10:18,000 --> 00:10:20,550
+going to turn inside the
+line and without an adaptation and just
+
+692
+00:10:20,550 --> 00:10:20,560
+line and without an adaptation and just
+ 
+
+693
+00:10:20,560 --> 00:10:21,829
+line and without an adaptation and just
+don't put your arms out let's just show
+
+694
+00:10:21,829 --> 00:10:21,839
+don't put your arms out let's just show
+ 
+
+695
+00:10:21,839 --> 00:10:22,870
+don't put your arms out let's just show
+what that looks like so
+
+696
+00:10:22,870 --> 00:10:22,880
+what that looks like so
+ 
+
+697
+00:10:22,880 --> 00:10:24,550
+what that looks like so
+this is an inside turn okay that's an
+
+698
+00:10:24,550 --> 00:10:24,560
+this is an inside turn okay that's an
+ 
+
+699
+00:10:24,560 --> 00:10:26,150
+this is an inside turn okay that's an
+inside turn now if you look at that and
+
+700
+00:10:26,150 --> 00:10:26,160
+inside turn now if you look at that and
+ 
+
+701
+00:10:26,160 --> 00:10:27,750
+inside turn now if you look at that and
+go real slow so they can see that so is
+
+702
+00:10:27,750 --> 00:10:27,760
+go real slow so they can see that so is
+ 
+
+703
+00:10:27,760 --> 00:10:28,550
+go real slow so they can see that so is
+josh is coming in
+
+704
+00:10:28,550 --> 00:10:28,560
+josh is coming in
+ 
+
+705
+00:10:28,560 --> 00:10:30,550
+josh is coming in
+my actually turns inside of josh turning
+
+706
+00:10:30,550 --> 00:10:30,560
+my actually turns inside of josh turning
+ 
+
+707
+00:10:30,560 --> 00:10:32,470
+my actually turns inside of josh turning
+her back towards josh and this seems
+
+708
+00:10:32,470 --> 00:10:32,480
+her back towards josh and this seems
+ 
+
+709
+00:10:32,480 --> 00:10:34,310
+her back towards josh and this seems
+like a crazy movement
+
+710
+00:10:34,310 --> 00:10:34,320
+like a crazy movement
+ 
+
+711
+00:10:34,320 --> 00:10:36,710
+like a crazy movement
+a maya can adapt any of the outside tai
+
+712
+00:10:36,710 --> 00:10:36,720
+a maya can adapt any of the outside tai
+ 
+
+713
+00:10:36,720 --> 00:10:37,910
+a maya can adapt any of the outside tai
+no hinko to an
+
+714
+00:10:37,910 --> 00:10:37,920
+no hinko to an
+ 
+
+715
+00:10:37,920 --> 00:10:39,990
+no hinko to an
+inside dino hinko so let's say maya just
+
+716
+00:10:39,990 --> 00:10:40,000
+inside dino hinko so let's say maya just
+ 
+
+717
+00:10:40,000 --> 00:10:41,430
+inside dino hinko so let's say maya just
+tries only tries
+
+718
+00:10:41,430 --> 00:10:41,440
+tries only tries
+ 
+
+719
+00:10:41,440 --> 00:10:44,310
+tries only tries
+an outside turn and josh is wise to that
+
+720
+00:10:44,310 --> 00:10:44,320
+an outside turn and josh is wise to that
+ 
+
+721
+00:10:44,320 --> 00:10:46,230
+an outside turn and josh is wise to that
+and he moves from a narrow attack to a
+
+722
+00:10:46,230 --> 00:10:46,240
+and he moves from a narrow attack to a
+ 
+
+723
+00:10:46,240 --> 00:10:47,590
+and he moves from a narrow attack to a
+wide attack as she does that it would
+
+724
+00:10:47,590 --> 00:10:47,600
+wide attack as she does that it would
+ 
+
+725
+00:10:47,600 --> 00:10:50,230
+wide attack as she does that it would
+look like this
+
+726
+00:10:50,230 --> 00:10:50,240
+
+ 
+
+727
+00:10:50,240 --> 00:10:52,389
+
+right okay so what happened was maya's
+
+728
+00:10:52,389 --> 00:10:52,399
+right okay so what happened was maya's
+ 
+
+729
+00:10:52,399 --> 00:10:53,670
+right okay so what happened was maya's
+trying to suppress and get to the
+
+730
+00:10:53,670 --> 00:10:53,680
+trying to suppress and get to the
+ 
+
+731
+00:10:53,680 --> 00:10:55,509
+trying to suppress and get to the
+outside of the line and josh went around
+
+732
+00:10:55,509 --> 00:10:55,519
+outside of the line and josh went around
+ 
+
+733
+00:10:55,519 --> 00:10:56,470
+outside of the line and josh went around
+her suppression
+
+734
+00:10:56,470 --> 00:10:56,480
+her suppression
+ 
+
+735
+00:10:56,480 --> 00:10:58,389
+her suppression
+and made a wide attack like this so he
+
+736
+00:10:58,389 --> 00:10:58,399
+and made a wide attack like this so he
+ 
+
+737
+00:10:58,399 --> 00:11:00,069
+and made a wide attack like this so he
+could grithe her up right so he can kind
+
+738
+00:11:00,069 --> 00:11:00,079
+could grithe her up right so he can kind
+ 
+
+739
+00:11:00,079 --> 00:11:00,710
+could grithe her up right so he can kind
+of get her
+
+740
+00:11:00,710 --> 00:11:00,720
+of get her
+ 
+
+741
+00:11:00,720 --> 00:11:02,710
+of get her
+get all around her like this now maya
+
+742
+00:11:02,710 --> 00:11:02,720
+get all around her like this now maya
+ 
+
+743
+00:11:02,720 --> 00:11:04,069
+get all around her like this now maya
+can turn that into an
+
+744
+00:11:04,069 --> 00:11:04,079
+can turn that into an
+ 
+
+745
+00:11:04,079 --> 00:11:06,470
+can turn that into an
+inside turn so watch now she'll turn the
+
+746
+00:11:06,470 --> 00:11:06,480
+inside turn so watch now she'll turn the
+ 
+
+747
+00:11:06,480 --> 00:11:08,550
+inside turn so watch now she'll turn the
+outside turn into an inside turn watch
+
+748
+00:11:08,550 --> 00:11:08,560
+outside turn into an inside turn watch
+ 
+
+749
+00:11:08,560 --> 00:11:11,750
+outside turn into an inside turn watch
+how this happens
+
+750
+00:11:11,750 --> 00:11:11,760
+
+ 
+
+751
+00:11:11,760 --> 00:11:14,389
+
+so as josh is going around maya scoots
+
+752
+00:11:14,389 --> 00:11:14,399
+so as josh is going around maya scoots
+ 
+
+753
+00:11:14,399 --> 00:11:15,350
+so as josh is going around maya scoots
+underneath his arm
+
+754
+00:11:15,350 --> 00:11:15,360
+underneath his arm
+ 
+
+755
+00:11:15,360 --> 00:11:16,870
+underneath his arm
+right now we can do that from an outside
+
+756
+00:11:16,870 --> 00:11:16,880
+right now we can do that from an outside
+ 
+
+757
+00:11:16,880 --> 00:11:22,069
+right now we can do that from an outside
+turn we can also do that from edemi
+
+758
+00:11:22,069 --> 00:11:22,079
+
+ 
+
+759
+00:11:22,079 --> 00:11:27,509
+
+we could also do that from a triangle
+
+760
+00:11:27,509 --> 00:11:27,519
+
+ 
+
+761
+00:11:27,519 --> 00:11:32,790
+
+we could also do that from a 90.
+
+762
+00:11:32,790 --> 00:11:32,800
+
+ 
+
+763
+00:11:32,800 --> 00:11:37,750
+
+and we can also do that from a 45.
+
+764
+00:11:37,750 --> 00:11:37,760
+
+ 
+
+765
+00:11:37,760 --> 00:11:39,269
+
+all right so this leads us to another
+
+766
+00:11:39,269 --> 00:11:39,279
+all right so this leads us to another
+ 
+
+767
+00:11:39,279 --> 00:11:40,870
+all right so this leads us to another
+drill that i like to run with people
+
+768
+00:11:40,870 --> 00:11:40,880
+drill that i like to run with people
+ 
+
+769
+00:11:40,880 --> 00:11:42,150
+drill that i like to run with people
+when we start learning how to make
+
+770
+00:11:42,150 --> 00:11:42,160
+when we start learning how to make
+ 
+
+771
+00:11:42,160 --> 00:11:44,470
+when we start learning how to make
+good eye key and and this is you know
+
+772
+00:11:44,470 --> 00:11:44,480
+good eye key and and this is you know
+ 
+
+773
+00:11:44,480 --> 00:11:46,389
+good eye key and and this is you know
+not great ikea because in fact he's
+
+774
+00:11:46,389 --> 00:11:46,399
+not great ikea because in fact he's
+ 
+
+775
+00:11:46,399 --> 00:11:47,190
+not great ikea because in fact he's
+already crouched
+
+776
+00:11:47,190 --> 00:11:47,200
+already crouched
+ 
+
+777
+00:11:47,200 --> 00:11:48,710
+already crouched
+in the distance he's gotten too close to
+
+778
+00:11:48,710 --> 00:11:48,720
+in the distance he's gotten too close to
+ 
+
+779
+00:11:48,720 --> 00:11:50,230
+in the distance he's gotten too close to
+her so it's not great but how can she
+
+780
+00:11:50,230 --> 00:11:50,240
+her so it's not great but how can she
+ 
+
+781
+00:11:50,240 --> 00:11:51,910
+her so it's not great but how can she
+make energetic actions that fit with
+
+782
+00:11:51,910 --> 00:11:51,920
+make energetic actions that fit with
+ 
+
+783
+00:11:51,920 --> 00:11:53,110
+make energetic actions that fit with
+what josh is doing
+
+784
+00:11:53,110 --> 00:11:53,120
+what josh is doing
+ 
+
+785
+00:11:53,120 --> 00:11:55,829
+what josh is doing
+and this is an adaptation drill so as
+
+786
+00:11:55,829 --> 00:11:55,839
+and this is an adaptation drill so as
+ 
+
+787
+00:11:55,839 --> 00:11:57,110
+and this is an adaptation drill so as
+we're doing this what we'll have them do
+
+788
+00:11:57,110 --> 00:11:57,120
+we're doing this what we'll have them do
+ 
+
+789
+00:11:57,120 --> 00:11:57,430
+we're doing this what we'll have them do
+is
+
+790
+00:11:57,430 --> 00:11:57,440
+is
+ 
+
+791
+00:11:57,440 --> 00:12:00,069
+is
+josh will come at maya sometimes only
+
+792
+00:12:00,069 --> 00:12:00,079
+josh will come at maya sometimes only
+ 
+
+793
+00:12:00,079 --> 00:12:02,790
+josh will come at maya sometimes only
+staying narrow
+
+794
+00:12:02,790 --> 00:12:02,800
+staying narrow
+ 
+
+795
+00:12:02,800 --> 00:12:04,069
+staying narrow
+and she should just use outside
+
+796
+00:12:04,069 --> 00:12:04,079
+and she should just use outside
+ 
+
+797
+00:12:04,079 --> 00:12:05,350
+and she should just use outside
+movements for that we got five outside
+
+798
+00:12:05,350 --> 00:12:05,360
+movements for that we got five outside
+ 
+
+799
+00:12:05,360 --> 00:12:06,710
+movements for that we got five outside
+movements that should work for that so
+
+800
+00:12:06,710 --> 00:12:06,720
+movements that should work for that so
+ 
+
+801
+00:12:06,720 --> 00:12:07,910
+movements that should work for that so
+every time he comes narrow that's what
+
+802
+00:12:07,910 --> 00:12:07,920
+every time he comes narrow that's what
+ 
+
+803
+00:12:07,920 --> 00:12:08,470
+every time he comes narrow that's what
+she should do
+
+804
+00:12:08,470 --> 00:12:08,480
+she should do
+ 
+
+805
+00:12:08,480 --> 00:12:11,190
+she should do
+he's gonna randomly put in adaptations
+
+806
+00:12:11,190 --> 00:12:11,200
+he's gonna randomly put in adaptations
+ 
+
+807
+00:12:11,200 --> 00:12:13,030
+he's gonna randomly put in adaptations
+so to go from narrow to wide
+
+808
+00:12:13,030 --> 00:12:13,040
+so to go from narrow to wide
+ 
+
+809
+00:12:13,040 --> 00:12:14,550
+so to go from narrow to wide
+and when he does that mine needs to
+
+810
+00:12:14,550 --> 00:12:14,560
+and when he does that mine needs to
+ 
+
+811
+00:12:14,560 --> 00:12:16,710
+and when he does that mine needs to
+train herself to skate right around that
+
+812
+00:12:16,710 --> 00:12:16,720
+train herself to skate right around that
+ 
+
+813
+00:12:16,720 --> 00:12:20,310
+train herself to skate right around that
+action
+
+814
+00:12:20,310 --> 00:12:20,320
+
+ 
+
+815
+00:12:20,320 --> 00:12:21,269
+
+now what you want to do with your
+
+816
+00:12:21,269 --> 00:12:21,279
+now what you want to do with your
+ 
+
+817
+00:12:21,279 --> 00:12:23,590
+now what you want to do with your
+students is have them do this randomly
+
+818
+00:12:23,590 --> 00:12:23,600
+students is have them do this randomly
+ 
+
+819
+00:12:23,600 --> 00:12:24,230
+students is have them do this randomly
+right so
+
+820
+00:12:24,230 --> 00:12:24,240
+right so
+ 
+
+821
+00:12:24,240 --> 00:12:25,509
+right so
+after they can do both of those
+
+822
+00:12:25,509 --> 00:12:25,519
+after they can do both of those
+ 
+
+823
+00:12:25,519 --> 00:12:26,790
+after they can do both of those
+variations they need to do it randomly
+
+824
+00:12:26,790 --> 00:12:26,800
+variations they need to do it randomly
+ 
+
+825
+00:12:26,800 --> 00:12:28,389
+variations they need to do it randomly
+so this person gets used to
+
+826
+00:12:28,389 --> 00:12:28,399
+so this person gets used to
+ 
+
+827
+00:12:28,399 --> 00:12:30,230
+so this person gets used to
+if they make successful outside movement
+
+828
+00:12:30,230 --> 00:12:30,240
+if they make successful outside movement
+ 
+
+829
+00:12:30,240 --> 00:12:31,670
+if they make successful outside movement
+then it's just successful
+
+830
+00:12:31,670 --> 00:12:31,680
+then it's just successful
+ 
+
+831
+00:12:31,680 --> 00:12:33,350
+then it's just successful
+but if there's adaptation they start
+
+832
+00:12:33,350 --> 00:12:33,360
+but if there's adaptation they start
+ 
+
+833
+00:12:33,360 --> 00:12:35,829
+but if there's adaptation they start
+learning how to adapt to that adaptation
+
+834
+00:12:35,829 --> 00:12:35,839
+learning how to adapt to that adaptation
+ 
+
+835
+00:12:35,839 --> 00:12:50,870
+learning how to adapt to that adaptation
+let's run a little bit more
+
+836
+00:12:50,870 --> 00:12:50,880
+
+ 
+
+837
+00:12:50,880 --> 00:12:52,870
+
+all right good so understand we still
+
+838
+00:12:52,870 --> 00:12:52,880
+all right good so understand we still
+ 
+
+839
+00:12:52,880 --> 00:12:54,150
+all right good so understand we still
+have the training wheels on at this
+
+840
+00:12:54,150 --> 00:12:54,160
+have the training wheels on at this
+ 
+
+841
+00:12:54,160 --> 00:12:55,110
+have the training wheels on at this
+point this is still
+
+842
+00:12:55,110 --> 00:12:55,120
+point this is still
+ 
+
+843
+00:12:55,120 --> 00:12:56,870
+point this is still
+super mellow practice but we're getting
+
+844
+00:12:56,870 --> 00:12:56,880
+super mellow practice but we're getting
+ 
+
+845
+00:12:56,880 --> 00:12:58,629
+super mellow practice but we're getting
+our students used to moving in away with
+
+846
+00:12:58,629 --> 00:12:58,639
+our students used to moving in away with
+ 
+
+847
+00:12:58,639 --> 00:12:59,910
+our students used to moving in away with
+each other that will train them for
+
+848
+00:12:59,910 --> 00:12:59,920
+each other that will train them for
+ 
+
+849
+00:12:59,920 --> 00:13:01,990
+each other that will train them for
+later faster action will help them move
+
+850
+00:13:01,990 --> 00:13:02,000
+later faster action will help them move
+ 
+
+851
+00:13:02,000 --> 00:13:02,230
+later faster action will help them move
+in
+
+852
+00:13:02,230 --> 00:13:02,240
+in
+ 
+
+853
+00:13:02,240 --> 00:13:04,389
+in
+in those kinds of ways all right now in
+
+854
+00:13:04,389 --> 00:13:04,399
+in those kinds of ways all right now in
+ 
+
+855
+00:13:04,399 --> 00:13:05,990
+in those kinds of ways all right now in
+this josh is doing a really
+
+856
+00:13:05,990 --> 00:13:06,000
+this josh is doing a really
+ 
+
+857
+00:13:06,000 --> 00:13:08,069
+this josh is doing a really
+simple practice to get around maya
+
+858
+00:13:08,069 --> 00:13:08,079
+simple practice to get around maya
+ 
+
+859
+00:13:08,079 --> 00:13:09,190
+simple practice to get around maya
+suppression so
+
+860
+00:13:09,190 --> 00:13:09,200
+suppression so
+ 
+
+861
+00:13:09,200 --> 00:13:10,790
+suppression so
+um let's just kind of fake it so as josh
+
+862
+00:13:10,790 --> 00:13:10,800
+um let's just kind of fake it so as josh
+ 
+
+863
+00:13:10,800 --> 00:13:12,550
+um let's just kind of fake it so as josh
+comes in and might get suppression
+
+864
+00:13:12,550 --> 00:13:12,560
+comes in and might get suppression
+ 
+
+865
+00:13:12,560 --> 00:13:14,310
+comes in and might get suppression
+there josh all josh has to do right now
+
+866
+00:13:14,310 --> 00:13:14,320
+there josh all josh has to do right now
+ 
+
+867
+00:13:14,320 --> 00:13:15,750
+there josh all josh has to do right now
+is move his arm around and now he's in a
+
+868
+00:13:15,750 --> 00:13:15,760
+is move his arm around and now he's in a
+ 
+
+869
+00:13:15,760 --> 00:13:18,310
+is move his arm around and now he's in a
+wide position he can get to maya right
+
+870
+00:13:18,310 --> 00:13:18,320
+wide position he can get to maya right
+ 
+
+871
+00:13:18,320 --> 00:13:20,230
+wide position he can get to maya right
+but my josh could do all kinds of stuff
+
+872
+00:13:20,230 --> 00:13:20,240
+but my josh could do all kinds of stuff
+ 
+
+873
+00:13:20,240 --> 00:13:21,829
+but my josh could do all kinds of stuff
+he could pull his arm out and shoot it
+
+874
+00:13:21,829 --> 00:13:21,839
+he could pull his arm out and shoot it
+ 
+
+875
+00:13:21,839 --> 00:13:23,110
+he could pull his arm out and shoot it
+back in real fast he could shoot his
+
+876
+00:13:23,110 --> 00:13:23,120
+back in real fast he could shoot his
+ 
+
+877
+00:13:23,120 --> 00:13:24,710
+back in real fast he could shoot his
+other arm across there's all kinds of
+
+878
+00:13:24,710 --> 00:13:24,720
+other arm across there's all kinds of
+ 
+
+879
+00:13:24,720 --> 00:13:26,790
+other arm across there's all kinds of
+ways in which he could try and grab maya
+
+880
+00:13:26,790 --> 00:13:26,800
+ways in which he could try and grab maya
+ 
+
+881
+00:13:26,800 --> 00:13:28,150
+ways in which he could try and grab maya
+so the next drill house let's have you
+
+882
+00:13:28,150 --> 00:13:28,160
+so the next drill house let's have you
+ 
+
+883
+00:13:28,160 --> 00:13:29,829
+so the next drill house let's have you
+say guys separate again the next drill
+
+884
+00:13:29,829 --> 00:13:29,839
+say guys separate again the next drill
+ 
+
+885
+00:13:29,839 --> 00:13:31,509
+say guys separate again the next drill
+out is going to be a suppression drill
+
+886
+00:13:31,509 --> 00:13:31,519
+out is going to be a suppression drill
+ 
+
+887
+00:13:31,519 --> 00:13:33,509
+out is going to be a suppression drill
+and what this drill is designed to do is
+
+888
+00:13:33,509 --> 00:13:33,519
+and what this drill is designed to do is
+ 
+
+889
+00:13:33,519 --> 00:13:35,670
+and what this drill is designed to do is
+to teach maya how to keep the best
+
+890
+00:13:35,670 --> 00:13:35,680
+to teach maya how to keep the best
+ 
+
+891
+00:13:35,680 --> 00:13:37,190
+to teach maya how to keep the best
+suppression possible
+
+892
+00:13:37,190 --> 00:13:37,200
+suppression possible
+ 
+
+893
+00:13:37,200 --> 00:13:39,430
+suppression possible
+so now as josh comes in he's going to
+
+894
+00:13:39,430 --> 00:13:39,440
+so now as josh comes in he's going to
+ 
+
+895
+00:13:39,440 --> 00:13:41,189
+so now as josh comes in he's going to
+always try to get around her suppression
+
+896
+00:13:41,189 --> 00:13:41,199
+always try to get around her suppression
+ 
+
+897
+00:13:41,199 --> 00:13:42,230
+always try to get around her suppression
+and get maya
+
+898
+00:13:42,230 --> 00:13:42,240
+and get maya
+ 
+
+899
+00:13:42,240 --> 00:13:44,069
+and get maya
+and maya is always going to try to keep
+
+900
+00:13:44,069 --> 00:13:44,079
+and maya is always going to try to keep
+ 
+
+901
+00:13:44,079 --> 00:13:46,829
+and maya is always going to try to keep
+josh from getting her so as josh comes
+
+902
+00:13:46,829 --> 00:13:46,839
+josh from getting her so as josh comes
+ 
+
+903
+00:13:46,839 --> 00:13:49,590
+josh from getting her so as josh comes
+in he tried to reach around really far
+
+904
+00:13:49,590 --> 00:13:49,600
+in he tried to reach around really far
+ 
+
+905
+00:13:49,600 --> 00:13:53,750
+in he tried to reach around really far
+that time
+
+906
+00:13:53,750 --> 00:13:53,760
+
+ 
+
+907
+00:13:53,760 --> 00:13:55,269
+
+he stopped for a second and paused and
+
+908
+00:13:55,269 --> 00:13:55,279
+he stopped for a second and paused and
+ 
+
+909
+00:13:55,279 --> 00:13:59,030
+he stopped for a second and paused and
+grabbed
+
+910
+00:13:59,030 --> 00:13:59,040
+
+ 
+
+911
+00:13:59,040 --> 00:14:00,389
+
+and he got her that one all right good
+
+912
+00:14:00,389 --> 00:14:00,399
+and he got her that one all right good
+ 
+
+913
+00:14:00,399 --> 00:14:01,350
+and he got her that one all right good
+and that showed us something all right
+
+914
+00:14:01,350 --> 00:14:01,360
+and that showed us something all right
+ 
+
+915
+00:14:01,360 --> 00:14:02,790
+and that showed us something all right
+good okay so that time he snuck out
+
+916
+00:14:02,790 --> 00:14:02,800
+good okay so that time he snuck out
+ 
+
+917
+00:14:02,800 --> 00:14:03,910
+good okay so that time he snuck out
+there and he got her shoulder
+
+918
+00:14:03,910 --> 00:14:03,920
+there and he got her shoulder
+ 
+
+919
+00:14:03,920 --> 00:14:06,310
+there and he got her shoulder
+and maya quickly used a hadoki technique
+
+920
+00:14:06,310 --> 00:14:06,320
+and maya quickly used a hadoki technique
+ 
+
+921
+00:14:06,320 --> 00:14:07,189
+and maya quickly used a hadoki technique
+to get free okay
+
+922
+00:14:07,189 --> 00:14:07,199
+to get free okay
+ 
+
+923
+00:14:07,199 --> 00:14:09,030
+to get free okay
+now hidoki will be in our kumiuchi
+
+924
+00:14:09,030 --> 00:14:09,040
+now hidoki will be in our kumiuchi
+ 
+
+925
+00:14:09,040 --> 00:14:10,790
+now hidoki will be in our kumiuchi
+series we put some videos out on hidoki
+
+926
+00:14:10,790 --> 00:14:10,800
+series we put some videos out on hidoki
+ 
+
+927
+00:14:10,800 --> 00:14:11,750
+series we put some videos out on hidoki
+so we can look that up
+
+928
+00:14:11,750 --> 00:14:11,760
+so we can look that up
+ 
+
+929
+00:14:11,760 --> 00:14:13,509
+so we can look that up
+but i would recommend stacking those
+
+930
+00:14:13,509 --> 00:14:13,519
+but i would recommend stacking those
+ 
+
+931
+00:14:13,519 --> 00:14:14,870
+but i would recommend stacking those
+together so when your students get
+
+932
+00:14:14,870 --> 00:14:14,880
+together so when your students get
+ 
+
+933
+00:14:14,880 --> 00:14:16,310
+together so when your students get
+grabbed and they didn't expect
+
+934
+00:14:16,310 --> 00:14:16,320
+grabbed and they didn't expect
+ 
+
+935
+00:14:16,320 --> 00:14:17,910
+grabbed and they didn't expect
+someone to get around their suppression
+
+936
+00:14:17,910 --> 00:14:17,920
+someone to get around their suppression
+ 
+
+937
+00:14:17,920 --> 00:14:19,350
+someone to get around their suppression
+they quickly made hidoki and you can see
+
+938
+00:14:19,350 --> 00:14:19,360
+they quickly made hidoki and you can see
+ 
+
+939
+00:14:19,360 --> 00:14:21,030
+they quickly made hidoki and you can see
+maya just instantly went into hidoki and
+
+940
+00:14:21,030 --> 00:14:21,040
+maya just instantly went into hidoki and
+ 
+
+941
+00:14:21,040 --> 00:14:22,150
+maya just instantly went into hidoki and
+she got free and that's what we should
+
+942
+00:14:22,150 --> 00:14:22,160
+she got free and that's what we should
+ 
+
+943
+00:14:22,160 --> 00:14:23,350
+she got free and that's what we should
+be training in aikido
+
+944
+00:14:23,350 --> 00:14:23,360
+be training in aikido
+ 
+
+945
+00:14:23,360 --> 00:14:25,430
+be training in aikido
+okay so that drill what it's designed to
+
+946
+00:14:25,430 --> 00:14:25,440
+okay so that drill what it's designed to
+ 
+
+947
+00:14:25,440 --> 00:14:27,750
+okay so that drill what it's designed to
+do is to teach the aikido student how to
+
+948
+00:14:27,750 --> 00:14:27,760
+do is to teach the aikido student how to
+ 
+
+949
+00:14:27,760 --> 00:14:28,230
+do is to teach the aikido student how to
+have an
+
+950
+00:14:28,230 --> 00:14:28,240
+have an
+ 
+
+951
+00:14:28,240 --> 00:14:30,790
+have an
+active and live suppression so when maya
+
+952
+00:14:30,790 --> 00:14:30,800
+active and live suppression so when maya
+ 
+
+953
+00:14:30,800 --> 00:14:32,150
+active and live suppression so when maya
+and let's just kind of fake it here so
+
+954
+00:14:32,150 --> 00:14:32,160
+and let's just kind of fake it here so
+ 
+
+955
+00:14:32,160 --> 00:14:33,910
+and let's just kind of fake it here so
+when maya gets our hand on josh's arm
+
+956
+00:14:33,910 --> 00:14:33,920
+when maya gets our hand on josh's arm
+ 
+
+957
+00:14:33,920 --> 00:14:35,110
+when maya gets our hand on josh's arm
+let's have you go to the other side
+
+958
+00:14:35,110 --> 00:14:35,120
+let's have you go to the other side
+ 
+
+959
+00:14:35,120 --> 00:14:36,550
+let's have you go to the other side
+actually there we go so when maya gets
+
+960
+00:14:36,550 --> 00:14:36,560
+actually there we go so when maya gets
+ 
+
+961
+00:14:36,560 --> 00:14:37,590
+actually there we go so when maya gets
+her hand on josh's arm
+
+962
+00:14:37,590 --> 00:14:37,600
+her hand on josh's arm
+ 
+
+963
+00:14:37,600 --> 00:14:38,949
+her hand on josh's arm
+understand josh could do lots of stuff
+
+964
+00:14:38,949 --> 00:14:38,959
+understand josh could do lots of stuff
+ 
+
+965
+00:14:38,959 --> 00:14:40,710
+understand josh could do lots of stuff
+with his hand he could go back he could
+
+966
+00:14:40,710 --> 00:14:40,720
+with his hand he could go back he could
+ 
+
+967
+00:14:40,720 --> 00:14:42,150
+with his hand he could go back he could
+go up he could go down and do all kinds
+
+968
+00:14:42,150 --> 00:14:42,160
+go up he could go down and do all kinds
+ 
+
+969
+00:14:42,160 --> 00:14:42,790
+go up he could go down and do all kinds
+of stuff
+
+970
+00:14:42,790 --> 00:14:42,800
+of stuff
+ 
+
+971
+00:14:42,800 --> 00:14:44,310
+of stuff
+and mine needs to learn to have active
+
+972
+00:14:44,310 --> 00:14:44,320
+and mine needs to learn to have active
+ 
+
+973
+00:14:44,320 --> 00:14:46,150
+and mine needs to learn to have active
+suppression with that right okay now the
+
+974
+00:14:46,150 --> 00:14:46,160
+suppression with that right okay now the
+ 
+
+975
+00:14:46,160 --> 00:14:47,509
+suppression with that right okay now the
+second part what josh was just showing
+
+976
+00:14:47,509 --> 00:14:47,519
+second part what josh was just showing
+ 
+
+977
+00:14:47,519 --> 00:14:47,990
+second part what josh was just showing
+right now
+
+978
+00:14:47,990 --> 00:14:48,000
+right now
+ 
+
+979
+00:14:48,000 --> 00:14:49,590
+right now
+is josh could reach from the other side
+
+980
+00:14:49,590 --> 00:14:49,600
+is josh could reach from the other side
+ 
+
+981
+00:14:49,600 --> 00:14:51,110
+is josh could reach from the other side
+and so that's why maya always has to be
+
+982
+00:14:51,110 --> 00:14:51,120
+and so that's why maya always has to be
+ 
+
+983
+00:14:51,120 --> 00:14:52,710
+and so that's why maya always has to be
+trying to move to the outside of this
+
+984
+00:14:52,710 --> 00:14:52,720
+trying to move to the outside of this
+ 
+
+985
+00:14:52,720 --> 00:14:53,030
+trying to move to the outside of this
+right
+
+986
+00:14:53,030 --> 00:14:53,040
+right
+ 
+
+987
+00:14:53,040 --> 00:14:54,629
+right
+and that deals with that now we see
+
+988
+00:14:54,629 --> 00:14:54,639
+and that deals with that now we see
+ 
+
+989
+00:14:54,639 --> 00:14:57,110
+and that deals with that now we see
+there classic ikkyo from aikido so why
+
+990
+00:14:57,110 --> 00:14:57,120
+there classic ikkyo from aikido so why
+ 
+
+991
+00:14:57,120 --> 00:14:58,870
+there classic ikkyo from aikido so why
+is ikyo aikido's first lesson
+
+992
+00:14:58,870 --> 00:14:58,880
+is ikyo aikido's first lesson
+ 
+
+993
+00:14:58,880 --> 00:15:00,629
+is ikyo aikido's first lesson
+well there it is because it's our main
+
+994
+00:15:00,629 --> 00:15:00,639
+well there it is because it's our main
+ 
+
+995
+00:15:00,639 --> 00:15:02,470
+well there it is because it's our main
+suppression method right and maya can
+
+996
+00:15:02,470 --> 00:15:02,480
+suppression method right and maya can
+ 
+
+997
+00:15:02,480 --> 00:15:03,829
+suppression method right and maya can
+use that to keep josh away from it all
+
+998
+00:15:03,829 --> 00:15:03,839
+use that to keep josh away from it all
+ 
+
+999
+00:15:03,839 --> 00:15:04,470
+use that to keep josh away from it all
+right very good
+
+1000
+00:15:04,470 --> 00:15:04,480
+right very good
+ 
+
+1001
+00:15:04,480 --> 00:15:05,829
+right very good
+so first we're going to go through the
+
+1002
+00:15:05,829 --> 00:15:05,839
+so first we're going to go through the
+ 
+
+1003
+00:15:05,839 --> 00:15:07,509
+so first we're going to go through the
+basic taino hinko after they understand
+
+1004
+00:15:07,509 --> 00:15:07,519
+basic taino hinko after they understand
+ 
+
+1005
+00:15:07,519 --> 00:15:08,550
+basic taino hinko after they understand
+my eye we're going through the basic
+
+1006
+00:15:08,550 --> 00:15:08,560
+my eye we're going through the basic
+ 
+
+1007
+00:15:08,560 --> 00:15:09,990
+my eye we're going through the basic
+taino hinko and then we're going to go
+
+1008
+00:15:09,990 --> 00:15:10,000
+taino hinko and then we're going to go
+ 
+
+1009
+00:15:10,000 --> 00:15:11,509
+taino hinko and then we're going to go
+to an active suppression drill
+
+1010
+00:15:11,509 --> 00:15:11,519
+to an active suppression drill
+ 
+
+1011
+00:15:11,519 --> 00:15:12,949
+to an active suppression drill
+now one thing we're going to try not to
+
+1012
+00:15:12,949 --> 00:15:12,959
+now one thing we're going to try not to
+ 
+
+1013
+00:15:12,959 --> 00:15:14,949
+now one thing we're going to try not to
+have josh do there is stop
+
+1014
+00:15:14,949 --> 00:15:14,959
+have josh do there is stop
+ 
+
+1015
+00:15:14,959 --> 00:15:16,310
+have josh do there is stop
+and the reason is because anytime
+
+1016
+00:15:16,310 --> 00:15:16,320
+and the reason is because anytime
+ 
+
+1017
+00:15:16,320 --> 00:15:17,990
+and the reason is because anytime
+someone stops in aikido an attacker
+
+1018
+00:15:17,990 --> 00:15:18,000
+someone stops in aikido an attacker
+ 
+
+1019
+00:15:18,000 --> 00:15:18,550
+someone stops in aikido an attacker
+stops
+
+1020
+00:15:18,550 --> 00:15:18,560
+stops
+ 
+
+1021
+00:15:18,560 --> 00:15:20,629
+stops
+you should just make distance right so
+
+1022
+00:15:20,629 --> 00:15:20,639
+you should just make distance right so
+ 
+
+1023
+00:15:20,639 --> 00:15:22,069
+you should just make distance right so
+maya doesn't want to play a game so
+
+1024
+00:15:22,069 --> 00:15:22,079
+maya doesn't want to play a game so
+ 
+
+1025
+00:15:22,079 --> 00:15:22,550
+maya doesn't want to play a game so
+let's
+
+1026
+00:15:22,550 --> 00:15:22,560
+let's
+ 
+
+1027
+00:15:22,560 --> 00:15:23,990
+let's
+show this kind of game so let's say josh
+
+1028
+00:15:23,990 --> 00:15:24,000
+show this kind of game so let's say josh
+ 
+
+1029
+00:15:24,000 --> 00:15:25,430
+show this kind of game so let's say josh
+comes in for that wait hang on one
+
+1030
+00:15:25,430 --> 00:15:25,440
+comes in for that wait hang on one
+ 
+
+1031
+00:15:25,440 --> 00:15:27,030
+comes in for that wait hang on one
+second let's say josh comes in for the
+
+1032
+00:15:27,030 --> 00:15:27,040
+second let's say josh comes in for the
+ 
+
+1033
+00:15:27,040 --> 00:15:28,710
+second let's say josh comes in for the
+active suppression drill
+
+1034
+00:15:28,710 --> 00:15:28,720
+active suppression drill
+ 
+
+1035
+00:15:28,720 --> 00:15:31,030
+active suppression drill
+and he stops to catch maya and plays the
+
+1036
+00:15:31,030 --> 00:15:31,040
+and he stops to catch maya and plays the
+ 
+
+1037
+00:15:31,040 --> 00:15:35,430
+and he stops to catch maya and plays the
+game maya could dance with him like this
+
+1038
+00:15:35,430 --> 00:15:35,440
+
+ 
+
+1039
+00:15:35,440 --> 00:15:37,430
+
+okay that's stupid it's bad it's
+
+1040
+00:15:37,430 --> 00:15:37,440
+okay that's stupid it's bad it's
+ 
+
+1041
+00:15:37,440 --> 00:15:38,949
+okay that's stupid it's bad it's
+horrible aikido because
+
+1042
+00:15:38,949 --> 00:15:38,959
+horrible aikido because
+ 
+
+1043
+00:15:38,959 --> 00:15:40,710
+horrible aikido because
+if you notice they were in the range
+
+1044
+00:15:40,710 --> 00:15:40,720
+if you notice they were in the range
+ 
+
+1045
+00:15:40,720 --> 00:15:42,629
+if you notice they were in the range
+that we talked about earlier was bad for
+
+1046
+00:15:42,629 --> 00:15:42,639
+that we talked about earlier was bad for
+ 
+
+1047
+00:15:42,639 --> 00:15:43,509
+that we talked about earlier was bad for
+aikido
+
+1048
+00:15:43,509 --> 00:15:43,519
+aikido
+ 
+
+1049
+00:15:43,519 --> 00:15:45,430
+aikido
+so maya knowing that that range is bad
+
+1050
+00:15:45,430 --> 00:15:45,440
+so maya knowing that that range is bad
+ 
+
+1051
+00:15:45,440 --> 00:15:47,430
+so maya knowing that that range is bad
+for aikido should tell maya that every
+
+1052
+00:15:47,430 --> 00:15:47,440
+for aikido should tell maya that every
+ 
+
+1053
+00:15:47,440 --> 00:15:49,110
+for aikido should tell maya that every
+time they do that she should do this in
+
+1054
+00:15:49,110 --> 00:15:49,120
+time they do that she should do this in
+ 
+
+1055
+00:15:49,120 --> 00:15:52,150
+time they do that she should do this in
+fact
+
+1056
+00:15:52,150 --> 00:15:52,160
+
+ 
+
+1057
+00:15:52,160 --> 00:15:54,150
+
+all right so now you see that end up
+
+1058
+00:15:54,150 --> 00:15:54,160
+all right so now you see that end up
+ 
+
+1059
+00:15:54,160 --> 00:15:55,269
+all right so now you see that end up
+we're going to have the same thing we
+
+1060
+00:15:55,269 --> 00:15:55,279
+we're going to have the same thing we
+ 
+
+1061
+00:15:55,279 --> 00:15:56,949
+we're going to have the same thing we
+just had a second ago before josh stop
+
+1062
+00:15:56,949 --> 00:15:56,959
+just had a second ago before josh stop
+ 
+
+1063
+00:15:56,959 --> 00:15:58,550
+just had a second ago before josh stop
+is josh going to have to run to get maya
+
+1064
+00:15:58,550 --> 00:15:58,560
+is josh going to have to run to get maya
+ 
+
+1065
+00:15:58,560 --> 00:15:59,990
+is josh going to have to run to get maya
+because maya's making distance
+
+1066
+00:15:59,990 --> 00:16:00,000
+because maya's making distance
+ 
+
+1067
+00:16:00,000 --> 00:16:01,829
+because maya's making distance
+so that's the way that's dealt with in
+
+1068
+00:16:01,829 --> 00:16:01,839
+so that's the way that's dealt with in
+ 
+
+1069
+00:16:01,839 --> 00:16:03,749
+so that's the way that's dealt with in
+this practice if the attacker
+
+1070
+00:16:03,749 --> 00:16:03,759
+this practice if the attacker
+ 
+
+1071
+00:16:03,759 --> 00:16:06,310
+this practice if the attacker
+wants to stop and play this game then
+
+1072
+00:16:06,310 --> 00:16:06,320
+wants to stop and play this game then
+ 
+
+1073
+00:16:06,320 --> 00:16:07,990
+wants to stop and play this game then
+the defender should just walk away from
+
+1074
+00:16:07,990 --> 00:16:08,000
+the defender should just walk away from
+ 
+
+1075
+00:16:08,000 --> 00:16:08,310
+the defender should just walk away from
+them
+
+1076
+00:16:08,310 --> 00:16:08,320
+them
+ 
+
+1077
+00:16:08,320 --> 00:16:10,069
+them
+and then that will force the attacker to
+
+1078
+00:16:10,069 --> 00:16:10,079
+and then that will force the attacker to
+ 
+
+1079
+00:16:10,079 --> 00:16:11,829
+and then that will force the attacker to
+chase them and again we'll have up the
+
+1080
+00:16:11,829 --> 00:16:11,839
+chase them and again we'll have up the
+ 
+
+1081
+00:16:11,839 --> 00:16:13,430
+chase them and again we'll have up the
+exact situation that we just set up
+
+1082
+00:16:13,430 --> 00:16:13,440
+exact situation that we just set up
+ 
+
+1083
+00:16:13,440 --> 00:16:13,990
+exact situation that we just set up
+right now
+
+1084
+00:16:13,990 --> 00:16:14,000
+right now
+ 
+
+1085
+00:16:14,000 --> 00:16:15,350
+right now
+so with your guys when you see that
+
+1086
+00:16:15,350 --> 00:16:15,360
+so with your guys when you see that
+ 
+
+1087
+00:16:15,360 --> 00:16:16,949
+so with your guys when you see that
+going on too much you can explain that
+
+1088
+00:16:16,949 --> 00:16:16,959
+going on too much you can explain that
+ 
+
+1089
+00:16:16,959 --> 00:16:18,550
+going on too much you can explain that
+to them and you can say hey guys
+
+1090
+00:16:18,550 --> 00:16:18,560
+to them and you can say hey guys
+ 
+
+1091
+00:16:18,560 --> 00:16:19,749
+to them and you can say hey guys
+we're not running all around the mat
+
+1092
+00:16:19,749 --> 00:16:19,759
+we're not running all around the mat
+ 
+
+1093
+00:16:19,759 --> 00:16:20,710
+we're not running all around the mat
+right now we're practicing it in a
+
+1094
+00:16:20,710 --> 00:16:20,720
+right now we're practicing it in a
+ 
+
+1095
+00:16:20,720 --> 00:16:21,910
+right now we're practicing it in a
+straight line because we still have the
+
+1096
+00:16:21,910 --> 00:16:21,920
+straight line because we still have the
+ 
+
+1097
+00:16:21,920 --> 00:16:23,269
+straight line because we still have the
+training wheels on right so this is
+
+1098
+00:16:23,269 --> 00:16:23,279
+training wheels on right so this is
+ 
+
+1099
+00:16:23,279 --> 00:16:23,749
+training wheels on right so this is
+still
+
+1100
+00:16:23,749 --> 00:16:23,759
+still
+ 
+
+1101
+00:16:23,759 --> 00:16:26,310
+still
+we're still baby stepping it here okay
+
+1102
+00:16:26,310 --> 00:16:26,320
+we're still baby stepping it here okay
+ 
+
+1103
+00:16:26,320 --> 00:16:27,670
+we're still baby stepping it here okay
+so that's how you deal with those
+
+1104
+00:16:27,670 --> 00:16:27,680
+so that's how you deal with those
+ 
+
+1105
+00:16:27,680 --> 00:16:28,790
+so that's how you deal with those
+problems that are going to come up in
+
+1106
+00:16:28,790 --> 00:16:28,800
+problems that are going to come up in
+ 
+
+1107
+00:16:28,800 --> 00:16:30,150
+problems that are going to come up in
+your life practice i will warn you now
+
+1108
+00:16:30,150 --> 00:16:30,160
+your life practice i will warn you now
+ 
+
+1109
+00:16:30,160 --> 00:16:31,509
+your life practice i will warn you now
+they will come up quite often
+
+1110
+00:16:31,509 --> 00:16:31,519
+they will come up quite often
+ 
+
+1111
+00:16:31,519 --> 00:16:33,430
+they will come up quite often
+all right so the next drill we're going
+
+1112
+00:16:33,430 --> 00:16:33,440
+all right so the next drill we're going
+ 
+
+1113
+00:16:33,440 --> 00:16:35,030
+all right so the next drill we're going
+to work from this is going to require a
+
+1114
+00:16:35,030 --> 00:16:35,040
+to work from this is going to require a
+ 
+
+1115
+00:16:35,040 --> 00:16:36,949
+to work from this is going to require a
+weapon
+
+1116
+00:16:36,949 --> 00:16:36,959
+weapon
+ 
+
+1117
+00:16:36,959 --> 00:16:39,749
+weapon
+all right so now we got a pool noodle of
+
+1118
+00:16:39,749 --> 00:16:39,759
+all right so now we got a pool noodle of
+ 
+
+1119
+00:16:39,759 --> 00:16:40,389
+all right so now we got a pool noodle of
+doom
+
+1120
+00:16:40,389 --> 00:16:40,399
+doom
+ 
+
+1121
+00:16:40,399 --> 00:16:41,910
+doom
+all right so actually because we're
+
+1122
+00:16:41,910 --> 00:16:41,920
+all right so actually because we're
+ 
+
+1123
+00:16:41,920 --> 00:16:43,350
+all right so actually because we're
+having maya do the i key we're gonna go
+
+1124
+00:16:43,350 --> 00:16:43,360
+having maya do the i key we're gonna go
+ 
+
+1125
+00:16:43,360 --> 00:16:45,110
+having maya do the i key we're gonna go
+ahead and switch this
+
+1126
+00:16:45,110 --> 00:16:45,120
+ahead and switch this
+ 
+
+1127
+00:16:45,120 --> 00:16:47,590
+ahead and switch this
+all right so one of the other lessons in
+
+1128
+00:16:47,590 --> 00:16:47,600
+all right so one of the other lessons in
+ 
+
+1129
+00:16:47,600 --> 00:16:49,590
+all right so one of the other lessons in
+aikido is a certain point so much force
+
+1130
+00:16:49,590 --> 00:16:49,600
+aikido is a certain point so much force
+ 
+
+1131
+00:16:49,600 --> 00:16:51,430
+aikido is a certain point so much force
+has been brought that there's no way you
+
+1132
+00:16:51,430 --> 00:16:51,440
+has been brought that there's no way you
+ 
+
+1133
+00:16:51,440 --> 00:16:53,110
+has been brought that there's no way you
+can escape not using a weapon because
+
+1134
+00:16:53,110 --> 00:16:53,120
+can escape not using a weapon because
+ 
+
+1135
+00:16:53,120 --> 00:16:55,030
+can escape not using a weapon because
+you have to have some force of your own
+
+1136
+00:16:55,030 --> 00:16:55,040
+you have to have some force of your own
+ 
+
+1137
+00:16:55,040 --> 00:16:56,710
+you have to have some force of your own
+to counter the amazing force that this
+
+1138
+00:16:56,710 --> 00:16:56,720
+to counter the amazing force that this
+ 
+
+1139
+00:16:56,720 --> 00:16:58,310
+to counter the amazing force that this
+person's being bringing and that could
+
+1140
+00:16:58,310 --> 00:16:58,320
+person's being bringing and that could
+ 
+
+1141
+00:16:58,320 --> 00:16:59,590
+person's being bringing and that could
+be just because they're physically so
+
+1142
+00:16:59,590 --> 00:16:59,600
+be just because they're physically so
+ 
+
+1143
+00:16:59,600 --> 00:17:00,550
+be just because they're physically so
+much greater than you
+
+1144
+00:17:00,550 --> 00:17:00,560
+much greater than you
+ 
+
+1145
+00:17:00,560 --> 00:17:02,550
+much greater than you
+right so if you're fighting a pro mma
+
+1146
+00:17:02,550 --> 00:17:02,560
+right so if you're fighting a pro mma
+ 
+
+1147
+00:17:02,560 --> 00:17:03,910
+right so if you're fighting a pro mma
+fighter you're going to need a weapon in
+
+1148
+00:17:03,910 --> 00:17:03,920
+fighter you're going to need a weapon in
+ 
+
+1149
+00:17:03,920 --> 00:17:04,949
+fighter you're going to need a weapon in
+your hand
+
+1150
+00:17:04,949 --> 00:17:04,959
+your hand
+ 
+
+1151
+00:17:04,959 --> 00:17:07,029
+your hand
+if you're not a pro mma fighter there's
+
+1152
+00:17:07,029 --> 00:17:07,039
+if you're not a pro mma fighter there's
+ 
+
+1153
+00:17:07,039 --> 00:17:08,549
+if you're not a pro mma fighter there's
+no way you're going to deal with that
+
+1154
+00:17:08,549 --> 00:17:08,559
+no way you're going to deal with that
+ 
+
+1155
+00:17:08,559 --> 00:17:08,949
+no way you're going to deal with that
+guy
+
+1156
+00:17:08,949 --> 00:17:08,959
+guy
+ 
+
+1157
+00:17:08,959 --> 00:17:11,029
+guy
+without a weapon in your hand so let's
+
+1158
+00:17:11,029 --> 00:17:11,039
+without a weapon in your hand so let's
+ 
+
+1159
+00:17:11,039 --> 00:17:13,029
+without a weapon in your hand so let's
+just pretend josh is a pro mma fighter
+
+1160
+00:17:13,029 --> 00:17:13,039
+just pretend josh is a pro mma fighter
+ 
+
+1161
+00:17:13,039 --> 00:17:14,710
+just pretend josh is a pro mma fighter
+the only way he might is possibly going
+
+1162
+00:17:14,710 --> 00:17:14,720
+the only way he might is possibly going
+ 
+
+1163
+00:17:14,720 --> 00:17:16,710
+the only way he might is possibly going
+to deal with josh is to have a weapon
+
+1164
+00:17:16,710 --> 00:17:16,720
+to deal with josh is to have a weapon
+ 
+
+1165
+00:17:16,720 --> 00:17:17,189
+to deal with josh is to have a weapon
+right so
+
+1166
+00:17:17,189 --> 00:17:17,199
+right so
+ 
+
+1167
+00:17:17,199 --> 00:17:19,189
+right so
+we need to train those skills now a
+
+1168
+00:17:19,189 --> 00:17:19,199
+we need to train those skills now a
+ 
+
+1169
+00:17:19,199 --> 00:17:21,669
+we need to train those skills now a
+really unobviously difficult thing
+
+1170
+00:17:21,669 --> 00:17:21,679
+really unobviously difficult thing
+ 
+
+1171
+00:17:21,679 --> 00:17:23,990
+really unobviously difficult thing
+is moving and using a weapon at the same
+
+1172
+00:17:23,990 --> 00:17:24,000
+is moving and using a weapon at the same
+ 
+
+1173
+00:17:24,000 --> 00:17:24,789
+is moving and using a weapon at the same
+time right so
+
+1174
+00:17:24,789 --> 00:17:24,799
+time right so
+ 
+
+1175
+00:17:24,799 --> 00:17:26,470
+time right so
+you might think oh of course i'll just
+
+1176
+00:17:26,470 --> 00:17:26,480
+you might think oh of course i'll just
+ 
+
+1177
+00:17:26,480 --> 00:17:28,069
+you might think oh of course i'll just
+zig and zag and hit people with weapons
+
+1178
+00:17:28,069 --> 00:17:28,079
+zig and zag and hit people with weapons
+ 
+
+1179
+00:17:28,079 --> 00:17:29,110
+zig and zag and hit people with weapons
+it'll be so sweet
+
+1180
+00:17:29,110 --> 00:17:29,120
+it'll be so sweet
+ 
+
+1181
+00:17:29,120 --> 00:17:30,950
+it'll be so sweet
+you won't do that until you train it a
+
+1182
+00:17:30,950 --> 00:17:30,960
+you won't do that until you train it a
+ 
+
+1183
+00:17:30,960 --> 00:17:33,110
+you won't do that until you train it a
+lot you will suck at it we all have many
+
+1184
+00:17:33,110 --> 00:17:33,120
+lot you will suck at it we all have many
+ 
+
+1185
+00:17:33,120 --> 00:17:33,669
+lot you will suck at it we all have many
+times
+
+1186
+00:17:33,669 --> 00:17:33,679
+times
+ 
+
+1187
+00:17:33,679 --> 00:17:35,430
+times
+because it's difficult to think of how
+
+1188
+00:17:35,430 --> 00:17:35,440
+because it's difficult to think of how
+ 
+
+1189
+00:17:35,440 --> 00:17:37,350
+because it's difficult to think of how
+to get away and how to hit someone at
+
+1190
+00:17:37,350 --> 00:17:37,360
+to get away and how to hit someone at
+ 
+
+1191
+00:17:37,360 --> 00:17:39,110
+to get away and how to hit someone at
+the same time it's a real skill that has
+
+1192
+00:17:39,110 --> 00:17:39,120
+the same time it's a real skill that has
+ 
+
+1193
+00:17:39,120 --> 00:17:39,990
+the same time it's a real skill that has
+to be trained
+
+1194
+00:17:39,990 --> 00:17:40,000
+to be trained
+ 
+
+1195
+00:17:40,000 --> 00:17:41,990
+to be trained
+maya is going to do the basic drill we
+
+1196
+00:17:41,990 --> 00:17:42,000
+maya is going to do the basic drill we
+ 
+
+1197
+00:17:42,000 --> 00:17:43,350
+maya is going to do the basic drill we
+did before but she's going to use the
+
+1198
+00:17:43,350 --> 00:17:43,360
+did before but she's going to use the
+ 
+
+1199
+00:17:43,360 --> 00:17:45,270
+did before but she's going to use the
+weapon as she does that so as josh comes
+
+1200
+00:17:45,270 --> 00:17:45,280
+weapon as she does that so as josh comes
+ 
+
+1201
+00:17:45,280 --> 00:17:46,549
+weapon as she does that so as josh comes
+in she's going to get suppression tai no
+
+1202
+00:17:46,549 --> 00:17:46,559
+in she's going to get suppression tai no
+ 
+
+1203
+00:17:46,559 --> 00:17:48,470
+in she's going to get suppression tai no
+hinko and use the weapon
+
+1204
+00:17:48,470 --> 00:17:48,480
+hinko and use the weapon
+ 
+
+1205
+00:17:48,480 --> 00:17:49,909
+hinko and use the weapon
+okay now notice there she used the
+
+1206
+00:17:49,909 --> 00:17:49,919
+okay now notice there she used the
+ 
+
+1207
+00:17:49,919 --> 00:17:54,710
+okay now notice there she used the
+weapon for the suppression acceptable
+
+1208
+00:17:54,710 --> 00:17:54,720
+
+ 
+
+1209
+00:17:54,720 --> 00:17:56,310
+
+there she used her hand for suppression
+
+1210
+00:17:56,310 --> 00:17:56,320
+there she used her hand for suppression
+ 
+
+1211
+00:17:56,320 --> 00:17:58,630
+there she used her hand for suppression
+and attacked with the weapon acceptable
+
+1212
+00:17:58,630 --> 00:17:58,640
+and attacked with the weapon acceptable
+ 
+
+1213
+00:17:58,640 --> 00:18:00,950
+and attacked with the weapon acceptable
+so this is just the same drill except
+
+1214
+00:18:00,950 --> 00:18:00,960
+so this is just the same drill except
+ 
+
+1215
+00:18:00,960 --> 00:18:01,750
+so this is just the same drill except
+we're
+
+1216
+00:18:01,750 --> 00:18:01,760
+we're
+ 
+
+1217
+00:18:01,760 --> 00:18:03,190
+we're
+forcing maya to start to learn how to
+
+1218
+00:18:03,190 --> 00:18:03,200
+forcing maya to start to learn how to
+ 
+
+1219
+00:18:03,200 --> 00:18:05,270
+forcing maya to start to learn how to
+use a weapon while she's making
+
+1220
+00:18:05,270 --> 00:18:05,280
+use a weapon while she's making
+ 
+
+1221
+00:18:05,280 --> 00:18:07,270
+use a weapon while she's making
+suppression and tai no hinko so this is
+
+1222
+00:18:07,270 --> 00:18:07,280
+suppression and tai no hinko so this is
+ 
+
+1223
+00:18:07,280 --> 00:18:08,950
+suppression and tai no hinko so this is
+another skill she's going to use
+
+1224
+00:18:08,950 --> 00:18:08,960
+another skill she's going to use
+ 
+
+1225
+00:18:08,960 --> 00:18:10,710
+another skill she's going to use
+okay now then again of course we can add
+
+1226
+00:18:10,710 --> 00:18:10,720
+okay now then again of course we can add
+ 
+
+1227
+00:18:10,720 --> 00:18:12,470
+okay now then again of course we can add
+to this josh trying to get around her
+
+1228
+00:18:12,470 --> 00:18:12,480
+to this josh trying to get around her
+ 
+
+1229
+00:18:12,480 --> 00:18:27,669
+to this josh trying to get around her
+suppression and maya using a defense
+
+1230
+00:18:27,669 --> 00:18:27,679
+
+ 
+
+1231
+00:18:27,679 --> 00:18:29,990
+
+good okay so with that we can see that
+
+1232
+00:18:29,990 --> 00:18:30,000
+good okay so with that we can see that
+ 
+
+1233
+00:18:30,000 --> 00:18:31,830
+good okay so with that we can see that
+uh josh is trying to come in he's trying
+
+1234
+00:18:31,830 --> 00:18:31,840
+uh josh is trying to come in he's trying
+ 
+
+1235
+00:18:31,840 --> 00:18:32,950
+uh josh is trying to come in he's trying
+to get around her suppression she's
+
+1236
+00:18:32,950 --> 00:18:32,960
+to get around her suppression she's
+ 
+
+1237
+00:18:32,960 --> 00:18:34,390
+to get around her suppression she's
+trying to hit now again if you get your
+
+1238
+00:18:34,390 --> 00:18:34,400
+trying to hit now again if you get your
+ 
+
+1239
+00:18:34,400 --> 00:18:36,230
+trying to hit now again if you get your
+students doing the little dance thing
+
+1240
+00:18:36,230 --> 00:18:36,240
+students doing the little dance thing
+ 
+
+1241
+00:18:36,240 --> 00:18:38,230
+students doing the little dance thing
+you should just be telling the nage that
+
+1242
+00:18:38,230 --> 00:18:38,240
+you should just be telling the nage that
+ 
+
+1243
+00:18:38,240 --> 00:18:40,230
+you should just be telling the nage that
+their objective is to get away from the
+
+1244
+00:18:40,230 --> 00:18:40,240
+their objective is to get away from the
+ 
+
+1245
+00:18:40,240 --> 00:18:41,669
+their objective is to get away from the
+dance thing right so
+
+1246
+00:18:41,669 --> 00:18:41,679
+dance thing right so
+ 
+
+1247
+00:18:41,679 --> 00:18:44,150
+dance thing right so
+okay so josh if josh comes in towards
+
+1248
+00:18:44,150 --> 00:18:44,160
+okay so josh if josh comes in towards
+ 
+
+1249
+00:18:44,160 --> 00:18:44,789
+okay so josh if josh comes in towards
+maya
+
+1250
+00:18:44,789 --> 00:18:44,799
+maya
+ 
+
+1251
+00:18:44,799 --> 00:18:47,110
+maya
+and he stops to do the little dance okay
+
+1252
+00:18:47,110 --> 00:18:47,120
+and he stops to do the little dance okay
+ 
+
+1253
+00:18:47,120 --> 00:18:48,390
+and he stops to do the little dance okay
+and then maya plays the dance and she
+
+1254
+00:18:48,390 --> 00:18:48,400
+and then maya plays the dance and she
+ 
+
+1255
+00:18:48,400 --> 00:18:49,990
+and then maya plays the dance and she
+starts popping him with the stick
+
+1256
+00:18:49,990 --> 00:18:50,000
+starts popping him with the stick
+ 
+
+1257
+00:18:50,000 --> 00:18:51,830
+starts popping him with the stick
+right so okay that's not the game of
+
+1258
+00:18:51,830 --> 00:18:51,840
+right so okay that's not the game of
+ 
+
+1259
+00:18:51,840 --> 00:18:54,310
+right so okay that's not the game of
+aikido right so maya should already know
+
+1260
+00:18:54,310 --> 00:18:54,320
+aikido right so maya should already know
+ 
+
+1261
+00:18:54,320 --> 00:18:56,710
+aikido right so maya should already know
+that that range is bad for her because
+
+1262
+00:18:56,710 --> 00:18:56,720
+that that range is bad for her because
+ 
+
+1263
+00:18:56,720 --> 00:18:58,789
+that that range is bad for her because
+we learned that in those early ma eye
+
+1264
+00:18:58,789 --> 00:18:58,799
+we learned that in those early ma eye
+ 
+
+1265
+00:18:58,799 --> 00:19:00,150
+we learned that in those early ma eye
+drills so maya doesn't want to be at
+
+1266
+00:19:00,150 --> 00:19:00,160
+drills so maya doesn't want to be at
+ 
+
+1267
+00:19:00,160 --> 00:19:00,789
+drills so maya doesn't want to be at
+that range
+
+1268
+00:19:00,789 --> 00:19:00,799
+that range
+ 
+
+1269
+00:19:00,799 --> 00:19:02,710
+that range
+she wants the most range because she has
+
+1270
+00:19:02,710 --> 00:19:02,720
+she wants the most range because she has
+ 
+
+1271
+00:19:02,720 --> 00:19:04,470
+she wants the most range because she has
+the most i keep potential with that so
+
+1272
+00:19:04,470 --> 00:19:04,480
+the most i keep potential with that so
+ 
+
+1273
+00:19:04,480 --> 00:19:07,750
+the most i keep potential with that so
+if josh plays the dance game
+
+1274
+00:19:07,750 --> 00:19:07,760
+if josh plays the dance game
+ 
+
+1275
+00:19:07,760 --> 00:19:08,950
+if josh plays the dance game
+then that's what maya should do she
+
+1276
+00:19:08,950 --> 00:19:08,960
+then that's what maya should do she
+ 
+
+1277
+00:19:08,960 --> 00:19:10,390
+then that's what maya should do she
+should go away now of course the second
+
+1278
+00:19:10,390 --> 00:19:10,400
+should go away now of course the second
+ 
+
+1279
+00:19:10,400 --> 00:19:11,350
+should go away now of course the second
+maya walks away
+
+1280
+00:19:11,350 --> 00:19:11,360
+maya walks away
+ 
+
+1281
+00:19:11,360 --> 00:19:12,950
+maya walks away
+if josh wants to get her he'll have to
+
+1282
+00:19:12,950 --> 00:19:12,960
+if josh wants to get her he'll have to
+ 
+
+1283
+00:19:12,960 --> 00:19:15,110
+if josh wants to get her he'll have to
+chase her and again we're at this basic
+
+1284
+00:19:15,110 --> 00:19:15,120
+chase her and again we're at this basic
+ 
+
+1285
+00:19:15,120 --> 00:19:16,230
+chase her and again we're at this basic
+setup for this drill
+
+1286
+00:19:16,230 --> 00:19:16,240
+setup for this drill
+ 
+
+1287
+00:19:16,240 --> 00:19:18,070
+setup for this drill
+so doing that little dance game is just
+
+1288
+00:19:18,070 --> 00:19:18,080
+so doing that little dance game is just
+ 
+
+1289
+00:19:18,080 --> 00:19:19,590
+so doing that little dance game is just
+a way not to practice the thing that
+
+1290
+00:19:19,590 --> 00:19:19,600
+a way not to practice the thing that
+ 
+
+1291
+00:19:19,600 --> 00:19:20,549
+a way not to practice the thing that
+we're practicing
+
+1292
+00:19:20,549 --> 00:19:20,559
+we're practicing
+ 
+
+1293
+00:19:20,559 --> 00:19:22,950
+we're practicing
+right now now later we can open it up
+
+1294
+00:19:22,950 --> 00:19:22,960
+right now now later we can open it up
+ 
+
+1295
+00:19:22,960 --> 00:19:24,390
+right now now later we can open it up
+and we will in just a second here with
+
+1296
+00:19:24,390 --> 00:19:24,400
+and we will in just a second here with
+ 
+
+1297
+00:19:24,400 --> 00:19:26,230
+and we will in just a second here with
+rondori and we can let them do whatever
+
+1298
+00:19:26,230 --> 00:19:26,240
+rondori and we can let them do whatever
+ 
+
+1299
+00:19:26,240 --> 00:19:27,270
+rondori and we can let them do whatever
+they want and then it will be a
+
+1300
+00:19:27,270 --> 00:19:27,280
+they want and then it will be a
+ 
+
+1301
+00:19:27,280 --> 00:19:28,630
+they want and then it will be a
+completely free practice and we'll see
+
+1302
+00:19:28,630 --> 00:19:28,640
+completely free practice and we'll see
+ 
+
+1303
+00:19:28,640 --> 00:19:30,390
+completely free practice and we'll see
+how the dance game plays out for josh
+
+1304
+00:19:30,390 --> 00:19:30,400
+how the dance game plays out for josh
+ 
+
+1305
+00:19:30,400 --> 00:19:32,150
+how the dance game plays out for josh
+but in this drill you need to keep your
+
+1306
+00:19:32,150 --> 00:19:32,160
+but in this drill you need to keep your
+ 
+
+1307
+00:19:32,160 --> 00:19:33,990
+but in this drill you need to keep your
+students really really honest with this
+
+1308
+00:19:33,990 --> 00:19:34,000
+students really really honest with this
+ 
+
+1309
+00:19:34,000 --> 00:19:35,510
+students really really honest with this
+right so now from this we should be able
+
+1310
+00:19:35,510 --> 00:19:35,520
+right so now from this we should be able
+ 
+
+1311
+00:19:35,520 --> 00:19:37,110
+right so now from this we should be able
+to judge good distance for our students
+
+1312
+00:19:37,110 --> 00:19:37,120
+to judge good distance for our students
+ 
+
+1313
+00:19:37,120 --> 00:19:38,390
+to judge good distance for our students
+we should be able to make suppression
+
+1314
+00:19:38,390 --> 00:19:38,400
+we should be able to make suppression
+ 
+
+1315
+00:19:38,400 --> 00:19:39,909
+we should be able to make suppression
+and tai no hinko for our students we
+
+1316
+00:19:39,909 --> 00:19:39,919
+and tai no hinko for our students we
+ 
+
+1317
+00:19:39,919 --> 00:19:41,430
+and tai no hinko for our students we
+should be able to use a weapon making
+
+1318
+00:19:41,430 --> 00:19:41,440
+should be able to use a weapon making
+ 
+
+1319
+00:19:41,440 --> 00:19:42,630
+should be able to use a weapon making
+taino hinko and suppression for our
+
+1320
+00:19:42,630 --> 00:19:42,640
+taino hinko and suppression for our
+ 
+
+1321
+00:19:42,640 --> 00:19:43,830
+taino hinko and suppression for our
+students and so now that's going to
+
+1322
+00:19:43,830 --> 00:19:43,840
+students and so now that's going to
+ 
+
+1323
+00:19:43,840 --> 00:19:45,110
+students and so now that's going to
+bring us to rondori
+
+1324
+00:19:45,110 --> 00:19:45,120
+bring us to rondori
+ 
+
+1325
+00:19:45,120 --> 00:19:46,150
+bring us to rondori
+okay so i'm going to get out of here in
+
+1326
+00:19:46,150 --> 00:19:46,160
+okay so i'm going to get out of here in
+ 
+
+1327
+00:19:46,160 --> 00:19:47,110
+okay so i'm going to get out of here in
+a second we're going to let these guys
+
+1328
+00:19:47,110 --> 00:19:47,120
+a second we're going to let these guys
+ 
+
+1329
+00:19:47,120 --> 00:19:49,350
+a second we're going to let these guys
+go but we'll set up a box and the box is
+
+1330
+00:19:49,350 --> 00:19:49,360
+go but we'll set up a box and the box is
+ 
+
+1331
+00:19:49,360 --> 00:19:51,029
+go but we'll set up a box and the box is
+the parameters maya has to be in right
+
+1332
+00:19:51,029 --> 00:19:51,039
+the parameters maya has to be in right
+ 
+
+1333
+00:19:51,039 --> 00:19:51,830
+the parameters maya has to be in right
+so that's cor
+
+1334
+00:19:51,830 --> 00:19:51,840
+so that's cor
+ 
+
+1335
+00:19:51,840 --> 00:19:53,190
+so that's cor
+it's totally artificial but it
+
+1336
+00:19:53,190 --> 00:19:53,200
+it's totally artificial but it
+ 
+
+1337
+00:19:53,200 --> 00:19:55,190
+it's totally artificial but it
+represents her being in a room or in a
+
+1338
+00:19:55,190 --> 00:19:55,200
+represents her being in a room or in a
+ 
+
+1339
+00:19:55,200 --> 00:19:56,710
+represents her being in a room or in a
+situation where there's dangerous
+
+1340
+00:19:56,710 --> 00:19:56,720
+situation where there's dangerous
+ 
+
+1341
+00:19:56,720 --> 00:19:58,070
+situation where there's dangerous
+things on the edges right so maybe
+
+1342
+00:19:58,070 --> 00:19:58,080
+things on the edges right so maybe
+ 
+
+1343
+00:19:58,080 --> 00:20:00,390
+things on the edges right so maybe
+there's a cliff or a road or a pool or
+
+1344
+00:20:00,390 --> 00:20:00,400
+there's a cliff or a road or a pool or
+ 
+
+1345
+00:20:00,400 --> 00:20:01,830
+there's a cliff or a road or a pool or
+whatever stuff she doesn't want to get
+
+1346
+00:20:01,830 --> 00:20:01,840
+whatever stuff she doesn't want to get
+ 
+
+1347
+00:20:01,840 --> 00:20:03,750
+whatever stuff she doesn't want to get
+in so mine's got to manage the distance
+
+1348
+00:20:03,750 --> 00:20:03,760
+in so mine's got to manage the distance
+ 
+
+1349
+00:20:03,760 --> 00:20:05,909
+in so mine's got to manage the distance
+so she doesn't get knocked out of bounds
+
+1350
+00:20:05,909 --> 00:20:05,919
+so she doesn't get knocked out of bounds
+ 
+
+1351
+00:20:05,919 --> 00:20:08,149
+so she doesn't get knocked out of bounds
+and she has to keep her stick while
+
+1352
+00:20:08,149 --> 00:20:08,159
+and she has to keep her stick while
+ 
+
+1353
+00:20:08,159 --> 00:20:10,070
+and she has to keep her stick while
+she's doing that to use it on josh
+
+1354
+00:20:10,070 --> 00:20:10,080
+she's doing that to use it on josh
+ 
+
+1355
+00:20:10,080 --> 00:20:11,270
+she's doing that to use it on josh
+josh isn't going to feign that he's
+
+1356
+00:20:11,270 --> 00:20:11,280
+josh isn't going to feign that he's
+ 
+
+1357
+00:20:11,280 --> 00:20:12,470
+josh isn't going to feign that he's
+getting hurt because that's not the
+
+1358
+00:20:12,470 --> 00:20:12,480
+getting hurt because that's not the
+ 
+
+1359
+00:20:12,480 --> 00:20:13,190
+getting hurt because that's not the
+objective of this
+
+1360
+00:20:13,190 --> 00:20:13,200
+objective of this
+ 
+
+1361
+00:20:13,200 --> 00:20:14,789
+objective of this
+all we're training maya to do is use her
+
+1362
+00:20:14,789 --> 00:20:14,799
+all we're training maya to do is use her
+ 
+
+1363
+00:20:14,799 --> 00:20:16,710
+all we're training maya to do is use her
+weapon while she's moving now josh of
+
+1364
+00:20:16,710 --> 00:20:16,720
+weapon while she's moving now josh of
+ 
+
+1365
+00:20:16,720 --> 00:20:17,590
+weapon while she's moving now josh of
+course his win
+
+1366
+00:20:17,590 --> 00:20:17,600
+course his win
+ 
+
+1367
+00:20:17,600 --> 00:20:19,510
+course his win
+criteria in this is going gonna be he
+
+1368
+00:20:19,510 --> 00:20:19,520
+criteria in this is going gonna be he
+ 
+
+1369
+00:20:19,520 --> 00:20:21,190
+criteria in this is going gonna be he
+takes the weapon away from her or she
+
+1370
+00:20:21,190 --> 00:20:21,200
+takes the weapon away from her or she
+ 
+
+1371
+00:20:21,200 --> 00:20:22,630
+takes the weapon away from her or she
+drops it even she drops it on her own
+
+1372
+00:20:22,630 --> 00:20:22,640
+drops it even she drops it on her own
+ 
+
+1373
+00:20:22,640 --> 00:20:24,070
+drops it even she drops it on her own
+that's a win criteria for josh
+
+1374
+00:20:24,070 --> 00:20:24,080
+that's a win criteria for josh
+ 
+
+1375
+00:20:24,080 --> 00:20:25,909
+that's a win criteria for josh
+he pushes her out of bounds that's a win
+
+1376
+00:20:25,909 --> 00:20:25,919
+he pushes her out of bounds that's a win
+ 
+
+1377
+00:20:25,919 --> 00:20:27,110
+he pushes her out of bounds that's a win
+criteria for josh
+
+1378
+00:20:27,110 --> 00:20:27,120
+criteria for josh
+ 
+
+1379
+00:20:27,120 --> 00:20:28,950
+criteria for josh
+he knocks her down so anything other
+
+1380
+00:20:28,950 --> 00:20:28,960
+he knocks her down so anything other
+ 
+
+1381
+00:20:28,960 --> 00:20:30,470
+he knocks her down so anything other
+than her feet are on the ground
+
+1382
+00:20:30,470 --> 00:20:30,480
+than her feet are on the ground
+ 
+
+1383
+00:20:30,480 --> 00:20:31,830
+than her feet are on the ground
+that's a win criteria for josh because
+
+1384
+00:20:31,830 --> 00:20:31,840
+that's a win criteria for josh because
+ 
+
+1385
+00:20:31,840 --> 00:20:33,510
+that's a win criteria for josh because
+aikido doesn't train that stuff right so
+
+1386
+00:20:33,510 --> 00:20:33,520
+aikido doesn't train that stuff right so
+ 
+
+1387
+00:20:33,520 --> 00:20:34,870
+aikido doesn't train that stuff right so
+we should get up from there right so
+
+1388
+00:20:34,870 --> 00:20:34,880
+we should get up from there right so
+ 
+
+1389
+00:20:34,880 --> 00:20:36,950
+we should get up from there right so
+that's a win criteria for josh the only
+
+1390
+00:20:36,950 --> 00:20:36,960
+that's a win criteria for josh the only
+ 
+
+1391
+00:20:36,960 --> 00:20:39,430
+that's a win criteria for josh the only
+way maya wins is to survive the whole
+
+1392
+00:20:39,430 --> 00:20:39,440
+way maya wins is to survive the whole
+ 
+
+1393
+00:20:39,440 --> 00:20:40,230
+way maya wins is to survive the whole
+time okay
+
+1394
+00:20:40,230 --> 00:20:40,240
+time okay
+ 
+
+1395
+00:20:40,240 --> 00:20:42,149
+time okay
+we're going to run these in 10 second
+
+1396
+00:20:42,149 --> 00:20:42,159
+we're going to run these in 10 second
+ 
+
+1397
+00:20:42,159 --> 00:20:43,909
+we're going to run these in 10 second
+intervals right now and 10 seconds is
+
+1398
+00:20:43,909 --> 00:20:43,919
+intervals right now and 10 seconds is
+ 
+
+1399
+00:20:43,919 --> 00:20:45,430
+intervals right now and 10 seconds is
+i wouldn't go any longer for your
+
+1400
+00:20:45,430 --> 00:20:45,440
+i wouldn't go any longer for your
+ 
+
+1401
+00:20:45,440 --> 00:20:46,630
+i wouldn't go any longer for your
+students than 10 seconds in the
+
+1402
+00:20:46,630 --> 00:20:46,640
+students than 10 seconds in the
+ 
+
+1403
+00:20:46,640 --> 00:20:47,270
+students than 10 seconds in the
+beginning
+
+1404
+00:20:47,270 --> 00:20:47,280
+beginning
+ 
+
+1405
+00:20:47,280 --> 00:20:49,350
+beginning
+10 seconds is a lot and the amount of
+
+1406
+00:20:49,350 --> 00:20:49,360
+10 seconds is a lot and the amount of
+ 
+
+1407
+00:20:49,360 --> 00:20:51,190
+10 seconds is a lot and the amount of
+damage this guy would usually acquire in
+
+1408
+00:20:51,190 --> 00:20:51,200
+damage this guy would usually acquire in
+ 
+
+1409
+00:20:51,200 --> 00:20:52,950
+damage this guy would usually acquire in
+10 seconds will be significant because
+
+1410
+00:20:52,950 --> 00:20:52,960
+10 seconds will be significant because
+ 
+
+1411
+00:20:52,960 --> 00:20:54,470
+10 seconds will be significant because
+remember she's using a weapon the whole
+
+1412
+00:20:54,470 --> 00:20:54,480
+remember she's using a weapon the whole
+ 
+
+1413
+00:20:54,480 --> 00:20:56,390
+remember she's using a weapon the whole
+time so it was a pistol she'd be putting
+
+1414
+00:20:56,390 --> 00:20:56,400
+time so it was a pistol she'd be putting
+ 
+
+1415
+00:20:56,400 --> 00:20:57,430
+time so it was a pistol she'd be putting
+rounds on target
+
+1416
+00:20:57,430 --> 00:20:57,440
+rounds on target
+ 
+
+1417
+00:20:57,440 --> 00:20:59,029
+rounds on target
+if it's a stick she's whacking him it's
+
+1418
+00:20:59,029 --> 00:20:59,039
+if it's a stick she's whacking him it's
+ 
+
+1419
+00:20:59,039 --> 00:21:00,870
+if it's a stick she's whacking him it's
+a knife she's cutting him so that's 10
+
+1420
+00:21:00,870 --> 00:21:00,880
+a knife she's cutting him so that's 10
+ 
+
+1421
+00:21:00,880 --> 00:21:02,230
+a knife she's cutting him so that's 10
+seconds is a lot of time for him to
+
+1422
+00:21:02,230 --> 00:21:02,240
+seconds is a lot of time for him to
+ 
+
+1423
+00:21:02,240 --> 00:21:16,750
+seconds is a lot of time for him to
+sustain continuous injury
+
+1424
+00:21:16,750 --> 00:21:16,760
+sustain continuous injury
+ 
+
+1425
+00:21:16,760 --> 00:21:37,190
+sustain continuous injury
+[Music]
+
+1426
+00:21:37,190 --> 00:21:37,200
+
+ 
+
+1427
+00:21:37,200 --> 00:21:39,750
+
+all right guys so that was uh the drills
+
+1428
+00:21:39,750 --> 00:21:39,760
+all right guys so that was uh the drills
+ 
+
+1429
+00:21:39,760 --> 00:21:41,350
+all right guys so that was uh the drills
+i would recommend beginning your
+
+1430
+00:21:41,350 --> 00:21:41,360
+i would recommend beginning your
+ 
+
+1431
+00:21:41,360 --> 00:21:42,789
+i would recommend beginning your
+students off working with
+
+1432
+00:21:42,789 --> 00:21:42,799
+students off working with
+ 
+
+1433
+00:21:42,799 --> 00:21:45,990
+students off working with
+ikea live training so um
+
+1434
+00:21:45,990 --> 00:21:46,000
+ikea live training so um
+ 
+
+1435
+00:21:46,000 --> 00:21:47,110
+ikea live training so um
+most of those practices or a lot of
+
+1436
+00:21:47,110 --> 00:21:47,120
+most of those practices or a lot of
+ 
+
+1437
+00:21:47,120 --> 00:21:48,549
+most of those practices or a lot of
+those practices aren't actually live
+
+1438
+00:21:48,549 --> 00:21:48,559
+those practices aren't actually live
+ 
+
+1439
+00:21:48,559 --> 00:21:49,830
+those practices aren't actually live
+practices but you're going to need to do
+
+1440
+00:21:49,830 --> 00:21:49,840
+practices but you're going to need to do
+ 
+
+1441
+00:21:49,840 --> 00:21:51,430
+practices but you're going to need to do
+them to build up to the wrong dory we
+
+1442
+00:21:51,430 --> 00:21:51,440
+them to build up to the wrong dory we
+ 
+
+1443
+00:21:51,440 --> 00:21:52,070
+them to build up to the wrong dory we
+had at the end
+
+1444
+00:21:52,070 --> 00:21:52,080
+had at the end
+ 
+
+1445
+00:21:52,080 --> 00:21:53,990
+had at the end
+so that's the way we do rondori we would
+
+1446
+00:21:53,990 --> 00:21:54,000
+so that's the way we do rondori we would
+ 
+
+1447
+00:21:54,000 --> 00:21:55,350
+so that's the way we do rondori we would
+generally do it with two attackers
+
+1448
+00:21:55,350 --> 00:21:55,360
+generally do it with two attackers
+ 
+
+1449
+00:21:55,360 --> 00:21:55,830
+generally do it with two attackers
+although
+
+1450
+00:21:55,830 --> 00:21:55,840
+although
+ 
+
+1451
+00:21:55,840 --> 00:21:58,070
+although
+just to make things easy and uh we did
+
+1452
+00:21:58,070 --> 00:21:58,080
+just to make things easy and uh we did
+ 
+
+1453
+00:21:58,080 --> 00:21:59,990
+just to make things easy and uh we did
+it with just the two today
+
+1454
+00:21:59,990 --> 00:22:00,000
+it with just the two today
+ 
+
+1455
+00:22:00,000 --> 00:22:02,470
+it with just the two today
+two people total instead of having three
+
+1456
+00:22:02,470 --> 00:22:02,480
+two people total instead of having three
+ 
+
+1457
+00:22:02,480 --> 00:22:04,470
+two people total instead of having three
+total which two attackers and one nugget
+
+1458
+00:22:04,470 --> 00:22:04,480
+total which two attackers and one nugget
+ 
+
+1459
+00:22:04,480 --> 00:22:05,909
+total which two attackers and one nugget
+so um we did it that way just so it was
+
+1460
+00:22:05,909 --> 00:22:05,919
+so um we did it that way just so it was
+ 
+
+1461
+00:22:05,919 --> 00:22:07,350
+so um we did it that way just so it was
+easier to see and consistent with what
+
+1462
+00:22:07,350 --> 00:22:07,360
+easier to see and consistent with what
+ 
+
+1463
+00:22:07,360 --> 00:22:07,990
+easier to see and consistent with what
+we did but
+
+1464
+00:22:07,990 --> 00:22:08,000
+we did but
+ 
+
+1465
+00:22:08,000 --> 00:22:09,190
+we did but
+generally when you get into wrongdoing
+
+1466
+00:22:09,190 --> 00:22:09,200
+generally when you get into wrongdoing
+ 
+
+1467
+00:22:09,200 --> 00:22:10,070
+generally when you get into wrongdoing
+you need to start doing multiple
+
+1468
+00:22:10,070 --> 00:22:10,080
+you need to start doing multiple
+ 
+
+1469
+00:22:10,080 --> 00:22:11,110
+you need to start doing multiple
+attackers
+
+1470
+00:22:11,110 --> 00:22:11,120
+attackers
+ 
+
+1471
+00:22:11,120 --> 00:22:12,549
+attackers
+there's another set of drills that you
+
+1472
+00:22:12,549 --> 00:22:12,559
+there's another set of drills that you
+ 
+
+1473
+00:22:12,559 --> 00:22:13,909
+there's another set of drills that you
+need to work on for multiple attackers
+
+1474
+00:22:13,909 --> 00:22:13,919
+need to work on for multiple attackers
+ 
+
+1475
+00:22:13,919 --> 00:22:15,110
+need to work on for multiple attackers
+we'll make a video we've kind of made
+
+1476
+00:22:15,110 --> 00:22:15,120
+we'll make a video we've kind of made
+ 
+
+1477
+00:22:15,120 --> 00:22:16,470
+we'll make a video we've kind of made
+some videos in the past but we'll make
+
+1478
+00:22:16,470 --> 00:22:16,480
+some videos in the past but we'll make
+ 
+
+1479
+00:22:16,480 --> 00:22:17,669
+some videos in the past but we'll make
+some more videos for you guys talking
+
+1480
+00:22:17,669 --> 00:22:17,679
+some more videos for you guys talking
+ 
+
+1481
+00:22:17,679 --> 00:22:19,110
+some more videos for you guys talking
+about multiple attacker rondori and how
+
+1482
+00:22:19,110 --> 00:22:19,120
+about multiple attacker rondori and how
+ 
+
+1483
+00:22:19,120 --> 00:22:20,390
+about multiple attacker rondori and how
+you start to work that
+
+1484
+00:22:20,390 --> 00:22:20,400
+you start to work that
+ 
+
+1485
+00:22:20,400 --> 00:22:22,390
+you start to work that
+but you can see in there what's trying
+
+1486
+00:22:22,390 --> 00:22:22,400
+but you can see in there what's trying
+ 
+
+1487
+00:22:22,400 --> 00:22:23,909
+but you can see in there what's trying
+to happen now understand that when
+
+1488
+00:22:23,909 --> 00:22:23,919
+to happen now understand that when
+ 
+
+1489
+00:22:23,919 --> 00:22:26,230
+to happen now understand that when
+maya's in the wrong dory situation that
+
+1490
+00:22:26,230 --> 00:22:26,240
+maya's in the wrong dory situation that
+ 
+
+1491
+00:22:26,240 --> 00:22:26,789
+maya's in the wrong dory situation that
+is not
+
+1492
+00:22:26,789 --> 00:22:26,799
+is not
+ 
+
+1493
+00:22:26,799 --> 00:22:29,750
+is not
+ideal aikido that's right before failing
+
+1494
+00:22:29,750 --> 00:22:29,760
+ideal aikido that's right before failing
+ 
+
+1495
+00:22:29,760 --> 00:22:30,630
+ideal aikido that's right before failing
+aikido so
+
+1496
+00:22:30,630 --> 00:22:30,640
+aikido so
+ 
+
+1497
+00:22:30,640 --> 00:22:31,990
+aikido so
+she doesn't want to be there she doesn't
+
+1498
+00:22:31,990 --> 00:22:32,000
+she doesn't want to be there she doesn't
+ 
+
+1499
+00:22:32,000 --> 00:22:33,190
+she doesn't want to be there she doesn't
+have to use a weapon she doesn't want to
+
+1500
+00:22:33,190 --> 00:22:33,200
+have to use a weapon she doesn't want to
+ 
+
+1501
+00:22:33,200 --> 00:22:34,710
+have to use a weapon she doesn't want to
+be having to move around real fast with
+
+1502
+00:22:34,710 --> 00:22:34,720
+be having to move around real fast with
+ 
+
+1503
+00:22:34,720 --> 00:22:36,070
+be having to move around real fast with
+a guy like that it's dangerous and the
+
+1504
+00:22:36,070 --> 00:22:36,080
+a guy like that it's dangerous and the
+ 
+
+1505
+00:22:36,080 --> 00:22:37,270
+a guy like that it's dangerous and the
+more skilled josh is
+
+1506
+00:22:37,270 --> 00:22:37,280
+more skilled josh is
+ 
+
+1507
+00:22:37,280 --> 00:22:38,630
+more skilled josh is
+the less likely she is going to be able
+
+1508
+00:22:38,630 --> 00:22:38,640
+the less likely she is going to be able
+ 
+
+1509
+00:22:38,640 --> 00:22:40,870
+the less likely she is going to be able
+to deal with that so honestly good iq
+
+1510
+00:22:40,870 --> 00:22:40,880
+to deal with that so honestly good iq
+ 
+
+1511
+00:22:40,880 --> 00:22:42,470
+to deal with that so honestly good iq
+would be never being in that situation
+
+1512
+00:22:42,470 --> 00:22:42,480
+would be never being in that situation
+ 
+
+1513
+00:22:42,480 --> 00:22:43,990
+would be never being in that situation
+but that's right before it's going to
+
+1514
+00:22:43,990 --> 00:22:44,000
+but that's right before it's going to
+ 
+
+1515
+00:22:44,000 --> 00:22:46,149
+but that's right before it's going to
+turn into serious kumiuchi so
+
+1516
+00:22:46,149 --> 00:22:46,159
+turn into serious kumiuchi so
+ 
+
+1517
+00:22:46,159 --> 00:22:47,510
+turn into serious kumiuchi so
+once josh gets ahold of her then we're
+
+1518
+00:22:47,510 --> 00:22:47,520
+once josh gets ahold of her then we're
+ 
+
+1519
+00:22:47,520 --> 00:22:49,270
+once josh gets ahold of her then we're
+already into kumuchi range and
+
+1520
+00:22:49,270 --> 00:22:49,280
+already into kumuchi range and
+ 
+
+1521
+00:22:49,280 --> 00:22:51,350
+already into kumuchi range and
+and this is about ikey so that
+
+1522
+00:22:51,350 --> 00:22:51,360
+and this is about ikey so that
+ 
+
+1523
+00:22:51,360 --> 00:22:52,950
+and this is about ikey so that
+progression will build your students up
+
+1524
+00:22:52,950 --> 00:22:52,960
+progression will build your students up
+ 
+
+1525
+00:22:52,960 --> 00:22:54,549
+progression will build your students up
+so remember first work on
+
+1526
+00:22:54,549 --> 00:22:54,559
+so remember first work on
+ 
+
+1527
+00:22:54,559 --> 00:22:56,230
+so remember first work on
+my eye they have to understand my eye
+
+1528
+00:22:56,230 --> 00:22:56,240
+my eye they have to understand my eye
+ 
+
+1529
+00:22:56,240 --> 00:22:57,750
+my eye they have to understand my eye
+and what's a good distance for ikea and
+
+1530
+00:22:57,750 --> 00:22:57,760
+and what's a good distance for ikea and
+ 
+
+1531
+00:22:57,760 --> 00:22:59,110
+and what's a good distance for ikea and
+what's a bad distance for aikido
+
+1532
+00:22:59,110 --> 00:22:59,120
+what's a bad distance for aikido
+ 
+
+1533
+00:22:59,120 --> 00:23:00,390
+what's a bad distance for aikido
+if you understand what a good distance
+
+1534
+00:23:00,390 --> 00:23:00,400
+if you understand what a good distance
+ 
+
+1535
+00:23:00,400 --> 00:23:02,149
+if you understand what a good distance
+for aikido is that will fix a lot of the
+
+1536
+00:23:02,149 --> 00:23:02,159
+for aikido is that will fix a lot of the
+ 
+
+1537
+00:23:02,159 --> 00:23:03,270
+for aikido is that will fix a lot of the
+problems your students are going to have
+
+1538
+00:23:03,270 --> 00:23:03,280
+problems your students are going to have
+ 
+
+1539
+00:23:03,280 --> 00:23:04,549
+problems your students are going to have
+because they'll automatically always be
+
+1540
+00:23:04,549 --> 00:23:04,559
+because they'll automatically always be
+ 
+
+1541
+00:23:04,559 --> 00:23:06,470
+because they'll automatically always be
+resetting to the good distance right
+
+1542
+00:23:06,470 --> 00:23:06,480
+resetting to the good distance right
+ 
+
+1543
+00:23:06,480 --> 00:23:08,149
+resetting to the good distance right
+the good distance is just really far
+
+1544
+00:23:08,149 --> 00:23:08,159
+the good distance is just really far
+ 
+
+1545
+00:23:08,159 --> 00:23:09,510
+the good distance is just really far
+away that's the best distance you can
+
+1546
+00:23:09,510 --> 00:23:09,520
+away that's the best distance you can
+ 
+
+1547
+00:23:09,520 --> 00:23:10,070
+away that's the best distance you can
+have
+
+1548
+00:23:10,070 --> 00:23:10,080
+have
+ 
+
+1549
+00:23:10,080 --> 00:23:11,830
+have
+but that minimum fingertip distance
+
+1550
+00:23:11,830 --> 00:23:11,840
+but that minimum fingertip distance
+ 
+
+1551
+00:23:11,840 --> 00:23:13,029
+but that minimum fingertip distance
+that's the last distance you can
+
+1552
+00:23:13,029 --> 00:23:13,039
+that's the last distance you can
+ 
+
+1553
+00:23:13,039 --> 00:23:14,950
+that's the last distance you can
+possibly do reasonable eye key
+
+1554
+00:23:14,950 --> 00:23:14,960
+possibly do reasonable eye key
+ 
+
+1555
+00:23:14,960 --> 00:23:16,549
+possibly do reasonable eye key
+then after they can judge that distance
+
+1556
+00:23:16,549 --> 00:23:16,559
+then after they can judge that distance
+ 
+
+1557
+00:23:16,559 --> 00:23:18,149
+then after they can judge that distance
+really well you'd have them work with
+
+1558
+00:23:18,149 --> 00:23:18,159
+really well you'd have them work with
+ 
+
+1559
+00:23:18,159 --> 00:23:19,830
+really well you'd have them work with
+tyno hinko and suppression so
+
+1560
+00:23:19,830 --> 00:23:19,840
+tyno hinko and suppression so
+ 
+
+1561
+00:23:19,840 --> 00:23:21,350
+tyno hinko and suppression so
+how do you suppress the arm and get off
+
+1562
+00:23:21,350 --> 00:23:21,360
+how do you suppress the arm and get off
+ 
+
+1563
+00:23:21,360 --> 00:23:22,870
+how do you suppress the arm and get off
+the line that's going to be really key
+
+1564
+00:23:22,870 --> 00:23:22,880
+the line that's going to be really key
+ 
+
+1565
+00:23:22,880 --> 00:23:24,230
+the line that's going to be really key
+then how do you adapt to what they're
+
+1566
+00:23:24,230 --> 00:23:24,240
+then how do you adapt to what they're
+ 
+
+1567
+00:23:24,240 --> 00:23:25,590
+then how do you adapt to what they're
+going to do so when you suppress their
+
+1568
+00:23:25,590 --> 00:23:25,600
+going to do so when you suppress their
+ 
+
+1569
+00:23:25,600 --> 00:23:26,950
+going to do so when you suppress their
+arm they're not just going to
+
+1570
+00:23:26,950 --> 00:23:26,960
+arm they're not just going to
+ 
+
+1571
+00:23:26,960 --> 00:23:28,470
+arm they're not just going to
+be like a zombie or a frankenstein and
+
+1572
+00:23:28,470 --> 00:23:28,480
+be like a zombie or a frankenstein and
+ 
+
+1573
+00:23:28,480 --> 00:23:29,590
+be like a zombie or a frankenstein and
+keep their arms out they're going to
+
+1574
+00:23:29,590 --> 00:23:29,600
+keep their arms out they're going to
+ 
+
+1575
+00:23:29,600 --> 00:23:30,950
+keep their arms out they're going to
+move their arms around to try and get
+
+1576
+00:23:30,950 --> 00:23:30,960
+move their arms around to try and get
+ 
+
+1577
+00:23:30,960 --> 00:23:32,310
+move their arms around to try and get
+you so you have to have an adaptive
+
+1578
+00:23:32,310 --> 00:23:32,320
+you so you have to have an adaptive
+ 
+
+1579
+00:23:32,320 --> 00:23:32,710
+you so you have to have an adaptive
+drill
+
+1580
+00:23:32,710 --> 00:23:32,720
+drill
+ 
+
+1581
+00:23:32,720 --> 00:23:34,230
+drill
+and it's a pretty live drill now because
+
+1582
+00:23:34,230 --> 00:23:34,240
+and it's a pretty live drill now because
+ 
+
+1583
+00:23:34,240 --> 00:23:35,270
+and it's a pretty live drill now because
+the person's actually trying to come
+
+1584
+00:23:35,270 --> 00:23:35,280
+the person's actually trying to come
+ 
+
+1585
+00:23:35,280 --> 00:23:36,230
+the person's actually trying to come
+around and get you
+
+1586
+00:23:36,230 --> 00:23:36,240
+around and get you
+ 
+
+1587
+00:23:36,240 --> 00:23:37,510
+around and get you
+still there's a lot of things though
+
+1588
+00:23:37,510 --> 00:23:37,520
+still there's a lot of things though
+ 
+
+1589
+00:23:37,520 --> 00:23:39,430
+still there's a lot of things though
+that are off the table in that and i
+
+1590
+00:23:39,430 --> 00:23:39,440
+that are off the table in that and i
+ 
+
+1591
+00:23:39,440 --> 00:23:41,110
+that are off the table in that and i
+explain the reasons why because
+
+1592
+00:23:41,110 --> 00:23:41,120
+explain the reasons why because
+ 
+
+1593
+00:23:41,120 --> 00:23:42,390
+explain the reasons why because
+stopping wouldn't be working on that
+
+1594
+00:23:42,390 --> 00:23:42,400
+stopping wouldn't be working on that
+ 
+
+1595
+00:23:42,400 --> 00:23:44,070
+stopping wouldn't be working on that
+skill set when we get into wrongdoing
+
+1596
+00:23:44,070 --> 00:23:44,080
+skill set when we get into wrongdoing
+ 
+
+1597
+00:23:44,080 --> 00:23:45,510
+skill set when we get into wrongdoing
+josh could do whatever he wanted
+
+1598
+00:23:45,510 --> 00:23:45,520
+josh could do whatever he wanted
+ 
+
+1599
+00:23:45,520 --> 00:23:47,830
+josh could do whatever he wanted
+now understand in that rondori josh just
+
+1600
+00:23:47,830 --> 00:23:47,840
+now understand in that rondori josh just
+ 
+
+1601
+00:23:47,840 --> 00:23:49,350
+now understand in that rondori josh just
+attacked because he has 10 seconds to
+
+1602
+00:23:49,350 --> 00:23:49,360
+attacked because he has 10 seconds to
+ 
+
+1603
+00:23:49,360 --> 00:23:51,029
+attacked because he has 10 seconds to
+try and get maya so he's explosively
+
+1604
+00:23:51,029 --> 00:23:51,039
+try and get maya so he's explosively
+ 
+
+1605
+00:23:51,039 --> 00:23:51,590
+try and get maya so he's explosively
+attacking
+
+1606
+00:23:51,590 --> 00:23:51,600
+attacking
+ 
+
+1607
+00:23:51,600 --> 00:23:52,870
+attacking
+and that's also the mindset of someone
+
+1608
+00:23:52,870 --> 00:23:52,880
+and that's also the mindset of someone
+ 
+
+1609
+00:23:52,880 --> 00:23:54,230
+and that's also the mindset of someone
+who's just furious and they're coming at
+
+1610
+00:23:54,230 --> 00:23:54,240
+who's just furious and they're coming at
+ 
+
+1611
+00:23:54,240 --> 00:23:56,149
+who's just furious and they're coming at
+you to get you right so there's not a
+
+1612
+00:23:56,149 --> 00:23:56,159
+you to get you right so there's not a
+ 
+
+1613
+00:23:56,159 --> 00:23:57,990
+you to get you right so there's not a
+well planned out game there there's just
+
+1614
+00:23:57,990 --> 00:23:58,000
+well planned out game there there's just
+ 
+
+1615
+00:23:58,000 --> 00:23:59,669
+well planned out game there there's just
+josh wanting to get maya as fast as
+
+1616
+00:23:59,669 --> 00:23:59,679
+josh wanting to get maya as fast as
+ 
+
+1617
+00:23:59,679 --> 00:24:00,149
+josh wanting to get maya as fast as
+possible
+
+1618
+00:24:00,149 --> 00:24:00,159
+possible
+ 
+
+1619
+00:24:00,159 --> 00:24:01,590
+possible
+and that's just like a violent attack
+
+1620
+00:24:01,590 --> 00:24:01,600
+and that's just like a violent attack
+ 
+
+1621
+00:24:01,600 --> 00:24:03,269
+and that's just like a violent attack
+where someone's trying to get you now if
+
+1622
+00:24:03,269 --> 00:24:03,279
+where someone's trying to get you now if
+ 
+
+1623
+00:24:03,279 --> 00:24:04,870
+where someone's trying to get you now if
+you have ninjas who are plotting to get
+
+1624
+00:24:04,870 --> 00:24:04,880
+you have ninjas who are plotting to get
+ 
+
+1625
+00:24:04,880 --> 00:24:06,549
+you have ninjas who are plotting to get
+you all the time you need other training
+
+1626
+00:24:06,549 --> 00:24:06,559
+you all the time you need other training
+ 
+
+1627
+00:24:06,559 --> 00:24:07,750
+you all the time you need other training
+other than what you're going to get in a
+
+1628
+00:24:07,750 --> 00:24:07,760
+other than what you're going to get in a
+ 
+
+1629
+00:24:07,760 --> 00:24:09,110
+other than what you're going to get in a
+regular dojo this is for
+
+1630
+00:24:09,110 --> 00:24:09,120
+regular dojo this is for
+ 
+
+1631
+00:24:09,120 --> 00:24:10,470
+regular dojo this is for
+a situation where someone just got
+
+1632
+00:24:10,470 --> 00:24:10,480
+a situation where someone just got
+ 
+
+1633
+00:24:10,480 --> 00:24:11,830
+a situation where someone just got
+violently all of a sudden and they want
+
+1634
+00:24:11,830 --> 00:24:11,840
+violently all of a sudden and they want
+ 
+
+1635
+00:24:11,840 --> 00:24:13,029
+violently all of a sudden and they want
+to attack you and how do you deal with
+
+1636
+00:24:13,029 --> 00:24:13,039
+to attack you and how do you deal with
+ 
+
+1637
+00:24:13,039 --> 00:24:13,510
+to attack you and how do you deal with
+that so
+
+1638
+00:24:13,510 --> 00:24:13,520
+that so
+ 
+
+1639
+00:24:13,520 --> 00:24:15,029
+that so
+that's what we envision as a real life
+
+1640
+00:24:15,029 --> 00:24:15,039
+that's what we envision as a real life
+ 
+
+1641
+00:24:15,039 --> 00:24:16,390
+that's what we envision as a real life
+scenario you know you're talking to
+
+1642
+00:24:16,390 --> 00:24:16,400
+scenario you know you're talking to
+ 
+
+1643
+00:24:16,400 --> 00:24:17,669
+scenario you know you're talking to
+someone and everything seemed cool and
+
+1644
+00:24:17,669 --> 00:24:17,679
+someone and everything seemed cool and
+ 
+
+1645
+00:24:17,679 --> 00:24:18,870
+someone and everything seemed cool and
+then all of a sudden they freak out and
+
+1646
+00:24:18,870 --> 00:24:18,880
+then all of a sudden they freak out and
+ 
+
+1647
+00:24:18,880 --> 00:24:20,149
+then all of a sudden they freak out and
+they attack you how do you deal with
+
+1648
+00:24:20,149 --> 00:24:20,159
+they attack you how do you deal with
+ 
+
+1649
+00:24:20,159 --> 00:24:21,110
+they attack you how do you deal with
+that situation
+
+1650
+00:24:21,110 --> 00:24:21,120
+that situation
+ 
+
+1651
+00:24:21,120 --> 00:24:23,190
+that situation
+now that maya was really inhibited i
+
+1652
+00:24:23,190 --> 00:24:23,200
+now that maya was really inhibited i
+ 
+
+1653
+00:24:23,200 --> 00:24:25,430
+now that maya was really inhibited i
+wouldn't i wouldn't start off with a box
+
+1654
+00:24:25,430 --> 00:24:25,440
+wouldn't i wouldn't start off with a box
+ 
+
+1655
+00:24:25,440 --> 00:24:26,630
+wouldn't i wouldn't start off with a box
+this small for you guys
+
+1656
+00:24:26,630 --> 00:24:26,640
+this small for you guys
+ 
+
+1657
+00:24:26,640 --> 00:24:28,390
+this small for you guys
+right so this is a really advanced box
+
+1658
+00:24:28,390 --> 00:24:28,400
+right so this is a really advanced box
+ 
+
+1659
+00:24:28,400 --> 00:24:30,549
+right so this is a really advanced box
+this box is about 10 feet by 8 feet so
+
+1660
+00:24:30,549 --> 00:24:30,559
+this box is about 10 feet by 8 feet so
+ 
+
+1661
+00:24:30,559 --> 00:24:32,230
+this box is about 10 feet by 8 feet so
+that's a tiny room that's like a little
+
+1662
+00:24:32,230 --> 00:24:32,240
+that's a tiny room that's like a little
+ 
+
+1663
+00:24:32,240 --> 00:24:33,669
+that's a tiny room that's like a little
+bitty bedroom right so
+
+1664
+00:24:33,669 --> 00:24:33,679
+bitty bedroom right so
+ 
+
+1665
+00:24:33,679 --> 00:24:35,750
+bitty bedroom right so
+so if you're in that kind of room and
+
+1666
+00:24:35,750 --> 00:24:35,760
+so if you're in that kind of room and
+ 
+
+1667
+00:24:35,760 --> 00:24:37,269
+so if you're in that kind of room and
+someone starts to get hostile you should
+
+1668
+00:24:37,269 --> 00:24:37,279
+someone starts to get hostile you should
+ 
+
+1669
+00:24:37,279 --> 00:24:38,630
+someone starts to get hostile you should
+just automatically know to get out of
+
+1670
+00:24:38,630 --> 00:24:38,640
+just automatically know to get out of
+ 
+
+1671
+00:24:38,640 --> 00:24:39,669
+just automatically know to get out of
+the room because it's gonna be hard to
+
+1672
+00:24:39,669 --> 00:24:39,679
+the room because it's gonna be hard to
+ 
+
+1673
+00:24:39,679 --> 00:24:40,710
+the room because it's gonna be hard to
+keep your distance so
+
+1674
+00:24:40,710 --> 00:24:40,720
+keep your distance so
+ 
+
+1675
+00:24:40,720 --> 00:24:42,950
+keep your distance so
+if you can deal with that for 10 seconds
+
+1676
+00:24:42,950 --> 00:24:42,960
+if you can deal with that for 10 seconds
+ 
+
+1677
+00:24:42,960 --> 00:24:44,549
+if you can deal with that for 10 seconds
+you're pretty skilled right so
+
+1678
+00:24:44,549 --> 00:24:44,559
+you're pretty skilled right so
+ 
+
+1679
+00:24:44,559 --> 00:24:45,830
+you're pretty skilled right so
+that's you're buying yourself a lot of
+
+1680
+00:24:45,830 --> 00:24:45,840
+that's you're buying yourself a lot of
+ 
+
+1681
+00:24:45,840 --> 00:24:47,830
+that's you're buying yourself a lot of
+time in a really uh compromised
+
+1682
+00:24:47,830 --> 00:24:47,840
+time in a really uh compromised
+ 
+
+1683
+00:24:47,840 --> 00:24:48,630
+time in a really uh compromised
+situation
+
+1684
+00:24:48,630 --> 00:24:48,640
+situation
+ 
+
+1685
+00:24:48,640 --> 00:24:50,149
+situation
+so we usually start off with the box
+
+1686
+00:24:50,149 --> 00:24:50,159
+so we usually start off with the box
+ 
+
+1687
+00:24:50,159 --> 00:24:52,070
+so we usually start off with the box
+being somewhere around 20 by 20
+
+1688
+00:24:52,070 --> 00:24:52,080
+being somewhere around 20 by 20
+ 
+
+1689
+00:24:52,080 --> 00:24:53,909
+being somewhere around 20 by 20
+and that's a good it's still still super
+
+1690
+00:24:53,909 --> 00:24:53,919
+and that's a good it's still still super
+ 
+
+1691
+00:24:53,919 --> 00:24:55,110
+and that's a good it's still still super
+challenging at that speed
+
+1692
+00:24:55,110 --> 00:24:55,120
+challenging at that speed
+ 
+
+1693
+00:24:55,120 --> 00:24:56,789
+challenging at that speed
+um if i'm working with brand new
+
+1694
+00:24:56,789 --> 00:24:56,799
+um if i'm working with brand new
+ 
+
+1695
+00:24:56,799 --> 00:24:57,750
+um if i'm working with brand new
+students sometimes i'll give them the
+
+1696
+00:24:57,750 --> 00:24:57,760
+students sometimes i'll give them the
+ 
+
+1697
+00:24:57,760 --> 00:24:59,269
+students sometimes i'll give them the
+whole mat and our mats like
+
+1698
+00:24:59,269 --> 00:24:59,279
+whole mat and our mats like
+ 
+
+1699
+00:24:59,279 --> 00:25:01,350
+whole mat and our mats like
+uh 40 something feet by 30 something
+
+1700
+00:25:01,350 --> 00:25:01,360
+uh 40 something feet by 30 something
+ 
+
+1701
+00:25:01,360 --> 00:25:02,789
+uh 40 something feet by 30 something
+feet so it's a pretty big match so
+
+1702
+00:25:02,789 --> 00:25:02,799
+feet so it's a pretty big match so
+ 
+
+1703
+00:25:02,799 --> 00:25:04,149
+feet so it's a pretty big match so
+i'll let them use the whole mat right to
+
+1704
+00:25:04,149 --> 00:25:04,159
+i'll let them use the whole mat right to
+ 
+
+1705
+00:25:04,159 --> 00:25:05,830
+i'll let them use the whole mat right to
+get used to that but
+
+1706
+00:25:05,830 --> 00:25:05,840
+get used to that but
+ 
+
+1707
+00:25:05,840 --> 00:25:07,190
+get used to that but
+as the students become more and more
+
+1708
+00:25:07,190 --> 00:25:07,200
+as the students become more and more
+ 
+
+1709
+00:25:07,200 --> 00:25:08,470
+as the students become more and more
+skilled at it you want to give them
+
+1710
+00:25:08,470 --> 00:25:08,480
+skilled at it you want to give them
+ 
+
+1711
+00:25:08,480 --> 00:25:10,470
+skilled at it you want to give them
+tinier and tinier areas so that way they
+
+1712
+00:25:10,470 --> 00:25:10,480
+tinier and tinier areas so that way they
+ 
+
+1713
+00:25:10,480 --> 00:25:11,029
+tinier and tinier areas so that way they
+have to learn
+
+1714
+00:25:11,029 --> 00:25:11,039
+have to learn
+ 
+
+1715
+00:25:11,039 --> 00:25:12,870
+have to learn
+good taino hinko good suppression and
+
+1716
+00:25:12,870 --> 00:25:12,880
+good taino hinko good suppression and
+ 
+
+1717
+00:25:12,880 --> 00:25:14,230
+good taino hinko good suppression and
+make all that work for him so
+
+1718
+00:25:14,230 --> 00:25:14,240
+make all that work for him so
+ 
+
+1719
+00:25:14,240 --> 00:25:15,830
+make all that work for him so
+that's the progression we use that's
+
+1720
+00:25:15,830 --> 00:25:15,840
+that's the progression we use that's
+ 
+
+1721
+00:25:15,840 --> 00:25:17,350
+that's the progression we use that's
+what we would call raw dory which you
+
+1722
+00:25:17,350 --> 00:25:17,360
+what we would call raw dory which you
+ 
+
+1723
+00:25:17,360 --> 00:25:18,390
+what we would call raw dory which you
+just saw there at the end we would
+
+1724
+00:25:18,390 --> 00:25:18,400
+just saw there at the end we would
+ 
+
+1725
+00:25:18,400 --> 00:25:19,510
+just saw there at the end we would
+usually do it with two attackers instead
+
+1726
+00:25:19,510 --> 00:25:19,520
+usually do it with two attackers instead
+ 
+
+1727
+00:25:19,520 --> 00:25:20,950
+usually do it with two attackers instead
+of one but that's what we call rondori
+
+1728
+00:25:20,950 --> 00:25:20,960
+of one but that's what we call rondori
+ 
+
+1729
+00:25:20,960 --> 00:25:22,870
+of one but that's what we call rondori
+and that's our skill set to build up to
+
+1730
+00:25:22,870 --> 00:25:22,880
+and that's our skill set to build up to
+ 
+
+1731
+00:25:22,880 --> 00:25:24,070
+and that's our skill set to build up to
+live training
+
+1732
+00:25:24,070 --> 00:25:24,080
+live training
+ 
+
+1733
+00:25:24,080 --> 00:25:27,430
+live training
+with ikey and in aikido being about ikey
+
+1734
+00:25:27,430 --> 00:25:27,440
+with ikey and in aikido being about ikey
+ 
+
+1735
+00:25:27,440 --> 00:25:28,870
+with ikey and in aikido being about ikey
+that's the main objective we want to
+
+1736
+00:25:28,870 --> 00:25:28,880
+that's the main objective we want to
+ 
+
+1737
+00:25:28,880 --> 00:25:29,350
+that's the main objective we want to
+practice
+
+1738
+00:25:29,350 --> 00:25:29,360
+practice
+ 
+
+1739
+00:25:29,360 --> 00:25:30,470
+practice
+alright thanks a lot for watching i'm
+
+1740
+00:25:30,470 --> 00:25:30,480
+alright thanks a lot for watching i'm
+ 
+
+1741
+00:25:30,480 --> 00:25:43,200
+alright thanks a lot for watching i'm
+christopher hines
+

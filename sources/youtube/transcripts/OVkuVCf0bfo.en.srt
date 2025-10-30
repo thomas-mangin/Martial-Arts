@@ -1,0 +1,1955 @@
+1
+00:00:01,200 --> 00:00:14,110
+
+[Music]
+
+2
+00:00:14,110 --> 00:00:14,120
+
+ 
+
+3
+00:00:14,120 --> 00:00:16,519
+
+I'm Christopher Hine and this week we're
+
+4
+00:00:16,519 --> 00:00:16,529
+I'm Christopher Hine and this week we're
+ 
+
+5
+00:00:16,529 --> 00:00:17,029
+I'm Christopher Hine and this week we're
+talking about
+
+6
+00:00:17,029 --> 00:00:17,039
+talking about
+ 
+
+7
+00:00:17,039 --> 00:00:19,519
+talking about
+addo key so hadou key is our
+
+8
+00:00:19,519 --> 00:00:19,529
+addo key so hadou key is our
+ 
+
+9
+00:00:19,529 --> 00:00:21,380
+addo key so hadou key is our
+disentanglement methods how do we stop
+
+10
+00:00:21,380 --> 00:00:21,390
+disentanglement methods how do we stop
+ 
+
+11
+00:00:21,390 --> 00:00:23,029
+disentanglement methods how do we stop
+someone from holding us it's important
+
+12
+00:00:23,029 --> 00:00:23,039
+someone from holding us it's important
+ 
+
+13
+00:00:23,039 --> 00:00:25,550
+someone from holding us it's important
+to understand that in Hadopi we're not
+
+14
+00:00:25,550 --> 00:00:25,560
+to understand that in Hadopi we're not
+ 
+
+15
+00:00:25,560 --> 00:00:27,109
+to understand that in Hadopi we're not
+trying to grapple with anyone I don't
+
+16
+00:00:27,109 --> 00:00:27,119
+trying to grapple with anyone I don't
+ 
+
+17
+00:00:27,119 --> 00:00:29,000
+trying to grapple with anyone I don't
+want to grapple with someone I just want
+
+18
+00:00:29,000 --> 00:00:29,010
+want to grapple with someone I just want
+ 
+
+19
+00:00:29,010 --> 00:00:30,529
+want to grapple with someone I just want
+them to not be able to grapple with me
+
+20
+00:00:30,529 --> 00:00:30,539
+them to not be able to grapple with me
+ 
+
+21
+00:00:30,539 --> 00:00:32,179
+them to not be able to grapple with me
+so I'm just trying to clear them off of
+
+22
+00:00:32,179 --> 00:00:32,189
+so I'm just trying to clear them off of
+ 
+
+23
+00:00:32,189 --> 00:00:32,900
+so I'm just trying to clear them off of
+me
+
+24
+00:00:32,900 --> 00:00:32,910
+me
+ 
+
+25
+00:00:32,910 --> 00:00:34,729
+me
+in Aikido the idea is the other person
+
+26
+00:00:34,729 --> 00:00:34,739
+in Aikido the idea is the other person
+ 
+
+27
+00:00:34,739 --> 00:00:35,690
+in Aikido the idea is the other person
+is always bigger stronger faster
+
+28
+00:00:35,690 --> 00:00:35,700
+is always bigger stronger faster
+ 
+
+29
+00:00:35,700 --> 00:00:37,490
+is always bigger stronger faster
+whatever than us so they have a lot more
+
+30
+00:00:37,490 --> 00:00:37,500
+whatever than us so they have a lot more
+ 
+
+31
+00:00:37,500 --> 00:00:39,200
+whatever than us so they have a lot more
+ability than we do and that could also
+
+32
+00:00:39,200 --> 00:00:39,210
+ability than we do and that could also
+ 
+
+33
+00:00:39,210 --> 00:00:40,729
+ability than we do and that could also
+come from skill maybe they're just more
+
+34
+00:00:40,729 --> 00:00:40,739
+come from skill maybe they're just more
+ 
+
+35
+00:00:40,739 --> 00:00:42,830
+come from skill maybe they're just more
+skilled grapplers than we are so instead
+
+36
+00:00:42,830 --> 00:00:42,840
+skilled grapplers than we are so instead
+ 
+
+37
+00:00:42,840 --> 00:00:43,970
+skilled grapplers than we are so instead
+of investing a whole lot of time and
+
+38
+00:00:43,970 --> 00:00:43,980
+of investing a whole lot of time and
+ 
+
+39
+00:00:43,980 --> 00:00:46,250
+of investing a whole lot of time and
+getting better at grappling in Aikido we
+
+40
+00:00:46,250 --> 00:00:46,260
+getting better at grappling in Aikido we
+ 
+
+41
+00:00:46,260 --> 00:00:47,270
+getting better at grappling in Aikido we
+have the Hadouken
+
+42
+00:00:47,270 --> 00:00:47,280
+have the Hadouken
+ 
+
+43
+00:00:47,280 --> 00:00:49,220
+have the Hadouken
+which gets us out of that range ideally
+
+44
+00:00:49,220 --> 00:00:49,230
+which gets us out of that range ideally
+ 
+
+45
+00:00:49,230 --> 00:00:51,350
+which gets us out of that range ideally
+now if that didn't work out for you you
+
+46
+00:00:51,350 --> 00:00:51,360
+now if that didn't work out for you you
+ 
+
+47
+00:00:51,360 --> 00:00:53,510
+now if that didn't work out for you you
+do need to understand jujitsu so just
+
+48
+00:00:53,510 --> 00:00:53,520
+do need to understand jujitsu so just
+ 
+
+49
+00:00:53,520 --> 00:00:55,340
+do need to understand jujitsu so just
+use a valuable skill but if we could
+
+50
+00:00:55,340 --> 00:00:55,350
+use a valuable skill but if we could
+ 
+
+51
+00:00:55,350 --> 00:00:57,170
+use a valuable skill but if we could
+solve the problem before it ever got to
+
+52
+00:00:57,170 --> 00:00:57,180
+solve the problem before it ever got to
+ 
+
+53
+00:00:57,180 --> 00:00:59,450
+solve the problem before it ever got to
+jujitsu in Aikido that's ideally what we
+
+54
+00:00:59,450 --> 00:00:59,460
+jujitsu in Aikido that's ideally what we
+ 
+
+55
+00:00:59,460 --> 00:01:01,099
+jujitsu in Aikido that's ideally what we
+would like to have going for us so the
+
+56
+00:01:01,099 --> 00:01:01,109
+would like to have going for us so the
+ 
+
+57
+00:01:01,109 --> 00:01:03,979
+would like to have going for us so the
+Hadopi are clearing methods last week we
+
+58
+00:01:03,979 --> 00:01:03,989
+Hadopi are clearing methods last week we
+ 
+
+59
+00:01:03,989 --> 00:01:05,179
+Hadopi are clearing methods last week we
+worked on cop the door we talked about
+
+60
+00:01:05,179 --> 00:01:05,189
+worked on cop the door we talked about
+ 
+
+61
+00:01:05,189 --> 00:01:06,710
+worked on cop the door we talked about
+the basic fundamentals of vetters
+
+62
+00:01:06,710 --> 00:01:06,720
+the basic fundamentals of vetters
+ 
+
+63
+00:01:06,720 --> 00:01:08,719
+the basic fundamentals of vetters
+yesterday we talked about cop the dory
+
+64
+00:01:08,719 --> 00:01:08,729
+yesterday we talked about cop the dory
+ 
+
+65
+00:01:08,729 --> 00:01:10,399
+yesterday we talked about cop the dory
+and the basic fundamentals of that this
+
+66
+00:01:10,399 --> 00:01:10,409
+and the basic fundamentals of that this
+ 
+
+67
+00:01:10,409 --> 00:01:11,660
+and the basic fundamentals of that this
+week we're going to talk about real cop
+
+68
+00:01:11,660 --> 00:01:11,670
+week we're going to talk about real cop
+ 
+
+69
+00:01:11,670 --> 00:01:13,190
+week we're going to talk about real cop
+the dory and who shiro a real cop that
+
+70
+00:01:13,190 --> 00:01:13,200
+the dory and who shiro a real cop that
+ 
+
+71
+00:01:13,200 --> 00:01:14,719
+the dory and who shiro a real cop that
+already so if they have both shoulders
+
+72
+00:01:14,719 --> 00:01:14,729
+already so if they have both shoulders
+ 
+
+73
+00:01:14,729 --> 00:01:16,730
+already so if they have both shoulders
+and a lot of the same techniques will
+
+74
+00:01:16,730 --> 00:01:16,740
+and a lot of the same techniques will
+ 
+
+75
+00:01:16,740 --> 00:01:18,230
+and a lot of the same techniques will
+work as from cop the dory but we have a
+
+76
+00:01:18,230 --> 00:01:18,240
+work as from cop the dory but we have a
+ 
+
+77
+00:01:18,240 --> 00:01:19,490
+work as from cop the dory but we have a
+couple of the things we need to account
+
+78
+00:01:19,490 --> 00:01:19,500
+couple of the things we need to account
+ 
+
+79
+00:01:19,500 --> 00:01:21,080
+couple of the things we need to account
+for so I'm gonna call Josh over here
+
+80
+00:01:21,080 --> 00:01:21,090
+for so I'm gonna call Josh over here
+ 
+
+81
+00:01:21,090 --> 00:01:23,289
+for so I'm gonna call Josh over here
+we're gonna go to work for you guys Josh
+
+82
+00:01:23,289 --> 00:01:23,299
+we're gonna go to work for you guys Josh
+ 
+
+83
+00:01:23,299 --> 00:01:26,149
+we're gonna go to work for you guys Josh
+all right so we talked to yesterday
+
+84
+00:01:26,149 --> 00:01:26,159
+all right so we talked to yesterday
+ 
+
+85
+00:01:26,159 --> 00:01:28,130
+all right so we talked to yesterday
+about Commodore II today we're gonna
+
+86
+00:01:28,130 --> 00:01:28,140
+about Commodore II today we're gonna
+ 
+
+87
+00:01:28,140 --> 00:01:29,749
+about Commodore II today we're gonna
+talk about real cop the dory and a shear
+
+88
+00:01:29,749 --> 00:01:29,759
+talk about real cop the dory and a shear
+ 
+
+89
+00:01:29,759 --> 00:01:30,560
+talk about real cop the dory and a shear
+real cut the dory
+
+90
+00:01:30,560 --> 00:01:30,570
+real cut the dory
+ 
+
+91
+00:01:30,570 --> 00:01:32,630
+real cut the dory
+understand for the most part a lot of
+
+92
+00:01:32,630 --> 00:01:32,640
+understand for the most part a lot of
+ 
+
+93
+00:01:32,640 --> 00:01:35,569
+understand for the most part a lot of
+the things we do in pop the door will
+
+94
+00:01:35,569 --> 00:01:35,579
+the things we do in pop the door will
+ 
+
+95
+00:01:35,579 --> 00:01:38,300
+the things we do in pop the door will
+kind of work out for us in a real cop
+
+96
+00:01:38,300 --> 00:01:38,310
+kind of work out for us in a real cop
+ 
+
+97
+00:01:38,310 --> 00:01:40,550
+kind of work out for us in a real cop
+the dory but we shouldn't have caught
+
+98
+00:01:40,550 --> 00:01:40,560
+the dory but we shouldn't have caught
+ 
+
+99
+00:01:40,560 --> 00:01:41,630
+the dory but we shouldn't have caught
+that array and caught the during have
+
+100
+00:01:41,630 --> 00:01:41,640
+that array and caught the during have
+ 
+
+101
+00:01:41,640 --> 00:01:43,749
+that array and caught the during have
+some other kind of things we can exploit
+
+102
+00:01:43,749 --> 00:01:43,759
+some other kind of things we can exploit
+ 
+
+103
+00:01:43,759 --> 00:01:46,160
+some other kind of things we can exploit
+mainly ways that we can bind those two
+
+104
+00:01:46,160 --> 00:01:46,170
+mainly ways that we can bind those two
+ 
+
+105
+00:01:46,170 --> 00:01:48,499
+mainly ways that we can bind those two
+arms together so it's the basic Gigi
+
+106
+00:01:48,499 --> 00:01:48,509
+arms together so it's the basic Gigi
+ 
+
+107
+00:01:48,509 --> 00:01:50,060
+arms together so it's the basic Gigi
+principle where we're binding arms
+
+108
+00:01:50,060 --> 00:01:50,070
+principle where we're binding arms
+ 
+
+109
+00:01:50,070 --> 00:01:50,510
+principle where we're binding arms
+together
+
+110
+00:01:50,510 --> 00:01:50,520
+together
+ 
+
+111
+00:01:50,520 --> 00:01:52,429
+together
+so if Josh were to grab me real
+
+112
+00:01:52,429 --> 00:01:52,439
+so if Josh were to grab me real
+ 
+
+113
+00:01:52,439 --> 00:01:55,069
+so if Josh were to grab me real
+glory a lot of times I could still get a
+
+114
+00:01:55,069 --> 00:01:55,079
+glory a lot of times I could still get a
+ 
+
+115
+00:01:55,079 --> 00:01:56,950
+glory a lot of times I could still get a
+triangle just like normal so
+
+116
+00:01:56,950 --> 00:01:56,960
+triangle just like normal so
+ 
+
+117
+00:01:56,960 --> 00:01:59,140
+triangle just like normal so
+here and you get a triangle the emphasis
+
+118
+00:01:59,140 --> 00:01:59,150
+here and you get a triangle the emphasis
+ 
+
+119
+00:01:59,150 --> 00:02:00,789
+here and you get a triangle the emphasis
+has to be that I have to put a little
+
+120
+00:02:00,789 --> 00:02:00,799
+has to be that I have to put a little
+ 
+
+121
+00:02:00,799 --> 00:02:02,649
+has to be that I have to put a little
+more pressure in this with my arm coming
+
+122
+00:02:02,649 --> 00:02:02,659
+more pressure in this with my arm coming
+ 
+
+123
+00:02:02,659 --> 00:02:04,750
+more pressure in this with my arm coming
+up so if I just did a regular triangle
+
+124
+00:02:04,750 --> 00:02:04,760
+up so if I just did a regular triangle
+ 
+
+125
+00:02:04,760 --> 00:02:06,730
+up so if I just did a regular triangle
+here this little clear real easy I just
+
+126
+00:02:06,730 --> 00:02:06,740
+here this little clear real easy I just
+ 
+
+127
+00:02:06,740 --> 00:02:07,810
+here this little clear real easy I just
+let me go to the other side so they can
+
+128
+00:02:07,810 --> 00:02:07,820
+let me go to the other side so they can
+ 
+
+129
+00:02:07,820 --> 00:02:09,699
+let me go to the other side so they can
+see so I come out here this one will
+
+130
+00:02:09,699 --> 00:02:09,709
+see so I come out here this one will
+ 
+
+131
+00:02:09,709 --> 00:02:11,320
+see so I come out here this one will
+clear really easy but this one I kind of
+
+132
+00:02:11,320 --> 00:02:11,330
+clear really easy but this one I kind of
+ 
+
+133
+00:02:11,330 --> 00:02:12,760
+clear really easy but this one I kind of
+have to do a little extra work to pop it
+
+134
+00:02:12,760 --> 00:02:12,770
+have to do a little extra work to pop it
+ 
+
+135
+00:02:12,770 --> 00:02:14,500
+have to do a little extra work to pop it
+off but when I'm working that if I come
+
+136
+00:02:14,500 --> 00:02:14,510
+off but when I'm working that if I come
+ 
+
+137
+00:02:14,510 --> 00:02:16,360
+off but when I'm working that if I come
+up and I kind of pop that up I'll get a
+
+138
+00:02:16,360 --> 00:02:16,370
+up and I kind of pop that up I'll get a
+ 
+
+139
+00:02:16,370 --> 00:02:18,580
+up and I kind of pop that up I'll get a
+boat so I can use a triangle just 74
+
+140
+00:02:18,580 --> 00:02:18,590
+boat so I can use a triangle just 74
+ 
+
+141
+00:02:18,590 --> 00:02:20,680
+boat so I can use a triangle just 74
+would you worry will work and if you
+
+142
+00:02:20,680 --> 00:02:20,690
+would you worry will work and if you
+ 
+
+143
+00:02:20,690 --> 00:02:22,600
+would you worry will work and if you
+want to work really really nicely so
+
+144
+00:02:22,600 --> 00:02:22,610
+want to work really really nicely so
+ 
+
+145
+00:02:22,610 --> 00:02:24,940
+want to work really really nicely so
+maybe if I roll under this here like
+
+146
+00:02:24,940 --> 00:02:24,950
+maybe if I roll under this here like
+ 
+
+147
+00:02:24,950 --> 00:02:26,680
+maybe if I roll under this here like
+this I'll start putting his arms
+
+148
+00:02:26,680 --> 00:02:26,690
+this I'll start putting his arms
+ 
+
+149
+00:02:26,690 --> 00:02:28,930
+this I'll start putting his arms
+together there to bind them and pop free
+
+150
+00:02:28,930 --> 00:02:28,940
+together there to bind them and pop free
+ 
+
+151
+00:02:28,940 --> 00:02:31,000
+together there to bind them and pop free
+so as I'm coming around get those arms
+
+152
+00:02:31,000 --> 00:02:31,010
+so as I'm coming around get those arms
+ 
+
+153
+00:02:31,010 --> 00:02:32,199
+so as I'm coming around get those arms
+working together and that's basically
+
+154
+00:02:32,199 --> 00:02:32,209
+working together and that's basically
+ 
+
+155
+00:02:32,209 --> 00:02:33,910
+working together and that's basically
+the jutsu principle now when you're
+
+156
+00:02:33,910 --> 00:02:33,920
+the jutsu principle now when you're
+ 
+
+157
+00:02:33,920 --> 00:02:35,979
+the jutsu principle now when you're
+going underneath you have to be careful
+
+158
+00:02:35,979 --> 00:02:35,989
+going underneath you have to be careful
+ 
+
+159
+00:02:35,989 --> 00:02:37,810
+going underneath you have to be careful
+that that foot can be coming up now
+
+160
+00:02:37,810 --> 00:02:37,820
+that that foot can be coming up now
+ 
+
+161
+00:02:37,820 --> 00:02:40,540
+that that foot can be coming up now
+understand we're moving at this point so
+
+162
+00:02:40,540 --> 00:02:40,550
+understand we're moving at this point so
+ 
+
+163
+00:02:40,550 --> 00:02:42,009
+understand we're moving at this point so
+I'm not gonna like to stand here like
+
+164
+00:02:42,009 --> 00:02:42,019
+I'm not gonna like to stand here like
+ 
+
+165
+00:02:42,019 --> 00:02:43,660
+I'm not gonna like to stand here like
+Superman and he's gonna grab in then I'm
+
+166
+00:02:43,660 --> 00:02:43,670
+Superman and he's gonna grab in then I'm
+ 
+
+167
+00:02:43,670 --> 00:02:45,400
+Superman and he's gonna grab in then I'm
+gonna do some sweet awesome Aikido
+
+168
+00:02:45,400 --> 00:02:45,410
+gonna do some sweet awesome Aikido
+ 
+
+169
+00:02:45,410 --> 00:02:47,050
+gonna do some sweet awesome Aikido
+Septim that's never gonna happen I'm
+
+170
+00:02:47,050 --> 00:02:47,060
+Septim that's never gonna happen I'm
+ 
+
+171
+00:02:47,060 --> 00:02:48,880
+Septim that's never gonna happen I'm
+running and he managed to get this so
+
+172
+00:02:48,880 --> 00:02:48,890
+running and he managed to get this so
+ 
+
+173
+00:02:48,890 --> 00:02:50,740
+running and he managed to get this so
+his feet are probably moving fast but
+
+174
+00:02:50,740 --> 00:02:50,750
+his feet are probably moving fast but
+ 
+
+175
+00:02:50,750 --> 00:02:52,449
+his feet are probably moving fast but
+nonetheless I don't want to stick my
+
+176
+00:02:52,449 --> 00:02:52,459
+nonetheless I don't want to stick my
+ 
+
+177
+00:02:52,459 --> 00:02:54,640
+nonetheless I don't want to stick my
+face down here because he can he can
+
+178
+00:02:54,640 --> 00:02:54,650
+face down here because he can he can
+ 
+
+179
+00:02:54,650 --> 00:02:57,009
+face down here because he can he can
+bring that hand up so my arms trail out
+
+180
+00:02:57,009 --> 00:02:57,019
+bring that hand up so my arms trail out
+ 
+
+181
+00:02:57,019 --> 00:02:58,270
+bring that hand up so my arms trail out
+here in front of me like this
+
+182
+00:02:58,270 --> 00:02:58,280
+here in front of me like this
+ 
+
+183
+00:02:58,280 --> 00:03:00,520
+here in front of me like this
+so if the knee does come up at least it
+
+184
+00:03:00,520 --> 00:03:00,530
+so if the knee does come up at least it
+ 
+
+185
+00:03:00,530 --> 00:03:02,259
+so if the knee does come up at least it
+hopefully gets deflected a little bit as
+
+186
+00:03:02,259 --> 00:03:02,269
+hopefully gets deflected a little bit as
+ 
+
+187
+00:03:02,269 --> 00:03:04,000
+hopefully gets deflected a little bit as
+I'm coming through so won't my head to
+
+188
+00:03:04,000 --> 00:03:04,010
+I'm coming through so won't my head to
+ 
+
+189
+00:03:04,010 --> 00:03:05,319
+I'm coming through so won't my head to
+be in through my hands and then I'm
+
+190
+00:03:05,319 --> 00:03:05,329
+be in through my hands and then I'm
+ 
+
+191
+00:03:05,329 --> 00:03:06,910
+be in through my hands and then I'm
+diving through them binding those arms
+
+192
+00:03:06,910 --> 00:03:06,920
+diving through them binding those arms
+ 
+
+193
+00:03:06,920 --> 00:03:09,190
+diving through them binding those arms
+together now we're looking at how those
+
+194
+00:03:09,190 --> 00:03:09,200
+together now we're looking at how those
+ 
+
+195
+00:03:09,200 --> 00:03:11,710
+together now we're looking at how those
+arms are getting bound together here
+
+196
+00:03:11,710 --> 00:03:11,720
+arms are getting bound together here
+ 
+
+197
+00:03:11,720 --> 00:03:13,960
+arms are getting bound together here
+like this so if you watch Josh's arms
+
+198
+00:03:13,960 --> 00:03:13,970
+like this so if you watch Josh's arms
+ 
+
+199
+00:03:13,970 --> 00:03:15,130
+like this so if you watch Josh's arms
+right here actually should have moved to
+
+200
+00:03:15,130 --> 00:03:15,140
+right here actually should have moved to
+ 
+
+201
+00:03:15,140 --> 00:03:16,660
+right here actually should have moved to
+the other direction sir I'm trying to
+
+202
+00:03:16,660 --> 00:03:16,670
+the other direction sir I'm trying to
+ 
+
+203
+00:03:16,670 --> 00:03:17,830
+the other direction sir I'm trying to
+get those arms together like this and
+
+204
+00:03:17,830 --> 00:03:17,840
+get those arms together like this and
+ 
+
+205
+00:03:17,840 --> 00:03:19,690
+get those arms together like this and
+I'm working them one against the other
+
+206
+00:03:19,690 --> 00:03:19,700
+I'm working them one against the other
+ 
+
+207
+00:03:19,700 --> 00:03:21,580
+I'm working them one against the other
+so this one is being pushed against this
+
+208
+00:03:21,580 --> 00:03:21,590
+so this one is being pushed against this
+ 
+
+209
+00:03:21,590 --> 00:03:23,380
+so this one is being pushed against this
+one and they're both working for me to
+
+210
+00:03:23,380 --> 00:03:23,390
+one and they're both working for me to
+ 
+
+211
+00:03:23,390 --> 00:03:24,970
+one and they're both working for me to
+get that free now of course when I'm
+
+212
+00:03:24,970 --> 00:03:24,980
+get that free now of course when I'm
+ 
+
+213
+00:03:24,980 --> 00:03:27,130
+get that free now of course when I'm
+popping free I prefer not to be in this
+
+214
+00:03:27,130 --> 00:03:27,140
+popping free I prefer not to be in this
+ 
+
+215
+00:03:27,140 --> 00:03:29,110
+popping free I prefer not to be in this
+position I'd be trying to move here to
+
+216
+00:03:29,110 --> 00:03:29,120
+position I'd be trying to move here to
+ 
+
+217
+00:03:29,120 --> 00:03:30,789
+position I'd be trying to move here to
+get a heat though of me or an eating me
+
+218
+00:03:30,789 --> 00:03:30,799
+get a heat though of me or an eating me
+ 
+
+219
+00:03:30,799 --> 00:03:32,350
+get a heat though of me or an eating me
+position from this so that's my goal
+
+220
+00:03:32,350 --> 00:03:32,360
+position from this so that's my goal
+ 
+
+221
+00:03:32,360 --> 00:03:33,940
+position from this so that's my goal
+so whenever that's happening I'm trying
+
+222
+00:03:33,940 --> 00:03:33,950
+so whenever that's happening I'm trying
+ 
+
+223
+00:03:33,950 --> 00:03:35,350
+so whenever that's happening I'm trying
+to find one arm against the other and
+
+224
+00:03:35,350 --> 00:03:35,360
+to find one arm against the other and
+ 
+
+225
+00:03:35,360 --> 00:03:37,060
+to find one arm against the other and
+use them against each other so that's
+
+226
+00:03:37,060 --> 00:03:37,070
+use them against each other so that's
+ 
+
+227
+00:03:37,070 --> 00:03:39,849
+use them against each other so that's
+how we would work our Buchi warrant now
+
+228
+00:03:39,849 --> 00:03:39,859
+how we would work our Buchi warrant now
+ 
+
+229
+00:03:39,859 --> 00:03:41,590
+how we would work our Buchi warrant now
+our silk Awards are generally not gonna
+
+230
+00:03:41,590 --> 00:03:41,600
+our silk Awards are generally not gonna
+ 
+
+231
+00:03:41,600 --> 00:03:43,210
+our silk Awards are generally not gonna
+work for us now the reason for this is
+
+232
+00:03:43,210 --> 00:03:43,220
+work for us now the reason for this is
+ 
+
+233
+00:03:43,220 --> 00:03:45,130
+work for us now the reason for this is
+because this grips really good you can
+
+234
+00:03:45,130 --> 00:03:45,140
+because this grips really good you can
+ 
+
+235
+00:03:45,140 --> 00:03:47,050
+because this grips really good you can
+always kind of use it to track around so
+
+236
+00:03:47,050 --> 00:03:47,060
+always kind of use it to track around so
+ 
+
+237
+00:03:47,060 --> 00:03:48,490
+always kind of use it to track around so
+as I'm pushing one off you can always
+
+238
+00:03:48,490 --> 00:03:48,500
+as I'm pushing one off you can always
+ 
+
+239
+00:03:48,500 --> 00:03:50,050
+as I'm pushing one off you can always
+kind of track me track me track me I
+
+240
+00:03:50,050 --> 00:03:50,060
+kind of track me track me track me I
+ 
+
+241
+00:03:50,060 --> 00:03:52,030
+kind of track me track me track me I
+might get away with so don't worry if I
+
+242
+00:03:52,030 --> 00:03:52,040
+might get away with so don't worry if I
+ 
+
+243
+00:03:52,040 --> 00:03:53,470
+might get away with so don't worry if I
+did it really fast and I was stronger
+
+244
+00:03:53,470 --> 00:03:53,480
+did it really fast and I was stronger
+ 
+
+245
+00:03:53,480 --> 00:03:55,030
+did it really fast and I was stronger
+than him but if I'm not I probably never
+
+246
+00:03:55,030 --> 00:03:55,040
+than him but if I'm not I probably never
+ 
+
+247
+00:03:55,040 --> 00:03:56,319
+than him but if I'm not I probably never
+gonna get away with that so I'm going to
+
+248
+00:03:56,319 --> 00:03:56,329
+gonna get away with that so I'm going to
+ 
+
+249
+00:03:56,329 --> 00:03:58,870
+gonna get away with that so I'm going to
+be stuck to more of using triangle
+
+250
+00:03:58,870 --> 00:03:58,880
+be stuck to more of using triangle
+ 
+
+251
+00:03:58,880 --> 00:04:01,479
+be stuck to more of using triangle
+options and Ujima luring options right
+
+252
+00:04:01,479 --> 00:04:01,489
+options and Ujima luring options right
+ 
+
+253
+00:04:01,489 --> 00:04:03,550
+options and Ujima luring options right
+when we do that together called
+
+254
+00:04:03,550 --> 00:04:03,560
+when we do that together called
+ 
+
+255
+00:04:03,560 --> 00:04:05,559
+when we do that together called
+she and that's to go around the arms
+
+256
+00:04:05,559 --> 00:04:05,569
+she and that's to go around the arms
+ 
+
+257
+00:04:05,569 --> 00:04:07,210
+she and that's to go around the arms
+themselves now that we're in wash you
+
+258
+00:04:07,210 --> 00:04:07,220
+themselves now that we're in wash you
+ 
+
+259
+00:04:07,220 --> 00:04:08,920
+themselves now that we're in wash you
+will also come up when we renew shear
+
+260
+00:04:08,920 --> 00:04:08,930
+will also come up when we renew shear
+ 
+
+261
+00:04:08,930 --> 00:04:11,050
+will also come up when we renew shear
+real cockpit or so from this position
+
+262
+00:04:11,050 --> 00:04:11,060
+real cockpit or so from this position
+ 
+
+263
+00:04:11,060 --> 00:04:13,900
+real cockpit or so from this position
+here my root idea is gonna be to come to
+
+264
+00:04:13,900 --> 00:04:13,910
+here my root idea is gonna be to come to
+ 
+
+265
+00:04:13,910 --> 00:04:16,509
+here my root idea is gonna be to come to
+a 45 put pressure on this inside arm and
+
+266
+00:04:16,509 --> 00:04:16,519
+a 45 put pressure on this inside arm and
+ 
+
+267
+00:04:16,519 --> 00:04:17,830
+a 45 put pressure on this inside arm and
+pull the other one free so I'm going to
+
+268
+00:04:17,830 --> 00:04:17,840
+pull the other one free so I'm going to
+ 
+
+269
+00:04:17,840 --> 00:04:19,539
+pull the other one free so I'm going to
+go here and that's what I'm looking for
+
+270
+00:04:19,539 --> 00:04:19,549
+go here and that's what I'm looking for
+ 
+
+271
+00:04:19,549 --> 00:04:21,819
+go here and that's what I'm looking for
+is to get that completely free so I'm
+
+272
+00:04:21,819 --> 00:04:21,829
+is to get that completely free so I'm
+ 
+
+273
+00:04:21,829 --> 00:04:24,460
+is to get that completely free so I'm
+applying poi this way and applying
+
+274
+00:04:24,460 --> 00:04:24,470
+applying poi this way and applying
+ 
+
+275
+00:04:24,470 --> 00:04:26,320
+applying poi this way and applying
+pressure to this hand this way as I come
+
+276
+00:04:26,320 --> 00:04:26,330
+pressure to this hand this way as I come
+ 
+
+277
+00:04:26,330 --> 00:04:27,850
+pressure to this hand this way as I come
+up and I'm looking to get that kind of
+
+278
+00:04:27,850 --> 00:04:27,860
+up and I'm looking to get that kind of
+ 
+
+279
+00:04:27,860 --> 00:04:29,710
+up and I'm looking to get that kind of
+escape that's my general idea now when I
+
+280
+00:04:29,710 --> 00:04:29,720
+escape that's my general idea now when I
+ 
+
+281
+00:04:29,720 --> 00:04:31,870
+escape that's my general idea now when I
+do that notice I go to the 45 position
+
+282
+00:04:31,870 --> 00:04:31,880
+do that notice I go to the 45 position
+ 
+
+283
+00:04:31,880 --> 00:04:34,720
+do that notice I go to the 45 position
+basic economy and will end up in economy
+
+284
+00:04:34,720 --> 00:04:34,730
+basic economy and will end up in economy
+ 
+
+285
+00:04:34,730 --> 00:04:36,640
+basic economy and will end up in economy
+that way so as I come out Bank here
+
+286
+00:04:36,640 --> 00:04:36,650
+that way so as I come out Bank here
+ 
+
+287
+00:04:36,650 --> 00:04:38,260
+that way so as I come out Bank here
+would be right here in this position
+
+288
+00:04:38,260 --> 00:04:38,270
+would be right here in this position
+ 
+
+289
+00:04:38,270 --> 00:04:40,030
+would be right here in this position
+them setting up the hi hon me and I'd go
+
+290
+00:04:40,030 --> 00:04:40,040
+them setting up the hi hon me and I'd go
+ 
+
+291
+00:04:40,040 --> 00:04:42,400
+them setting up the hi hon me and I'd go
+from Heathrow me to eating me here if I
+
+292
+00:04:42,400 --> 00:04:42,410
+from Heathrow me to eating me here if I
+ 
+
+293
+00:04:42,410 --> 00:04:45,670
+from Heathrow me to eating me here if I
+had my way now if that doesn't work for
+
+294
+00:04:45,670 --> 00:04:45,680
+had my way now if that doesn't work for
+ 
+
+295
+00:04:45,680 --> 00:04:48,219
+had my way now if that doesn't work for
+it so if I turn out here then all I need
+
+296
+00:04:48,219 --> 00:04:48,229
+it so if I turn out here then all I need
+ 
+
+297
+00:04:48,229 --> 00:04:50,740
+it so if I turn out here then all I need
+to do is continues to follow up so I go
+
+298
+00:04:50,740 --> 00:04:50,750
+to do is continues to follow up so I go
+ 
+
+299
+00:04:50,750 --> 00:04:52,510
+to do is continues to follow up so I go
+here I'm gonna put those arms together
+
+300
+00:04:52,510 --> 00:04:52,520
+here I'm gonna put those arms together
+ 
+
+301
+00:04:52,520 --> 00:04:55,150
+here I'm gonna put those arms together
+here and moving there I'm combining his
+
+302
+00:04:55,150 --> 00:04:55,160
+here and moving there I'm combining his
+ 
+
+303
+00:04:55,160 --> 00:04:56,740
+here and moving there I'm combining his
+arms together with that Jiu Qi principle
+
+304
+00:04:56,740 --> 00:04:56,750
+arms together with that Jiu Qi principle
+ 
+
+305
+00:04:56,750 --> 00:04:58,270
+arms together with that Jiu Qi principle
+again and working for that loot am
+
+306
+00:04:58,270 --> 00:04:58,280
+again and working for that loot am
+ 
+
+307
+00:04:58,280 --> 00:04:59,980
+again and working for that loot am
+owashi Stubbs coming around his arms to
+
+308
+00:04:59,980 --> 00:04:59,990
+owashi Stubbs coming around his arms to
+ 
+
+309
+00:04:59,990 --> 00:05:01,719
+owashi Stubbs coming around his arms to
+twist him up same thing is happening
+
+310
+00:05:01,719 --> 00:05:01,729
+twist him up same thing is happening
+ 
+
+311
+00:05:01,729 --> 00:05:04,510
+twist him up same thing is happening
+from there now along the lines lots of
+
+312
+00:05:04,510 --> 00:05:04,520
+from there now along the lines lots of
+ 
+
+313
+00:05:04,520 --> 00:05:06,700
+from there now along the lines lots of
+other techniques might arise because of
+
+314
+00:05:06,700 --> 00:05:06,710
+other techniques might arise because of
+ 
+
+315
+00:05:06,710 --> 00:05:08,500
+other techniques might arise because of
+what he's doing he's really flexible or
+
+316
+00:05:08,500 --> 00:05:08,510
+what he's doing he's really flexible or
+ 
+
+317
+00:05:08,510 --> 00:05:10,060
+what he's doing he's really flexible or
+really rigid all kinds of different
+
+318
+00:05:10,060 --> 00:05:10,070
+really rigid all kinds of different
+ 
+
+319
+00:05:10,070 --> 00:05:11,920
+really rigid all kinds of different
+stuff can happen but those are the root
+
+320
+00:05:11,920 --> 00:05:11,930
+stuff can happen but those are the root
+ 
+
+321
+00:05:11,930 --> 00:05:14,440
+stuff can happen but those are the root
+techniques I'm using to clear myself and
+
+322
+00:05:14,440 --> 00:05:14,450
+techniques I'm using to clear myself and
+ 
+
+323
+00:05:14,450 --> 00:05:16,690
+techniques I'm using to clear myself and
+improve my position so when he's got me
+
+324
+00:05:16,690 --> 00:05:16,700
+improve my position so when he's got me
+ 
+
+325
+00:05:16,700 --> 00:05:17,080
+improve my position so when he's got me
+here
+
+326
+00:05:17,080 --> 00:05:17,090
+here
+ 
+
+327
+00:05:17,090 --> 00:05:18,790
+here
+I can use a lot of the general things I
+
+328
+00:05:18,790 --> 00:05:18,800
+I can use a lot of the general things I
+ 
+
+329
+00:05:18,800 --> 00:05:21,520
+I can use a lot of the general things I
+would use for contouring but I really
+
+330
+00:05:21,520 --> 00:05:21,530
+would use for contouring but I really
+ 
+
+331
+00:05:21,530 --> 00:05:23,290
+would use for contouring but I really
+working trying if those arms bound up
+
+332
+00:05:23,290 --> 00:05:23,300
+working trying if those arms bound up
+ 
+
+333
+00:05:23,300 --> 00:05:25,210
+working trying if those arms bound up
+together and that's gonna be what will
+
+334
+00:05:25,210 --> 00:05:25,220
+together and that's gonna be what will
+ 
+
+335
+00:05:25,220 --> 00:05:27,159
+together and that's gonna be what will
+probably most decisively get me free the
+
+336
+00:05:27,159 --> 00:05:27,169
+probably most decisively get me free the
+ 
+
+337
+00:05:27,169 --> 00:05:28,900
+probably most decisively get me free the
+same is true from the rear position I'm
+
+338
+00:05:28,900 --> 00:05:28,910
+same is true from the rear position I'm
+ 
+
+339
+00:05:28,910 --> 00:05:30,850
+same is true from the rear position I'm
+gonna try to just quickly pop off but if
+
+340
+00:05:30,850 --> 00:05:30,860
+gonna try to just quickly pop off but if
+ 
+
+341
+00:05:30,860 --> 00:05:32,710
+gonna try to just quickly pop off but if
+he sticks with me I'm gonna go through
+
+342
+00:05:32,710 --> 00:05:32,720
+he sticks with me I'm gonna go through
+ 
+
+343
+00:05:32,720 --> 00:05:35,260
+he sticks with me I'm gonna go through
+that now in this rear position if I
+
+344
+00:05:35,260 --> 00:05:35,270
+that now in this rear position if I
+ 
+
+345
+00:05:35,270 --> 00:05:38,080
+that now in this rear position if I
+start to move this way he could push me
+
+346
+00:05:38,080 --> 00:05:38,090
+start to move this way he could push me
+ 
+
+347
+00:05:38,090 --> 00:05:39,460
+start to move this way he could push me
+with this hand and pull with the other
+
+348
+00:05:39,460 --> 00:05:39,470
+with this hand and pull with the other
+ 
+
+349
+00:05:39,470 --> 00:05:41,230
+with this hand and pull with the other
+one so notice what's happening is I'm
+
+350
+00:05:41,230 --> 00:05:41,240
+one so notice what's happening is I'm
+ 
+
+351
+00:05:41,240 --> 00:05:43,570
+one so notice what's happening is I'm
+trying to go this way and as I'm trying
+
+352
+00:05:43,570 --> 00:05:43,580
+trying to go this way and as I'm trying
+ 
+
+353
+00:05:43,580 --> 00:05:45,279
+trying to go this way and as I'm trying
+to go he's correcting that by going like
+
+354
+00:05:45,279 --> 00:05:45,289
+to go he's correcting that by going like
+ 
+
+355
+00:05:45,289 --> 00:05:48,370
+to go he's correcting that by going like
+this then I can slide to the inside but
+
+356
+00:05:48,370 --> 00:05:48,380
+this then I can slide to the inside but
+ 
+
+357
+00:05:48,380 --> 00:05:50,320
+this then I can slide to the inside but
+again I'm just pressing those arms
+
+358
+00:05:50,320 --> 00:05:50,330
+again I'm just pressing those arms
+ 
+
+359
+00:05:50,330 --> 00:05:51,460
+again I'm just pressing those arms
+together that's what I'm trying to do is
+
+360
+00:05:51,460 --> 00:05:51,470
+together that's what I'm trying to do is
+ 
+
+361
+00:05:51,470 --> 00:05:52,779
+together that's what I'm trying to do is
+get those arms together to get him to
+
+362
+00:05:52,779 --> 00:05:52,789
+get those arms together to get him to
+ 
+
+363
+00:05:52,789 --> 00:05:55,270
+get those arms together to get him to
+let go of me if I can let me get him to
+
+364
+00:05:55,270 --> 00:05:55,280
+let go of me if I can let me get him to
+ 
+
+365
+00:05:55,280 --> 00:05:57,190
+let go of me if I can let me get him to
+let go of just one side that's a big
+
+366
+00:05:57,190 --> 00:05:57,200
+let go of just one side that's a big
+ 
+
+367
+00:05:57,200 --> 00:05:59,200
+let go of just one side that's a big
+improvement in my situation if I you're
+
+368
+00:05:59,200 --> 00:05:59,210
+improvement in my situation if I you're
+ 
+
+369
+00:05:59,210 --> 00:06:00,700
+improvement in my situation if I you're
+letting games like go both that would be
+
+370
+00:06:00,700 --> 00:06:00,710
+letting games like go both that would be
+ 
+
+371
+00:06:00,710 --> 00:06:02,680
+letting games like go both that would be
+really really good right so these are
+
+372
+00:06:02,680 --> 00:06:02,690
+really really good right so these are
+ 
+
+373
+00:06:02,690 --> 00:06:04,629
+really really good right so these are
+the basic ideas I'm going to be using
+
+374
+00:06:04,629 --> 00:06:04,639
+the basic ideas I'm going to be using
+ 
+
+375
+00:06:04,639 --> 00:06:06,520
+the basic ideas I'm going to be using
+when we when we're looking for Hadopi
+
+376
+00:06:06,520 --> 00:06:06,530
+when we when we're looking for Hadopi
+ 
+
+377
+00:06:06,530 --> 00:06:07,920
+when we when we're looking for Hadopi
+from either Rio
+
+378
+00:06:07,920 --> 00:06:07,930
+from either Rio
+ 
+
+379
+00:06:07,930 --> 00:06:12,150
+from either Rio
+or Shiro ryokan Tory next to tomorrow I
+
+380
+00:06:12,150 --> 00:06:12,160
+or Shiro ryokan Tory next to tomorrow I
+ 
+
+381
+00:06:12,160 --> 00:06:13,740
+or Shiro ryokan Tory next to tomorrow I
+keep saying next week but tomorrow we're
+
+382
+00:06:13,740 --> 00:06:13,750
+keep saying next week but tomorrow we're
+ 
+
+383
+00:06:13,750 --> 00:06:15,390
+keep saying next week but tomorrow we're
+going to look at top it or in capita
+
+384
+00:06:15,390 --> 00:06:15,400
+going to look at top it or in capita
+ 
+
+385
+00:06:15,400 --> 00:06:17,040
+going to look at top it or in capita
+Tory and the basic fundamentals for
+
+386
+00:06:17,040 --> 00:06:17,050
+Tory and the basic fundamentals for
+ 
+
+387
+00:06:17,050 --> 00:06:19,230
+Tory and the basic fundamentals for
+clearing tat Dory's I'm Christopher Hine
+
+388
+00:06:19,230 --> 00:06:19,240
+clearing tat Dory's I'm Christopher Hine
+ 
+
+389
+00:06:19,240 --> 00:06:20,930
+clearing tat Dory's I'm Christopher Hine
+thanks for watching
+
+390
+00:06:20,930 --> 00:06:20,940
+thanks for watching
+ 
+
+391
+00:06:20,940 --> 00:06:27,680
+thanks for watching
+[Music]
+

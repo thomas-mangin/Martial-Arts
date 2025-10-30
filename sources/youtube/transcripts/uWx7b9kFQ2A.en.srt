@@ -1,0 +1,4545 @@
+1
+00:00:00,719 --> 00:00:03,510
+
+all right I I just something short to
+
+2
+00:00:03,510 --> 00:00:03,520
+all right I I just something short to
+ 
+
+3
+00:00:03,520 --> 00:00:06,190
+all right I I just something short to
+help you all
+
+4
+00:00:06,190 --> 00:00:06,200
+help you all
+ 
+
+5
+00:00:06,200 --> 00:00:08,910
+help you all
+um we already know there's like
+
+6
+00:00:08,910 --> 00:00:08,920
+um we already know there's like
+ 
+
+7
+00:00:08,920 --> 00:00:11,070
+um we already know there's like
+progressions in
+
+8
+00:00:11,070 --> 00:00:11,080
+progressions in
+ 
+
+9
+00:00:11,080 --> 00:00:15,549
+progressions in
+training um one has to allow for the
+
+10
+00:00:15,549 --> 00:00:15,559
+training um one has to allow for the
+ 
+
+11
+00:00:15,559 --> 00:00:18,830
+training um one has to allow for the
+difference between when one is talking
+
+12
+00:00:18,830 --> 00:00:18,840
+difference between when one is talking
+ 
+
+13
+00:00:18,840 --> 00:00:21,310
+difference between when one is talking
+about what is the
+
+14
+00:00:21,310 --> 00:00:21,320
+about what is the
+ 
+
+15
+00:00:21,320 --> 00:00:24,470
+about what is the
+ideal and then what is the actual
+
+16
+00:00:24,470 --> 00:00:24,480
+ideal and then what is the actual
+ 
+
+17
+00:00:24,480 --> 00:00:27,589
+ideal and then what is the actual
+learning curves you're dealing with
+
+18
+00:00:27,589 --> 00:00:27,599
+learning curves you're dealing with
+ 
+
+19
+00:00:27,599 --> 00:00:30,910
+learning curves you're dealing with
+okay and I think anybody who understands
+
+20
+00:00:30,910 --> 00:00:30,920
+okay and I think anybody who understands
+ 
+
+21
+00:00:30,920 --> 00:00:33,069
+okay and I think anybody who understands
+any kind of training knows that there's
+
+22
+00:00:33,069 --> 00:00:33,079
+any kind of training knows that there's
+ 
+
+23
+00:00:33,079 --> 00:00:37,630
+any kind of training knows that there's
+a difference there is where we should be
+
+24
+00:00:37,630 --> 00:00:37,640
+a difference there is where we should be
+ 
+
+25
+00:00:37,640 --> 00:00:41,590
+a difference there is where we should be
+and then the reality of where we are
+
+26
+00:00:41,590 --> 00:00:41,600
+and then the reality of where we are
+ 
+
+27
+00:00:41,600 --> 00:00:43,910
+and then the reality of where we are
+okay and they don't contradict each
+
+28
+00:00:43,910 --> 00:00:43,920
+okay and they don't contradict each
+ 
+
+29
+00:00:43,920 --> 00:00:54,069
+okay and they don't contradict each
+other they're just different
+
+30
+00:00:54,069 --> 00:00:54,079
+
+ 
+
+31
+00:00:54,079 --> 00:00:56,349
+
+perspectives so I want to give you
+
+32
+00:00:56,349 --> 00:00:56,359
+perspectives so I want to give you
+ 
+
+33
+00:00:56,359 --> 00:01:00,630
+perspectives so I want to give you
+something um short and sweet um um
+
+34
+00:01:00,630 --> 00:01:00,640
+something um short and sweet um um
+ 
+
+35
+00:01:00,640 --> 00:01:04,310
+something um short and sweet um um
+because some of you are too ill to to
+
+36
+00:01:04,310 --> 00:01:04,320
+because some of you are too ill to to
+ 
+
+37
+00:01:04,320 --> 00:01:08,230
+because some of you are too ill to to
+ever get to the ideal and so you need
+
+38
+00:01:08,230 --> 00:01:08,240
+ever get to the ideal and so you need
+ 
+
+39
+00:01:08,240 --> 00:01:12,910
+ever get to the ideal and so you need
+some helpful things to maybe one day you
+
+40
+00:01:12,910 --> 00:01:12,920
+some helpful things to maybe one day you
+ 
+
+41
+00:01:12,920 --> 00:01:15,230
+some helpful things to maybe one day you
+have a breakthrough
+
+42
+00:01:15,230 --> 00:01:15,240
+have a breakthrough
+ 
+
+43
+00:01:15,240 --> 00:01:17,789
+have a breakthrough
+okay there's too much tension there too
+
+44
+00:01:17,789 --> 00:01:17,799
+okay there's too much tension there too
+ 
+
+45
+00:01:17,799 --> 00:01:19,789
+okay there's too much tension there too
+much stress there's too much what what I
+
+46
+00:01:19,789 --> 00:01:19,799
+much stress there's too much what what I
+ 
+
+47
+00:01:19,799 --> 00:01:20,910
+much stress there's too much what what I
+call
+
+48
+00:01:20,910 --> 00:01:20,920
+call
+ 
+
+49
+00:01:20,920 --> 00:01:23,710
+call
+agitation and my definition of agitation
+
+50
+00:01:23,710 --> 00:01:23,720
+agitation and my definition of agitation
+ 
+
+51
+00:01:23,720 --> 00:01:27,710
+agitation and my definition of agitation
+is your your body mind is is is being
+
+52
+00:01:27,710 --> 00:01:27,720
+is your your body mind is is is being
+ 
+
+53
+00:01:27,720 --> 00:01:30,670
+is your your body mind is is is being
+forced to function with within an
+
+54
+00:01:30,670 --> 00:01:30,680
+forced to function with within an
+ 
+
+55
+00:01:30,680 --> 00:01:37,270
+forced to function with within an
+environment that is uh overriding its
+
+56
+00:01:37,270 --> 00:01:37,280
+
+ 
+
+57
+00:01:37,280 --> 00:01:40,830
+
+capacity so for in everyday speak you
+
+58
+00:01:40,830 --> 00:01:40,840
+capacity so for in everyday speak you
+ 
+
+59
+00:01:40,840 --> 00:01:42,749
+capacity so for in everyday speak you
+know that would include anxiety
+
+60
+00:01:42,749 --> 00:01:42,759
+know that would include anxiety
+ 
+
+61
+00:01:42,759 --> 00:01:45,270
+know that would include anxiety
+depression that would include digestive
+
+62
+00:01:45,270 --> 00:01:45,280
+depression that would include digestive
+ 
+
+63
+00:01:45,280 --> 00:01:47,429
+depression that would include digestive
+problems immune
+
+64
+00:01:47,429 --> 00:01:47,439
+problems immune
+ 
+
+65
+00:01:47,439 --> 00:01:51,749
+problems immune
+disorders um uh [\h__\h] up
+
+66
+00:01:51,749 --> 00:01:51,759
+disorders um uh [\h__\h] up
+ 
+
+67
+00:01:51,759 --> 00:01:54,510
+disorders um uh [\h__\h] up
+relationships uh all that kind of stuff
+
+68
+00:01:54,510 --> 00:01:54,520
+relationships uh all that kind of stuff
+ 
+
+69
+00:01:54,520 --> 00:01:56,870
+relationships uh all that kind of stuff
+okay just not
+
+70
+00:01:56,870 --> 00:01:56,880
+okay just not
+ 
+
+71
+00:01:56,880 --> 00:02:00,830
+okay just not
+well you're suffering sometimes very
+
+72
+00:02:00,830 --> 00:02:00,840
+well you're suffering sometimes very
+ 
+
+73
+00:02:00,840 --> 00:02:03,630
+well you're suffering sometimes very
+severely you're suicidal sometimes
+
+74
+00:02:03,630 --> 00:02:03,640
+severely you're suicidal sometimes
+ 
+
+75
+00:02:03,640 --> 00:02:05,590
+severely you're suicidal sometimes
+you're just got a stomach ache and
+
+76
+00:02:05,590 --> 00:02:05,600
+you're just got a stomach ache and
+ 
+
+77
+00:02:05,600 --> 00:02:08,749
+you're just got a stomach ache and
+diarrhea okay maybe some hair is falling
+
+78
+00:02:08,749 --> 00:02:08,759
+diarrhea okay maybe some hair is falling
+ 
+
+79
+00:02:08,759 --> 00:02:11,070
+diarrhea okay maybe some hair is falling
+out in the shower maybe you didn't sleep
+
+80
+00:02:11,070 --> 00:02:11,080
+out in the shower maybe you didn't sleep
+ 
+
+81
+00:02:11,080 --> 00:02:15,070
+out in the shower maybe you didn't sleep
+well okay maybe
+
+82
+00:02:15,070 --> 00:02:15,080
+
+ 
+
+83
+00:02:15,080 --> 00:02:16,910
+
+you're you're
+
+84
+00:02:16,910 --> 00:02:16,920
+you're you're
+ 
+
+85
+00:02:16,920 --> 00:02:22,229
+you're you're
+lonely okay this that's all what I call
+
+86
+00:02:22,229 --> 00:02:22,239
+
+ 
+
+87
+00:02:22,239 --> 00:02:26,910
+
+agitation or over
+
+88
+00:02:26,910 --> 00:02:26,920
+
+ 
+
+89
+00:02:26,920 --> 00:02:29,229
+
+agitation so something to help you with
+
+90
+00:02:29,229 --> 00:02:29,239
+agitation so something to help you with
+ 
+
+91
+00:02:29,239 --> 00:02:32,589
+agitation so something to help you with
+that because training at the ideal level
+
+92
+00:02:32,589 --> 00:02:32,599
+that because training at the ideal level
+ 
+
+93
+00:02:32,599 --> 00:02:36,309
+that because training at the ideal level
+is going to assume that you're not over
+
+94
+00:02:36,309 --> 00:02:36,319
+is going to assume that you're not over
+ 
+
+95
+00:02:36,319 --> 00:02:40,869
+is going to assume that you're not over
+agitated you just can't do it it's not
+
+96
+00:02:40,869 --> 00:02:40,879
+agitated you just can't do it it's not
+ 
+
+97
+00:02:40,879 --> 00:02:43,670
+agitated you just can't do it it's not
+possible but as a learning curve we come
+
+98
+00:02:43,670 --> 00:02:43,680
+possible but as a learning curve we come
+ 
+
+99
+00:02:43,680 --> 00:02:45,149
+possible but as a learning curve we come
+to training
+
+100
+00:02:45,149 --> 00:02:45,159
+to training
+ 
+
+101
+00:02:45,159 --> 00:02:46,750
+to training
+with
+
+102
+00:02:46,750 --> 00:02:46,760
+with
+ 
+
+103
+00:02:46,760 --> 00:02:48,550
+with
+agitation
+
+104
+00:02:48,550 --> 00:02:48,560
+agitation
+ 
+
+105
+00:02:48,560 --> 00:02:51,430
+agitation
+okay it's no different than training
+
+106
+00:02:51,430 --> 00:02:51,440
+okay it's no different than training
+ 
+
+107
+00:02:51,440 --> 00:02:54,790
+okay it's no different than training
+requires a certain level of mobility and
+
+108
+00:02:54,790 --> 00:02:54,800
+requires a certain level of mobility and
+ 
+
+109
+00:02:54,800 --> 00:02:58,830
+requires a certain level of mobility and
+a certain level of strength so um we're
+
+110
+00:02:58,830 --> 00:02:58,840
+a certain level of strength so um we're
+ 
+
+111
+00:02:58,840 --> 00:03:00,589
+a certain level of strength so um we're
+going to have to lift weights cuz you're
+
+112
+00:03:00,589 --> 00:03:00,599
+going to have to lift weights cuz you're
+ 
+
+113
+00:03:00,599 --> 00:03:02,949
+going to have to lift weights cuz you're
+a weak
+
+114
+00:03:02,949 --> 00:03:02,959
+a weak
+ 
+
+115
+00:03:02,959 --> 00:03:06,390
+a weak
+stiffy right we have to do we have to do
+
+116
+00:03:06,390 --> 00:03:06,400
+stiffy right we have to do we have to do
+ 
+
+117
+00:03:06,400 --> 00:03:10,830
+stiffy right we have to do we have to do
+that we have to in a way prepare
+
+118
+00:03:10,830 --> 00:03:10,840
+that we have to in a way prepare
+ 
+
+119
+00:03:10,840 --> 00:03:14,350
+that we have to in a way prepare
+ourselves to one day train and the
+
+120
+00:03:14,350 --> 00:03:14,360
+ourselves to one day train and the
+ 
+
+121
+00:03:14,360 --> 00:03:16,550
+ourselves to one day train and the
+biggest mistake is we don't think we
+
+122
+00:03:16,550 --> 00:03:16,560
+biggest mistake is we don't think we
+ 
+
+123
+00:03:16,560 --> 00:03:18,910
+biggest mistake is we don't think we
+have to we think we're
+
+124
+00:03:18,910 --> 00:03:18,920
+have to we think we're
+ 
+
+125
+00:03:18,920 --> 00:03:21,149
+have to we think we're
+training because we're lifting weights
+
+126
+00:03:21,149 --> 00:03:21,159
+training because we're lifting weights
+ 
+
+127
+00:03:21,159 --> 00:03:24,190
+training because we're lifting weights
+we're not you're just you're weak it's
+
+128
+00:03:24,190 --> 00:03:24,200
+we're not you're just you're weak it's
+ 
+
+129
+00:03:24,200 --> 00:03:28,470
+we're not you're just you're weak it's
+why we're lifting
+
+130
+00:03:28,470 --> 00:03:28,480
+
+ 
+
+131
+00:03:28,480 --> 00:03:31,030
+
+weights like in the last tech in the
+
+132
+00:03:31,030 --> 00:03:31,040
+weights like in the last tech in the
+ 
+
+133
+00:03:31,040 --> 00:03:33,190
+weights like in the last tech in the
+techniques we did today there's a
+
+134
+00:03:33,190 --> 00:03:33,200
+techniques we did today there's a
+ 
+
+135
+00:03:33,200 --> 00:03:35,270
+techniques we did today there's a
+certain level of suppleness and a
+
+136
+00:03:35,270 --> 00:03:35,280
+certain level of suppleness and a
+ 
+
+137
+00:03:35,280 --> 00:03:38,149
+certain level of suppleness and a
+certain level of strength that's just
+
+138
+00:03:38,149 --> 00:03:38,159
+certain level of strength that's just
+ 
+
+139
+00:03:38,159 --> 00:03:42,350
+certain level of strength that's just
+assumed even in the reconciliation of
+
+140
+00:03:42,350 --> 00:03:42,360
+assumed even in the reconciliation of
+ 
+
+141
+00:03:42,360 --> 00:03:43,750
+assumed even in the reconciliation of
+Yin and
+
+142
+00:03:43,750 --> 00:03:43,760
+Yin and
+ 
+
+143
+00:03:43,760 --> 00:03:46,190
+Yin and
+Yang you you have to have a certain
+
+144
+00:03:46,190 --> 00:03:46,200
+Yang you you have to have a certain
+ 
+
+145
+00:03:46,200 --> 00:03:50,110
+Yang you you have to have a certain
+level of strength and uh some of you
+
+146
+00:03:50,110 --> 00:03:50,120
+level of strength and uh some of you
+ 
+
+147
+00:03:50,120 --> 00:03:51,670
+level of strength and uh some of you
+don't have it and there's no way you're
+
+148
+00:03:51,670 --> 00:03:51,680
+don't have it and there's no way you're
+ 
+
+149
+00:03:51,680 --> 00:03:54,390
+don't have it and there's no way you're
+going to pick this person up to balance
+
+150
+00:03:54,390 --> 00:03:54,400
+going to pick this person up to balance
+ 
+
+151
+00:03:54,400 --> 00:03:57,589
+going to pick this person up to balance
+them on your chest there's just no way
+
+152
+00:03:57,589 --> 00:03:57,599
+them on your chest there's just no way
+ 
+
+153
+00:03:57,599 --> 00:04:00,149
+them on your chest there's just no way
+okay so we have to do things get you
+
+154
+00:04:00,149 --> 00:04:00,159
+okay so we have to do things get you
+ 
+
+155
+00:04:00,159 --> 00:04:05,390
+okay so we have to do things get you
+there well the same way
+
+156
+00:04:05,390 --> 00:04:05,400
+
+ 
+
+157
+00:04:05,400 --> 00:04:08,270
+
+spiritually to reconcile the ego
+
+158
+00:04:08,270 --> 00:04:08,280
+spiritually to reconcile the ego
+ 
+
+159
+00:04:08,280 --> 00:04:09,630
+spiritually to reconcile the ego
+tripartite
+
+160
+00:04:09,630 --> 00:04:09,640
+tripartite
+ 
+
+161
+00:04:09,640 --> 00:04:15,189
+tripartite
+mind we have to be in a certain achieved
+
+162
+00:04:15,189 --> 00:04:15,199
+mind we have to be in a certain achieved
+ 
+
+163
+00:04:15,199 --> 00:04:19,270
+mind we have to be in a certain achieved
+level of spirituality to get there and
+
+164
+00:04:19,270 --> 00:04:19,280
+level of spirituality to get there and
+ 
+
+165
+00:04:19,280 --> 00:04:23,070
+level of spirituality to get there and
+it cannot entail
+
+166
+00:04:23,070 --> 00:04:23,080
+it cannot entail
+ 
+
+167
+00:04:23,080 --> 00:04:25,909
+it cannot entail
+agitation agitation like muscle
+
+168
+00:04:25,909 --> 00:04:25,919
+agitation agitation like muscle
+ 
+
+169
+00:04:25,919 --> 00:04:27,950
+agitation agitation like muscle
+weakness we're going to have to work on
+
+170
+00:04:27,950 --> 00:04:27,960
+weakness we're going to have to work on
+ 
+
+171
+00:04:27,960 --> 00:04:30,270
+weakness we're going to have to work on
+that first this this is where we're
+
+172
+00:04:30,270 --> 00:04:30,280
+that first this this is where we're
+ 
+
+173
+00:04:30,280 --> 00:04:32,469
+that first this this is where we're
+going now
+
+174
+00:04:32,469 --> 00:04:32,479
+going now
+ 
+
+175
+00:04:32,479 --> 00:04:37,110
+going now
+okay um I'll remind you though that this
+
+176
+00:04:37,110 --> 00:04:37,120
+okay um I'll remind you though that this
+ 
+
+177
+00:04:37,120 --> 00:04:40,230
+okay um I'll remind you though that this
+is at best a
+
+178
+00:04:40,230 --> 00:04:40,240
+is at best a
+ 
+
+179
+00:04:40,240 --> 00:04:43,310
+is at best a
+Sal some sort of tonic or something you
+
+180
+00:04:43,310 --> 00:04:43,320
+Sal some sort of tonic or something you
+ 
+
+181
+00:04:43,320 --> 00:04:46,950
+Sal some sort of tonic or something you
+put on a on a wound and try
+
+182
+00:04:46,950 --> 00:04:46,960
+put on a on a wound and try
+ 
+
+183
+00:04:46,960 --> 00:04:49,909
+put on a on a wound and try
+to you know in a way make sure you don't
+
+184
+00:04:49,909 --> 00:04:49,919
+to you know in a way make sure you don't
+ 
+
+185
+00:04:49,919 --> 00:04:51,670
+to you know in a way make sure you don't
+[\h__\h] kill
+
+186
+00:04:51,670 --> 00:04:51,680
+[\h__\h] kill
+ 
+
+187
+00:04:51,680 --> 00:04:54,270
+[\h__\h] kill
+yourself when it gets that far make sure
+
+188
+00:04:54,270 --> 00:04:54,280
+yourself when it gets that far make sure
+ 
+
+189
+00:04:54,280 --> 00:04:55,469
+yourself when it gets that far make sure
+you
+
+190
+00:04:55,469 --> 00:04:55,479
+you
+ 
+
+191
+00:04:55,479 --> 00:04:58,350
+you
+don't have an irreversible health
+
+192
+00:04:58,350 --> 00:04:58,360
+don't have an irreversible health
+ 
+
+193
+00:04:58,360 --> 00:05:00,629
+don't have an irreversible health
+condition cuz you took it that far do
+
+194
+00:05:00,629 --> 00:05:00,639
+condition cuz you took it that far do
+ 
+
+195
+00:05:00,639 --> 00:05:04,990
+condition cuz you took it that far do
+you see in those in those senses a salv
+
+196
+00:05:04,990 --> 00:05:05,000
+you see in those in those senses a salv
+ 
+
+197
+00:05:05,000 --> 00:05:06,390
+you see in those in those senses a salv
+is pretty
+
+198
+00:05:06,390 --> 00:05:06,400
+is pretty
+ 
+
+199
+00:05:06,400 --> 00:05:10,350
+is pretty
+important but it is nothing but
+
+200
+00:05:10,350 --> 00:05:10,360
+important but it is nothing but
+ 
+
+201
+00:05:10,360 --> 00:05:12,150
+important but it is nothing but
+that
+
+202
+00:05:12,150 --> 00:05:12,160
+that
+ 
+
+203
+00:05:12,160 --> 00:05:16,189
+that
+meaning you [\h__\h] up here something
+
+204
+00:05:16,189 --> 00:05:16,199
+meaning you [\h__\h] up here something
+ 
+
+205
+00:05:16,199 --> 00:05:18,870
+meaning you [\h__\h] up here something
+hopefully you can unfuck this before
+
+206
+00:05:18,870 --> 00:05:18,880
+hopefully you can unfuck this before
+ 
+
+207
+00:05:18,880 --> 00:05:20,189
+hopefully you can unfuck this before
+it's
+
+208
+00:05:20,189 --> 00:05:20,199
+it's
+ 
+
+209
+00:05:20,199 --> 00:05:22,469
+it's
+irreversible get it it's it's important
+
+210
+00:05:22,469 --> 00:05:22,479
+irreversible get it it's it's important
+ 
+
+211
+00:05:22,479 --> 00:05:24,510
+irreversible get it it's it's important
+it's it's like I tell the recruit
+
+212
+00:05:24,510 --> 00:05:24,520
+it's it's like I tell the recruit
+ 
+
+213
+00:05:24,520 --> 00:05:27,150
+it's it's like I tell the recruit
+recruits in law
+
+214
+00:05:27,150 --> 00:05:27,160
+recruits in law
+ 
+
+215
+00:05:27,160 --> 00:05:30,270
+recruits in law
+enforcement you know you [\h__\h] up in your
+
+216
+00:05:30,270 --> 00:05:30,280
+enforcement you know you [\h__\h] up in your
+ 
+
+217
+00:05:30,280 --> 00:05:32,510
+enforcement you know you [\h__\h] up in your
+Patrol strategy that's why you're having
+
+218
+00:05:32,510 --> 00:05:32,520
+Patrol strategy that's why you're having
+ 
+
+219
+00:05:32,520 --> 00:05:36,710
+Patrol strategy that's why you're having
+to do this here's something that'll work
+
+220
+00:05:36,710 --> 00:05:36,720
+to do this here's something that'll work
+ 
+
+221
+00:05:36,720 --> 00:05:39,189
+to do this here's something that'll work
+and even as I tell them that I told them
+
+222
+00:05:39,189 --> 00:05:39,199
+and even as I tell them that I told them
+ 
+
+223
+00:05:39,199 --> 00:05:42,150
+and even as I tell them that I told them
+this I said it I'll get myself out of it
+
+224
+00:05:42,150 --> 00:05:42,160
+this I said it I'll get myself out of it
+ 
+
+225
+00:05:42,160 --> 00:05:45,350
+this I said it I'll get myself out of it
+but in my head I'm telling myself you
+
+226
+00:05:45,350 --> 00:05:45,360
+but in my head I'm telling myself you
+ 
+
+227
+00:05:45,360 --> 00:05:47,909
+but in my head I'm telling myself you
+[\h__\h] have this coming because you
+
+228
+00:05:47,909 --> 00:05:47,919
+[\h__\h] have this coming because you
+ 
+
+229
+00:05:47,919 --> 00:05:51,590
+[\h__\h] have this coming because you
+[\h__\h] up so as you have a salve I don't
+
+230
+00:05:51,590 --> 00:05:51,600
+[\h__\h] up so as you have a salve I don't
+ 
+
+231
+00:05:51,600 --> 00:05:54,070
+[\h__\h] up so as you have a salve I don't
+want you to think of it as a cure all
+
+232
+00:05:54,070 --> 00:05:54,080
+want you to think of it as a cure all
+ 
+
+233
+00:05:54,080 --> 00:05:56,510
+want you to think of it as a cure all
+because moderns think
+
+234
+00:05:56,510 --> 00:05:56,520
+because moderns think
+ 
+
+235
+00:05:56,520 --> 00:05:59,790
+because moderns think
+of medicines as cure alls when they're
+
+236
+00:05:59,790 --> 00:05:59,800
+of medicines as cure alls when they're
+ 
+
+237
+00:05:59,800 --> 00:06:03,110
+of medicines as cure alls when they're
+not they're just masking
+
+238
+00:06:03,110 --> 00:06:03,120
+not they're just masking
+ 
+
+239
+00:06:03,120 --> 00:06:06,629
+not they're just masking
+symptoms your body heals
+
+240
+00:06:06,629 --> 00:06:06,639
+symptoms your body heals
+ 
+
+241
+00:06:06,639 --> 00:06:10,830
+symptoms your body heals
+itself you have to have a body that can
+
+242
+00:06:10,830 --> 00:06:10,840
+itself you have to have a body that can
+ 
+
+243
+00:06:10,840 --> 00:06:13,990
+itself you have to have a body that can
+heal you take an
+
+244
+00:06:13,990 --> 00:06:14,000
+heal you take an
+ 
+
+245
+00:06:14,000 --> 00:06:17,670
+heal you take an
+aspirin it it'll cut the edge off of the
+
+246
+00:06:17,670 --> 00:06:17,680
+aspirin it it'll cut the edge off of the
+ 
+
+247
+00:06:17,680 --> 00:06:19,870
+aspirin it it'll cut the edge off of the
+headache or an Advil you see of the
+
+248
+00:06:19,870 --> 00:06:19,880
+headache or an Advil you see of the
+ 
+
+249
+00:06:19,880 --> 00:06:22,510
+headache or an Advil you see of the
+headache but you have you having to keep
+
+250
+00:06:22,510 --> 00:06:22,520
+headache but you have you having to keep
+ 
+
+251
+00:06:22,520 --> 00:06:25,909
+headache but you have you having to keep
+taking them you keep having headaches
+
+252
+00:06:25,909 --> 00:06:25,919
+taking them you keep having headaches
+ 
+
+253
+00:06:25,919 --> 00:06:29,589
+taking them you keep having headaches
+something is [\h__\h] up with you and you
+
+254
+00:06:29,589 --> 00:06:29,599
+something is [\h__\h] up with you and you
+ 
+
+255
+00:06:29,599 --> 00:06:32,110
+something is [\h__\h] up with you and you
+need to fix
+
+256
+00:06:32,110 --> 00:06:32,120
+need to fix
+ 
+
+257
+00:06:32,120 --> 00:06:35,870
+need to fix
+that you can't go I have adill so I
+
+258
+00:06:35,870 --> 00:06:35,880
+that you can't go I have adill so I
+ 
+
+259
+00:06:35,880 --> 00:06:37,749
+that you can't go I have adill so I
+don't have to fix what's [\h__\h] up with
+
+260
+00:06:37,749 --> 00:06:37,759
+don't have to fix what's [\h__\h] up with
+ 
+
+261
+00:06:37,759 --> 00:06:41,909
+don't have to fix what's [\h__\h] up with
+me that's not true so I'm hesitant and
+
+262
+00:06:41,909 --> 00:06:41,919
+me that's not true so I'm hesitant and
+ 
+
+263
+00:06:41,919 --> 00:06:44,189
+me that's not true so I'm hesitant and
+and why it's it's those that have been
+
+264
+00:06:44,189 --> 00:06:44,199
+and why it's it's those that have been
+ 
+
+265
+00:06:44,199 --> 00:06:46,629
+and why it's it's those that have been
+here it's been decades you've been here
+
+266
+00:06:46,629 --> 00:06:46,639
+here it's been decades you've been here
+ 
+
+267
+00:06:46,639 --> 00:06:48,589
+here it's been decades you've been here
+I haven't shown you this stuff I've
+
+268
+00:06:48,589 --> 00:06:48,599
+I haven't shown you this stuff I've
+ 
+
+269
+00:06:48,599 --> 00:06:53,749
+I haven't shown you this stuff I've
+shown you the other stuff how to unfuck
+
+270
+00:06:53,749 --> 00:06:53,759
+
+ 
+
+271
+00:06:53,759 --> 00:06:57,510
+
+yourself but the problem is as a
+
+272
+00:06:57,510 --> 00:06:57,520
+yourself but the problem is as a
+ 
+
+273
+00:06:57,520 --> 00:06:59,990
+yourself but the problem is as a
+teacher decades have gone by and you
+
+274
+00:06:59,990 --> 00:07:00,000
+teacher decades have gone by and you
+ 
+
+275
+00:07:00,000 --> 00:07:03,189
+teacher decades have gone by and you
+haven't learned how to unfuck
+
+276
+00:07:03,189 --> 00:07:03,199
+haven't learned how to unfuck
+ 
+
+277
+00:07:03,199 --> 00:07:07,589
+haven't learned how to unfuck
+yourself that's Decades of agitation
+
+278
+00:07:07,589 --> 00:07:07,599
+yourself that's Decades of agitation
+ 
+
+279
+00:07:07,599 --> 00:07:09,749
+yourself that's Decades of agitation
+that's that's going to be hard to
+
+280
+00:07:09,749 --> 00:07:09,759
+that's that's going to be hard to
+ 
+
+281
+00:07:09,759 --> 00:07:12,350
+that's that's going to be hard to
+reverse
+
+282
+00:07:12,350 --> 00:07:12,360
+
+ 
+
+283
+00:07:12,360 --> 00:07:16,110
+
+now then we have people though in the
+
+284
+00:07:16,110 --> 00:07:16,120
+now then we have people though in the
+ 
+
+285
+00:07:16,120 --> 00:07:19,110
+now then we have people though in the
+patreon community they haven't done any
+
+286
+00:07:19,110 --> 00:07:19,120
+patreon community they haven't done any
+ 
+
+287
+00:07:19,120 --> 00:07:21,589
+patreon community they haven't done any
+of the base work they've already lived
+
+288
+00:07:21,589 --> 00:07:21,599
+of the base work they've already lived
+ 
+
+289
+00:07:21,599 --> 00:07:24,589
+of the base work they've already lived
+for decades with agitation they need a
+
+290
+00:07:24,589 --> 00:07:24,599
+for decades with agitation they need a
+ 
+
+291
+00:07:24,599 --> 00:07:25,790
+for decades with agitation they need a
+solve
+
+292
+00:07:25,790 --> 00:07:25,800
+solve
+ 
+
+293
+00:07:25,800 --> 00:07:27,670
+solve
+too
+
+294
+00:07:27,670 --> 00:07:27,680
+too
+ 
+
+295
+00:07:27,680 --> 00:07:30,270
+too
+okay that's what this is don't make it a
+
+296
+00:07:30,270 --> 00:07:30,280
+okay that's what this is don't make it a
+ 
+
+297
+00:07:30,280 --> 00:07:32,589
+okay that's what this is don't make it a
+cure
+
+298
+00:07:32,589 --> 00:07:32,599
+cure
+ 
+
+299
+00:07:32,599 --> 00:07:37,830
+cure
+all it it's like Crisis
+
+300
+00:07:37,830 --> 00:07:37,840
+
+ 
+
+301
+00:07:37,840 --> 00:07:40,670
+
+management like break glass in case of
+
+302
+00:07:40,670 --> 00:07:40,680
+management like break glass in case of
+ 
+
+303
+00:07:40,680 --> 00:07:43,830
+management like break glass in case of
+emergency you should be doing the
+
+304
+00:07:43,830 --> 00:07:43,840
+emergency you should be doing the
+ 
+
+305
+00:07:43,840 --> 00:07:46,309
+emergency you should be doing the
+Bedrock practices and the four
+
+306
+00:07:46,309 --> 00:07:46,319
+Bedrock practices and the four
+ 
+
+307
+00:07:46,319 --> 00:07:50,189
+Bedrock practices and the four
+disciplines so you don't ever need
+
+308
+00:07:50,189 --> 00:07:50,199
+disciplines so you don't ever need
+ 
+
+309
+00:07:50,199 --> 00:07:54,909
+disciplines so you don't ever need
+this and and and it is contained within
+
+310
+00:07:54,909 --> 00:07:54,919
+this and and and it is contained within
+ 
+
+311
+00:07:54,919 --> 00:07:56,309
+this and and and it is contained within
+all of your
+
+312
+00:07:56,309 --> 00:07:56,319
+all of your
+ 
+
+313
+00:07:56,319 --> 00:08:00,070
+all of your
+iido so just coming to the dojo obeying
+
+314
+00:08:00,070 --> 00:08:00,080
+iido so just coming to the dojo obeying
+ 
+
+315
+00:08:00,080 --> 00:08:03,270
+iido so just coming to the dojo obeying
+the Bedrock practice of those 4 to 6
+
+316
+00:08:03,270 --> 00:08:03,280
+the Bedrock practice of those 4 to 6
+ 
+
+317
+00:08:03,280 --> 00:08:06,230
+the Bedrock practice of those 4 to 6
+hours per day you you're doing it so you
+
+318
+00:08:06,230 --> 00:08:06,240
+hours per day you you're doing it so you
+ 
+
+319
+00:08:06,240 --> 00:08:13,149
+hours per day you you're doing it so you
+shouldn't have but we don't do that do
+
+320
+00:08:13,149 --> 00:08:13,159
+
+ 
+
+321
+00:08:13,159 --> 00:08:17,230
+
+we so we have to touch base on those
+
+322
+00:08:17,230 --> 00:08:17,240
+we so we have to touch base on those
+ 
+
+323
+00:08:17,240 --> 00:08:20,430
+we so we have to touch base on those
+Bedrock practices we have to touch base
+
+324
+00:08:20,430 --> 00:08:20,440
+Bedrock practices we have to touch base
+ 
+
+325
+00:08:20,440 --> 00:08:22,550
+Bedrock practices we have to touch base
+on the four disciplines and you have to
+
+326
+00:08:22,550 --> 00:08:22,560
+on the four disciplines and you have to
+ 
+
+327
+00:08:22,560 --> 00:08:25,749
+on the four disciplines and you have to
+stop ignoring them because eventually
+
+328
+00:08:25,749 --> 00:08:25,759
+stop ignoring them because eventually
+ 
+
+329
+00:08:25,759 --> 00:08:28,950
+stop ignoring them because eventually
+just like you lived an effed up enough
+
+330
+00:08:28,950 --> 00:08:28,960
+just like you lived an effed up enough
+ 
+
+331
+00:08:28,960 --> 00:08:31,389
+just like you lived an effed up enough
+life now you have migraines and there's
+
+332
+00:08:31,389 --> 00:08:31,399
+life now you have migraines and there's
+ 
+
+333
+00:08:31,399 --> 00:08:35,550
+life now you have migraines and there's
+no every medication's not is not working
+
+334
+00:08:35,550 --> 00:08:35,560
+no every medication's not is not working
+ 
+
+335
+00:08:35,560 --> 00:08:38,389
+no every medication's not is not working
+and even if it is working you're still
+
+336
+00:08:38,389 --> 00:08:38,399
+and even if it is working you're still
+ 
+
+337
+00:08:38,399 --> 00:08:41,350
+and even if it is working you're still
+laying in bed all night and with the
+
+338
+00:08:41,350 --> 00:08:41,360
+laying in bed all night and with the
+ 
+
+339
+00:08:41,360 --> 00:08:44,430
+laying in bed all night and with the
+rest of your life going to [\h__\h] is that
+
+340
+00:08:44,430 --> 00:08:44,440
+rest of your life going to [\h__\h] is that
+ 
+
+341
+00:08:44,440 --> 00:08:50,550
+rest of your life going to [\h__\h] is that
+working I don't think
+
+342
+00:08:50,550 --> 00:08:50,560
+
+ 
+
+343
+00:08:50,560 --> 00:08:54,070
+
+so let me explain the cosmology SL
+
+344
+00:08:54,070 --> 00:08:54,080
+so let me explain the cosmology SL
+ 
+
+345
+00:08:54,080 --> 00:08:58,430
+so let me explain the cosmology SL
+energetics of what is going on in
+
+346
+00:08:58,430 --> 00:08:58,440
+
+ 
+
+347
+00:08:58,440 --> 00:09:00,870
+
+agitation
+
+348
+00:09:00,870 --> 00:09:00,880
+agitation
+ 
+
+349
+00:09:00,880 --> 00:09:04,069
+agitation
+at the East End of the Silk
+
+350
+00:09:04,069 --> 00:09:04,079
+at the East End of the Silk
+ 
+
+351
+00:09:04,079 --> 00:09:08,110
+at the East End of the Silk
+Road there's very much a young a yinong
+
+352
+00:09:08,110 --> 00:09:08,120
+Road there's very much a young a yinong
+ 
+
+353
+00:09:08,120 --> 00:09:11,190
+Road there's very much a young a yinong
+theory at things uh especially later in
+
+354
+00:09:11,190 --> 00:09:11,200
+theory at things uh especially later in
+ 
+
+355
+00:09:11,200 --> 00:09:13,269
+theory at things uh especially later in
+history but as you go back it's very
+
+356
+00:09:13,269 --> 00:09:13,279
+history but as you go back it's very
+ 
+
+357
+00:09:13,279 --> 00:09:16,910
+history but as you go back it's very
+similar to the West End and the West
+
+358
+00:09:16,910 --> 00:09:16,920
+similar to the West End and the West
+ 
+
+359
+00:09:16,920 --> 00:09:22,310
+similar to the West End and the West
+End and older in history on the East End
+
+360
+00:09:22,310 --> 00:09:22,320
+End and older in history on the East End
+ 
+
+361
+00:09:22,320 --> 00:09:26,030
+End and older in history on the East End
+is basically you are in opposition to
+
+362
+00:09:26,030 --> 00:09:26,040
+is basically you are in opposition to
+ 
+
+363
+00:09:26,040 --> 00:09:29,110
+is basically you are in opposition to
+God you are resisting God and know the
+
+364
+00:09:29,110 --> 00:09:29,120
+God you are resisting God and know the
+ 
+
+365
+00:09:29,120 --> 00:09:32,430
+God you are resisting God and know the
+West understand the conventional wisdom
+
+366
+00:09:32,430 --> 00:09:32,440
+West understand the conventional wisdom
+ 
+
+367
+00:09:32,440 --> 00:09:37,269
+West understand the conventional wisdom
+is one cannot resist the will of
+
+368
+00:09:37,269 --> 00:09:37,279
+is one cannot resist the will of
+ 
+
+369
+00:09:37,279 --> 00:09:42,310
+is one cannot resist the will of
+God in the old east end this Heaven has
+
+370
+00:09:42,310 --> 00:09:42,320
+God in the old east end this Heaven has
+ 
+
+371
+00:09:42,320 --> 00:09:47,750
+God in the old east end this Heaven has
+a will Heaven is uh is equivalent to the
+
+372
+00:09:47,750 --> 00:09:47,760
+a will Heaven is uh is equivalent to the
+ 
+
+373
+00:09:47,760 --> 00:09:51,230
+a will Heaven is uh is equivalent to the
+god concept and there is a Heaven's
+
+374
+00:09:51,230 --> 00:09:51,240
+god concept and there is a Heaven's
+ 
+
+375
+00:09:51,240 --> 00:09:56,030
+god concept and there is a Heaven's
+way and woe to he or she who [\h__\h] up
+
+376
+00:09:56,030 --> 00:09:56,040
+way and woe to he or she who [\h__\h] up
+ 
+
+377
+00:09:56,040 --> 00:10:01,030
+way and woe to he or she who [\h__\h] up
+with that way same exact thing as you go
+
+378
+00:10:01,030 --> 00:10:01,040
+with that way same exact thing as you go
+ 
+
+379
+00:10:01,040 --> 00:10:03,350
+with that way same exact thing as you go
+more recent but we were talking
+
+380
+00:10:03,350 --> 00:10:03,360
+more recent but we were talking
+ 
+
+381
+00:10:03,360 --> 00:10:04,750
+more recent but we were talking
+centuries
+
+382
+00:10:04,750 --> 00:10:04,760
+centuries
+ 
+
+383
+00:10:04,760 --> 00:10:09,269
+centuries
+ago basically Heaven's will God's will
+
+384
+00:10:09,269 --> 00:10:09,279
+ago basically Heaven's will God's will
+ 
+
+385
+00:10:09,279 --> 00:10:11,630
+ago basically Heaven's will God's will
+Heaven
+
+386
+00:10:11,630 --> 00:10:11,640
+Heaven
+ 
+
+387
+00:10:11,640 --> 00:10:16,030
+Heaven
+Chi that is blocked is not doing or
+
+388
+00:10:16,030 --> 00:10:16,040
+Chi that is blocked is not doing or
+ 
+
+389
+00:10:16,040 --> 00:10:19,190
+Chi that is blocked is not doing or
+allowed to do what it needs to do or
+
+390
+00:10:19,190 --> 00:10:19,200
+allowed to do what it needs to do or
+ 
+
+391
+00:10:19,200 --> 00:10:25,630
+allowed to do what it needs to do or
+what it is to do is now
+
+392
+00:10:25,630 --> 00:10:25,640
+
+ 
+
+393
+00:10:25,640 --> 00:10:27,550
+
+toxic
+
+394
+00:10:27,550 --> 00:10:27,560
+toxic
+ 
+
+395
+00:10:27,560 --> 00:10:30,269
+toxic
+energetically what happens to our body
+
+396
+00:10:30,269 --> 00:10:30,279
+energetically what happens to our body
+ 
+
+397
+00:10:30,279 --> 00:10:31,970
+energetically what happens to our body
+mind is
+
+398
+00:10:31,970 --> 00:10:31,980
+mind is
+ 
+
+399
+00:10:31,980 --> 00:10:35,470
+mind is
+[Music]
+
+400
+00:10:35,470 --> 00:10:35,480
+
+ 
+
+401
+00:10:35,480 --> 00:10:39,150
+
+our Mis applying of the four disciplines
+
+402
+00:10:39,150 --> 00:10:39,160
+our Mis applying of the four disciplines
+ 
+
+403
+00:10:39,160 --> 00:10:40,150
+our Mis applying of the four disciplines
+and our
+
+404
+00:10:40,150 --> 00:10:40,160
+and our
+ 
+
+405
+00:10:40,160 --> 00:10:43,069
+and our
+ignorance or our ignoring sorry our
+
+406
+00:10:43,069 --> 00:10:43,079
+ignorance or our ignoring sorry our
+ 
+
+407
+00:10:43,079 --> 00:10:45,310
+ignorance or our ignoring sorry our
+ignoring of the Bedrock
+
+408
+00:10:45,310 --> 00:10:45,320
+ignoring of the Bedrock
+ 
+
+409
+00:10:45,320 --> 00:10:47,990
+ignoring of the Bedrock
+practices we
+
+410
+00:10:47,990 --> 00:10:48,000
+practices we
+ 
+
+411
+00:10:48,000 --> 00:10:52,030
+practices we
+create blockage in our body that starts
+
+412
+00:10:52,030 --> 00:10:52,040
+create blockage in our body that starts
+ 
+
+413
+00:10:52,040 --> 00:10:55,670
+create blockage in our body that starts
+to accumulate Heaven chi in the top part
+
+414
+00:10:55,670 --> 00:10:55,680
+to accumulate Heaven chi in the top part
+ 
+
+415
+00:10:55,680 --> 00:10:58,230
+to accumulate Heaven chi in the top part
+of our body
+
+416
+00:10:58,230 --> 00:10:58,240
+of our body
+ 
+
+417
+00:10:58,240 --> 00:11:00,389
+of our body
+mind
+
+418
+00:11:00,389 --> 00:11:00,399
+mind
+ 
+
+419
+00:11:00,399 --> 00:11:03,990
+mind
+so event and these are ancient systems
+
+420
+00:11:03,990 --> 00:11:04,000
+so event and these are ancient systems
+ 
+
+421
+00:11:04,000 --> 00:11:06,710
+so event and these are ancient systems
+of the body so even for example if my
+
+422
+00:11:06,710 --> 00:11:06,720
+of the body so even for example if my
+ 
+
+423
+00:11:06,720 --> 00:11:10,150
+of the body so even for example if my
+heart is in my upper thoracic cavity
+
+424
+00:11:10,150 --> 00:11:10,160
+heart is in my upper thoracic cavity
+ 
+
+425
+00:11:10,160 --> 00:11:12,350
+heart is in my upper thoracic cavity
+your heart is connected to your kidney
+
+426
+00:11:12,350 --> 00:11:12,360
+your heart is connected to your kidney
+ 
+
+427
+00:11:12,360 --> 00:11:14,870
+your heart is connected to your kidney
+system it's part of that and so you you
+
+428
+00:11:14,870 --> 00:11:14,880
+system it's part of that and so you you
+ 
+
+429
+00:11:14,880 --> 00:11:17,350
+system it's part of that and so you you
+have you have to expand what you what
+
+430
+00:11:17,350 --> 00:11:17,360
+have you have to expand what you what
+ 
+
+431
+00:11:17,360 --> 00:11:20,870
+have you have to expand what you what
+what I mean by your upper body it's not
+
+432
+00:11:20,870 --> 00:11:20,880
+what I mean by your upper body it's not
+ 
+
+433
+00:11:20,880 --> 00:11:23,310
+what I mean by your upper body it's not
+so upper
+
+434
+00:11:23,310 --> 00:11:23,320
+so upper
+ 
+
+435
+00:11:23,320 --> 00:11:26,150
+so upper
+okay but this is how you will get
+
+436
+00:11:26,150 --> 00:11:26,160
+okay but this is how you will get
+ 
+
+437
+00:11:26,160 --> 00:11:28,430
+okay but this is how you will get
+eventually your autoimmune disorders
+
+438
+00:11:28,430 --> 00:11:28,440
+eventually your autoimmune disorders
+ 
+
+439
+00:11:28,440 --> 00:11:31,110
+eventually your autoimmune disorders
+which nobody's recognizing anymore it's
+
+440
+00:11:31,110 --> 00:11:31,120
+which nobody's recognizing anymore it's
+ 
+
+441
+00:11:31,120 --> 00:11:33,190
+which nobody's recognizing anymore it's
+I it's hard to find someone that doesn't
+
+442
+00:11:33,190 --> 00:11:33,200
+I it's hard to find someone that doesn't
+ 
+
+443
+00:11:33,200 --> 00:11:37,269
+I it's hard to find someone that doesn't
+have an autoimmune disorder nowadays or
+
+444
+00:11:37,269 --> 00:11:37,279
+have an autoimmune disorder nowadays or
+ 
+
+445
+00:11:37,279 --> 00:11:40,389
+have an autoimmune disorder nowadays or
+and or a digestive disorder of one kind
+
+446
+00:11:40,389 --> 00:11:40,399
+and or a digestive disorder of one kind
+ 
+
+447
+00:11:40,399 --> 00:11:44,430
+and or a digestive disorder of one kind
+or another it's like
+
+448
+00:11:44,430 --> 00:11:44,440
+
+ 
+
+449
+00:11:44,440 --> 00:11:48,550
+
+normal in the in the same way as we
+
+450
+00:11:48,550 --> 00:11:48,560
+normal in the in the same way as we
+ 
+
+451
+00:11:48,560 --> 00:11:52,389
+normal in the in the same way as we
+see anxiety and depression is like it's
+
+452
+00:11:52,389 --> 00:11:52,399
+see anxiety and depression is like it's
+ 
+
+453
+00:11:52,399 --> 00:11:54,509
+see anxiety and depression is like it's
+hard to find someone like that doesn't
+
+454
+00:11:54,509 --> 00:11:54,519
+hard to find someone like that doesn't
+ 
+
+455
+00:11:54,519 --> 00:11:56,870
+hard to find someone like that doesn't
+have it nowadays okay and it gets worse
+
+456
+00:11:56,870 --> 00:11:56,880
+have it nowadays okay and it gets worse
+ 
+
+457
+00:11:56,880 --> 00:12:01,150
+have it nowadays okay and it gets worse
+and worse okay because our not doing the
+
+458
+00:12:01,150 --> 00:12:01,160
+and worse okay because our not doing the
+ 
+
+459
+00:12:01,160 --> 00:12:03,389
+and worse okay because our not doing the
+four disciplines not doing the Bedrock
+
+460
+00:12:03,389 --> 00:12:03,399
+four disciplines not doing the Bedrock
+ 
+
+461
+00:12:03,399 --> 00:12:06,870
+four disciplines not doing the Bedrock
+practices we create these Yin blockages
+
+462
+00:12:06,870 --> 00:12:06,880
+practices we create these Yin blockages
+ 
+
+463
+00:12:06,880 --> 00:12:10,430
+practices we create these Yin blockages
+in our body and the heaven Chi is now
+
+464
+00:12:10,430 --> 00:12:10,440
+in our body and the heaven Chi is now
+ 
+
+465
+00:12:10,440 --> 00:12:14,310
+in our body and the heaven Chi is now
+blocked and it becomes
+
+466
+00:12:14,310 --> 00:12:14,320
+blocked and it becomes
+ 
+
+467
+00:12:14,320 --> 00:12:19,110
+blocked and it becomes
+toxic so you have to do you have to uh
+
+468
+00:12:19,110 --> 00:12:19,120
+toxic so you have to do you have to uh
+ 
+
+469
+00:12:19,120 --> 00:12:21,430
+toxic so you have to do you have to uh
+live a way that does not block the
+
+470
+00:12:21,430 --> 00:12:21,440
+live a way that does not block the
+ 
+
+471
+00:12:21,440 --> 00:12:23,389
+live a way that does not block the
+heaven shei and it can do what it needs
+
+472
+00:12:23,389 --> 00:12:23,399
+heaven shei and it can do what it needs
+ 
+
+473
+00:12:23,399 --> 00:12:26,389
+heaven shei and it can do what it needs
+to do what is that
+
+474
+00:12:26,389 --> 00:12:26,399
+to do what is that
+ 
+
+475
+00:12:26,399 --> 00:12:30,790
+to do what is that
+descend okay it must
+
+476
+00:12:30,790 --> 00:12:30,800
+descend okay it must
+ 
+
+477
+00:12:30,800 --> 00:12:32,310
+descend okay it must
+descend
+
+478
+00:12:32,310 --> 00:12:32,320
+descend
+ 
+
+479
+00:12:32,320 --> 00:12:37,509
+descend
+cannot stay still it must descend and it
+
+480
+00:12:37,509 --> 00:12:37,519
+cannot stay still it must descend and it
+ 
+
+481
+00:12:37,519 --> 00:12:39,910
+cannot stay still it must descend and it
+must
+
+482
+00:12:39,910 --> 00:12:39,920
+must
+ 
+
+483
+00:12:39,920 --> 00:12:43,509
+must
+convert it it is the the order of
+
+484
+00:12:43,509 --> 00:12:43,519
+convert it it is the the order of
+ 
+
+485
+00:12:43,519 --> 00:12:45,350
+convert it it is the the order of
+it
+
+486
+00:12:45,350 --> 00:12:45,360
+it
+ 
+
+487
+00:12:45,360 --> 00:12:50,389
+it
+so God must the Thunder God must kiss
+
+488
+00:12:50,389 --> 00:12:50,399
+so God must the Thunder God must kiss
+ 
+
+489
+00:12:50,399 --> 00:12:51,670
+so God must the Thunder God must kiss
+the mother
+
+490
+00:12:51,670 --> 00:12:51,680
+the mother
+ 
+
+491
+00:12:51,680 --> 00:12:54,670
+the mother
+earth in mythological terms and you're
+
+492
+00:12:54,670 --> 00:12:54,680
+earth in mythological terms and you're
+ 
+
+493
+00:12:54,680 --> 00:12:56,350
+earth in mythological terms and you're
+keeping them
+
+494
+00:12:56,350 --> 00:12:56,360
+keeping them
+ 
+
+495
+00:12:56,360 --> 00:13:02,069
+keeping them
+apart and now he's pissed
+
+496
+00:13:02,069 --> 00:13:02,079
+
+ 
+
+497
+00:13:02,079 --> 00:13:04,550
+
+so we're going to do some
+
+498
+00:13:04,550 --> 00:13:04,560
+so we're going to do some
+ 
+
+499
+00:13:04,560 --> 00:13:07,550
+so we're going to do some
+stuff that you should try to do whenever
+
+500
+00:13:07,550 --> 00:13:07,560
+stuff that you should try to do whenever
+ 
+
+501
+00:13:07,560 --> 00:13:10,230
+stuff that you should try to do whenever
+you feel agitated and I gave you the
+
+502
+00:13:10,230 --> 00:13:10,240
+you feel agitated and I gave you the
+ 
+
+503
+00:13:10,240 --> 00:13:12,910
+you feel agitated and I gave you the
+symptomology for that okay your
+
+504
+00:13:12,910 --> 00:13:12,920
+symptomology for that okay your
+ 
+
+505
+00:13:12,920 --> 00:13:17,150
+symptomology for that okay your
+scattered brain too is in there um your
+
+506
+00:13:17,150 --> 00:13:17,160
+scattered brain too is in there um your
+ 
+
+507
+00:13:17,160 --> 00:13:20,150
+scattered brain too is in there um your
+memory issues your vision all kinds of
+
+508
+00:13:20,150 --> 00:13:20,160
+memory issues your vision all kinds of
+ 
+
+509
+00:13:20,160 --> 00:13:21,750
+memory issues your vision all kinds of
+stuff
+
+510
+00:13:21,750 --> 00:13:21,760
+stuff
+ 
+
+511
+00:13:21,760 --> 00:13:25,910
+stuff
+okay um your Mobility your
+
+512
+00:13:25,910 --> 00:13:25,920
+okay um your Mobility your
+ 
+
+513
+00:13:25,920 --> 00:13:28,629
+okay um your Mobility your
+suppleness uh your trigger ability all
+
+514
+00:13:28,629 --> 00:13:28,639
+suppleness uh your trigger ability all
+ 
+
+515
+00:13:28,639 --> 00:13:32,269
+suppleness uh your trigger ability all
+that is all this okay all right so we
+
+516
+00:13:32,269 --> 00:13:32,279
+that is all this okay all right so we
+ 
+
+517
+00:13:32,279 --> 00:13:37,310
+that is all this okay all right so we
+have to bring down this Yi we have to in
+
+518
+00:13:37,310 --> 00:13:37,320
+have to bring down this Yi we have to in
+ 
+
+519
+00:13:37,320 --> 00:13:40,790
+have to bring down this Yi we have to in
+a way as an analogy you have to break
+
+520
+00:13:40,790 --> 00:13:40,800
+a way as an analogy you have to break
+ 
+
+521
+00:13:40,800 --> 00:13:44,350
+a way as an analogy you have to break
+the dam you have uh so that it can flow
+
+522
+00:13:44,350 --> 00:13:44,360
+the dam you have uh so that it can flow
+ 
+
+523
+00:13:44,360 --> 00:13:47,350
+the dam you have uh so that it can flow
+the water can flow okay all right so
+
+524
+00:13:47,350 --> 00:13:47,360
+the water can flow okay all right so
+ 
+
+525
+00:13:47,360 --> 00:13:50,269
+the water can flow okay all right so
+let's uh stand
+
+526
+00:13:50,269 --> 00:13:50,279
+let's uh stand
+ 
+
+527
+00:13:50,279 --> 00:13:54,030
+let's uh stand
+up and as I said you do this in every
+
+528
+00:13:54,030 --> 00:13:54,040
+up and as I said you do this in every
+ 
+
+529
+00:13:54,040 --> 00:13:56,069
+up and as I said you do this in every
+single iido
+
+530
+00:13:56,069 --> 00:13:56,079
+single iido
+ 
+
+531
+00:13:56,079 --> 00:13:59,350
+single iido
+technique just what you do okay so in
+
+532
+00:13:59,350 --> 00:13:59,360
+technique just what you do okay so in
+ 
+
+533
+00:13:59,360 --> 00:14:01,910
+technique just what you do okay so in
+the first class and the ne was a class
+
+534
+00:14:01,910 --> 00:14:01,920
+the first class and the ne was a class
+ 
+
+535
+00:14:01,920 --> 00:14:04,269
+the first class and the ne was a class
+you were doing you had to have done it
+
+536
+00:14:04,269 --> 00:14:04,279
+you were doing you had to have done it
+ 
+
+537
+00:14:04,279 --> 00:14:06,389
+you were doing you had to have done it
+to get the guy up to your chest there's
+
+538
+00:14:06,389 --> 00:14:06,399
+to get the guy up to your chest there's
+ 
+
+539
+00:14:06,399 --> 00:14:09,189
+to get the guy up to your chest there's
+just absolutely no way as you could see
+
+540
+00:14:09,189 --> 00:14:09,199
+just absolutely no way as you could see
+ 
+
+541
+00:14:09,199 --> 00:14:10,949
+just absolutely no way as you could see
+we had people that had no chance of
+
+542
+00:14:10,949 --> 00:14:10,959
+we had people that had no chance of
+ 
+
+543
+00:14:10,959 --> 00:14:12,829
+we had people that had no chance of
+getting that person up to the chest
+
+544
+00:14:12,829 --> 00:14:12,839
+getting that person up to the chest
+ 
+
+545
+00:14:12,839 --> 00:14:15,870
+getting that person up to the chest
+versus those that could get up get that
+
+546
+00:14:15,870 --> 00:14:15,880
+versus those that could get up get that
+ 
+
+547
+00:14:15,880 --> 00:14:18,990
+versus those that could get up get that
+mass up to the chest it was effortless
+
+548
+00:14:18,990 --> 00:14:19,000
+mass up to the chest it was effortless
+ 
+
+549
+00:14:19,000 --> 00:14:22,389
+mass up to the chest it was effortless
+right it was effortless oh but to others
+
+550
+00:14:22,389 --> 00:14:22,399
+right it was effortless oh but to others
+ 
+
+551
+00:14:22,399 --> 00:14:25,870
+right it was effortless oh but to others
+seemed impossible okay all right so
+
+552
+00:14:25,870 --> 00:14:25,880
+seemed impossible okay all right so
+ 
+
+553
+00:14:25,880 --> 00:14:29,710
+seemed impossible okay all right so
+basically you start with the standing
+
+554
+00:14:29,710 --> 00:14:29,720
+basically you start with the standing
+ 
+
+555
+00:14:29,720 --> 00:14:34,629
+basically you start with the standing
+drill of the I and C you set okay so get
+
+556
+00:14:34,629 --> 00:14:34,639
+drill of the I and C you set okay so get
+ 
+
+557
+00:14:34,639 --> 00:14:35,430
+drill of the I and C you set okay so get
+your
+
+558
+00:14:35,430 --> 00:14:35,440
+your
+ 
+
+559
+00:14:35,440 --> 00:14:38,269
+your
+feet under your
+
+560
+00:14:38,269 --> 00:14:38,279
+feet under your
+ 
+
+561
+00:14:38,279 --> 00:14:41,949
+feet under your
+hips shift your
+
+562
+00:14:41,949 --> 00:14:41,959
+
+ 
+
+563
+00:14:41,959 --> 00:14:45,110
+
+weight to your midfoot vector on the
+
+564
+00:14:45,110 --> 00:14:45,120
+weight to your midfoot vector on the
+ 
+
+565
+00:14:45,120 --> 00:14:46,710
+weight to your midfoot vector on the
+midfoot
+
+566
+00:14:46,710 --> 00:14:46,720
+midfoot
+ 
+
+567
+00:14:46,720 --> 00:14:49,629
+midfoot
+okay and first you have to release the
+
+568
+00:14:49,629 --> 00:14:49,639
+okay and first you have to release the
+ 
+
+569
+00:14:49,639 --> 00:14:52,550
+okay and first you have to release the
+tension now some can't do this standing
+
+570
+00:14:52,550 --> 00:14:52,560
+tension now some can't do this standing
+ 
+
+571
+00:14:52,560 --> 00:14:53,590
+tension now some can't do this standing
+they just
+
+572
+00:14:53,590 --> 00:14:53,600
+they just
+ 
+
+573
+00:14:53,600 --> 00:14:56,629
+they just
+can't and so we have the laying down
+
+574
+00:14:56,629 --> 00:14:56,639
+can't and so we have the laying down
+ 
+
+575
+00:14:56,639 --> 00:15:01,550
+can't and so we have the laying down
+corpse pose but that is is just a drill
+
+576
+00:15:01,550 --> 00:15:01,560
+corpse pose but that is is just a drill
+ 
+
+577
+00:15:01,560 --> 00:15:04,189
+corpse pose but that is is just a drill
+that you can release muscle tension
+
+578
+00:15:04,189 --> 00:15:04,199
+that you can release muscle tension
+ 
+
+579
+00:15:04,199 --> 00:15:07,910
+that you can release muscle tension
+on that it does not work as well for
+
+580
+00:15:07,910 --> 00:15:07,920
+on that it does not work as well for
+ 
+
+581
+00:15:07,920 --> 00:15:12,670
+on that it does not work as well for
+allowing the heaven aspect to lower do
+
+582
+00:15:12,670 --> 00:15:12,680
+allowing the heaven aspect to lower do
+ 
+
+583
+00:15:12,680 --> 00:15:16,189
+allowing the heaven aspect to lower do
+you get that because it lowers down your
+
+584
+00:15:16,189 --> 00:15:16,199
+you get that because it lowers down your
+ 
+
+585
+00:15:16,199 --> 00:15:19,470
+you get that because it lowers down your
+spine it does not lower perpendicular to
+
+586
+00:15:19,470 --> 00:15:19,480
+spine it does not lower perpendicular to
+ 
+
+587
+00:15:19,480 --> 00:15:22,150
+spine it does not lower perpendicular to
+the Earth so when you're laying
+
+588
+00:15:22,150 --> 00:15:22,160
+the Earth so when you're laying
+ 
+
+589
+00:15:22,160 --> 00:15:26,389
+the Earth so when you're laying
+down it's harder to allow for gravity
+
+590
+00:15:26,389 --> 00:15:26,399
+down it's harder to allow for gravity
+ 
+
+591
+00:15:26,399 --> 00:15:29,189
+down it's harder to allow for gravity
+and the natural center of gravity to
+
+592
+00:15:29,189 --> 00:15:29,199
+and the natural center of gravity to
+ 
+
+593
+00:15:29,199 --> 00:15:32,269
+and the natural center of gravity to
+pull or tug on this Heaven Chi or this
+
+594
+00:15:32,269 --> 00:15:32,279
+pull or tug on this Heaven Chi or this
+ 
+
+595
+00:15:32,279 --> 00:15:35,189
+pull or tug on this Heaven Chi or this
+Heaven aspect okay but you might I'm
+
+596
+00:15:35,189 --> 00:15:35,199
+Heaven aspect okay but you might I'm
+ 
+
+597
+00:15:35,199 --> 00:15:38,870
+Heaven aspect okay but you might I'm
+just so tense okay lay down and work on
+
+598
+00:15:38,870 --> 00:15:38,880
+just so tense okay lay down and work on
+ 
+
+599
+00:15:38,880 --> 00:15:41,230
+just so tense okay lay down and work on
+releasing muscle tension okay and that
+
+600
+00:15:41,230 --> 00:15:41,240
+releasing muscle tension okay and that
+ 
+
+601
+00:15:41,240 --> 00:15:45,189
+releasing muscle tension okay and that
+is assumed in this skill so I start to
+
+602
+00:15:45,189 --> 00:15:45,199
+is assumed in this skill so I start to
+ 
+
+603
+00:15:45,199 --> 00:15:48,110
+is assumed in this skill so I start to
+drop if we remember these
+
+604
+00:15:48,110 --> 00:15:48,120
+drop if we remember these
+ 
+
+605
+00:15:48,120 --> 00:15:52,670
+drop if we remember these
+drills okay I start scanning first for
+
+606
+00:15:52,670 --> 00:15:52,680
+drills okay I start scanning first for
+ 
+
+607
+00:15:52,680 --> 00:15:53,790
+drills okay I start scanning first for
+all my
+
+608
+00:15:53,790 --> 00:15:53,800
+all my
+ 
+
+609
+00:15:53,800 --> 00:15:56,590
+all my
+tension as I'm doing this I should feel
+
+610
+00:15:56,590 --> 00:15:56,600
+tension as I'm doing this I should feel
+ 
+
+611
+00:15:56,600 --> 00:15:57,910
+tension as I'm doing this I should feel
+my shoulders
+
+612
+00:15:57,910 --> 00:15:57,920
+my shoulders
+ 
+
+613
+00:15:57,920 --> 00:16:01,829
+my shoulders
+drop I should feel my throat
+
+614
+00:16:01,829 --> 00:16:01,839
+drop I should feel my throat
+ 
+
+615
+00:16:01,839 --> 00:16:07,309
+drop I should feel my throat
+release I should feel this sternum
+
+616
+00:16:07,309 --> 00:16:07,319
+release I should feel this sternum
+ 
+
+617
+00:16:07,319 --> 00:16:10,030
+release I should feel this sternum
+drop once I feel it
+
+618
+00:16:10,030 --> 00:16:10,040
+drop once I feel it
+ 
+
+619
+00:16:10,040 --> 00:16:14,150
+drop once I feel it
+drop I'm going to start putting my
+
+620
+00:16:14,150 --> 00:16:14,160
+drop I'm going to start putting my
+ 
+
+621
+00:16:14,160 --> 00:16:16,150
+drop I'm going to start putting my
+shoulders my
+
+622
+00:16:16,150 --> 00:16:16,160
+shoulders my
+ 
+
+623
+00:16:16,160 --> 00:16:19,670
+shoulders my
+elbows and my
+
+624
+00:16:19,670 --> 00:16:19,680
+elbows and my
+ 
+
+625
+00:16:19,680 --> 00:16:22,389
+elbows and my
+hands at the at the midfoot so I'm
+
+626
+00:16:22,389 --> 00:16:22,399
+hands at the at the midfoot so I'm
+ 
+
+627
+00:16:22,399 --> 00:16:25,309
+hands at the at the midfoot so I'm
+vectoring that weight of those things
+
+628
+00:16:25,309 --> 00:16:25,319
+vectoring that weight of those things
+ 
+
+629
+00:16:25,319 --> 00:16:29,430
+vectoring that weight of those things
+okay it's no different than his push
+
+630
+00:16:29,430 --> 00:16:29,440
+okay it's no different than his push
+ 
+
+631
+00:16:29,440 --> 00:16:32,749
+okay it's no different than his push
+that he's pushing here I'm going to let
+
+632
+00:16:32,749 --> 00:16:32,759
+that he's pushing here I'm going to let
+ 
+
+633
+00:16:32,759 --> 00:16:37,590
+that he's pushing here I'm going to let
+it drop okay this this is a young aspect
+
+634
+00:16:37,590 --> 00:16:37,600
+it drop okay this this is a young aspect
+ 
+
+635
+00:16:37,600 --> 00:16:41,309
+it drop okay this this is a young aspect
+do you see and I'm going to make it drop
+
+636
+00:16:41,309 --> 00:16:41,319
+do you see and I'm going to make it drop
+ 
+
+637
+00:16:41,319 --> 00:16:45,550
+do you see and I'm going to make it drop
+all right I am letting the gravitational
+
+638
+00:16:45,550 --> 00:16:45,560
+all right I am letting the gravitational
+ 
+
+639
+00:16:45,560 --> 00:16:48,110
+all right I am letting the gravitational
+pull of my
+
+640
+00:16:48,110 --> 00:16:48,120
+pull of my
+ 
+
+641
+00:16:48,120 --> 00:16:53,030
+pull of my
+Mass is a young aspect and I am going to
+
+642
+00:16:53,030 --> 00:16:53,040
+Mass is a young aspect and I am going to
+ 
+
+643
+00:16:53,040 --> 00:16:56,670
+Mass is a young aspect and I am going to
+feel as I felt his push on my midfoot
+
+644
+00:16:56,670 --> 00:16:56,680
+feel as I felt his push on my midfoot
+ 
+
+645
+00:16:56,680 --> 00:16:59,189
+feel as I felt his push on my midfoot
+Vector I'm going to feel the weight of
+
+646
+00:16:59,189 --> 00:16:59,199
+Vector I'm going to feel the weight of
+ 
+
+647
+00:16:59,199 --> 00:17:01,749
+Vector I'm going to feel the weight of
+my shoulders my
+
+648
+00:17:01,749 --> 00:17:01,759
+my shoulders my
+ 
+
+649
+00:17:01,759 --> 00:17:04,110
+my shoulders my
+elbows and my
+
+650
+00:17:04,110 --> 00:17:04,120
+elbows and my
+ 
+
+651
+00:17:04,120 --> 00:17:06,110
+elbows and my
+hands on the
+
+652
+00:17:06,110 --> 00:17:06,120
+hands on the
+ 
+
+653
+00:17:06,120 --> 00:17:09,669
+hands on the
+midfoot that young aspect is being
+
+654
+00:17:09,669 --> 00:17:09,679
+midfoot that young aspect is being
+ 
+
+655
+00:17:09,679 --> 00:17:14,429
+midfoot that young aspect is being
+midfoot Vector okay as I get to there
+
+656
+00:17:14,429 --> 00:17:14,439
+midfoot Vector okay as I get to there
+ 
+
+657
+00:17:14,439 --> 00:17:18,029
+midfoot Vector okay as I get to there
+I'm going to open L gong so I'm going to
+
+658
+00:17:18,029 --> 00:17:18,039
+I'm going to open L gong so I'm going to
+ 
+
+659
+00:17:18,039 --> 00:17:20,429
+I'm going to open L gong so I'm going to
+form that little cup in my
+
+660
+00:17:20,429 --> 00:17:20,439
+form that little cup in my
+ 
+
+661
+00:17:20,439 --> 00:17:23,549
+form that little cup in my
+palm you should feel some charge along
+
+662
+00:17:23,549 --> 00:17:23,559
+palm you should feel some charge along
+ 
+
+663
+00:17:23,559 --> 00:17:24,549
+palm you should feel some charge along
+the middle
+
+664
+00:17:24,549 --> 00:17:24,559
+the middle
+ 
+
+665
+00:17:24,559 --> 00:17:27,830
+the middle
+finger
+
+666
+00:17:27,830 --> 00:17:27,840
+
+ 
+
+667
+00:17:27,840 --> 00:17:30,350
+
+okay
+
+668
+00:17:30,350 --> 00:17:30,360
+okay
+ 
+
+669
+00:17:30,360 --> 00:17:32,430
+okay
+drop everything you can close your eyes
+
+670
+00:17:32,430 --> 00:17:32,440
+drop everything you can close your eyes
+ 
+
+671
+00:17:32,440 --> 00:17:33,710
+drop everything you can close your eyes
+if you
+
+672
+00:17:33,710 --> 00:17:33,720
+if you
+ 
+
+673
+00:17:33,720 --> 00:17:37,150
+if you
+want feel my elbow my shoulder weight
+
+674
+00:17:37,150 --> 00:17:37,160
+want feel my elbow my shoulder weight
+ 
+
+675
+00:17:37,160 --> 00:17:38,510
+want feel my elbow my shoulder weight
+and my
+
+676
+00:17:38,510 --> 00:17:38,520
+and my
+ 
+
+677
+00:17:38,520 --> 00:17:42,110
+and my
+hands on that midfoot and once I feel
+
+678
+00:17:42,110 --> 00:17:42,120
+hands on that midfoot and once I feel
+ 
+
+679
+00:17:42,120 --> 00:17:46,110
+hands on that midfoot and once I feel
+the weight of those
+
+680
+00:17:46,110 --> 00:17:46,120
+
+ 
+
+681
+00:17:46,120 --> 00:17:51,750
+
+things I should start to
+
+682
+00:17:51,750 --> 00:17:51,760
+
+ 
+
+683
+00:17:51,760 --> 00:17:56,110
+
+feel like thickness thick air around my
+
+684
+00:17:56,110 --> 00:17:56,120
+feel like thickness thick air around my
+ 
+
+685
+00:17:56,120 --> 00:17:59,909
+feel like thickness thick air around my
+hands tingling a CH charge
+
+686
+00:17:59,909 --> 00:17:59,919
+hands tingling a CH charge
+ 
+
+687
+00:17:59,919 --> 00:18:06,870
+hands tingling a CH charge
+like okay and I ignore that and I keep
+
+688
+00:18:06,870 --> 00:18:06,880
+like okay and I ignore that and I keep
+ 
+
+689
+00:18:06,880 --> 00:18:09,149
+like okay and I ignore that and I keep
+releasing muscle
+
+690
+00:18:09,149 --> 00:18:09,159
+releasing muscle
+ 
+
+691
+00:18:09,159 --> 00:18:17,390
+releasing muscle
+tension all the way through my
+
+692
+00:18:17,390 --> 00:18:17,400
+
+ 
+
+693
+00:18:17,400 --> 00:18:20,470
+
+body Never Letting Go of any of the
+
+694
+00:18:20,470 --> 00:18:20,480
+body Never Letting Go of any of the
+ 
+
+695
+00:18:20,480 --> 00:18:22,950
+body Never Letting Go of any of the
+elements that I just gave
+
+696
+00:18:22,950 --> 00:18:22,960
+elements that I just gave
+ 
+
+697
+00:18:22,960 --> 00:18:26,710
+elements that I just gave
+you okay now
+
+698
+00:18:26,710 --> 00:18:26,720
+
+ 
+
+699
+00:18:26,720 --> 00:18:29,950
+
+because the chi fall follows the
+
+700
+00:18:29,950 --> 00:18:29,960
+because the chi fall follows the
+ 
+
+701
+00:18:29,960 --> 00:18:33,789
+because the chi fall follows the
+mudra I'm going to use my hands okay and
+
+702
+00:18:33,789 --> 00:18:33,799
+mudra I'm going to use my hands okay and
+ 
+
+703
+00:18:33,799 --> 00:18:36,750
+mudra I'm going to use my hands okay and
+I'm going to repeat the repetitions of
+
+704
+00:18:36,750 --> 00:18:36,760
+I'm going to repeat the repetitions of
+ 
+
+705
+00:18:36,760 --> 00:18:40,270
+I'm going to repeat the repetitions of
+dropping it of letting the heaven aspect
+
+706
+00:18:40,270 --> 00:18:40,280
+dropping it of letting the heaven aspect
+ 
+
+707
+00:18:40,280 --> 00:18:43,430
+dropping it of letting the heaven aspect
+descend through my body okay so I'm
+
+708
+00:18:43,430 --> 00:18:43,440
+descend through my body okay so I'm
+ 
+
+709
+00:18:43,440 --> 00:18:47,110
+descend through my body okay so I'm
+going to turn my hands up and I to bring
+
+710
+00:18:47,110 --> 00:18:47,120
+going to turn my hands up and I to bring
+ 
+
+711
+00:18:47,120 --> 00:18:53,510
+going to turn my hands up and I to bring
+the energy the T aspect up inward
+
+712
+00:18:53,510 --> 00:18:53,520
+
+ 
+
+713
+00:18:53,520 --> 00:18:56,510
+
+spiral down from
+
+714
+00:18:56,510 --> 00:18:56,520
+spiral down from
+ 
+
+715
+00:18:56,520 --> 00:18:59,990
+spiral down from
+The Middle tand
+
+716
+00:18:59,990 --> 00:19:00,000
+The Middle tand
+ 
+
+717
+00:19:00,000 --> 00:19:03,710
+The Middle tand
+and I let it
+
+718
+00:19:03,710 --> 00:19:03,720
+
+ 
+
+719
+00:19:03,720 --> 00:19:07,510
+
+drop till I come back to waiting my feet
+
+720
+00:19:07,510 --> 00:19:07,520
+drop till I come back to waiting my feet
+ 
+
+721
+00:19:07,520 --> 00:19:10,190
+drop till I come back to waiting my feet
+hands elbow I'm sorry my hands elbow and
+
+722
+00:19:10,190 --> 00:19:10,200
+hands elbow I'm sorry my hands elbow and
+ 
+
+723
+00:19:10,200 --> 00:19:13,470
+hands elbow I'm sorry my hands elbow and
+shoulders on my mid fooot then I do it
+
+724
+00:19:13,470 --> 00:19:13,480
+shoulders on my mid fooot then I do it
+ 
+
+725
+00:19:13,480 --> 00:19:15,750
+shoulders on my mid fooot then I do it
+again our
+
+726
+00:19:15,750 --> 00:19:15,760
+again our
+ 
+
+727
+00:19:15,760 --> 00:19:19,350
+again our
+spiral up you should feel that L gong
+
+728
+00:19:19,350 --> 00:19:19,360
+spiral up you should feel that L gong
+ 
+
+729
+00:19:19,360 --> 00:19:20,350
+spiral up you should feel that L gong
+get
+
+730
+00:19:20,350 --> 00:19:20,360
+get
+ 
+
+731
+00:19:20,360 --> 00:19:24,310
+get
+activated the inward
+
+732
+00:19:24,310 --> 00:19:24,320
+
+ 
+
+733
+00:19:24,320 --> 00:19:26,870
+
+spiral middle
+
+734
+00:19:26,870 --> 00:19:26,880
+spiral middle
+ 
+
+735
+00:19:26,880 --> 00:19:31,390
+spiral middle
+tanden start to Exhale exhale
+
+736
+00:19:31,390 --> 00:19:31,400
+
+ 
+
+737
+00:19:31,400 --> 00:19:34,029
+
+now start to feel your weight of your
+
+738
+00:19:34,029 --> 00:19:34,039
+now start to feel your weight of your
+ 
+
+739
+00:19:34,039 --> 00:19:37,710
+now start to feel your weight of your
+shoulders elbows and hands on your feet
+
+740
+00:19:37,710 --> 00:19:37,720
+shoulders elbows and hands on your feet
+ 
+
+741
+00:19:37,720 --> 00:19:38,710
+shoulders elbows and hands on your feet
+let it
+
+742
+00:19:38,710 --> 00:19:38,720
+let it
+ 
+
+743
+00:19:38,720 --> 00:19:43,110
+let it
+settle okay now I add my raising of my
+
+744
+00:19:43,110 --> 00:19:43,120
+settle okay now I add my raising of my
+ 
+
+745
+00:19:43,120 --> 00:19:47,430
+settle okay now I add my raising of my
+whole center of gravity so I come up I
+
+746
+00:19:47,430 --> 00:19:47,440
+whole center of gravity so I come up I
+ 
+
+747
+00:19:47,440 --> 00:19:49,830
+whole center of gravity so I come up I
+straighten my
+
+748
+00:19:49,830 --> 00:19:49,840
+straighten my
+ 
+
+749
+00:19:49,840 --> 00:19:51,669
+straighten my
+knees
+
+750
+00:19:51,669 --> 00:19:51,679
+knees
+ 
+
+751
+00:19:51,679 --> 00:19:55,029
+knees
+inhaling exhaling dropping my knees back
+
+752
+00:19:55,029 --> 00:19:55,039
+inhaling exhaling dropping my knees back
+ 
+
+753
+00:19:55,039 --> 00:19:57,630
+inhaling exhaling dropping my knees back
+to that wui
+
+754
+00:19:57,630 --> 00:19:57,640
+to that wui
+ 
+
+755
+00:19:57,640 --> 00:19:59,990
+to that wui
+stance
+
+756
+00:19:59,990 --> 00:20:00,000
+stance
+ 
+
+757
+00:20:00,000 --> 00:20:18,909
+stance
+exhaling inhaling
+
+758
+00:20:18,909 --> 00:20:18,919
+
+ 
+
+759
+00:20:18,919 --> 00:20:22,430
+
+up in through the
+
+760
+00:20:22,430 --> 00:20:22,440
+up in through the
+ 
+
+761
+00:20:22,440 --> 00:20:27,630
+up in through the
+nose out through the
+
+762
+00:20:27,630 --> 00:20:27,640
+
+ 
+
+763
+00:20:27,640 --> 00:20:49,390
+
+mouth
+
+764
+00:20:49,390 --> 00:20:49,400
+
+ 
+
+765
+00:20:49,400 --> 00:20:52,909
+
+and you you repeat that repeat it and
+
+766
+00:20:52,909 --> 00:20:52,919
+and you you repeat that repeat it and
+ 
+
+767
+00:20:52,919 --> 00:20:57,430
+and you you repeat that repeat it and
+what you're doing is a rep of drop drop
+
+768
+00:20:57,430 --> 00:20:57,440
+what you're doing is a rep of drop drop
+ 
+
+769
+00:20:57,440 --> 00:20:59,149
+what you're doing is a rep of drop drop
+the Chek drop the Chek
+
+770
+00:20:59,149 --> 00:20:59,159
+the Chek drop the Chek
+ 
+
+771
+00:20:59,159 --> 00:21:01,789
+the Chek drop the Chek
+which you do right away he he grabs I
+
+772
+00:21:01,789 --> 00:21:01,799
+which you do right away he he grabs I
+ 
+
+773
+00:21:01,799 --> 00:21:06,029
+which you do right away he he grabs I
+drop I drop it okay right away he he uh
+
+774
+00:21:06,029 --> 00:21:06,039
+drop I drop it okay right away he he uh
+ 
+
+775
+00:21:06,039 --> 00:21:09,070
+drop I drop it okay right away he he uh
+grabs up high whatever same thing you
+
+776
+00:21:09,070 --> 00:21:09,080
+grabs up high whatever same thing you
+ 
+
+777
+00:21:09,080 --> 00:21:11,230
+grabs up high whatever same thing you
+feel it we're we're we're stuck on that
+
+778
+00:21:11,230 --> 00:21:11,240
+feel it we're we're we're stuck on that
+ 
+
+779
+00:21:11,240 --> 00:21:15,950
+feel it we're we're we're stuck on that
+same thing okay my young aspect his
+
+780
+00:21:15,950 --> 00:21:15,960
+same thing okay my young aspect his
+ 
+
+781
+00:21:15,960 --> 00:21:18,669
+same thing okay my young aspect his
+young aspect P
+
+782
+00:21:18,669 --> 00:21:18,679
+young aspect P
+ 
+
+783
+00:21:18,679 --> 00:21:21,269
+young aspect P
+drops as I ground Vector that's what
+
+784
+00:21:21,269 --> 00:21:21,279
+drops as I ground Vector that's what
+ 
+
+785
+00:21:21,279 --> 00:21:24,070
+drops as I ground Vector that's what
+happens okay and I have to learn how to
+
+786
+00:21:24,070 --> 00:21:24,080
+happens okay and I have to learn how to
+ 
+
+787
+00:21:24,080 --> 00:21:27,909
+happens okay and I have to learn how to
+drop the chi aspects not just my weight
+
+788
+00:21:27,909 --> 00:21:27,919
+drop the chi aspects not just my weight
+ 
+
+789
+00:21:27,919 --> 00:21:30,390
+drop the chi aspects not just my weight
+but in the beginning we tell you ground
+
+790
+00:21:30,390 --> 00:21:30,400
+but in the beginning we tell you ground
+ 
+
+791
+00:21:30,400 --> 00:21:33,590
+but in the beginning we tell you ground
+Vector bend your knees lower your center
+
+792
+00:21:33,590 --> 00:21:33,600
+Vector bend your knees lower your center
+ 
+
+793
+00:21:33,600 --> 00:21:37,470
+Vector bend your knees lower your center
+right well we're now using those to help
+
+794
+00:21:37,470 --> 00:21:37,480
+right well we're now using those to help
+ 
+
+795
+00:21:37,480 --> 00:21:41,230
+right well we're now using those to help
+us get things to go down got it get
+
+796
+00:21:41,230 --> 00:21:41,240
+us get things to go down got it get
+ 
+
+797
+00:21:41,240 --> 00:21:44,669
+us get things to go down got it get
+things to go down so if you're doing
+
+798
+00:21:44,669 --> 00:21:44,679
+things to go down so if you're doing
+ 
+
+799
+00:21:44,679 --> 00:21:47,029
+things to go down so if you're doing
+your Bedrock
+
+800
+00:21:47,029 --> 00:21:47,039
+your Bedrock
+ 
+
+801
+00:21:47,039 --> 00:21:50,510
+your Bedrock
+practices you should do that especially
+
+802
+00:21:50,510 --> 00:21:50,520
+practices you should do that especially
+ 
+
+803
+00:21:50,520 --> 00:21:53,269
+practices you should do that especially
+if you've been blocking CH CU you're not
+
+804
+00:21:53,269 --> 00:21:53,279
+if you've been blocking CH CU you're not
+ 
+
+805
+00:21:53,279 --> 00:21:54,990
+if you've been blocking CH CU you're not
+doing your Bedrock practices or you're
+
+806
+00:21:54,990 --> 00:21:55,000
+doing your Bedrock practices or you're
+ 
+
+807
+00:21:55,000 --> 00:21:58,870
+doing your Bedrock practices or you're
+not doing your four disciplines or like
+
+808
+00:21:58,870 --> 00:21:58,880
+not doing your four disciplines or like
+ 
+
+809
+00:21:58,880 --> 00:22:01,110
+not doing your four disciplines or like
+you're you go okay I'm going to do my
+
+810
+00:22:01,110 --> 00:22:01,120
+you're you go okay I'm going to do my
+ 
+
+811
+00:22:01,120 --> 00:22:02,950
+you're you go okay I'm going to do my
+I'm start bringing in meditation or
+
+812
+00:22:02,950 --> 00:22:02,960
+I'm start bringing in meditation or
+ 
+
+813
+00:22:02,960 --> 00:22:06,549
+I'm start bringing in meditation or
+prayer into into my daily life you
+
+814
+00:22:06,549 --> 00:22:06,559
+prayer into into my daily life you
+ 
+
+815
+00:22:06,559 --> 00:22:08,549
+prayer into into my daily life you
+probably should do this before you you
+
+816
+00:22:08,549 --> 00:22:08,559
+probably should do this before you you
+ 
+
+817
+00:22:08,559 --> 00:22:11,190
+probably should do this before you you
+should not just drop down on the cushion
+
+818
+00:22:11,190 --> 00:22:11,200
+should not just drop down on the cushion
+ 
+
+819
+00:22:11,200 --> 00:22:13,269
+should not just drop down on the cushion
+or drop down on your knees it's not
+
+820
+00:22:13,269 --> 00:22:13,279
+or drop down on your knees it's not
+ 
+
+821
+00:22:13,279 --> 00:22:16,149
+or drop down on your knees it's not
+going to work okay so you have to first
+
+822
+00:22:16,149 --> 00:22:16,159
+going to work okay so you have to first
+ 
+
+823
+00:22:16,159 --> 00:22:18,470
+going to work okay so you have to first
+get this stuff down or you've been
+
+824
+00:22:18,470 --> 00:22:18,480
+get this stuff down or you've been
+ 
+
+825
+00:22:18,480 --> 00:22:20,510
+get this stuff down or you've been
+living in the world the whole time and
+
+826
+00:22:20,510 --> 00:22:20,520
+living in the world the whole time and
+ 
+
+827
+00:22:20,520 --> 00:22:23,750
+living in the world the whole time and
+you come to the dojo yeah you're G to
+
+828
+00:22:23,750 --> 00:22:23,760
+you come to the dojo yeah you're G to
+ 
+
+829
+00:22:23,760 --> 00:22:26,350
+you come to the dojo yeah you're G to
+get effed up in here so you should
+
+830
+00:22:26,350 --> 00:22:26,360
+get effed up in here so you should
+ 
+
+831
+00:22:26,360 --> 00:22:29,190
+get effed up in here so you should
+probably do th this exercise
+
+832
+00:22:29,190 --> 00:22:29,200
+probably do th this exercise
+ 
+
+833
+00:22:29,200 --> 00:22:31,510
+probably do th this exercise
+was just find a corner somewhere and do
+
+834
+00:22:31,510 --> 00:22:31,520
+was just find a corner somewhere and do
+ 
+
+835
+00:22:31,520 --> 00:22:34,269
+was just find a corner somewhere and do
+it so you're ready to train okay
+
+836
+00:22:34,269 --> 00:22:34,279
+it so you're ready to train okay
+ 
+
+837
+00:22:34,279 --> 00:22:36,190
+it so you're ready to train okay
+definitely on Saturday when we have
+
+838
+00:22:36,190 --> 00:22:36,200
+definitely on Saturday when we have
+ 
+
+839
+00:22:36,200 --> 00:22:38,190
+definitely on Saturday when we have
+zazen I wouldn't I wouldn't get on that
+
+840
+00:22:38,190 --> 00:22:38,200
+zazen I wouldn't I wouldn't get on that
+ 
+
+841
+00:22:38,200 --> 00:22:40,950
+zazen I wouldn't I wouldn't get on that
+cushion without doing this okay uh for
+
+842
+00:22:40,950 --> 00:22:40,960
+cushion without doing this okay uh for
+ 
+
+843
+00:22:40,960 --> 00:22:43,669
+cushion without doing this okay uh for
+some reason you guys just blow Friday or
+
+844
+00:22:43,669 --> 00:22:43,679
+some reason you guys just blow Friday or
+ 
+
+845
+00:22:43,679 --> 00:22:45,789
+some reason you guys just blow Friday or
+whatever or that or you blew Monday
+
+846
+00:22:45,789 --> 00:22:45,799
+whatever or that or you blew Monday
+ 
+
+847
+00:22:45,799 --> 00:22:47,909
+whatever or that or you blew Monday
+through Friday and you're just wrecked
+
+848
+00:22:47,909 --> 00:22:47,919
+through Friday and you're just wrecked
+ 
+
+849
+00:22:47,919 --> 00:22:51,190
+through Friday and you're just wrecked
+by Saturday okay you could do this if
+
+850
+00:22:51,190 --> 00:22:51,200
+by Saturday okay you could do this if
+ 
+
+851
+00:22:51,200 --> 00:22:53,390
+by Saturday okay you could do this if
+you're out there and you're working on
+
+852
+00:22:53,390 --> 00:22:53,400
+you're out there and you're working on
+ 
+
+853
+00:22:53,400 --> 00:22:55,950
+you're out there and you're working on
+your let too stiff and you think you're
+
+854
+00:22:55,950 --> 00:22:55,960
+your let too stiff and you think you're
+ 
+
+855
+00:22:55,960 --> 00:22:57,590
+your let too stiff and you think you're
+going to stretch your way out of it I
+
+856
+00:22:57,590 --> 00:22:57,600
+going to stretch your way out of it I
+ 
+
+857
+00:22:57,600 --> 00:22:59,070
+going to stretch your way out of it I
+would say no
+
+858
+00:22:59,070 --> 00:22:59,080
+would say no
+ 
+
+859
+00:22:59,080 --> 00:23:00,510
+would say no
+uh you're going to have to address the
+
+860
+00:23:00,510 --> 00:23:00,520
+uh you're going to have to address the
+ 
+
+861
+00:23:00,520 --> 00:23:03,110
+uh you're going to have to address the
+Mind aspects of that stiffness and this
+
+862
+00:23:03,110 --> 00:23:03,120
+Mind aspects of that stiffness and this
+ 
+
+863
+00:23:03,120 --> 00:23:05,269
+Mind aspects of that stiffness and this
+is how you address the Mind aspect of
+
+864
+00:23:05,269 --> 00:23:05,279
+is how you address the Mind aspect of
+ 
+
+865
+00:23:05,279 --> 00:23:07,470
+is how you address the Mind aspect of
+that stiffness so you should be doing
+
+866
+00:23:07,470 --> 00:23:07,480
+that stiffness so you should be doing
+ 
+
+867
+00:23:07,480 --> 00:23:09,269
+that stiffness so you should be doing
+this Dr I'm not going to sit here and
+
+868
+00:23:09,269 --> 00:23:09,279
+this Dr I'm not going to sit here and
+ 
+
+869
+00:23:09,279 --> 00:23:11,350
+this Dr I'm not going to sit here and
+film me doing this stuff that's not
+
+870
+00:23:11,350 --> 00:23:11,360
+film me doing this stuff that's not
+ 
+
+871
+00:23:11,360 --> 00:23:13,990
+film me doing this stuff that's not
+really important and as boring as hell
+
+872
+00:23:13,990 --> 00:23:14,000
+really important and as boring as hell
+ 
+
+873
+00:23:14,000 --> 00:23:16,510
+really important and as boring as hell
+but the mechanics are there okay how
+
+874
+00:23:16,510 --> 00:23:16,520
+but the mechanics are there okay how
+ 
+
+875
+00:23:16,520 --> 00:23:18,789
+but the mechanics are there okay how
+long should you do it for uh you should
+
+876
+00:23:18,789 --> 00:23:18,799
+long should you do it for uh you should
+ 
+
+877
+00:23:18,799 --> 00:23:22,310
+long should you do it for uh you should
+do it till you can feel that oh I don't
+
+878
+00:23:22,310 --> 00:23:22,320
+do it till you can feel that oh I don't
+ 
+
+879
+00:23:22,320 --> 00:23:25,750
+do it till you can feel that oh I don't
+I don't have that agitation anymore okay
+
+880
+00:23:25,750 --> 00:23:25,760
+I don't have that agitation anymore okay
+ 
+
+881
+00:23:25,760 --> 00:23:27,590
+I don't have that agitation anymore okay
+you're like if you're doing it right it
+
+882
+00:23:27,590 --> 00:23:27,600
+you're like if you're doing it right it
+ 
+
+883
+00:23:27,600 --> 00:23:29,190
+you're like if you're doing it right it
+doesn't take long
+
+884
+00:23:29,190 --> 00:23:29,200
+doesn't take long
+ 
+
+885
+00:23:29,200 --> 00:23:31,830
+doesn't take long
+as it doesn't take long as I said you
+
+886
+00:23:31,830 --> 00:23:31,840
+as it doesn't take long as I said you
+ 
+
+887
+00:23:31,840 --> 00:23:34,909
+as it doesn't take long as I said you
+won't need to do that Sal because you
+
+888
+00:23:34,909 --> 00:23:34,919
+won't need to do that Sal because you
+ 
+
+889
+00:23:34,919 --> 00:23:37,269
+won't need to do that Sal because you
+come to the doo every day and every day
+
+890
+00:23:37,269 --> 00:23:37,279
+come to the doo every day and every day
+ 
+
+891
+00:23:37,279 --> 00:23:40,510
+come to the doo every day and every day
+you drop this the heaven aspect every
+
+892
+00:23:40,510 --> 00:23:40,520
+you drop this the heaven aspect every
+ 
+
+893
+00:23:40,520 --> 00:23:43,029
+you drop this the heaven aspect every
+single time this person touches you in
+
+894
+00:23:43,029 --> 00:23:43,039
+single time this person touches you in
+ 
+
+895
+00:23:43,039 --> 00:23:45,630
+single time this person touches you in
+that immediacy so there's no reason to
+
+896
+00:23:45,630 --> 00:23:45,640
+that immediacy so there's no reason to
+ 
+
+897
+00:23:45,640 --> 00:23:48,430
+that immediacy so there's no reason to
+do this for forever unless we're
+
+898
+00:23:48,430 --> 00:23:48,440
+do this for forever unless we're
+ 
+
+899
+00:23:48,440 --> 00:23:51,430
+do this for forever unless we're
+agitated because we're not doing the
+
+900
+00:23:51,430 --> 00:23:51,440
+agitated because we're not doing the
+ 
+
+901
+00:23:51,440 --> 00:23:53,390
+agitated because we're not doing the
+four disciplines and the Bedrock
+
+902
+00:23:53,390 --> 00:23:53,400
+four disciplines and the Bedrock
+ 
+
+903
+00:23:53,400 --> 00:23:56,549
+four disciplines and the Bedrock
+practices okay got it and sometimes it
+
+904
+00:23:56,549 --> 00:23:56,559
+practices okay got it and sometimes it
+ 
+
+905
+00:23:56,559 --> 00:24:00,070
+practices okay got it and sometimes it
+happens sometimes it happens okay any
+
+906
+00:24:00,070 --> 00:24:00,080
+happens sometimes it happens okay any
+ 
+
+907
+00:24:00,080 --> 00:24:06,789
+happens sometimes it happens okay any
+questions from those that are
+
+908
+00:24:06,789 --> 00:24:06,799
+
+ 
+
+909
+00:24:06,799 --> 00:24:10,360
+
+here thank you
+

@@ -1,0 +1,2365 @@
+1
+00:00:09,679 --> 00:00:22,550
+
+so
+
+2
+00:00:22,550 --> 00:00:22,560
+
+ 
+
+3
+00:00:22,560 --> 00:00:37,590
+
+so
+
+4
+00:00:37,590 --> 00:00:37,600
+
+ 
+
+5
+00:00:37,600 --> 00:00:39,750
+
+okay so my
+
+6
+00:00:39,750 --> 00:00:39,760
+okay so my
+ 
+
+7
+00:00:39,760 --> 00:00:41,430
+okay so my
+my center
+
+8
+00:00:41,430 --> 00:00:41,440
+my center
+ 
+
+9
+00:00:41,440 --> 00:00:43,190
+my center
+is dependent upon
+
+10
+00:00:43,190 --> 00:00:43,200
+is dependent upon
+ 
+
+11
+00:00:43,200 --> 00:00:45,350
+is dependent upon
+the periphery right
+
+12
+00:00:45,350 --> 00:00:45,360
+the periphery right
+ 
+
+13
+00:00:45,360 --> 00:00:47,430
+the periphery right
+and in this case what makes up the
+
+14
+00:00:47,430 --> 00:00:47,440
+and in this case what makes up the
+ 
+
+15
+00:00:47,440 --> 00:00:49,750
+and in this case what makes up the
+periphery
+
+16
+00:00:49,750 --> 00:00:49,760
+periphery
+ 
+
+17
+00:00:49,760 --> 00:00:53,029
+periphery
+my head and my feet hence our rule
+
+18
+00:00:53,029 --> 00:00:53,039
+my head and my feet hence our rule
+ 
+
+19
+00:00:53,039 --> 00:00:55,830
+my head and my feet hence our rule
+if my head goes down
+
+20
+00:00:55,830 --> 00:00:55,840
+if my head goes down
+ 
+
+21
+00:00:55,840 --> 00:00:58,069
+if my head goes down
+at least one foot has to come up this is
+
+22
+00:00:58,069 --> 00:00:58,079
+at least one foot has to come up this is
+ 
+
+23
+00:00:58,079 --> 00:01:00,229
+at least one foot has to come up this is
+a breaking a center
+
+24
+00:01:00,229 --> 00:01:00,239
+a breaking a center
+ 
+
+25
+00:01:00,239 --> 00:01:02,310
+a breaking a center
+okay yes i still have a center of
+
+26
+00:01:02,310 --> 00:01:02,320
+okay yes i still have a center of
+ 
+
+27
+00:01:02,320 --> 00:01:04,469
+okay yes i still have a center of
+gravity but in terms of the spiraling
+
+28
+00:01:04,469 --> 00:01:04,479
+gravity but in terms of the spiraling
+ 
+
+29
+00:01:04,479 --> 00:01:06,070
+gravity but in terms of the spiraling
+rotating cross
+
+30
+00:01:06,070 --> 00:01:06,080
+rotating cross
+ 
+
+31
+00:01:06,080 --> 00:01:09,109
+rotating cross
+i'm not doing it in my body anymore okay
+
+32
+00:01:09,109 --> 00:01:09,119
+i'm not doing it in my body anymore okay
+ 
+
+33
+00:01:09,119 --> 00:01:10,710
+i'm not doing it in my body anymore okay
+so my
+
+34
+00:01:10,710 --> 00:01:10,720
+so my
+ 
+
+35
+00:01:10,720 --> 00:01:12,710
+so my
+body stays locked
+
+36
+00:01:12,710 --> 00:01:12,720
+body stays locked
+ 
+
+37
+00:01:12,720 --> 00:01:15,350
+body stays locked
+and i do that same thing
+
+38
+00:01:15,350 --> 00:01:15,360
+and i do that same thing
+ 
+
+39
+00:01:15,360 --> 00:01:18,469
+and i do that same thing
+this whole thing is going to rotate
+
+40
+00:01:18,469 --> 00:01:18,479
+this whole thing is going to rotate
+ 
+
+41
+00:01:18,479 --> 00:01:20,550
+this whole thing is going to rotate
+not on a circle
+
+42
+00:01:20,550 --> 00:01:20,560
+not on a circle
+ 
+
+43
+00:01:20,560 --> 00:01:22,630
+not on a circle
+has to go on a spiral
+
+44
+00:01:22,630 --> 00:01:22,640
+has to go on a spiral
+ 
+
+45
+00:01:22,640 --> 00:01:23,590
+has to go on a spiral
+okay
+
+46
+00:01:23,590 --> 00:01:23,600
+okay
+ 
+
+47
+00:01:23,600 --> 00:01:27,350
+okay
+which means it must seek some sort of
+
+48
+00:01:27,350 --> 00:01:27,360
+which means it must seek some sort of
+ 
+
+49
+00:01:27,360 --> 00:01:30,630
+which means it must seek some sort of
+traversing vector it must have some sort
+
+50
+00:01:30,630 --> 00:01:30,640
+traversing vector it must have some sort
+ 
+
+51
+00:01:30,640 --> 00:01:32,230
+traversing vector it must have some sort
+of depth okay
+
+52
+00:01:32,230 --> 00:01:32,240
+of depth okay
+ 
+
+53
+00:01:32,240 --> 00:01:33,429
+of depth okay
+so
+
+54
+00:01:33,429 --> 00:01:33,439
+so
+ 
+
+55
+00:01:33,439 --> 00:01:34,789
+so
+my
+
+56
+00:01:34,789 --> 00:01:34,799
+my
+ 
+
+57
+00:01:34,799 --> 00:01:37,030
+my
+body's going to go this way my body's
+
+58
+00:01:37,030 --> 00:01:37,040
+body's going to go this way my body's
+ 
+
+59
+00:01:37,040 --> 00:01:38,870
+body's going to go this way my body's
+going to go that way my body's not going
+
+60
+00:01:38,870 --> 00:01:38,880
+going to go that way my body's not going
+ 
+
+61
+00:01:38,880 --> 00:01:41,350
+going to go that way my body's not going
+to go this way okay i think that's part
+
+62
+00:01:41,350 --> 00:01:41,360
+to go this way okay i think that's part
+ 
+
+63
+00:01:41,360 --> 00:01:43,030
+to go this way okay i think that's part
+of the problem
+
+64
+00:01:43,030 --> 00:01:43,040
+of the problem
+ 
+
+65
+00:01:43,040 --> 00:01:44,550
+of the problem
+um
+
+66
+00:01:44,550 --> 00:01:44,560
+um
+ 
+
+67
+00:01:44,560 --> 00:01:46,389
+um
+is is why you have to disengage that
+
+68
+00:01:46,389 --> 00:01:46,399
+is is why you have to disengage that
+ 
+
+69
+00:01:46,399 --> 00:01:48,550
+is is why you have to disengage that
+tail bone at the end because there's no
+
+70
+00:01:48,550 --> 00:01:48,560
+tail bone at the end because there's no
+ 
+
+71
+00:01:48,560 --> 00:01:50,710
+tail bone at the end because there's no
+room for it you have to get your legs
+
+72
+00:01:50,710 --> 00:01:50,720
+room for it you have to get your legs
+ 
+
+73
+00:01:50,720 --> 00:01:53,590
+room for it you have to get your legs
+back under you you understand so you
+
+74
+00:01:53,590 --> 00:01:53,600
+back under you you understand so you
+ 
+
+75
+00:01:53,600 --> 00:01:55,910
+back under you you understand so you
+start you roll in this way
+
+76
+00:01:55,910 --> 00:01:55,920
+start you roll in this way
+ 
+
+77
+00:01:55,920 --> 00:01:57,749
+start you roll in this way
+and there's no
+
+78
+00:01:57,749 --> 00:01:57,759
+and there's no
+ 
+
+79
+00:01:57,759 --> 00:01:59,749
+and there's no
+there's no room for your legs so you're
+
+80
+00:01:59,749 --> 00:01:59,759
+there's no room for your legs so you're
+ 
+
+81
+00:01:59,759 --> 00:02:02,870
+there's no room for your legs so you're
+going to bend your knees a lot
+
+82
+00:02:02,870 --> 00:02:02,880
+going to bend your knees a lot
+ 
+
+83
+00:02:02,880 --> 00:02:06,630
+going to bend your knees a lot
+and disengage the tailbone
+
+84
+00:02:06,630 --> 00:02:06,640
+and disengage the tailbone
+ 
+
+85
+00:02:06,640 --> 00:02:09,270
+and disengage the tailbone
+this kind of thing but i don't do that
+
+86
+00:02:09,270 --> 00:02:09,280
+this kind of thing but i don't do that
+ 
+
+87
+00:02:09,280 --> 00:02:10,389
+this kind of thing but i don't do that
+because
+
+88
+00:02:10,389 --> 00:02:10,399
+because
+ 
+
+89
+00:02:10,399 --> 00:02:12,150
+because
+i have depth
+
+90
+00:02:12,150 --> 00:02:12,160
+i have depth
+ 
+
+91
+00:02:12,160 --> 00:02:16,150
+i have depth
+my legs are out my legs are at home
+
+92
+00:02:16,150 --> 00:02:16,160
+my legs are out my legs are at home
+ 
+
+93
+00:02:16,160 --> 00:02:18,070
+my legs are out my legs are at home
+you see how my legs are out
+
+94
+00:02:18,070 --> 00:02:18,080
+you see how my legs are out
+ 
+
+95
+00:02:18,080 --> 00:02:21,270
+you see how my legs are out
+watch my legs again lock my body lock my
+
+96
+00:02:21,270 --> 00:02:21,280
+watch my legs again lock my body lock my
+ 
+
+97
+00:02:21,280 --> 00:02:30,600
+watch my legs again lock my body lock my
+body boom
+
+98
+00:02:30,600 --> 00:02:30,610
+
+ 
+
+99
+00:02:30,610 --> 00:02:32,070
+
+[Music]
+
+100
+00:02:32,070 --> 00:02:32,080
+[Music]
+ 
+
+101
+00:02:32,080 --> 00:02:34,630
+[Music]
+okay let's try it again
+
+102
+00:02:34,630 --> 00:02:34,640
+okay let's try it again
+ 
+
+103
+00:02:34,640 --> 00:02:38,070
+okay let's try it again
+so again if i go straight
+
+104
+00:02:38,070 --> 00:02:38,080
+so again if i go straight
+ 
+
+105
+00:02:38,080 --> 00:02:40,790
+so again if i go straight
+then his forward roll any forward roll
+
+106
+00:02:40,790 --> 00:02:40,800
+then his forward roll any forward roll
+ 
+
+107
+00:02:40,800 --> 00:02:47,430
+then his forward roll any forward roll
+kind of works any forward over okay
+
+108
+00:02:47,430 --> 00:02:47,440
+
+ 
+
+109
+00:02:47,440 --> 00:02:50,550
+
+but if i am trying to do the spiraling
+
+110
+00:02:50,550 --> 00:02:50,560
+but if i am trying to do the spiraling
+ 
+
+111
+00:02:50,560 --> 00:02:52,710
+but if i am trying to do the spiraling
+cross geometry
+
+112
+00:02:52,710 --> 00:02:52,720
+cross geometry
+ 
+
+113
+00:02:52,720 --> 00:02:54,949
+cross geometry
+it doesn't go on a circle it's going to
+
+114
+00:02:54,949 --> 00:02:54,959
+it doesn't go on a circle it's going to
+ 
+
+115
+00:02:54,959 --> 00:02:57,430
+it doesn't go on a circle it's going to
+go on a spiral it's going to
+
+116
+00:02:57,430 --> 00:02:57,440
+go on a spiral it's going to
+ 
+
+117
+00:02:57,440 --> 00:03:00,630
+go on a spiral it's going to
+seek depth
+
+118
+00:03:00,630 --> 00:03:00,640
+
+ 
+
+119
+00:03:00,640 --> 00:03:02,309
+
+and then come around
+
+120
+00:03:02,309 --> 00:03:02,319
+and then come around
+ 
+
+121
+00:03:02,319 --> 00:03:03,589
+and then come around
+it's not going to go straight it's not
+
+122
+00:03:03,589 --> 00:03:03,599
+it's not going to go straight it's not
+ 
+
+123
+00:03:03,599 --> 00:03:05,190
+it's not going to go straight it's not
+going to get straight i'm going to go
+
+124
+00:03:05,190 --> 00:03:05,200
+going to get straight i'm going to go
+ 
+
+125
+00:03:05,200 --> 00:03:06,710
+going to get straight i'm going to go
+straight
+
+126
+00:03:06,710 --> 00:03:06,720
+straight
+ 
+
+127
+00:03:06,720 --> 00:03:32,710
+straight
+it's one big spiraling rock
+
+128
+00:03:32,710 --> 00:03:32,720
+
+ 
+
+129
+00:03:32,720 --> 00:03:34,229
+
+he's feeling
+
+130
+00:03:34,229 --> 00:03:34,239
+he's feeling
+ 
+
+131
+00:03:34,239 --> 00:03:36,390
+he's feeling
+a young young
+
+132
+00:03:36,390 --> 00:03:36,400
+a young young
+ 
+
+133
+00:03:36,400 --> 00:03:38,229
+a young young
+clap so to speak
+
+134
+00:03:38,229 --> 00:03:38,239
+clap so to speak
+ 
+
+135
+00:03:38,239 --> 00:03:40,550
+clap so to speak
+on your part his projection
+
+136
+00:03:40,550 --> 00:03:40,560
+on your part his projection
+ 
+
+137
+00:03:40,560 --> 00:03:42,229
+on your part his projection
+okay
+
+138
+00:03:42,229 --> 00:03:42,239
+okay
+ 
+
+139
+00:03:42,239 --> 00:03:43,430
+okay
+so
+
+140
+00:03:43,430 --> 00:03:43,440
+so
+ 
+
+141
+00:03:43,440 --> 00:03:45,430
+so
+we come around
+
+142
+00:03:45,430 --> 00:03:45,440
+we come around
+ 
+
+143
+00:03:45,440 --> 00:03:48,710
+we come around
+and if he goes straight
+
+144
+00:03:48,710 --> 00:03:48,720
+and if he goes straight
+ 
+
+145
+00:03:48,720 --> 00:03:53,910
+and if he goes straight
+i could do whatever
+
+146
+00:03:53,910 --> 00:03:53,920
+
+ 
+
+147
+00:03:53,920 --> 00:03:57,190
+
+but when he does that spiral
+
+148
+00:03:57,190 --> 00:03:57,200
+but when he does that spiral
+ 
+
+149
+00:03:57,200 --> 00:03:59,589
+but when he does that spiral
+i have to seek
+
+150
+00:03:59,589 --> 00:03:59,599
+i have to seek
+ 
+
+151
+00:03:59,599 --> 00:04:01,750
+i have to seek
+that depth
+
+152
+00:04:01,750 --> 00:04:01,760
+that depth
+ 
+
+153
+00:04:01,760 --> 00:04:03,030
+that depth
+and
+
+154
+00:04:03,030 --> 00:04:03,040
+and
+ 
+
+155
+00:04:03,040 --> 00:04:06,869
+and
+a yang yin yin yang reconciliation
+
+156
+00:04:06,869 --> 00:04:06,879
+a yang yin yin yang reconciliation
+ 
+
+157
+00:04:06,879 --> 00:04:07,750
+a yang yin yin yang reconciliation
+okay
+
+158
+00:04:07,750 --> 00:04:07,760
+okay
+ 
+
+159
+00:04:07,760 --> 00:04:09,990
+okay
+so instead of going here
+
+160
+00:04:09,990 --> 00:04:10,000
+so instead of going here
+ 
+
+161
+00:04:10,000 --> 00:04:13,030
+so instead of going here
+and going
+
+162
+00:04:13,030 --> 00:04:13,040
+
+ 
+
+163
+00:04:13,040 --> 00:04:15,270
+
+i would look at why did i feel your
+
+164
+00:04:15,270 --> 00:04:15,280
+i would look at why did i feel your
+ 
+
+165
+00:04:15,280 --> 00:04:17,990
+i would look at why did i feel your
+elbow
+
+166
+00:04:17,990 --> 00:04:18,000
+
+ 
+
+167
+00:04:18,000 --> 00:04:20,390
+
+and you felt my elbow too
+
+168
+00:04:20,390 --> 00:04:20,400
+and you felt my elbow too
+ 
+
+169
+00:04:20,400 --> 00:04:22,469
+and you felt my elbow too
+so we'll go so you can see it slow so
+
+170
+00:04:22,469 --> 00:04:22,479
+so we'll go so you can see it slow so
+ 
+
+171
+00:04:22,479 --> 00:04:24,150
+so we'll go so you can see it slow so
+you can feel it
+
+172
+00:04:24,150 --> 00:04:24,160
+you can feel it
+ 
+
+173
+00:04:24,160 --> 00:04:26,830
+you can feel it
+it's right there you
+
+174
+00:04:26,830 --> 00:04:26,840
+it's right there you
+ 
+
+175
+00:04:26,840 --> 00:04:28,469
+it's right there you
+see
+
+176
+00:04:28,469 --> 00:04:28,479
+see
+ 
+
+177
+00:04:28,479 --> 00:04:31,430
+see
+but watch me go around
+
+178
+00:04:31,430 --> 00:04:31,440
+but watch me go around
+ 
+
+179
+00:04:31,440 --> 00:04:32,950
+but watch me go around
+this cross
+
+180
+00:04:32,950 --> 00:04:32,960
+this cross
+ 
+
+181
+00:04:32,960 --> 00:04:34,469
+this cross
+this cross right here
+
+182
+00:04:34,469 --> 00:04:34,479
+this cross right here
+ 
+
+183
+00:04:34,479 --> 00:04:36,310
+this cross right here
+watch watch it go slower so you can feel
+
+184
+00:04:36,310 --> 00:04:36,320
+watch watch it go slower so you can feel
+ 
+
+185
+00:04:36,320 --> 00:04:37,830
+watch watch it go slower so you can feel
+it you feel that there is there's a
+
+186
+00:04:37,830 --> 00:04:37,840
+it you feel that there is there's a
+ 
+
+187
+00:04:37,840 --> 00:04:39,189
+it you feel that there is there's a
+clash
+
+188
+00:04:39,189 --> 00:04:39,199
+clash
+ 
+
+189
+00:04:39,199 --> 00:04:44,390
+clash
+i'm gonna go
+
+190
+00:04:44,390 --> 00:04:44,400
+
+ 
+
+191
+00:04:44,400 --> 00:04:47,749
+
+you feel that yes
+
+192
+00:04:47,749 --> 00:04:47,759
+
+ 
+
+193
+00:04:47,759 --> 00:04:49,430
+
+and as a result
+
+194
+00:04:49,430 --> 00:04:49,440
+and as a result
+ 
+
+195
+00:04:49,440 --> 00:04:51,990
+and as a result
+he can't he won't project me it just
+
+196
+00:04:51,990 --> 00:04:52,000
+he can't he won't project me it just
+ 
+
+197
+00:04:52,000 --> 00:04:54,790
+he can't he won't project me it just
+gets reconciled but i do lose my balance
+
+198
+00:04:54,790 --> 00:04:54,800
+gets reconciled but i do lose my balance
+ 
+
+199
+00:04:54,800 --> 00:04:59,670
+gets reconciled but i do lose my balance
+he goes i'm going around it
+
+200
+00:04:59,670 --> 00:04:59,680
+
+ 
+
+201
+00:04:59,680 --> 00:05:04,150
+
+you watch my hips again
+
+202
+00:05:04,150 --> 00:05:04,160
+
+ 
+
+203
+00:05:04,160 --> 00:05:08,230
+
+i'm reconciling
+
+204
+00:05:08,230 --> 00:05:08,240
+
+ 
+
+205
+00:05:08,240 --> 00:05:10,390
+
+some clues to look
+
+206
+00:05:10,390 --> 00:05:10,400
+some clues to look
+ 
+
+207
+00:05:10,400 --> 00:05:12,790
+some clues to look
+is because he's not projecting me
+
+208
+00:05:12,790 --> 00:05:12,800
+is because he's not projecting me
+ 
+
+209
+00:05:12,800 --> 00:05:14,870
+is because he's not projecting me
+my shoulder is actually
+
+210
+00:05:14,870 --> 00:05:14,880
+my shoulder is actually
+ 
+
+211
+00:05:14,880 --> 00:05:16,150
+my shoulder is actually
+on the mat
+
+212
+00:05:16,150 --> 00:05:16,160
+on the mat
+ 
+
+213
+00:05:16,160 --> 00:05:18,790
+on the mat
+before we even let go on the other one
+
+214
+00:05:18,790 --> 00:05:18,800
+before we even let go on the other one
+ 
+
+215
+00:05:18,800 --> 00:05:20,790
+before we even let go on the other one
+your shoulders about
+
+216
+00:05:20,790 --> 00:05:20,800
+your shoulders about
+ 
+
+217
+00:05:20,800 --> 00:05:25,990
+your shoulders about
+three feet four feet
+
+218
+00:05:25,990 --> 00:05:26,000
+
+ 
+
+219
+00:05:26,000 --> 00:05:28,469
+
+you're watching the elbow energy
+
+220
+00:05:28,469 --> 00:05:28,479
+you're watching the elbow energy
+ 
+
+221
+00:05:28,479 --> 00:05:30,310
+you're watching the elbow energy
+be reconciled
+
+222
+00:05:30,310 --> 00:05:30,320
+be reconciled
+ 
+
+223
+00:05:30,320 --> 00:05:35,590
+be reconciled
+by the uke
+
+224
+00:05:35,590 --> 00:05:35,600
+
+ 
+
+225
+00:05:35,600 --> 00:05:37,749
+
+but it's that same
+
+226
+00:05:37,749 --> 00:05:37,759
+but it's that same
+ 
+
+227
+00:05:37,759 --> 00:05:39,670
+but it's that same
+rotating cross
+
+228
+00:05:39,670 --> 00:05:39,680
+rotating cross
+ 
+
+229
+00:05:39,680 --> 00:05:41,749
+rotating cross
+against the rotating cross
+
+230
+00:05:41,749 --> 00:05:41,759
+against the rotating cross
+ 
+
+231
+00:05:41,759 --> 00:05:43,350
+against the rotating cross
+okay
+
+232
+00:05:43,350 --> 00:05:43,360
+okay
+ 
+
+233
+00:05:43,360 --> 00:05:44,629
+okay
+uh
+
+234
+00:05:44,629 --> 00:05:44,639
+uh
+ 
+
+235
+00:05:44,639 --> 00:05:47,749
+uh
+we're in i come here like this
+
+236
+00:05:47,749 --> 00:05:47,759
+we're in i come here like this
+ 
+
+237
+00:05:47,759 --> 00:05:50,310
+we're in i come here like this
+and then you are now just stepping
+
+238
+00:05:50,310 --> 00:05:50,320
+and then you are now just stepping
+ 
+
+239
+00:05:50,320 --> 00:05:53,029
+and then you are now just stepping
+around the guy and now doing your
+
+240
+00:05:53,029 --> 00:05:53,039
+around the guy and now doing your
+ 
+
+241
+00:05:53,039 --> 00:05:54,070
+around the guy and now doing your
+regular
+
+242
+00:05:54,070 --> 00:05:54,080
+regular
+ 
+
+243
+00:05:54,080 --> 00:05:55,510
+regular
+forward rolls out
+
+244
+00:05:55,510 --> 00:05:55,520
+forward rolls out
+ 
+
+245
+00:05:55,520 --> 00:05:56,629
+forward rolls out
+okay
+
+246
+00:05:56,629 --> 00:05:56,639
+okay
+ 
+
+247
+00:05:56,639 --> 00:05:58,790
+okay
+but you can't do that can you and you're
+
+248
+00:05:58,790 --> 00:05:58,800
+but you can't do that can you and you're
+ 
+
+249
+00:05:58,800 --> 00:06:00,150
+but you can't do that can you and you're
+not going
+
+250
+00:06:00,150 --> 00:06:00,160
+not going
+ 
+
+251
+00:06:00,160 --> 00:06:01,670
+not going
+why is that
+
+252
+00:06:01,670 --> 00:06:01,680
+why is that
+ 
+
+253
+00:06:01,680 --> 00:06:05,029
+why is that
+is your racism yes my my leg is checking
+
+254
+00:06:05,029 --> 00:06:05,039
+is your racism yes my my leg is checking
+ 
+
+255
+00:06:05,039 --> 00:06:07,029
+is your racism yes my my leg is checking
+that leg out you see
+
+256
+00:06:07,029 --> 00:06:07,039
+that leg out you see
+ 
+
+257
+00:06:07,039 --> 00:06:09,350
+that leg out you see
+so we're gonna come over here like this
+
+258
+00:06:09,350 --> 00:06:09,360
+so we're gonna come over here like this
+ 
+
+259
+00:06:09,360 --> 00:06:11,590
+so we're gonna come over here like this
+this leg is going that way
+
+260
+00:06:11,590 --> 00:06:11,600
+this leg is going that way
+ 
+
+261
+00:06:11,600 --> 00:06:13,270
+this leg is going that way
+okay
+
+262
+00:06:13,270 --> 00:06:13,280
+okay
+ 
+
+263
+00:06:13,280 --> 00:06:14,790
+okay
+um
+
+264
+00:06:14,790 --> 00:06:14,800
+um
+ 
+
+265
+00:06:14,800 --> 00:06:16,070
+um
+so that would
+
+266
+00:06:16,070 --> 00:06:16,080
+so that would
+ 
+
+267
+00:06:16,080 --> 00:06:17,270
+so that would
+not be it
+
+268
+00:06:17,270 --> 00:06:17,280
+not be it
+ 
+
+269
+00:06:17,280 --> 00:06:18,710
+not be it
+okay
+
+270
+00:06:18,710 --> 00:06:18,720
+okay
+ 
+
+271
+00:06:18,720 --> 00:06:21,590
+okay
+uh when i get something else i pick
+
+272
+00:06:21,590 --> 00:06:21,600
+uh when i get something else i pick
+ 
+
+273
+00:06:21,600 --> 00:06:23,430
+uh when i get something else i pick
+andrew because he's he's bigger he's
+
+274
+00:06:23,430 --> 00:06:23,440
+andrew because he's he's bigger he's
+ 
+
+275
+00:06:23,440 --> 00:06:25,830
+andrew because he's he's bigger he's
+stronger than me okay
+
+276
+00:06:25,830 --> 00:06:25,840
+stronger than me okay
+ 
+
+277
+00:06:25,840 --> 00:06:28,230
+stronger than me okay
+um if i
+
+278
+00:06:28,230 --> 00:06:28,240
+um if i
+ 
+
+279
+00:06:28,240 --> 00:06:31,749
+um if i
+establish a relationship to my head feet
+
+280
+00:06:31,749 --> 00:06:31,759
+establish a relationship to my head feet
+ 
+
+281
+00:06:31,759 --> 00:06:33,990
+establish a relationship to my head feet
+then i establish a center you see the
+
+282
+00:06:33,990 --> 00:06:34,000
+then i establish a center you see the
+ 
+
+283
+00:06:34,000 --> 00:06:36,710
+then i establish a center you see the
+periphery is related to each other
+
+284
+00:06:36,710 --> 00:06:36,720
+periphery is related to each other
+ 
+
+285
+00:06:36,720 --> 00:06:39,029
+periphery is related to each other
+then the center is established that
+
+286
+00:06:39,029 --> 00:06:39,039
+then the center is established that
+ 
+
+287
+00:06:39,039 --> 00:06:40,070
+then the center is established that
+means
+
+288
+00:06:40,070 --> 00:06:40,080
+means
+ 
+
+289
+00:06:40,080 --> 00:06:42,550
+means
+that's as heavy as i'm going to get
+
+290
+00:06:42,550 --> 00:06:42,560
+that's as heavy as i'm going to get
+ 
+
+291
+00:06:42,560 --> 00:06:43,590
+that's as heavy as i'm going to get
+okay
+
+292
+00:06:43,590 --> 00:06:43,600
+okay
+ 
+
+293
+00:06:43,600 --> 00:06:46,070
+okay
+when i walk around
+
+294
+00:06:46,070 --> 00:06:46,080
+when i walk around
+ 
+
+295
+00:06:46,080 --> 00:06:47,749
+when i walk around
+or i break center
+
+296
+00:06:47,749 --> 00:06:47,759
+or i break center
+ 
+
+297
+00:06:47,759 --> 00:06:49,270
+or i break center
+i'm very light
+
+298
+00:06:49,270 --> 00:06:49,280
+i'm very light
+ 
+
+299
+00:06:49,280 --> 00:06:51,350
+i'm very light
+is it okay okay
+
+300
+00:06:51,350 --> 00:06:51,360
+is it okay okay
+ 
+
+301
+00:06:51,360 --> 00:06:52,070
+is it okay okay
+so
+
+302
+00:06:52,070 --> 00:06:52,080
+so
+ 
+
+303
+00:06:52,080 --> 00:06:53,270
+so
+uh
+
+304
+00:06:53,270 --> 00:06:53,280
+uh
+ 
+
+305
+00:06:53,280 --> 00:06:54,710
+uh
+we'll have you
+
+306
+00:06:54,710 --> 00:06:54,720
+we'll have you
+ 
+
+307
+00:06:54,720 --> 00:06:56,950
+we'll have you
+try it and you'll feel what i'm talking
+
+308
+00:06:56,950 --> 00:06:56,960
+try it and you'll feel what i'm talking
+ 
+
+309
+00:06:56,960 --> 00:06:59,990
+try it and you'll feel what i'm talking
+about is that she has my whole magazine
+
+310
+00:06:59,990 --> 00:07:00,000
+about is that she has my whole magazine
+ 
+
+311
+00:07:00,000 --> 00:07:02,710
+about is that she has my whole magazine
+as my whole mass jacked her up okay
+
+312
+00:07:02,710 --> 00:07:02,720
+as my whole mass jacked her up okay
+ 
+
+313
+00:07:02,720 --> 00:07:04,629
+as my whole mass jacked her up okay
+whereas if i would lose
+
+314
+00:07:04,629 --> 00:07:04,639
+whereas if i would lose
+ 
+
+315
+00:07:04,639 --> 00:07:06,710
+whereas if i would lose
+and lose she can do it
+
+316
+00:07:06,710 --> 00:07:06,720
+and lose she can do it
+ 
+
+317
+00:07:06,720 --> 00:07:08,230
+and lose she can do it
+incrementally
+
+318
+00:07:08,230 --> 00:07:08,240
+incrementally
+ 
+
+319
+00:07:08,240 --> 00:07:10,710
+incrementally
+but if i have my
+
+320
+00:07:10,710 --> 00:07:10,720
+but if i have my
+ 
+
+321
+00:07:10,720 --> 00:07:12,870
+but if i have my
+periphery related
+
+322
+00:07:12,870 --> 00:07:12,880
+periphery related
+ 
+
+323
+00:07:12,880 --> 00:07:17,510
+periphery related
+and center this is very
+
+324
+00:07:17,510 --> 00:07:17,520
+
+ 
+
+325
+00:07:17,520 --> 00:07:20,150
+
+and it starts to expose things
+
+326
+00:07:20,150 --> 00:07:20,160
+and it starts to expose things
+ 
+
+327
+00:07:20,160 --> 00:07:21,670
+and it starts to expose things
+in her technique
+
+328
+00:07:21,670 --> 00:07:21,680
+in her technique
+ 
+
+329
+00:07:21,680 --> 00:07:26,070
+in her technique
+now all i do is maintain center
+
+330
+00:07:26,070 --> 00:07:26,080
+
+ 
+
+331
+00:07:26,080 --> 00:07:28,710
+
+let me see like that beat there it's not
+
+332
+00:07:28,710 --> 00:07:28,720
+let me see like that beat there it's not
+ 
+
+333
+00:07:28,720 --> 00:07:30,629
+let me see like that beat there it's not
+marshall that's where they do counters
+
+334
+00:07:30,629 --> 00:07:30,639
+marshall that's where they do counters
+ 
+
+335
+00:07:30,639 --> 00:07:32,469
+marshall that's where they do counters
+here and stuff like that do you guys got
+
+336
+00:07:32,469 --> 00:07:32,479
+here and stuff like that do you guys got
+ 
+
+337
+00:07:32,479 --> 00:07:33,510
+here and stuff like that do you guys got
+that
+
+338
+00:07:33,510 --> 00:07:33,520
+that
+ 
+
+339
+00:07:33,520 --> 00:07:34,790
+that
+okay so
+
+340
+00:07:34,790 --> 00:07:34,800
+okay so
+ 
+
+341
+00:07:34,800 --> 00:07:35,589
+okay so
+uh
+
+342
+00:07:35,589 --> 00:07:35,599
+uh
+ 
+
+343
+00:07:35,599 --> 00:07:37,990
+uh
+don't try to step around it
+
+344
+00:07:37,990 --> 00:07:38,000
+don't try to step around it
+ 
+
+345
+00:07:38,000 --> 00:07:41,110
+don't try to step around it
+um
+
+346
+00:07:41,110 --> 00:07:41,120
+
+ 
+
+347
+00:07:41,120 --> 00:07:44,790
+
+and you you can make sure that you are
+
+348
+00:07:44,790 --> 00:07:44,800
+and you you can make sure that you are
+ 
+
+349
+00:07:44,800 --> 00:07:48,869
+and you you can make sure that you are
+always getting that leg
+
+350
+00:07:48,869 --> 00:07:48,879
+
+ 
+
+351
+00:07:48,879 --> 00:07:51,589
+
+keep your circle
+
+352
+00:07:51,589 --> 00:07:51,599
+keep your circle
+ 
+
+353
+00:07:51,599 --> 00:07:53,749
+keep your circle
+that just be calm
+
+354
+00:07:53,749 --> 00:07:53,759
+that just be calm
+ 
+
+355
+00:07:53,759 --> 00:08:06,790
+that just be calm
+be calm accept
+
+356
+00:08:06,790 --> 00:08:06,800
+
+ 
+
+357
+00:08:06,800 --> 00:08:08,950
+
+um
+
+358
+00:08:08,950 --> 00:08:08,960
+um
+ 
+
+359
+00:08:08,960 --> 00:08:12,720
+um
+watch my face
+
+360
+00:08:12,720 --> 00:08:12,730
+
+ 
+
+361
+00:08:12,730 --> 00:08:15,749
+
+[Music]
+
+362
+00:08:15,749 --> 00:08:15,759
+[Music]
+ 
+
+363
+00:08:15,759 --> 00:08:16,710
+[Music]
+okay
+
+364
+00:08:16,710 --> 00:08:16,720
+okay
+ 
+
+365
+00:08:16,720 --> 00:08:18,150
+okay
+um
+
+366
+00:08:18,150 --> 00:08:18,160
+um
+ 
+
+367
+00:08:18,160 --> 00:08:19,749
+um
+let's try it again
+
+368
+00:08:19,749 --> 00:08:19,759
+let's try it again
+ 
+
+369
+00:08:19,759 --> 00:08:21,830
+let's try it again
+okay so the question is
+
+370
+00:08:21,830 --> 00:08:21,840
+okay so the question is
+ 
+
+371
+00:08:21,840 --> 00:08:23,270
+okay so the question is
+what is the growth stimulus training
+
+372
+00:08:23,270 --> 00:08:23,280
+what is the growth stimulus training
+ 
+
+373
+00:08:23,280 --> 00:08:25,909
+what is the growth stimulus training
+your uk or you came at mine and you guys
+
+374
+00:08:25,909 --> 00:08:25,919
+your uk or you came at mine and you guys
+ 
+
+375
+00:08:25,919 --> 00:08:28,469
+your uk or you came at mine and you guys
+nailed it it's way faster and now the
+
+376
+00:08:28,469 --> 00:08:28,479
+nailed it it's way faster and now the
+ 
+
+377
+00:08:28,479 --> 00:08:31,430
+nailed it it's way faster and now the
+question is why is it faster
+
+378
+00:08:31,430 --> 00:08:31,440
+question is why is it faster
+ 
+
+379
+00:08:31,440 --> 00:08:33,750
+question is why is it faster
+and you said
+
+380
+00:08:33,750 --> 00:08:33,760
+and you said
+ 
+
+381
+00:08:33,760 --> 00:08:35,750
+and you said
+we usually are having energy right okay
+
+382
+00:08:35,750 --> 00:08:35,760
+we usually are having energy right okay
+ 
+
+383
+00:08:35,760 --> 00:08:38,149
+we usually are having energy right okay
+you're adding energy to it so
+
+384
+00:08:38,149 --> 00:08:38,159
+you're adding energy to it so
+ 
+
+385
+00:08:38,159 --> 00:08:40,550
+you're adding energy to it so
+diagnose how is the energy being added
+
+386
+00:08:40,550 --> 00:08:40,560
+diagnose how is the energy being added
+ 
+
+387
+00:08:40,560 --> 00:08:44,710
+diagnose how is the energy being added
+to it
+
+388
+00:08:44,710 --> 00:08:44,720
+
+ 
+
+389
+00:08:44,720 --> 00:08:46,790
+
+we're not just taking vagus growth we
+
+390
+00:08:46,790 --> 00:08:46,800
+we're not just taking vagus growth we
+ 
+
+391
+00:08:46,800 --> 00:08:48,550
+we're not just taking vagus growth we
+are putting ourselves towards them i
+
+392
+00:08:48,550 --> 00:08:48,560
+are putting ourselves towards them i
+ 
+
+393
+00:08:48,560 --> 00:08:50,949
+are putting ourselves towards them i
+would say no you are being accelerated
+
+394
+00:08:50,949 --> 00:08:50,959
+would say no you are being accelerated
+ 
+
+395
+00:08:50,959 --> 00:09:00,949
+would say no you are being accelerated
+where is your acceleration point
+
+396
+00:09:00,949 --> 00:09:00,959
+
+ 
+
+397
+00:09:00,959 --> 00:09:03,110
+
+set the elbow
+
+398
+00:09:03,110 --> 00:09:03,120
+set the elbow
+ 
+
+399
+00:09:03,120 --> 00:09:04,870
+set the elbow
+your elbows being accelerated into the
+
+400
+00:09:04,870 --> 00:09:04,880
+your elbows being accelerated into the
+ 
+
+401
+00:09:04,880 --> 00:09:06,630
+your elbows being accelerated into the
+technique
+
+402
+00:09:06,630 --> 00:09:06,640
+technique
+ 
+
+403
+00:09:06,640 --> 00:09:09,190
+technique
+how is that doable if you're resisting
+
+404
+00:09:09,190 --> 00:09:09,200
+how is that doable if you're resisting
+ 
+
+405
+00:09:09,200 --> 00:09:10,949
+how is that doable if you're resisting
+with the elbow yeah you have a young
+
+406
+00:09:10,949 --> 00:09:10,959
+with the elbow yeah you have a young
+ 
+
+407
+00:09:10,959 --> 00:09:13,990
+with the elbow yeah you have a young
+young contact point there you get it so
+
+408
+00:09:13,990 --> 00:09:14,000
+young contact point there you get it so
+ 
+
+409
+00:09:14,000 --> 00:09:16,150
+young contact point there you get it so
+you'll you'll feel you'll feel it as we
+
+410
+00:09:16,150 --> 00:09:16,160
+you'll you'll feel you'll feel it as we
+ 
+
+411
+00:09:16,160 --> 00:09:19,910
+you'll you'll feel you'll feel it as we
+go right here
+
+412
+00:09:19,910 --> 00:09:19,920
+
+ 
+
+413
+00:09:19,920 --> 00:09:24,389
+
+feel when it goes off here it's on on
+
+414
+00:09:24,389 --> 00:09:24,399
+feel when it goes off here it's on on
+ 
+
+415
+00:09:24,399 --> 00:09:26,150
+feel when it goes off here it's on on
+and off
+
+416
+00:09:26,150 --> 00:09:26,160
+and off
+ 
+
+417
+00:09:26,160 --> 00:09:28,630
+and off
+and i just do that from the start
+
+418
+00:09:28,630 --> 00:09:28,640
+and i just do that from the start
+ 
+
+419
+00:09:28,640 --> 00:09:32,710
+and i just do that from the start
+this goes boom
+
+420
+00:09:32,710 --> 00:09:32,720
+
+ 
+
+421
+00:09:32,720 --> 00:09:35,110
+
+so my roll
+
+422
+00:09:35,110 --> 00:09:35,120
+so my roll
+ 
+
+423
+00:09:35,120 --> 00:09:38,389
+so my roll
+is not accelerating
+
+424
+00:09:38,389 --> 00:09:38,399
+is not accelerating
+ 
+
+425
+00:09:38,399 --> 00:09:40,389
+is not accelerating
+i don't get projected
+
+426
+00:09:40,389 --> 00:09:40,399
+i don't get projected
+ 
+
+427
+00:09:40,399 --> 00:09:41,910
+i don't get projected
+my roll
+
+428
+00:09:41,910 --> 00:09:41,920
+my roll
+ 
+
+429
+00:09:41,920 --> 00:09:43,590
+my roll
+if we go slow
+
+430
+00:09:43,590 --> 00:09:43,600
+if we go slow
+ 
+
+431
+00:09:43,600 --> 00:09:45,030
+if we go slow
+slower
+
+432
+00:09:45,030 --> 00:09:45,040
+slower
+ 
+
+433
+00:09:45,040 --> 00:09:46,550
+slower
+you see
+
+434
+00:09:46,550 --> 00:09:46,560
+you see
+ 
+
+435
+00:09:46,560 --> 00:09:47,670
+you see
+this
+
+436
+00:09:47,670 --> 00:09:47,680
+this
+ 
+
+437
+00:09:47,680 --> 00:09:48,630
+this
+here
+
+438
+00:09:48,630 --> 00:09:48,640
+here
+ 
+
+439
+00:09:48,640 --> 00:09:50,710
+here
+is the yong yang
+
+440
+00:09:50,710 --> 00:09:50,720
+is the yong yang
+ 
+
+441
+00:09:50,720 --> 00:09:53,030
+is the yong yang
+this is the cross
+
+442
+00:09:53,030 --> 00:09:53,040
+this is the cross
+ 
+
+443
+00:09:53,040 --> 00:09:54,630
+this is the cross
+there's the cross
+
+444
+00:09:54,630 --> 00:09:54,640
+there's the cross
+ 
+
+445
+00:09:54,640 --> 00:09:56,630
+there's the cross
+and it's going to rotate
+
+446
+00:09:56,630 --> 00:09:56,640
+and it's going to rotate
+ 
+
+447
+00:09:56,640 --> 00:09:57,670
+and it's going to rotate
+wait
+
+448
+00:09:57,670 --> 00:09:57,680
+wait
+ 
+
+449
+00:09:57,680 --> 00:09:59,509
+wait
+it's going to rotate i'm going to not do
+
+450
+00:09:59,509 --> 00:09:59,519
+it's going to rotate i'm going to not do
+ 
+
+451
+00:09:59,519 --> 00:10:00,949
+it's going to rotate i'm going to not do
+my feet now
+
+452
+00:10:00,949 --> 00:10:00,959
+my feet now
+ 
+
+453
+00:10:00,959 --> 00:10:08,450
+my feet now
+in trade positions
+
+454
+00:10:08,450 --> 00:10:08,460
+
+ 
+
+455
+00:10:08,460 --> 00:10:12,069
+
+[Music]
+
+456
+00:10:12,069 --> 00:10:12,079
+
+ 
+
+457
+00:10:12,079 --> 00:10:13,829
+
+okay you got it
+
+458
+00:10:13,829 --> 00:10:13,839
+okay you got it
+ 
+
+459
+00:10:13,839 --> 00:10:15,110
+okay you got it
+okay
+
+460
+00:10:15,110 --> 00:10:15,120
+okay
+ 
+
+461
+00:10:15,120 --> 00:10:18,630
+okay
+so as you're doing your kimmy try to get
+
+462
+00:10:18,630 --> 00:10:18,640
+so as you're doing your kimmy try to get
+ 
+
+463
+00:10:18,640 --> 00:10:20,389
+so as you're doing your kimmy try to get
+it off
+
+464
+00:10:20,389 --> 00:10:20,399
+it off
+ 
+
+465
+00:10:20,399 --> 00:10:21,670
+it off
+by
+
+466
+00:10:21,670 --> 00:10:21,680
+by
+ 
+
+467
+00:10:21,680 --> 00:10:22,790
+by
+keeping
+
+468
+00:10:22,790 --> 00:10:22,800
+keeping
+ 
+
+469
+00:10:22,800 --> 00:10:25,350
+keeping
+your own rotating cross inside your own
+
+470
+00:10:25,350 --> 00:10:25,360
+your own rotating cross inside your own
+ 
+
+471
+00:10:25,360 --> 00:10:26,790
+your own rotating cross inside your own
+body okay
+
+472
+00:10:26,790 --> 00:10:26,800
+body okay
+ 
+
+473
+00:10:26,800 --> 00:10:29,680
+body okay
+try it again
+

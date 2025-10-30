@@ -1,0 +1,665 @@
+1
+00:00:00,480 --> 00:00:02,450
+
+not going to dress out yet so you can
+
+2
+00:00:02,450 --> 00:00:02,460
+not going to dress out yet so you can
+ 
+
+3
+00:00:02,460 --> 00:00:04,190
+not going to dress out yet so you can
+see my legs
+
+4
+00:00:04,190 --> 00:00:04,200
+see my legs
+ 
+
+5
+00:00:04,200 --> 00:00:08,089
+see my legs
+uh on the chico okay
+
+6
+00:00:08,089 --> 00:00:08,099
+uh on the chico okay
+ 
+
+7
+00:00:08,099 --> 00:00:11,390
+uh on the chico okay
+so in Chico
+
+8
+00:00:11,390 --> 00:00:11,400
+so in Chico
+ 
+
+9
+00:00:11,400 --> 00:00:13,610
+so in Chico
+um
+
+10
+00:00:13,610 --> 00:00:13,620
+
+ 
+
+11
+00:00:13,620 --> 00:00:15,770
+
+you're you don't want to roll your
+
+12
+00:00:15,770 --> 00:00:15,780
+you're you don't want to roll your
+ 
+
+13
+00:00:15,780 --> 00:00:16,970
+you're you don't want to roll your
+patella
+
+14
+00:00:16,970 --> 00:00:16,980
+patella
+ 
+
+15
+00:00:16,980 --> 00:00:18,710
+patella
+you don't want to roll it
+
+16
+00:00:18,710 --> 00:00:18,720
+you don't want to roll it
+ 
+
+17
+00:00:18,720 --> 00:00:20,990
+you don't want to roll it
+do you see that you don't you don't want
+
+18
+00:00:20,990 --> 00:00:21,000
+do you see that you don't you don't want
+ 
+
+19
+00:00:21,000 --> 00:00:25,429
+do you see that you don't you don't want
+your patella to go like that
+
+20
+00:00:25,429 --> 00:00:25,439
+
+ 
+
+21
+00:00:25,439 --> 00:00:28,130
+
+and so most of the
+
+22
+00:00:28,130 --> 00:00:28,140
+and so most of the
+ 
+
+23
+00:00:28,140 --> 00:00:31,009
+and so most of the
+the distance that you think you need to
+
+24
+00:00:31,009 --> 00:00:31,019
+the distance that you think you need to
+ 
+
+25
+00:00:31,019 --> 00:00:32,269
+the distance that you think you need to
+move
+
+26
+00:00:32,269 --> 00:00:32,279
+move
+ 
+
+27
+00:00:32,279 --> 00:00:35,690
+move
+is not achieved on straight lines okay
+
+28
+00:00:35,690 --> 00:00:35,700
+is not achieved on straight lines okay
+ 
+
+29
+00:00:35,700 --> 00:00:37,729
+is not achieved on straight lines okay
+so first point don't roll your patella
+
+30
+00:00:37,729 --> 00:00:37,739
+so first point don't roll your patella
+ 
+
+31
+00:00:37,739 --> 00:00:40,250
+so first point don't roll your patella
+second point the distance that you think
+
+32
+00:00:40,250 --> 00:00:40,260
+second point the distance that you think
+ 
+
+33
+00:00:40,260 --> 00:00:41,930
+second point the distance that you think
+you need to move
+
+34
+00:00:41,930 --> 00:00:41,940
+you need to move
+ 
+
+35
+00:00:41,940 --> 00:00:45,709
+you need to move
+is not done on straight lines
+
+36
+00:00:45,709 --> 00:00:45,719
+is not done on straight lines
+ 
+
+37
+00:00:45,719 --> 00:00:49,430
+is not done on straight lines
+if you CR if you generate the distance
+
+38
+00:00:49,430 --> 00:00:49,440
+if you CR if you generate the distance
+ 
+
+39
+00:00:49,440 --> 00:00:51,110
+if you CR if you generate the distance
+in straight lines you're going to roll
+
+40
+00:00:51,110 --> 00:00:51,120
+in straight lines you're going to roll
+ 
+
+41
+00:00:51,120 --> 00:00:55,670
+in straight lines you're going to roll
+your patella this is no way okay
+
+42
+00:00:55,670 --> 00:00:55,680
+your patella this is no way okay
+ 
+
+43
+00:00:55,680 --> 00:00:59,630
+your patella this is no way okay
+um so you can you can rotate on your
+
+44
+00:00:59,630 --> 00:00:59,640
+um so you can you can rotate on your
+ 
+
+45
+00:00:59,640 --> 00:01:01,130
+um so you can you can rotate on your
+patella
+
+46
+00:01:01,130 --> 00:01:01,140
+patella
+ 
+
+47
+00:01:01,140 --> 00:01:04,329
+patella
+you can't linearly go
+
+48
+00:01:04,329 --> 00:01:04,339
+you can't linearly go
+ 
+
+49
+00:01:04,339 --> 00:01:06,830
+you can't linearly go
+across the mat you cannot Traverse the
+
+50
+00:01:06,830 --> 00:01:06,840
+across the mat you cannot Traverse the
+ 
+
+51
+00:01:06,840 --> 00:01:10,730
+across the mat you cannot Traverse the
+map now your Aikido geometry never if
+
+52
+00:01:10,730 --> 00:01:10,740
+map now your Aikido geometry never if
+ 
+
+53
+00:01:10,740 --> 00:01:13,370
+map now your Aikido geometry never if
+your part of your kihonawaza is you're
+
+54
+00:01:13,370 --> 00:01:13,380
+your part of your kihonawaza is you're
+ 
+
+55
+00:01:13,380 --> 00:01:17,630
+your part of your kihonawaza is you're
+presented with an x y axis and your task
+
+56
+00:01:17,630 --> 00:01:17,640
+presented with an x y axis and your task
+ 
+
+57
+00:01:17,640 --> 00:01:21,410
+presented with an x y axis and your task
+as Naga is to start it rotating so you
+
+58
+00:01:21,410 --> 00:01:21,420
+as Naga is to start it rotating so you
+ 
+
+59
+00:01:21,420 --> 00:01:23,929
+as Naga is to start it rotating so you
+should never Traverse across the mat
+
+60
+00:01:23,929 --> 00:01:23,939
+should never Traverse across the mat
+ 
+
+61
+00:01:23,939 --> 00:01:28,370
+should never Traverse across the mat
+linearly okay so if we're doing uh let
+
+62
+00:01:28,370 --> 00:01:28,380
+linearly okay so if we're doing uh let
+ 
+
+63
+00:01:28,380 --> 00:01:29,870
+linearly okay so if we're doing uh let
+me do it on this side
+
+64
+00:01:29,870 --> 00:01:29,880
+me do it on this side
+ 
+
+65
+00:01:29,880 --> 00:01:33,170
+me do it on this side
+and we're doing it even now yet I should
+
+66
+00:01:33,170 --> 00:01:33,180
+and we're doing it even now yet I should
+ 
+
+67
+00:01:33,180 --> 00:01:35,270
+and we're doing it even now yet I should
+not go like that
+
+68
+00:01:35,270 --> 00:01:35,280
+not go like that
+ 
+
+69
+00:01:35,280 --> 00:01:38,990
+not go like that
+so right here on that back leg
+
+70
+00:01:38,990 --> 00:01:39,000
+so right here on that back leg
+ 
+
+71
+00:01:39,000 --> 00:01:42,469
+so right here on that back leg
+you rotated your patella you see that
+
+72
+00:01:42,469 --> 00:01:42,479
+you rotated your patella you see that
+ 
+
+73
+00:01:42,479 --> 00:01:45,230
+you rotated your patella you see that
+and now it's scraping
+
+74
+00:01:45,230 --> 00:01:45,240
+and now it's scraping
+ 
+
+75
+00:01:45,240 --> 00:01:48,170
+and now it's scraping
+and I would in shorts I'd be getting a
+
+76
+00:01:48,170 --> 00:01:48,180
+and I would in shorts I'd be getting a
+ 
+
+77
+00:01:48,180 --> 00:01:50,569
+and I would in shorts I'd be getting a
+rope burn or a map burn okay but you
+
+78
+00:01:50,569 --> 00:01:50,579
+rope burn or a map burn okay but you
+ 
+
+79
+00:01:50,579 --> 00:01:52,609
+rope burn or a map burn okay but you
+rolled your patellas
+
+80
+00:01:52,609 --> 00:01:52,619
+rolled your patellas
+ 
+
+81
+00:01:52,619 --> 00:01:56,270
+rolled your patellas
+so what you can do instead is you bring
+
+82
+00:01:56,270 --> 00:01:56,280
+so what you can do instead is you bring
+ 
+
+83
+00:01:56,280 --> 00:02:00,410
+so what you can do instead is you bring
+him over there and you can rotate on
+
+84
+00:02:00,410 --> 00:02:00,420
+him over there and you can rotate on
+ 
+
+85
+00:02:00,420 --> 00:02:02,630
+him over there and you can rotate on
+that patella
+
+86
+00:02:02,630 --> 00:02:02,640
+that patella
+ 
+
+87
+00:02:02,640 --> 00:02:05,510
+that patella
+rotate on that patella put the other
+
+88
+00:02:05,510 --> 00:02:05,520
+rotate on that patella put the other
+ 
+
+89
+00:02:05,520 --> 00:02:08,870
+rotate on that patella put the other
+patella down and you can rotate on that
+
+90
+00:02:08,870 --> 00:02:08,880
+patella down and you can rotate on that
+ 
+
+91
+00:02:08,880 --> 00:02:10,130
+patella down and you can rotate on that
+other one
+
+92
+00:02:10,130 --> 00:02:10,140
+other one
+ 
+
+93
+00:02:10,140 --> 00:02:14,809
+other one
+so okay and now when you do the second
+
+94
+00:02:14,809 --> 00:02:14,819
+so okay and now when you do the second
+ 
+
+95
+00:02:14,819 --> 00:02:17,990
+so okay and now when you do the second
+kazushi you're picking up rotating on
+
+96
+00:02:17,990 --> 00:02:18,000
+kazushi you're picking up rotating on
+ 
+
+97
+00:02:18,000 --> 00:02:20,990
+kazushi you're picking up rotating on
+this patella put the leg there and then
+
+98
+00:02:20,990 --> 00:02:21,000
+this patella put the leg there and then
+ 
+
+99
+00:02:21,000 --> 00:02:22,120
+this patella put the leg there and then
+the throw clips
+
+100
+00:02:22,120 --> 00:02:22,130
+the throw clips
+ 
+
+101
+00:02:22,130 --> 00:02:24,170
+the throw clips
+[Music]
+
+102
+00:02:24,170 --> 00:02:24,180
+[Music]
+ 
+
+103
+00:02:24,180 --> 00:02:26,210
+[Music]
+now do it again
+
+104
+00:02:26,210 --> 00:02:26,220
+now do it again
+ 
+
+105
+00:02:26,220 --> 00:02:29,270
+now do it again
+why I only get to rotate on my left
+
+106
+00:02:29,270 --> 00:02:29,280
+why I only get to rotate on my left
+ 
+
+107
+00:02:29,280 --> 00:02:32,150
+why I only get to rotate on my left
+patella in
+
+108
+00:02:32,150 --> 00:02:32,160
+patella in
+ 
+
+109
+00:02:32,160 --> 00:02:34,610
+patella in
+right patella
+
+110
+00:02:34,610 --> 00:02:34,620
+right patella
+ 
+
+111
+00:02:34,620 --> 00:02:37,070
+right patella
+left patella rotate
+
+112
+00:02:37,070 --> 00:02:37,080
+left patella rotate
+ 
+
+113
+00:02:37,080 --> 00:02:38,350
+left patella rotate
+throat
+
+114
+00:02:38,350 --> 00:02:38,360
+throat
+ 
+
+115
+00:02:38,360 --> 00:02:41,930
+throat
+[Music]
+
+116
+00:02:41,930 --> 00:02:41,940
+
+ 
+
+117
+00:02:41,940 --> 00:02:45,229
+
+I'll rotate on the right patella
+
+118
+00:02:45,229 --> 00:02:45,239
+I'll rotate on the right patella
+ 
+
+119
+00:02:45,239 --> 00:02:48,229
+I'll rotate on the right patella
+on the Left To Tell us
+
+120
+00:02:48,229 --> 00:02:48,239
+on the Left To Tell us
+ 
+
+121
+00:02:48,239 --> 00:02:52,910
+on the Left To Tell us
+on the right Coachella right
+
+122
+00:02:52,910 --> 00:02:52,920
+
+ 
+
+123
+00:02:52,920 --> 00:02:56,330
+
+I'll do it wrong
+
+124
+00:02:56,330 --> 00:02:56,340
+
+ 
+
+125
+00:02:56,340 --> 00:03:01,670
+
+I move across roll my patella
+
+126
+00:03:01,670 --> 00:03:01,680
+I move across roll my patella
+ 
+
+127
+00:03:01,680 --> 00:03:08,449
+I move across roll my patella
+roll my patella
+
+128
+00:03:08,449 --> 00:03:08,459
+
+ 
+
+129
+00:03:08,459 --> 00:03:13,130
+
+that you can you can only do this
+
+130
+00:03:13,130 --> 00:03:13,140
+
+ 
+
+131
+00:03:13,140 --> 00:03:15,530
+
+disliking the eye down all right let's
+
+132
+00:03:15,530 --> 00:03:15,540
+disliking the eye down all right let's
+ 
+
+133
+00:03:15,540 --> 00:03:18,019
+disliking the eye down all right let's
+try it
+

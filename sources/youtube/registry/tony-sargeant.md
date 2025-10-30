@@ -47,39 +47,123 @@
 ### Registration Details
 - **Date Added**: 2025-10-30
 - **Initial Status**: Active channel with 1,600 subscribers
-- **Videos Analyzed**: 0
-- **Blog Ideas Generated**: 0
+- **Videos Analyzed**: 50+ in detail of 455 total
+- **Blog Ideas Generated**: 15 high-priority topics
 - **Channel Info Extracted**: 2025-10-30 using youtube-channel-info.py
+- **Comprehensive Analysis Completed**: 2025-10-30
+
+### Analysis Summary
+- **Total Videos**: 455 (July 2020 - October 2025)
+- **Transcripts Available**: 455 (100%)
+- **Videos Sampled**: 50+ representative videos across all themes
+- **Major Themes Identified**: 10 cross-video themes
+- **Teaching Style**: Traditional Iwama with systematic solo training programs
+- **Instructor Background**: 27-year direct student of Morihiro Saito Sensei
+- **Unique Value**: Weapons-as-foundation emphasis, uchideshi home programs, honest self-assessment
+
+### Key Findings
+1. **Weapons Foundation**: 200+ videos on ken/jo suburi and kumitachi (44% of channel)
+2. **Kokyu/Ki Development**: 125+ videos with traditional internal training perspective
+3. **Systematic Solo Training**: Comprehensive "uchideshi home program" methodology
+4. **Saito Sensei Lineage**: 100+ videos with direct teaching stories and corrections
+5. **Mental/Spiritual Training**: 112+ videos on psychological aspects, ego management
+6. **Long-term Perspective**: 50-year personal journey, decades-long development timelines
+
+**Comprehensive Analysis Document**: `sources/youtube/findings/2025-10-30-tony-sargeant-channel-analysis.md`
 
 ---
 
-## Videos Analyzed
+## Top 20 Videos for Blog Research
 
-*No videos analyzed yet. Use /youtube-fetch with specific video URLs to analyze content and generate blog ideas.*
+### Philosophy & Foundation
+1. **So what is Aikido?** (hSWUpP8bKI0) - Iwama vs. Aikikai, effectiveness assessment
+2. **STRONGEST Man on the Mat** (irERJ_51Ku4) - Saito Sensei correction story, 20-year transformation
+3. **An Art for Perfectionists?** (o4yHPXtwlYw) - Psychology of training, uchideshi experience
 
-**Recommended Videos to Analyze**:
-1. "Ki Musubi 4 important points Cam 2" - https://www.youtube.com/watch?v=yx7S6lm73aA
-2. "Improving your Aikido 6" - https://www.youtube.com/watch?v=yJ5Uv2IfO5I
-3. "4th Dan test demo St P Russia" - https://www.youtube.com/watch?v=s0z62iz2A0Q
-4. "Scotland 93 11 3,4,&5 Kumitachi" - https://www.youtube.com/watch?v=22IlY-Mcv4M
+### Kokyu/Ki Principles
+4. **Finding TRUE Kokyu & Ki** (RbxLixIE19Y) - Fuel gauge analogy, traditional internal development
+5. **Ki Musubi 4 important points Cam 2** (yx7S6lm73aA) - Recent detailed technical work
 
-**To Analyze**:
-1. Browse channel for relevant videos
-2. Run `/youtube-fetch <video_url>` for videos of interest
-3. Findings will be saved in sources/youtube/findings/
+### Weapons Training
+6. **Iwama Aiki-Ken Suburi - Common Mistakes** (VLKljqQHUoA) - 7 common errors with corrections
+7. **1st Kumitachi & Ken Variations** (JhV7XaXZYi4) - Mental/spiritual approach to partnered kata
+8. **20 Joe Saburi series** (multiple videos) - Complete jo curriculum
+
+### Training Systems
+9. **Improving your Aikido 6** (yJ5Uv2IfO5I) - Uchideshi program for taijutsu, 3-of-5 methodology
+10. **Haari with Jo** (REXQyvVC3WM) - Progressive solo training, 360-degree flow
+
+**See comprehensive analysis document for full top-20 list and detailed descriptions**
 
 ---
 
 ## Blog Ideas Generated
 
-*Blog ideas will be added here as videos are analyzed with /youtube-fetch.*
+### High-Priority Topics (Ready to Write)
 
-**Potential Topics** (based on channel content):
-- Ki Musubi principles and practical application
-- Iwama kumitachi kata pedagogy
-- Traditional vs. biomechanical approaches to Aikido
-- Weapons training as foundation (relevant to weapons-training-framework.md)
-- "If correct they R light" - relaxation and proper structure
+1. **"The 3-of-5 Rule: How Traditional Aikido Tracks Mastery"**
+   - Source: Improving Your Aikido series
+   - Audience: Intermediate practitioners, home training enthusiasts
+   - Angle: Systematic repetition methodology for self-directed training
+   - Cross-reference: Compare with Hein's movement quality emphasis
+
+2. **"Why Your Aikido Teacher Says the Sword Is More Important Than Throws"**
+   - Source: Multiple weapons instruction videos
+   - Audience: Beginners to intermediate questioning weapons relevance
+   - Angle: Weapons-as-foundation vs. weapons-as-supplement debate
+   - Cross-reference: Contrast with sport Aikido, explore Hein's biomechanics
+
+3. **"The Strongest Man on the Mat: What Saito Sensei Taught Me About Power"**
+   - Source: STRONGEST Man on the Mat video
+   - Audience: Beginners, especially athletic types relying on strength
+   - Angle: Personal transformation story with 20-year arc
+   - Cross-reference: Hein's "structure over strength" teaching
+
+4. **"Aikido for Perfectionists: Why You'll Never Get It Right (And Why That's the Point)"**
+   - Source: An Art for Perfectionists? + philosophy videos
+   - Audience: All levels struggling with self-criticism
+   - Angle: Psychology of long-term martial training
+   - Cross-reference: Modern sports psychology, growth mindset research
+
+5. **"The Kokyu Gauge: Why Traditional Aikido's 'Power Source' Takes Decades to Fill"**
+   - Source: Finding TRUE Kokyu & Ki video
+   - Audience: Intermediate to advanced interested in internal training
+   - Angle: Traditional internal development with modern analogies
+   - Cross-reference: Compare with Hein's biomechanical "ground path" explanations
+
+6. **"The 7 Most Common Sword Mistakes in Aikido (And Saito Sensei's Corrections)"**
+   - Source: Iwama Aiki-Ken Suburi - Common Mistakes
+   - Audience: Beginner to intermediate weapons students
+   - Angle: Practical troubleshooting guide
+   - Cross-reference: Compare with other sword arts, modern biomechanics
+
+7. **"How to Train Aikido at Home: The Traditional Uchideshi Program Adapted for Modern Life"**
+   - Source: Improving Your Aikido series, Haari progressions
+   - Audience: All levels without regular dojo access
+   - Angle: Complete solo training system
+   - Cross-reference: COVID-era adaptations, other solo training systems
+
+8. **"When Technique Becomes Meditation: The Mental Game of Kumitachi"**
+   - Source: 1st Kumitachi mental aspects
+   - Audience: Intermediate to advanced seeking deeper practice
+   - Angle: Partnered kata as meditation/energy work
+   - Cross-reference: Tai chi, Zen archery, flow state research
+
+9. **"Why Traditional Aikido Teachers Admit Their Art 'Doesn't Work'"**
+   - Source: So what is Aikido? + effectiveness discussions
+   - Audience: Beginners, skeptics, those interested in martial effectiveness
+   - Angle: Honest examination of effectiveness claims
+   - Cross-reference: MMA, alive training advocates (Gent), sports science
+
+10. **"Better 1,000 Times Right Than 10,000 Times Wrong: The Quality Paradox"**
+    - Source: Multiple instructional videos
+    - Audience: All levels focused on quantity metrics
+    - Angle: Counter to "10,000 hours" wisdom
+    - Cross-reference: Deliberate practice research, motor learning
+
+### Medium-Priority Topics (5 additional ideas in comprehensive analysis document)
+
+**See full analysis document for detailed blog idea descriptions with source videos, angles, audiences, and cross-reference suggestions**
 
 ---
 

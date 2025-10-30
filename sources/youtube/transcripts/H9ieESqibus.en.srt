@@ -1,0 +1,5775 @@
+1
+00:00:06,180 --> 00:00:10,390
+
+[Music]
+
+2
+00:00:10,390 --> 00:00:10,400
+
+ 
+
+3
+00:00:10,400 --> 00:00:12,830
+
+We went over
+
+4
+00:00:12,830 --> 00:00:12,840
+We went over
+ 
+
+5
+00:00:12,840 --> 00:00:17,550
+We went over
+um the the rationale behind the tactical
+
+6
+00:00:17,550 --> 00:00:17,560
+um the the rationale behind the tactical
+ 
+
+7
+00:00:17,560 --> 00:00:20,950
+um the the rationale behind the tactical
+architecture. Again, just in short, but
+
+8
+00:00:20,950 --> 00:00:20,960
+architecture. Again, just in short, but
+ 
+
+9
+00:00:20,960 --> 00:00:23,109
+architecture. Again, just in short, but
+it's been said in the last video I
+
+10
+00:00:23,109 --> 00:00:23,119
+it's been said in the last video I
+ 
+
+11
+00:00:23,119 --> 00:00:25,630
+it's been said in the last video I
+posted and it's been written out in a
+
+12
+00:00:25,630 --> 00:00:25,640
+posted and it's been written out in a
+ 
+
+13
+00:00:25,640 --> 00:00:30,230
+posted and it's been written out in a
+reply in the uh text site. Okay. But in
+
+14
+00:00:30,230 --> 00:00:30,240
+reply in the uh text site. Okay. But in
+ 
+
+15
+00:00:30,240 --> 00:00:31,750
+reply in the uh text site. Okay. But in
+short,
+
+16
+00:00:31,750 --> 00:00:31,760
+short,
+ 
+
+17
+00:00:31,760 --> 00:00:34,470
+short,
+uh, for whatever reason, I ended up in
+
+18
+00:00:34,470 --> 00:00:34,480
+uh, for whatever reason, I ended up in
+ 
+
+19
+00:00:34,480 --> 00:00:35,630
+uh, for whatever reason, I ended up in
+mid-range
+
+20
+00:00:35,630 --> 00:00:35,640
+mid-range
+ 
+
+21
+00:00:35,640 --> 00:00:38,229
+mid-range
+grappling. So, all my other previous
+
+22
+00:00:38,229 --> 00:00:38,239
+grappling. So, all my other previous
+ 
+
+23
+00:00:38,239 --> 00:00:41,549
+grappling. So, all my other previous
+tactical spectrums were
+
+24
+00:00:41,549 --> 00:00:41,559
+tactical spectrums were
+ 
+
+25
+00:00:41,559 --> 00:00:43,990
+tactical spectrums were
+nonfunctional. In mid-range grappling,
+
+26
+00:00:43,990 --> 00:00:44,000
+nonfunctional. In mid-range grappling,
+ 
+
+27
+00:00:44,000 --> 00:00:46,430
+nonfunctional. In mid-range grappling,
+you would attempt to do the throw
+
+28
+00:00:46,430 --> 00:00:46,440
+you would attempt to do the throw
+ 
+
+29
+00:00:46,440 --> 00:00:49,389
+you would attempt to do the throw
+first. He ends up countering the throw,
+
+30
+00:00:49,389 --> 00:00:49,399
+first. He ends up countering the throw,
+ 
+
+31
+00:00:49,399 --> 00:00:52,470
+first. He ends up countering the throw,
+but this is mid-range grappling through
+
+32
+00:00:52,470 --> 00:00:52,480
+but this is mid-range grappling through
+ 
+
+33
+00:00:52,480 --> 00:00:54,830
+but this is mid-range grappling through
+internals. So, his center is being
+
+34
+00:00:54,830 --> 00:00:54,840
+internals. So, his center is being
+ 
+
+35
+00:00:54,840 --> 00:00:58,430
+internals. So, his center is being
+seized and I am projecting
+
+36
+00:00:58,430 --> 00:00:58,440
+seized and I am projecting
+ 
+
+37
+00:00:58,440 --> 00:01:01,590
+seized and I am projecting
+it. The wrestler, whoever it is who's
+
+38
+00:01:01,590 --> 00:01:01,600
+it. The wrestler, whoever it is who's
+ 
+
+39
+00:01:01,600 --> 00:01:03,910
+it. The wrestler, whoever it is who's
+grappling with me, is going to realize,
+
+40
+00:01:03,910 --> 00:01:03,920
+grappling with me, is going to realize,
+ 
+
+41
+00:01:03,920 --> 00:01:05,390
+grappling with me, is going to realize,
+they're going to feel
+
+42
+00:01:05,390 --> 00:01:05,400
+they're going to feel
+ 
+
+43
+00:01:05,400 --> 00:01:08,469
+they're going to feel
+intuitively that the contact point that
+
+44
+00:01:08,469 --> 00:01:08,479
+intuitively that the contact point that
+ 
+
+45
+00:01:08,479 --> 00:01:11,510
+intuitively that the contact point that
+I'm using is what is generating the
+
+46
+00:01:11,510 --> 00:01:11,520
+I'm using is what is generating the
+ 
+
+47
+00:01:11,520 --> 00:01:15,670
+I'm using is what is generating the
+center seizure/p projection. So, they're
+
+48
+00:01:15,670 --> 00:01:15,680
+center seizure/p projection. So, they're
+ 
+
+49
+00:01:15,680 --> 00:01:19,670
+center seizure/p projection. So, they're
+going to uh try to yin. They're going to
+
+50
+00:01:19,670 --> 00:01:19,680
+going to uh try to yin. They're going to
+ 
+
+51
+00:01:19,680 --> 00:01:22,310
+going to uh try to yin. They're going to
+do a yin yield on that.
+
+52
+00:01:22,310 --> 00:01:22,320
+do a yin yield on that.
+ 
+
+53
+00:01:22,320 --> 00:01:24,429
+do a yin yield on that.
+When they do that yin yield in that
+
+54
+00:01:24,429 --> 00:01:24,439
+When they do that yin yield in that
+ 
+
+55
+00:01:24,439 --> 00:01:29,390
+When they do that yin yield in that
+moment, that arm is not connected to the
+
+56
+00:01:29,390 --> 00:01:29,400
+moment, that arm is not connected to the
+ 
+
+57
+00:01:29,400 --> 00:01:33,310
+moment, that arm is not connected to the
+core muscle groups, it becomes very
+
+58
+00:01:33,310 --> 00:01:33,320
+core muscle groups, it becomes very
+ 
+
+59
+00:01:33,320 --> 00:01:35,990
+core muscle groups, it becomes very
+manipulable. It will get them off that
+
+60
+00:01:35,990 --> 00:01:36,000
+manipulable. It will get them off that
+ 
+
+61
+00:01:36,000 --> 00:01:40,149
+manipulable. It will get them off that
+center though. That's why they do it.
+
+62
+00:01:40,149 --> 00:01:40,159
+center though. That's why they do it.
+ 
+
+63
+00:01:40,159 --> 00:01:43,510
+center though. That's why they do it.
+If you as a side note here when we do
+
+64
+00:01:43,510 --> 00:01:43,520
+If you as a side note here when we do
+ 
+
+65
+00:01:43,520 --> 00:01:46,630
+If you as a side note here when we do
+the center projection or the koku
+
+66
+00:01:46,630 --> 00:01:46,640
+the center projection or the koku
+ 
+
+67
+00:01:46,640 --> 00:01:49,590
+the center projection or the koku
+cultivation drill set it's very
+
+68
+00:01:49,590 --> 00:01:49,600
+cultivation drill set it's very
+ 
+
+69
+00:01:49,600 --> 00:01:53,429
+cultivation drill set it's very
+important that the uk keep the same
+
+70
+00:01:53,429 --> 00:01:53,439
+important that the uk keep the same
+ 
+
+71
+00:01:53,439 --> 00:01:56,550
+important that the uk keep the same
+energy and the same skeletal structure
+
+72
+00:01:56,550 --> 00:01:56,560
+energy and the same skeletal structure
+ 
+
+73
+00:01:56,560 --> 00:02:01,190
+energy and the same skeletal structure
+so I can do that and as you are trying
+
+74
+00:02:01,190 --> 00:02:01,200
+so I can do that and as you are trying
+ 
+
+75
+00:02:01,200 --> 00:02:04,109
+so I can do that and as you are trying
+to train your uk
+
+76
+00:02:04,109 --> 00:02:04,119
+to train your uk
+ 
+
+77
+00:02:04,119 --> 00:02:09,029
+to train your uk
+or as we here we have lower level uk
+
+78
+00:02:09,029 --> 00:02:09,039
+or as we here we have lower level uk
+ 
+
+79
+00:02:09,039 --> 00:02:11,589
+or as we here we have lower level uk
+just like they're anybody who doesn't
+
+80
+00:02:11,589 --> 00:02:11,599
+just like they're anybody who doesn't
+ 
+
+81
+00:02:11,599 --> 00:02:14,550
+just like they're anybody who doesn't
+have enough hours in, enough reps, and
+
+82
+00:02:14,550 --> 00:02:14,560
+have enough hours in, enough reps, and
+ 
+
+83
+00:02:14,560 --> 00:02:17,510
+have enough hours in, enough reps, and
+so they underperform. Okay? And one of
+
+84
+00:02:17,510 --> 00:02:17,520
+so they underperform. Okay? And one of
+ 
+
+85
+00:02:17,520 --> 00:02:19,510
+so they underperform. Okay? And one of
+the ways that they underperform, the new
+
+86
+00:02:19,510 --> 00:02:19,520
+the ways that they underperform, the new
+ 
+
+87
+00:02:19,520 --> 00:02:21,350
+the ways that they underperform, the new
+UK, the one who doesn't meet the
+
+88
+00:02:21,350 --> 00:02:21,360
+UK, the one who doesn't meet the
+ 
+
+89
+00:02:21,360 --> 00:02:24,869
+UK, the one who doesn't meet the
+training equations yet, is when you try
+
+90
+00:02:24,869 --> 00:02:24,879
+training equations yet, is when you try
+ 
+
+91
+00:02:24,879 --> 00:02:27,990
+training equations yet, is when you try
+the cultivation drill set and they go to
+
+92
+00:02:27,990 --> 00:02:28,000
+the cultivation drill set and they go to
+ 
+
+93
+00:02:28,000 --> 00:02:31,830
+the cultivation drill set and they go to
+push, they do that. Or he goes to push
+
+94
+00:02:31,830 --> 00:02:31,840
+push, they do that. Or he goes to push
+ 
+
+95
+00:02:31,840 --> 00:02:34,790
+push, they do that. Or he goes to push
+me back and they do that. And many of
+
+96
+00:02:34,790 --> 00:02:34,800
+me back and they do that. And many of
+ 
+
+97
+00:02:34,800 --> 00:02:37,110
+me back and they do that. And many of
+you have been corrected. Hey, don't let
+
+98
+00:02:37,110 --> 00:02:37,120
+you have been corrected. Hey, don't let
+ 
+
+99
+00:02:37,120 --> 00:02:41,589
+you have been corrected. Hey, don't let
+your UK do that. because we are using
+
+100
+00:02:41,589 --> 00:02:41,599
+your UK do that. because we are using
+ 
+
+101
+00:02:41,599 --> 00:02:44,470
+your UK do that. because we are using
+their skeletal alignment to give us
+
+102
+00:02:44,470 --> 00:02:44,480
+their skeletal alignment to give us
+ 
+
+103
+00:02:44,480 --> 00:02:46,949
+their skeletal alignment to give us
+enough gross insight into what we're
+
+104
+00:02:46,949 --> 00:02:46,959
+enough gross insight into what we're
+ 
+
+105
+00:02:46,959 --> 00:02:50,670
+enough gross insight into what we're
+doing. Okay? But you saw in them in that
+
+106
+00:02:50,670 --> 00:02:50,680
+doing. Okay? But you saw in them in that
+ 
+
+107
+00:02:50,680 --> 00:02:54,150
+doing. Okay? But you saw in them in that
+reaction the same thing that people do
+
+108
+00:02:54,150 --> 00:02:54,160
+reaction the same thing that people do
+ 
+
+109
+00:02:54,160 --> 00:02:56,470
+reaction the same thing that people do
+at the speed of life inside a fight.
+
+110
+00:02:56,470 --> 00:02:56,480
+at the speed of life inside a fight.
+ 
+
+111
+00:02:56,480 --> 00:02:58,790
+at the speed of life inside a fight.
+They're going to try to get rid of that
+
+112
+00:02:58,790 --> 00:02:58,800
+They're going to try to get rid of that
+ 
+
+113
+00:02:58,800 --> 00:03:00,790
+They're going to try to get rid of that
+and regain control of their center of
+
+114
+00:03:00,790 --> 00:03:00,800
+and regain control of their center of
+ 
+
+115
+00:03:00,800 --> 00:03:02,110
+and regain control of their center of
+gravity.
+
+116
+00:03:02,110 --> 00:03:02,120
+gravity.
+ 
+
+117
+00:03:02,120 --> 00:03:05,390
+gravity.
+Okay, that is what is happening in
+
+118
+00:03:05,390 --> 00:03:05,400
+Okay, that is what is happening in
+ 
+
+119
+00:03:05,400 --> 00:03:08,070
+Okay, that is what is happening in
+EQ. You seize their center. you're
+
+120
+00:03:08,070 --> 00:03:08,080
+EQ. You seize their center. you're
+ 
+
+121
+00:03:08,080 --> 00:03:09,750
+EQ. You seize their center. you're
+starting to project it. They realize
+
+122
+00:03:09,750 --> 00:03:09,760
+starting to project it. They realize
+ 
+
+123
+00:03:09,760 --> 00:03:11,350
+starting to project it. They realize
+they're going to lose their balance.
+
+124
+00:03:11,350 --> 00:03:11,360
+they're going to lose their balance.
+ 
+
+125
+00:03:11,360 --> 00:03:13,190
+they're going to lose their balance.
+They're going to yiny yield or hyper
+
+126
+00:03:13,190 --> 00:03:13,200
+They're going to yiny yield or hyper
+ 
+
+127
+00:03:13,200 --> 00:03:15,430
+They're going to yiny yield or hyper
+yiny yield on the arm. The arm is now
+
+128
+00:03:15,430 --> 00:03:15,440
+yiny yield on the arm. The arm is now
+ 
+
+129
+00:03:15,440 --> 00:03:18,070
+yiny yield on the arm. The arm is now
+isolated from the core muscle groups. It
+
+130
+00:03:18,070 --> 00:03:18,080
+isolated from the core muscle groups. It
+ 
+
+131
+00:03:18,080 --> 00:03:20,869
+isolated from the core muscle groups. It
+becomes manipulable and we do an arm
+
+132
+00:03:20,869 --> 00:03:20,879
+becomes manipulable and we do an arm
+ 
+
+133
+00:03:20,879 --> 00:03:22,869
+becomes manipulable and we do an arm
+isolation technique. In this case, the
+
+134
+00:03:22,869 --> 00:03:22,879
+isolation technique. In this case, the
+ 
+
+135
+00:03:22,879 --> 00:03:24,750
+isolation technique. In this case, the
+arm bar.
+
+136
+00:03:24,750 --> 00:03:24,760
+arm bar.
+ 
+
+137
+00:03:24,760 --> 00:03:29,270
+arm bar.
+Okay, we went over that. We also noted
+
+138
+00:03:29,270 --> 00:03:29,280
+Okay, we went over that. We also noted
+ 
+
+139
+00:03:29,280 --> 00:03:31,990
+Okay, we went over that. We also noted
+that uh we just don't have the
+
+140
+00:03:31,990 --> 00:03:32,000
+that uh we just don't have the
+ 
+
+141
+00:03:32,000 --> 00:03:33,630
+that uh we just don't have the
+projection
+
+142
+00:03:33,630 --> 00:03:33,640
+projection
+ 
+
+143
+00:03:33,640 --> 00:03:36,350
+projection
+skills either.
+
+144
+00:03:36,350 --> 00:03:36,360
+skills either.
+ 
+
+145
+00:03:36,360 --> 00:03:39,589
+skills either.
+We we we can't generate the start of
+
+146
+00:03:39,589 --> 00:03:39,599
+We we we can't generate the start of
+ 
+
+147
+00:03:39,599 --> 00:03:42,229
+We we we can't generate the start of
+that sequence because we cannot seize
+
+148
+00:03:42,229 --> 00:03:42,239
+that sequence because we cannot seize
+ 
+
+149
+00:03:42,239 --> 00:03:45,750
+that sequence because we cannot seize
+the center andor we cannot project their
+
+150
+00:03:45,750 --> 00:03:45,760
+the center andor we cannot project their
+ 
+
+151
+00:03:45,760 --> 00:03:48,309
+the center andor we cannot project their
+center such that it's their line of
+
+152
+00:03:48,309 --> 00:03:48,319
+center such that it's their line of
+ 
+
+153
+00:03:48,319 --> 00:03:49,750
+center such that it's their line of
+gravity is going to fall outside their
+
+154
+00:03:49,750 --> 00:03:49,760
+gravity is going to fall outside their
+ 
+
+155
+00:03:49,760 --> 00:03:51,750
+gravity is going to fall outside their
+base of support and so we cannot really
+
+156
+00:03:51,750 --> 00:03:51,760
+base of support and so we cannot really
+ 
+
+157
+00:03:51,760 --> 00:03:54,309
+base of support and so we cannot really
+generate that arm isolation movement.
+
+158
+00:03:54,309 --> 00:03:54,319
+generate that arm isolation movement.
+ 
+
+159
+00:03:54,319 --> 00:03:57,190
+generate that arm isolation movement.
+Okay. What that looks like is don't
+
+160
+00:03:57,190 --> 00:03:57,200
+Okay. What that looks like is don't
+ 
+
+161
+00:03:57,200 --> 00:03:58,869
+Okay. What that looks like is don't
+don't project me just kind of do it
+
+162
+00:03:58,869 --> 00:03:58,879
+don't project me just kind of do it
+ 
+
+163
+00:03:58,879 --> 00:04:01,670
+don't project me just kind of do it
+externally here is your uk is very
+
+164
+00:04:01,670 --> 00:04:01,680
+externally here is your uk is very
+ 
+
+165
+00:04:01,680 --> 00:04:04,070
+externally here is your uk is very
+strong. the the the core is still able
+
+166
+00:04:04,070 --> 00:04:04,080
+strong. the the the core is still able
+ 
+
+167
+00:04:04,080 --> 00:04:07,350
+strong. the the the core is still able
+to do what it needs to do here and even
+
+168
+00:04:07,350 --> 00:04:07,360
+to do what it needs to do here and even
+ 
+
+169
+00:04:07,360 --> 00:04:10,309
+to do what it needs to do here and even
+push down. Your your federite uka
+
+170
+00:04:10,309 --> 00:04:10,319
+push down. Your your federite uka
+ 
+
+171
+00:04:10,319 --> 00:04:12,949
+push down. Your your federite uka
+doesn't do that. They kind of are just
+
+172
+00:04:12,949 --> 00:04:12,959
+doesn't do that. They kind of are just
+ 
+
+173
+00:04:12,959 --> 00:04:15,990
+doesn't do that. They kind of are just
+here and then they fall down. But your
+
+174
+00:04:15,990 --> 00:04:16,000
+here and then they fall down. But your
+ 
+
+175
+00:04:16,000 --> 00:04:19,509
+here and then they fall down. But your
+your um ukas who are not trained in the
+
+176
+00:04:19,509 --> 00:04:19,519
+your um ukas who are not trained in the
+ 
+
+177
+00:04:19,519 --> 00:04:22,629
+your um ukas who are not trained in the
+culture, they're able to wonder what
+
+178
+00:04:22,629 --> 00:04:22,639
+culture, they're able to wonder what
+ 
+
+179
+00:04:22,639 --> 00:04:24,629
+culture, they're able to wonder what
+you're trying to do because they're
+
+180
+00:04:24,629 --> 00:04:24,639
+you're trying to do because they're
+ 
+
+181
+00:04:24,639 --> 00:04:26,590
+you're trying to do because they're
+really strong here.
+
+182
+00:04:26,590 --> 00:04:26,600
+really strong here.
+ 
+
+183
+00:04:26,600 --> 00:04:31,189
+really strong here.
+Okay. If you now try to push on them,
+
+184
+00:04:31,189 --> 00:04:31,199
+Okay. If you now try to push on them,
+ 
+
+185
+00:04:31,199 --> 00:04:33,350
+Okay. If you now try to push on them,
+you that's where you get that walk.
+
+186
+00:04:33,350 --> 00:04:33,360
+you that's where you get that walk.
+ 
+
+187
+00:04:33,360 --> 00:04:37,230
+you that's where you get that walk.
+Okay? For
+
+188
+00:04:37,230 --> 00:04:37,240
+
+ 
+
+189
+00:04:37,240 --> 00:04:40,230
+
+example, we have to get that that
+
+190
+00:04:40,230 --> 00:04:40,240
+example, we have to get that that
+ 
+
+191
+00:04:40,240 --> 00:04:42,870
+example, we have to get that that
+seizure and that projection. To do that,
+
+192
+00:04:42,870 --> 00:04:42,880
+seizure and that projection. To do that,
+ 
+
+193
+00:04:42,880 --> 00:04:45,189
+seizure and that projection. To do that,
+we need internal skills. You just have
+
+194
+00:04:45,189 --> 00:04:45,199
+we need internal skills. You just have
+ 
+
+195
+00:04:45,199 --> 00:04:47,430
+we need internal skills. You just have
+to go back to the co cultivation drill
+
+196
+00:04:47,430 --> 00:04:47,440
+to go back to the co cultivation drill
+ 
+
+197
+00:04:47,440 --> 00:04:50,230
+to go back to the co cultivation drill
+set. You have to put in time. You have
+
+198
+00:04:50,230 --> 00:04:50,240
+set. You have to put in time. You have
+ 
+
+199
+00:04:50,240 --> 00:04:53,629
+set. You have to put in time. You have
+to come here or you have to do the video
+
+200
+00:04:53,629 --> 00:04:53,639
+to come here or you have to do the video
+ 
+
+201
+00:04:53,639 --> 00:04:56,950
+to come here or you have to do the video
+exchange. It takes years. There's no one
+
+202
+00:04:56,950 --> 00:04:56,960
+exchange. It takes years. There's no one
+ 
+
+203
+00:04:56,960 --> 00:05:00,230
+exchange. It takes years. There's no one
+here who got it like it's some technique
+
+204
+00:05:00,230 --> 00:05:00,240
+here who got it like it's some technique
+ 
+
+205
+00:05:00,240 --> 00:05:03,270
+here who got it like it's some technique
+to get. It's a skill to get. Skills take
+
+206
+00:05:03,270 --> 00:05:03,280
+to get. It's a skill to get. Skills take
+ 
+
+207
+00:05:03,280 --> 00:05:06,950
+to get. It's a skill to get. Skills take
+years to develop. And uh you can see
+
+208
+00:05:06,950 --> 00:05:06,960
+years to develop. And uh you can see
+ 
+
+209
+00:05:06,960 --> 00:05:10,310
+years to develop. And uh you can see
+here in our dashes here, while they are
+
+210
+00:05:10,310 --> 00:05:10,320
+here in our dashes here, while they are
+ 
+
+211
+00:05:10,320 --> 00:05:13,110
+here in our dashes here, while they are
+ahead of where you all are at, they're
+
+212
+00:05:13,110 --> 00:05:13,120
+ahead of where you all are at, they're
+ 
+
+213
+00:05:13,120 --> 00:05:15,749
+ahead of where you all are at, they're
+not all at the same level because they
+
+214
+00:05:15,749 --> 00:05:15,759
+not all at the same level because they
+ 
+
+215
+00:05:15,759 --> 00:05:17,990
+not all at the same level because they
+have different levels of commitment and
+
+216
+00:05:17,990 --> 00:05:18,000
+have different levels of commitment and
+ 
+
+217
+00:05:18,000 --> 00:05:19,510
+have different levels of commitment and
+they haven't all met the training
+
+218
+00:05:19,510 --> 00:05:19,520
+they haven't all met the training
+ 
+
+219
+00:05:19,520 --> 00:05:23,029
+they haven't all met the training
+equations. But none of them uh have less
+
+220
+00:05:23,029 --> 00:05:23,039
+equations. But none of them uh have less
+ 
+
+221
+00:05:23,039 --> 00:05:25,590
+equations. But none of them uh have less
+than one year trying to work on this
+
+222
+00:05:25,590 --> 00:05:25,600
+than one year trying to work on this
+ 
+
+223
+00:05:25,600 --> 00:05:29,110
+than one year trying to work on this
+stuff. Okay? Many of them uh lots of
+
+224
+00:05:29,110 --> 00:05:29,120
+stuff. Okay? Many of them uh lots of
+ 
+
+225
+00:05:29,120 --> 00:05:31,430
+stuff. Okay? Many of them uh lots of
+years working on it. And the ones who
+
+226
+00:05:31,430 --> 00:05:31,440
+years working on it. And the ones who
+ 
+
+227
+00:05:31,440 --> 00:05:33,670
+years working on it. And the ones who
+are more skilled at it, they have more
+
+228
+00:05:33,670 --> 00:05:33,680
+are more skilled at it, they have more
+ 
+
+229
+00:05:33,680 --> 00:05:35,909
+are more skilled at it, they have more
+actual training hours at it than ours
+
+230
+00:05:35,909 --> 00:05:35,919
+actual training hours at it than ours
+ 
+
+231
+00:05:35,919 --> 00:05:38,590
+actual training hours at it than ours
+that are not as skilled at it.
+
+232
+00:05:38,590 --> 00:05:38,600
+that are not as skilled at it.
+ 
+
+233
+00:05:38,600 --> 00:05:41,350
+that are not as skilled at it.
+Okay? So, you need to put your time in.
+
+234
+00:05:41,350 --> 00:05:41,360
+Okay? So, you need to put your time in.
+ 
+
+235
+00:05:41,360 --> 00:05:43,270
+Okay? So, you need to put your time in.
+You need to be patient. Get in that
+
+236
+00:05:43,270 --> 00:05:43,280
+You need to be patient. Get in that
+ 
+
+237
+00:05:43,280 --> 00:05:47,150
+You need to be patient. Get in that
+video exchange. Uh, and as I've shared
+
+238
+00:05:47,150 --> 00:05:47,160
+video exchange. Uh, and as I've shared
+ 
+
+239
+00:05:47,160 --> 00:05:49,749
+video exchange. Uh, and as I've shared
+recently, Ivan is just proof it can be
+
+240
+00:05:49,749 --> 00:05:49,759
+recently, Ivan is just proof it can be
+ 
+
+241
+00:05:49,759 --> 00:05:52,790
+recently, Ivan is just proof it can be
+done. I've never met him. We He's never
+
+242
+00:05:52,790 --> 00:05:52,800
+done. I've never met him. We He's never
+ 
+
+243
+00:05:52,800 --> 00:05:55,510
+done. I've never met him. We He's never
+felt my technique, but he keeps he
+
+244
+00:05:55,510 --> 00:05:55,520
+felt my technique, but he keeps he
+ 
+
+245
+00:05:55,520 --> 00:05:58,070
+felt my technique, but he keeps he
+exchanges the most videos with me out of
+
+246
+00:05:58,070 --> 00:05:58,080
+exchanges the most videos with me out of
+ 
+
+247
+00:05:58,080 --> 00:06:01,430
+exchanges the most videos with me out of
+anybody in the group. So, just like the
+
+248
+00:06:01,430 --> 00:06:01,440
+anybody in the group. So, just like the
+ 
+
+249
+00:06:01,440 --> 00:06:05,909
+anybody in the group. So, just like the
+Dashi here that can do it, they have the
+
+250
+00:06:05,909 --> 00:06:05,919
+Dashi here that can do it, they have the
+ 
+
+251
+00:06:05,919 --> 00:06:08,230
+Dashi here that can do it, they have the
+most training hours out of the others
+
+252
+00:06:08,230 --> 00:06:08,240
+most training hours out of the others
+ 
+
+253
+00:06:08,240 --> 00:06:11,110
+most training hours out of the others
+who cannot. Ivan has the most video
+
+254
+00:06:11,110 --> 00:06:11,120
+who cannot. Ivan has the most video
+ 
+
+255
+00:06:11,120 --> 00:06:13,350
+who cannot. Ivan has the most video
+exchange hours out of anyone else in the
+
+256
+00:06:13,350 --> 00:06:13,360
+exchange hours out of anyone else in the
+ 
+
+257
+00:06:13,360 --> 00:06:15,670
+exchange hours out of anyone else in the
+group. he can do it more than other
+
+258
+00:06:15,670 --> 00:06:15,680
+group. he can do it more than other
+ 
+
+259
+00:06:15,680 --> 00:06:17,790
+group. he can do it more than other
+people can do it.
+
+260
+00:06:17,790 --> 00:06:17,800
+people can do it.
+ 
+
+261
+00:06:17,800 --> 00:06:22,070
+people can do it.
+Okay. Uh the next thing that we have to
+
+262
+00:06:22,070 --> 00:06:22,080
+Okay. Uh the next thing that we have to
+ 
+
+263
+00:06:22,080 --> 00:06:26,590
+Okay. Uh the next thing that we have to
+deal with is how not to push UK
+
+264
+00:06:26,590 --> 00:06:26,600
+deal with is how not to push UK
+ 
+
+265
+00:06:26,600 --> 00:06:29,110
+deal with is how not to push UK
+away. And then the last thing to deal
+
+266
+00:06:29,110 --> 00:06:29,120
+away. And then the last thing to deal
+ 
+
+267
+00:06:29,120 --> 00:06:32,670
+away. And then the last thing to deal
+with is how to do the X path.
+
+268
+00:06:32,670 --> 00:06:32,680
+with is how to do the X path.
+ 
+
+269
+00:06:32,680 --> 00:06:36,469
+with is how to do the X path.
+Okay. So going in review again, we know
+
+270
+00:06:36,469 --> 00:06:36,479
+Okay. So going in review again, we know
+ 
+
+271
+00:06:36,479 --> 00:06:38,510
+Okay. So going in review again, we know
+the rationale behind the tactical
+
+272
+00:06:38,510 --> 00:06:38,520
+the rationale behind the tactical
+ 
+
+273
+00:06:38,520 --> 00:06:41,270
+the rationale behind the tactical
+architecture. I can't really generate it
+
+274
+00:06:41,270 --> 00:06:41,280
+architecture. I can't really generate it
+ 
+
+275
+00:06:41,280 --> 00:06:43,749
+architecture. I can't really generate it
+until we address the second thing. I
+
+276
+00:06:43,749 --> 00:06:43,759
+until we address the second thing. I
+ 
+
+277
+00:06:43,759 --> 00:06:46,070
+until we address the second thing. I
+need the internal skills. What do I have
+
+278
+00:06:46,070 --> 00:06:46,080
+need the internal skills. What do I have
+ 
+
+279
+00:06:46,080 --> 00:06:49,350
+need the internal skills. What do I have
+to do? Not try to fix Eekio. Do the CoQ
+
+280
+00:06:49,350 --> 00:06:49,360
+to do? Not try to fix Eekio. Do the CoQ
+ 
+
+281
+00:06:49,360 --> 00:06:51,990
+to do? Not try to fix Eekio. Do the CoQ
+cultivation drill set. This third thing
+
+282
+00:06:51,990 --> 00:06:52,000
+cultivation drill set. This third thing
+ 
+
+283
+00:06:52,000 --> 00:06:56,390
+cultivation drill set. This third thing
+of not pushing UK away is we can fix
+
+284
+00:06:56,390 --> 00:06:56,400
+of not pushing UK away is we can fix
+ 
+
+285
+00:06:56,400 --> 00:07:00,550
+of not pushing UK away is we can fix
+that. And if we fix this, we can kind of
+
+286
+00:07:00,550 --> 00:07:00,560
+that. And if we fix this, we can kind of
+ 
+
+287
+00:07:00,560 --> 00:07:01,550
+that. And if we fix this, we can kind of
+game
+
+288
+00:07:01,550 --> 00:07:01,560
+game
+ 
+
+289
+00:07:01,560 --> 00:07:05,029
+game
+ourselves to be able to also get the X
+
+290
+00:07:05,029 --> 00:07:05,039
+ourselves to be able to also get the X
+ 
+
+291
+00:07:05,039 --> 00:07:07,670
+ourselves to be able to also get the X
+pattern. Okay? And that's what we're
+
+292
+00:07:07,670 --> 00:07:07,680
+pattern. Okay? And that's what we're
+ 
+
+293
+00:07:07,680 --> 00:07:09,270
+pattern. Okay? And that's what we're
+going to do today. We're going to leave
+
+294
+00:07:09,270 --> 00:07:09,280
+going to do today. We're going to leave
+ 
+
+295
+00:07:09,280 --> 00:07:11,830
+going to do today. We're going to leave
+the other two stuff off the table and
+
+296
+00:07:11,830 --> 00:07:11,840
+the other two stuff off the table and
+ 
+
+297
+00:07:11,840 --> 00:07:13,749
+the other two stuff off the table and
+we're going to look at how do I not push
+
+298
+00:07:13,749 --> 00:07:13,759
+we're going to look at how do I not push
+ 
+
+299
+00:07:13,759 --> 00:07:17,909
+we're going to look at how do I not push
+UK away. And by not pushing UK away, how
+
+300
+00:07:17,909 --> 00:07:17,919
+UK away. And by not pushing UK away, how
+ 
+
+301
+00:07:17,919 --> 00:07:20,150
+UK away. And by not pushing UK away, how
+do I actually enter? Because I cannot
+
+302
+00:07:20,150 --> 00:07:20,160
+do I actually enter? Because I cannot
+ 
+
+303
+00:07:20,160 --> 00:07:23,430
+do I actually enter? Because I cannot
+enter on someone who is perpetually
+
+304
+00:07:23,430 --> 00:07:23,440
+enter on someone who is perpetually
+ 
+
+305
+00:07:23,440 --> 00:07:25,589
+enter on someone who is perpetually
+being pushed ahead of me because it's
+
+306
+00:07:25,589 --> 00:07:25,599
+being pushed ahead of me because it's
+ 
+
+307
+00:07:25,599 --> 00:07:28,909
+being pushed ahead of me because it's
+impossible. Okay. All right.
+
+308
+00:07:28,909 --> 00:07:28,919
+impossible. Okay. All right.
+ 
+
+309
+00:07:28,919 --> 00:07:31,990
+impossible. Okay. All right.
+So, the main thing is first let's set up
+
+310
+00:07:31,990 --> 00:07:32,000
+So, the main thing is first let's set up
+ 
+
+311
+00:07:32,000 --> 00:07:35,670
+So, the main thing is first let's set up
+what we're looking at. We get to here.
+
+312
+00:07:35,670 --> 00:07:35,680
+what we're looking at. We get to here.
+ 
+
+313
+00:07:35,680 --> 00:07:39,350
+what we're looking at. We get to here.
+Okay. You got to here. Um, and let's
+
+314
+00:07:39,350 --> 00:07:39,360
+Okay. You got to here. Um, and let's
+ 
+
+315
+00:07:39,360 --> 00:07:42,189
+Okay. You got to here. Um, and let's
+mark his elbow in the vertical
+
+316
+00:07:42,189 --> 00:07:42,199
+mark his elbow in the vertical
+ 
+
+317
+00:07:42,199 --> 00:07:46,270
+mark his elbow in the vertical
+plane. Okay. And we're going that
+
+318
+00:07:46,270 --> 00:07:46,280
+plane. Okay. And we're going that
+ 
+
+319
+00:07:46,280 --> 00:07:49,749
+plane. Okay. And we're going that
+way. The push that I'm talking about is
+
+320
+00:07:49,749 --> 00:07:49,759
+way. The push that I'm talking about is
+ 
+
+321
+00:07:49,759 --> 00:07:53,189
+way. The push that I'm talking about is
+I take his elbow and I continue to move
+
+322
+00:07:53,189 --> 00:07:53,199
+I take his elbow and I continue to move
+ 
+
+323
+00:07:53,199 --> 00:07:55,670
+I take his elbow and I continue to move
+it in the direction that we're traveling
+
+324
+00:07:55,670 --> 00:07:55,680
+it in the direction that we're traveling
+ 
+
+325
+00:07:55,680 --> 00:07:57,469
+it in the direction that we're traveling
+past where it
+
+326
+00:07:57,469 --> 00:07:57,479
+past where it
+ 
+
+327
+00:07:57,479 --> 00:08:01,350
+past where it
+was. We'll do that one more time. Put it
+
+328
+00:08:01,350 --> 00:08:01,360
+was. We'll do that one more time. Put it
+ 
+
+329
+00:08:01,360 --> 00:08:06,070
+was. We'll do that one more time. Put it
+right where it is. Cool. And now I push
+
+330
+00:08:06,070 --> 00:08:06,080
+right where it is. Cool. And now I push
+ 
+
+331
+00:08:06,080 --> 00:08:09,029
+right where it is. Cool. And now I push
+it forward off that vertical plane
+
+332
+00:08:09,029 --> 00:08:09,039
+it forward off that vertical plane
+ 
+
+333
+00:08:09,039 --> 00:08:11,990
+it forward off that vertical plane
+forward like that. That's the problem. I
+
+334
+00:08:11,990 --> 00:08:12,000
+forward like that. That's the problem. I
+ 
+
+335
+00:08:12,000 --> 00:08:14,150
+forward like that. That's the problem. I
+can't enter on that because I am
+
+336
+00:08:14,150 --> 00:08:14,160
+can't enter on that because I am
+ 
+
+337
+00:08:14,160 --> 00:08:16,309
+can't enter on that because I am
+perpetually moving them ahead of me.
+
+338
+00:08:16,309 --> 00:08:16,319
+perpetually moving them ahead of me.
+ 
+
+339
+00:08:16,319 --> 00:08:18,869
+perpetually moving them ahead of me.
+Okay? And if I can't enter, then I can't
+
+340
+00:08:18,869 --> 00:08:18,879
+Okay? And if I can't enter, then I can't
+ 
+
+341
+00:08:18,879 --> 00:08:20,430
+Okay? And if I can't enter, then I can't
+do the action
+
+342
+00:08:20,430 --> 00:08:20,440
+do the action
+ 
+
+343
+00:08:20,440 --> 00:08:24,150
+do the action
+pattern. There's two places
+
+344
+00:08:24,150 --> 00:08:24,160
+pattern. There's two places
+ 
+
+345
+00:08:24,160 --> 00:08:26,070
+pattern. There's two places
+uh well there's three places that allow
+
+346
+00:08:26,070 --> 00:08:26,080
+uh well there's three places that allow
+ 
+
+347
+00:08:26,080 --> 00:08:30,230
+uh well there's three places that allow
+me to enter without pushing him forward.
+
+348
+00:08:30,230 --> 00:08:30,240
+me to enter without pushing him forward.
+ 
+
+349
+00:08:30,240 --> 00:08:33,110
+me to enter without pushing him forward.
+The first one is related to the Koku
+
+350
+00:08:33,110 --> 00:08:33,120
+The first one is related to the Koku
+ 
+
+351
+00:08:33,120 --> 00:08:37,110
+The first one is related to the Koku
+projection and his counter to the throw
+
+352
+00:08:37,110 --> 00:08:37,120
+projection and his counter to the throw
+ 
+
+353
+00:08:37,120 --> 00:08:40,509
+projection and his counter to the throw
+in the hyper yin yield.
+
+354
+00:08:40,509 --> 00:08:40,519
+in the hyper yin yield.
+ 
+
+355
+00:08:40,519 --> 00:08:44,230
+in the hyper yin yield.
+Okay. Um if he if he keeps his arm
+
+356
+00:08:44,230 --> 00:08:44,240
+Okay. Um if he if he keeps his arm
+ 
+
+357
+00:08:44,240 --> 00:08:46,710
+Okay. Um if he if he keeps his arm
+straight then where I'm touching will
+
+358
+00:08:46,710 --> 00:08:46,720
+straight then where I'm touching will
+ 
+
+359
+00:08:46,720 --> 00:08:48,750
+straight then where I'm touching will
+get his
+
+360
+00:08:48,750 --> 00:08:48,760
+get his
+ 
+
+361
+00:08:48,760 --> 00:08:52,230
+get his
+center. So he hyperunials just like the
+
+362
+00:08:52,230 --> 00:08:52,240
+center. So he hyperunials just like the
+ 
+
+363
+00:08:52,240 --> 00:08:54,949
+center. So he hyperunials just like the
+the bad training partner in the
+
+364
+00:08:54,949 --> 00:08:54,959
+the bad training partner in the
+ 
+
+365
+00:08:54,959 --> 00:08:58,070
+the bad training partner in the
+cultivation drill set. Okay. But of
+
+366
+00:08:58,070 --> 00:08:58,080
+cultivation drill set. Okay. But of
+ 
+
+367
+00:08:58,080 --> 00:09:01,190
+cultivation drill set. Okay. But of
+course that means that as I travel with
+
+368
+00:09:01,190 --> 00:09:01,200
+course that means that as I travel with
+ 
+
+369
+00:09:01,200 --> 00:09:05,190
+course that means that as I travel with
+his elbow, he didn't go forward. Okay,
+
+370
+00:09:05,190 --> 00:09:05,200
+his elbow, he didn't go forward. Okay,
+ 
+
+371
+00:09:05,200 --> 00:09:06,590
+his elbow, he didn't go forward. Okay,
+it's
+
+372
+00:09:06,590 --> 00:09:06,600
+it's
+ 
+
+373
+00:09:06,600 --> 00:09:09,829
+it's
+yin. And this is very important because
+
+374
+00:09:09,829 --> 00:09:09,839
+yin. And this is very important because
+ 
+
+375
+00:09:09,839 --> 00:09:13,430
+yin. And this is very important because
+this is now the harmonization of yin and
+
+376
+00:09:13,430 --> 00:09:13,440
+this is now the harmonization of yin and
+ 
+
+377
+00:09:13,440 --> 00:09:17,430
+this is now the harmonization of yin and
+yang. He has yin. I can enter. When I
+
+378
+00:09:17,430 --> 00:09:17,440
+yang. He has yin. I can enter. When I
+ 
+
+379
+00:09:17,440 --> 00:09:18,430
+yang. He has yin. I can enter. When I
+push the
+
+380
+00:09:18,430 --> 00:09:18,440
+push the
+ 
+
+381
+00:09:18,440 --> 00:09:20,910
+push the
+elbow, his
+
+382
+00:09:20,910 --> 00:09:20,920
+elbow, his
+ 
+
+383
+00:09:20,920 --> 00:09:23,910
+elbow, his
+inertia and his mass, his inertia
+
+384
+00:09:23,910 --> 00:09:23,920
+inertia and his mass, his inertia
+ 
+
+385
+00:09:23,920 --> 00:09:27,670
+inertia and his mass, his inertia
+keeping him still is yong aspect. And so
+
+386
+00:09:27,670 --> 00:09:27,680
+keeping him still is yong aspect. And so
+ 
+
+387
+00:09:27,680 --> 00:09:29,750
+keeping him still is yong aspect. And so
+this is technically a yongyong clash
+
+388
+00:09:29,750 --> 00:09:29,760
+this is technically a yongyong clash
+ 
+
+389
+00:09:29,760 --> 00:09:32,150
+this is technically a yongyong clash
+when I push that ahead.
+
+390
+00:09:32,150 --> 00:09:32,160
+when I push that ahead.
+ 
+
+391
+00:09:32,160 --> 00:09:35,590
+when I push that ahead.
+This is why, for example, you can do it
+
+392
+00:09:35,590 --> 00:09:35,600
+This is why, for example, you can do it
+ 
+
+393
+00:09:35,600 --> 00:09:37,550
+This is why, for example, you can do it
+on smaller
+
+394
+00:09:37,550 --> 00:09:37,560
+on smaller
+ 
+
+395
+00:09:37,560 --> 00:09:41,110
+on smaller
+uk or people you outrank because they'll
+
+396
+00:09:41,110 --> 00:09:41,120
+uk or people you outrank because they'll
+ 
+
+397
+00:09:41,120 --> 00:09:43,910
+uk or people you outrank because they'll
+never go against you. Okay? and why you
+
+398
+00:09:43,910 --> 00:09:43,920
+never go against you. Okay? and why you
+ 
+
+399
+00:09:43,920 --> 00:09:47,310
+never go against you. Okay? and why you
+can't on people that outrank you or
+
+400
+00:09:47,310 --> 00:09:47,320
+can't on people that outrank you or
+ 
+
+401
+00:09:47,320 --> 00:09:50,870
+can't on people that outrank you or
+especially big heavy uk who outrank you,
+
+402
+00:09:50,870 --> 00:09:50,880
+especially big heavy uk who outrank you,
+ 
+
+403
+00:09:50,880 --> 00:09:53,750
+especially big heavy uk who outrank you,
+right? Or big heavy uk who don't know
+
+404
+00:09:53,750 --> 00:09:53,760
+right? Or big heavy uk who don't know
+ 
+
+405
+00:09:53,760 --> 00:09:55,269
+right? Or big heavy uk who don't know
+the choreography that they're supposed
+
+406
+00:09:55,269 --> 00:09:55,279
+the choreography that they're supposed
+ 
+
+407
+00:09:55,279 --> 00:09:57,750
+the choreography that they're supposed
+to lay down. You you're feeling the yong
+
+408
+00:09:57,750 --> 00:09:57,760
+to lay down. You you're feeling the yong
+ 
+
+409
+00:09:57,760 --> 00:10:00,550
+to lay down. You you're feeling the yong
+yong conflict. Okay? When you're trying
+
+410
+00:10:00,550 --> 00:10:00,560
+yong conflict. Okay? When you're trying
+ 
+
+411
+00:10:00,560 --> 00:10:02,710
+yong conflict. Okay? When you're trying
+to rest someone or fight someone,
+
+412
+00:10:02,710 --> 00:10:02,720
+to rest someone or fight someone,
+ 
+
+413
+00:10:02,720 --> 00:10:04,550
+to rest someone or fight someone,
+they're just going to resist it. You're
+
+414
+00:10:04,550 --> 00:10:04,560
+they're just going to resist it. You're
+ 
+
+415
+00:10:04,560 --> 00:10:06,670
+they're just going to resist it. You're
+not going to be able to do it.
+
+416
+00:10:06,670 --> 00:10:06,680
+not going to be able to do it.
+ 
+
+417
+00:10:06,680 --> 00:10:09,910
+not going to be able to do it.
+Okay? All right. So there is that first
+
+418
+00:10:09,910 --> 00:10:09,920
+Okay? All right. So there is that first
+ 
+
+419
+00:10:09,920 --> 00:10:13,269
+Okay? All right. So there is that first
+yin yield when he hyper yin yields there
+
+420
+00:10:13,269 --> 00:10:13,279
+yin yield when he hyper yin yields there
+ 
+
+421
+00:10:13,279 --> 00:10:15,949
+yin yield when he hyper yin yields there
+in response to the projection on his
+
+422
+00:10:15,949 --> 00:10:15,959
+in response to the projection on his
+ 
+
+423
+00:10:15,959 --> 00:10:18,150
+in response to the projection on his
+center. We're not really going to play
+
+424
+00:10:18,150 --> 00:10:18,160
+center. We're not really going to play
+ 
+
+425
+00:10:18,160 --> 00:10:19,790
+center. We're not really going to play
+with that
+
+426
+00:10:19,790 --> 00:10:19,800
+with that
+ 
+
+427
+00:10:19,800 --> 00:10:21,829
+with that
+today. We're going to play with the
+
+428
+00:10:21,829 --> 00:10:21,839
+today. We're going to play with the
+ 
+
+429
+00:10:21,839 --> 00:10:26,389
+today. We're going to play with the
+other two yin yields that I do. So when
+
+430
+00:10:26,389 --> 00:10:26,399
+other two yin yields that I do. So when
+ 
+
+431
+00:10:26,399 --> 00:10:28,430
+other two yin yields that I do. So when
+I'm going to have him kind of push on
+
+432
+00:10:28,430 --> 00:10:28,440
+I'm going to have him kind of push on
+ 
+
+433
+00:10:28,440 --> 00:10:32,509
+I'm going to have him kind of push on
+me. Okay. I don't go from the inward
+
+434
+00:10:32,509 --> 00:10:32,519
+me. Okay. I don't go from the inward
+ 
+
+435
+00:10:32,519 --> 00:10:35,990
+me. Okay. I don't go from the inward
+spiral up to the elbow as many of you
+
+436
+00:10:35,990 --> 00:10:36,000
+spiral up to the elbow as many of you
+ 
+
+437
+00:10:36,000 --> 00:10:39,910
+spiral up to the elbow as many of you
+are doing. So it kind of looks here I
+
+438
+00:10:39,910 --> 00:10:39,920
+are doing. So it kind of looks here I
+ 
+
+439
+00:10:39,920 --> 00:10:47,069
+are doing. So it kind of looks here I
+here's my hand and you're going
+
+440
+00:10:47,069 --> 00:10:47,079
+
+ 
+
+441
+00:10:47,079 --> 00:10:50,389
+
+here. This this grip here. I'll do it
+
+442
+00:10:50,389 --> 00:10:50,399
+here. This this grip here. I'll do it
+ 
+
+443
+00:10:50,399 --> 00:10:53,110
+here. This this grip here. I'll do it
+slow. You'll see what's happening. Take
+
+444
+00:10:53,110 --> 00:10:53,120
+slow. You'll see what's happening. Take
+ 
+
+445
+00:10:53,120 --> 00:10:56,310
+slow. You'll see what's happening. Take
+your hand off the mat. Okay. You'll see
+
+446
+00:10:56,310 --> 00:10:56,320
+your hand off the mat. Okay. You'll see
+ 
+
+447
+00:10:56,320 --> 00:10:58,870
+your hand off the mat. Okay. You'll see
+that that elbow is moving forward. So
+
+448
+00:10:58,870 --> 00:10:58,880
+that that elbow is moving forward. So
+ 
+
+449
+00:10:58,880 --> 00:11:00,269
+that that elbow is moving forward. So
+we'll do the plane
+
+450
+00:11:00,269 --> 00:11:00,279
+we'll do the plane
+ 
+
+451
+00:11:00,279 --> 00:11:03,829
+we'll do the plane
+again. Okay. And me trying to go from
+
+452
+00:11:03,829 --> 00:11:03,839
+again. Okay. And me trying to go from
+ 
+
+453
+00:11:03,839 --> 00:11:07,190
+again. Okay. And me trying to go from
+the grip to the elbow will make his
+
+454
+00:11:07,190 --> 00:11:07,200
+the grip to the elbow will make his
+ 
+
+455
+00:11:07,200 --> 00:11:09,790
+the grip to the elbow will make his
+elbow move forward of the
+
+456
+00:11:09,790 --> 00:11:09,800
+elbow move forward of the
+ 
+
+457
+00:11:09,800 --> 00:11:13,110
+elbow move forward of the
+plane. Sean, is she on the elbow plane?
+
+458
+00:11:13,110 --> 00:11:13,120
+plane. Sean, is she on the elbow plane?
+ 
+
+459
+00:11:13,120 --> 00:11:16,550
+plane. Sean, is she on the elbow plane?
+I Yes. Yes. Okay. So, we'll do it slow.
+
+460
+00:11:16,550 --> 00:11:16,560
+I Yes. Yes. Okay. So, we'll do it slow.
+ 
+
+461
+00:11:16,560 --> 00:11:18,470
+I Yes. Yes. Okay. So, we'll do it slow.
+I start to shift my weight. I start to
+
+462
+00:11:18,470 --> 00:11:18,480
+I start to shift my weight. I start to
+ 
+
+463
+00:11:18,480 --> 00:11:20,150
+I start to shift my weight. I start to
+reach for the elbow and you start making
+
+464
+00:11:20,150 --> 00:11:20,160
+reach for the elbow and you start making
+ 
+
+465
+00:11:20,160 --> 00:11:23,750
+reach for the elbow and you start making
+it go forward. At the speed of life, it
+
+466
+00:11:23,750 --> 00:11:23,760
+it go forward. At the speed of life, it
+ 
+
+467
+00:11:23,760 --> 00:11:25,750
+it go forward. At the speed of life, it
+might only go forward an inch and you
+
+468
+00:11:25,750 --> 00:11:25,760
+might only go forward an inch and you
+ 
+
+469
+00:11:25,760 --> 00:11:28,550
+might only go forward an inch and you
+got on the elbow. But you just made him
+
+470
+00:11:28,550 --> 00:11:28,560
+got on the elbow. But you just made him
+ 
+
+471
+00:11:28,560 --> 00:11:32,790
+got on the elbow. But you just made him
+go forward. You made inertia go forward.
+
+472
+00:11:32,790 --> 00:11:32,800
+go forward. You made inertia go forward.
+ 
+
+473
+00:11:32,800 --> 00:11:34,470
+go forward. You made inertia go forward.
+And it's just the beginning of that
+
+474
+00:11:34,470 --> 00:11:34,480
+And it's just the beginning of that
+ 
+
+475
+00:11:34,480 --> 00:11:39,190
+And it's just the beginning of that
+pushing forward. Okay. What I do after I
+
+476
+00:11:39,190 --> 00:11:39,200
+pushing forward. Okay. What I do after I
+ 
+
+477
+00:11:39,200 --> 00:11:43,190
+pushing forward. Okay. What I do after I
+get here is one more turn. So I get the
+
+478
+00:11:43,190 --> 00:11:43,200
+get here is one more turn. So I get the
+ 
+
+479
+00:11:43,200 --> 00:11:47,190
+get here is one more turn. So I get the
+trap. And when I do that one more turn.
+
+480
+00:11:47,190 --> 00:11:47,200
+trap. And when I do that one more turn.
+ 
+
+481
+00:11:47,200 --> 00:11:49,670
+trap. And when I do that one more turn.
+Are you there? Yeah. Okay. When I do
+
+482
+00:11:49,670 --> 00:11:49,680
+Are you there? Yeah. Okay. When I do
+ 
+
+483
+00:11:49,680 --> 00:11:52,630
+Are you there? Yeah. Okay. When I do
+that one more turn, that's a yin yield.
+
+484
+00:11:52,630 --> 00:11:52,640
+that one more turn, that's a yin yield.
+ 
+
+485
+00:11:52,640 --> 00:11:55,110
+that one more turn, that's a yin yield.
+You can see his elbows coming slightly
+
+486
+00:11:55,110 --> 00:11:55,120
+You can see his elbows coming slightly
+ 
+
+487
+00:11:55,120 --> 00:11:57,750
+You can see his elbows coming slightly
+back towards me. Okay. We'll do it one
+
+488
+00:11:57,750 --> 00:11:57,760
+back towards me. Okay. We'll do it one
+ 
+
+489
+00:11:57,760 --> 00:12:01,110
+back towards me. Okay. We'll do it one
+more time. I'm here like that. I do one
+
+490
+00:12:01,110 --> 00:12:01,120
+more time. I'm here like that. I do one
+ 
+
+491
+00:12:01,120 --> 00:12:03,110
+more time. I'm here like that. I do one
+more turn. You can see that his arm's
+
+492
+00:12:03,110 --> 00:12:03,120
+more turn. You can see that his arm's
+ 
+
+493
+00:12:03,120 --> 00:12:07,870
+more turn. You can see that his arm's
+coming back towards me. Okay, you
+
+494
+00:12:07,870 --> 00:12:07,880
+coming back towards me. Okay, you
+ 
+
+495
+00:12:07,880 --> 00:12:11,990
+coming back towards me. Okay, you
+will how big you make it like any other
+
+496
+00:12:11,990 --> 00:12:12,000
+will how big you make it like any other
+ 
+
+497
+00:12:12,000 --> 00:12:15,030
+will how big you make it like any other
+yin-yang reconciliation is dependent
+
+498
+00:12:15,030 --> 00:12:15,040
+yin-yang reconciliation is dependent
+ 
+
+499
+00:12:15,040 --> 00:12:16,910
+yin-yang reconciliation is dependent
+upon
+
+500
+00:12:16,910 --> 00:12:16,920
+upon
+ 
+
+501
+00:12:16,920 --> 00:12:20,790
+upon
+uh how much yang is in his grip. So, if
+
+502
+00:12:20,790 --> 00:12:20,800
+uh how much yang is in his grip. So, if
+ 
+
+503
+00:12:20,800 --> 00:12:23,190
+uh how much yang is in his grip. So, if
+he has a lot of yong in that grip,
+
+504
+00:12:23,190 --> 00:12:23,200
+he has a lot of yong in that grip,
+ 
+
+505
+00:12:23,200 --> 00:12:25,750
+he has a lot of yong in that grip,
+you're going to do a pretty big yin yo.
+
+506
+00:12:25,750 --> 00:12:25,760
+you're going to do a pretty big yin yo.
+ 
+
+507
+00:12:25,760 --> 00:12:29,829
+you're going to do a pretty big yin yo.
+If he has, for example, very little yong
+
+508
+00:12:29,829 --> 00:12:29,839
+If he has, for example, very little yong
+ 
+
+509
+00:12:29,839 --> 00:12:33,430
+If he has, for example, very little yong
+because in his projection, he barely has
+
+510
+00:12:33,430 --> 00:12:33,440
+because in his projection, he barely has
+ 
+
+511
+00:12:33,440 --> 00:12:36,230
+because in his projection, he barely has
+any fingers on there. Do you see there's
+
+512
+00:12:36,230 --> 00:12:36,240
+any fingers on there. Do you see there's
+ 
+
+513
+00:12:36,240 --> 00:12:38,629
+any fingers on there. Do you see there's
+barely any fingers? There'll be less
+
+514
+00:12:38,629 --> 00:12:38,639
+barely any fingers? There'll be less
+ 
+
+515
+00:12:38,639 --> 00:12:41,310
+barely any fingers? There'll be less
+push as I come through. It's a very
+
+516
+00:12:41,310 --> 00:12:41,320
+push as I come through. It's a very
+ 
+
+517
+00:12:41,320 --> 00:12:45,030
+push as I come through. It's a very
+small. Got it? Barely any fingers. Okay.
+
+518
+00:12:45,030 --> 00:12:45,040
+small. Got it? Barely any fingers. Okay.
+ 
+
+519
+00:12:45,040 --> 00:12:47,509
+small. Got it? Barely any fingers. Okay.
+The wrist is going to do it. And not the
+
+520
+00:12:47,509 --> 00:12:47,519
+The wrist is going to do it. And not the
+ 
+
+521
+00:12:47,519 --> 00:12:49,910
+The wrist is going to do it. And not the
+big hand movement. The wrist does it.
+
+522
+00:12:49,910 --> 00:12:49,920
+big hand movement. The wrist does it.
+ 
+
+523
+00:12:49,920 --> 00:12:52,150
+big hand movement. The wrist does it.
+Boom. That's it. And I didn't push it
+
+524
+00:12:52,150 --> 00:12:52,160
+Boom. That's it. And I didn't push it
+ 
+
+525
+00:12:52,160 --> 00:12:55,310
+Boom. That's it. And I didn't push it
+forward. If he has a lot of fingers on
+
+526
+00:12:55,310 --> 00:12:55,320
+forward. If he has a lot of fingers on
+ 
+
+527
+00:12:55,320 --> 00:12:57,750
+forward. If he has a lot of fingers on
+there, that's when you that's a lot of
+
+528
+00:12:57,750 --> 00:12:57,760
+there, that's when you that's a lot of
+ 
+
+529
+00:12:57,760 --> 00:12:59,670
+there, that's when you that's a lot of
+yawn. You're going to push it. So, you
+
+530
+00:12:59,670 --> 00:12:59,680
+yawn. You're going to push it. So, you
+ 
+
+531
+00:12:59,680 --> 00:13:01,910
+yawn. You're going to push it. So, you
+have to you see how I brought the elbow
+
+532
+00:13:01,910 --> 00:13:01,920
+have to you see how I brought the elbow
+ 
+
+533
+00:13:01,920 --> 00:13:04,470
+have to you see how I brought the elbow
+back towards me. Okay, that's the first
+
+534
+00:13:04,470 --> 00:13:04,480
+back towards me. Okay, that's the first
+ 
+
+535
+00:13:04,480 --> 00:13:06,230
+back towards me. Okay, that's the first
+thing you have to do. And that should
+
+536
+00:13:06,230 --> 00:13:06,240
+thing you have to do. And that should
+ 
+
+537
+00:13:06,240 --> 00:13:10,150
+thing you have to do. And that should
+have happened because you went for the
+
+538
+00:13:10,150 --> 00:13:10,160
+have happened because you went for the
+ 
+
+539
+00:13:10,160 --> 00:13:13,470
+have happened because you went for the
+trap position first and
+
+540
+00:13:13,470 --> 00:13:13,480
+trap position first and
+ 
+
+541
+00:13:13,480 --> 00:13:17,590
+trap position first and
+not this thing. You're you're over here.
+
+542
+00:13:17,590 --> 00:13:17,600
+not this thing. You're you're over here.
+ 
+
+543
+00:13:17,600 --> 00:13:21,829
+not this thing. You're you're over here.
+Okay. So if the guy who yin yield what
+
+544
+00:13:21,829 --> 00:13:21,839
+Okay. So if the guy who yin yield what
+ 
+
+545
+00:13:21,839 --> 00:13:25,269
+Okay. So if the guy who yin yield what
+they can always do is come back come
+
+546
+00:13:25,269 --> 00:13:25,279
+they can always do is come back come
+ 
+
+547
+00:13:25,279 --> 00:13:26,829
+they can always do is come back come
+back in. Do you
+
+548
+00:13:26,829 --> 00:13:26,839
+back in. Do you
+ 
+
+549
+00:13:26,839 --> 00:13:30,790
+back in. Do you
+see? So you can't assume with this cross
+
+550
+00:13:30,790 --> 00:13:30,800
+see? So you can't assume with this cross
+ 
+
+551
+00:13:30,800 --> 00:13:32,710
+see? So you can't assume with this cross
+I reach all the way across and I'm going
+
+552
+00:13:32,710 --> 00:13:32,720
+I reach all the way across and I'm going
+ 
+
+553
+00:13:32,720 --> 00:13:35,269
+I reach all the way across and I'm going
+to be fine because when he comes back in
+
+554
+00:13:35,269 --> 00:13:35,279
+to be fine because when he comes back in
+ 
+
+555
+00:13:35,279 --> 00:13:37,470
+to be fine because when he comes back in
+I have my arm on the other
+
+556
+00:13:37,470 --> 00:13:37,480
+I have my arm on the other
+ 
+
+557
+00:13:37,480 --> 00:13:40,470
+I have my arm on the other
+side. Instead I'm here like this with my
+
+558
+00:13:40,470 --> 00:13:40,480
+side. Instead I'm here like this with my
+ 
+
+559
+00:13:40,480 --> 00:13:42,470
+side. Instead I'm here like this with my
+hands in front of my center. He comes
+
+560
+00:13:42,470 --> 00:13:42,480
+hands in front of my center. He comes
+ 
+
+561
+00:13:42,480 --> 00:13:44,389
+hands in front of my center. He comes
+back in your hands are in front of your
+
+562
+00:13:44,389 --> 00:13:44,399
+back in your hands are in front of your
+ 
+
+563
+00:13:44,399 --> 00:13:45,829
+back in your hands are in front of your
+center. You could do any number of
+
+564
+00:13:45,829 --> 00:13:45,839
+center. You could do any number of
+ 
+
+565
+00:13:45,839 --> 00:13:47,910
+center. You could do any number of
+things. Okay? So you have to pass
+
+566
+00:13:47,910 --> 00:13:47,920
+things. Okay? So you have to pass
+ 
+
+567
+00:13:47,920 --> 00:13:50,269
+things. Okay? So you have to pass
+through that
+
+568
+00:13:50,269 --> 00:13:50,279
+through that
+ 
+
+569
+00:13:50,279 --> 00:13:53,750
+through that
+trap. That trap requires a new wheel
+
+570
+00:13:53,750 --> 00:13:53,760
+trap. That trap requires a new wheel
+ 
+
+571
+00:13:53,760 --> 00:13:56,069
+trap. That trap requires a new wheel
+that makes him come back towards you
+
+572
+00:13:56,069 --> 00:13:56,079
+that makes him come back towards you
+ 
+
+573
+00:13:56,079 --> 00:13:58,389
+that makes him come back towards you
+about an inch. Okay? Depends on how much
+
+574
+00:13:58,389 --> 00:13:58,399
+about an inch. Okay? Depends on how much
+ 
+
+575
+00:13:58,399 --> 00:14:01,629
+about an inch. Okay? Depends on how much
+yawn he has. The next
+
+576
+00:14:01,629 --> 00:14:01,639
+yawn he has. The next
+ 
+
+577
+00:14:01,639 --> 00:14:04,790
+yawn he has. The next
+thing is you have to understand why you
+
+578
+00:14:04,790 --> 00:14:04,800
+thing is you have to understand why you
+ 
+
+579
+00:14:04,800 --> 00:14:08,870
+thing is you have to understand why you
+push the elbow in Fedride iikido. That's
+
+580
+00:14:08,870 --> 00:14:08,880
+push the elbow in Fedride iikido. That's
+ 
+
+581
+00:14:08,880 --> 00:14:11,230
+push the elbow in Fedride iikido. That's
+the D pony
+
+582
+00:14:11,230 --> 00:14:11,240
+the D pony
+ 
+
+583
+00:14:11,240 --> 00:14:15,990
+the D pony
+cue. like a a rider in D would do heel
+
+584
+00:14:15,990 --> 00:14:16,000
+cue. like a a rider in D would do heel
+ 
+
+585
+00:14:16,000 --> 00:14:18,230
+cue. like a a rider in D would do heel
+pressure on the right leg. It tells the
+
+586
+00:14:18,230 --> 00:14:18,240
+pressure on the right leg. It tells the
+ 
+
+587
+00:14:18,240 --> 00:14:21,750
+pressure on the right leg. It tells the
+pony, I want you to press. Okay. So,
+
+588
+00:14:21,750 --> 00:14:21,760
+pony, I want you to press. Okay. So,
+ 
+
+589
+00:14:21,760 --> 00:14:23,069
+pony, I want you to press. Okay. So,
+same thing
+
+590
+00:14:23,069 --> 00:14:23,079
+same thing
+ 
+
+591
+00:14:23,079 --> 00:14:27,670
+same thing
+here. When they push here, the UK knows
+
+592
+00:14:27,670 --> 00:14:27,680
+here. When they push here, the UK knows
+ 
+
+593
+00:14:27,680 --> 00:14:29,069
+here. When they push here, the UK knows
+through
+
+594
+00:14:29,069 --> 00:14:29,079
+through
+ 
+
+595
+00:14:29,079 --> 00:14:31,990
+through
+training, don't move that foot anymore.
+
+596
+00:14:31,990 --> 00:14:32,000
+training, don't move that foot anymore.
+ 
+
+597
+00:14:32,000 --> 00:14:34,470
+training, don't move that foot anymore.
+Don't step with this leg. Go down on
+
+598
+00:14:34,470 --> 00:14:34,480
+Don't step with this leg. Go down on
+ 
+
+599
+00:14:34,480 --> 00:14:35,710
+Don't step with this leg. Go down on
+that
+
+600
+00:14:35,710 --> 00:14:35,720
+that
+ 
+
+601
+00:14:35,720 --> 00:14:38,710
+that
+knee. You see?
+
+602
+00:14:38,710 --> 00:14:38,720
+knee. You see?
+ 
+
+603
+00:14:38,720 --> 00:14:43,069
+knee. You see?
+But you know as one of you found out
+
+604
+00:14:43,069 --> 00:14:43,079
+But you know as one of you found out
+ 
+
+605
+00:14:43,079 --> 00:14:45,990
+But you know as one of you found out
+firsthand that there's nothing stopping
+
+606
+00:14:45,990 --> 00:14:46,000
+firsthand that there's nothing stopping
+ 
+
+607
+00:14:46,000 --> 00:14:49,269
+firsthand that there's nothing stopping
+that UK from stepping with this leg as
+
+608
+00:14:49,269 --> 00:14:49,279
+that UK from stepping with this leg as
+ 
+
+609
+00:14:49,279 --> 00:14:49,949
+that UK from stepping with this leg as
+you
+
+610
+00:14:49,949 --> 00:14:49,959
+you
+ 
+
+611
+00:14:49,959 --> 00:14:52,550
+you
+push that one of you had that in your
+
+612
+00:14:52,550 --> 00:14:52,560
+push that one of you had that in your
+ 
+
+613
+00:14:52,560 --> 00:14:55,110
+push that one of you had that in your
+video and we demonstrated that that
+
+614
+00:14:55,110 --> 00:14:55,120
+video and we demonstrated that that
+ 
+
+615
+00:14:55,120 --> 00:14:57,269
+video and we demonstrated that that
+that's very possible. That's the
+
+616
+00:14:57,269 --> 00:14:57,279
+that's very possible. That's the
+ 
+
+617
+00:14:57,279 --> 00:14:58,910
+that's very possible. That's the
+question no one asked in
+
+618
+00:14:58,910 --> 00:14:58,920
+question no one asked in
+ 
+
+619
+00:14:58,920 --> 00:15:01,389
+question no one asked in
+Fedora. What is stopping the
+
+620
+00:15:01,389 --> 00:15:01,399
+Fedora. What is stopping the
+ 
+
+621
+00:15:01,399 --> 00:15:04,389
+Fedora. What is stopping the
+UK? Why? What is making the UK leave
+
+622
+00:15:04,389 --> 00:15:04,399
+UK? Why? What is making the UK leave
+ 
+
+623
+00:15:04,399 --> 00:15:07,269
+UK? Why? What is making the UK leave
+that foot there? Okay. There's nothing
+
+624
+00:15:07,269 --> 00:15:07,279
+that foot there? Okay. There's nothing
+ 
+
+625
+00:15:07,279 --> 00:15:09,949
+that foot there? Okay. There's nothing
+there's nothing stopping them again.
+
+626
+00:15:09,949 --> 00:15:09,959
+there's nothing stopping them again.
+ 
+
+627
+00:15:09,959 --> 00:15:12,790
+there's nothing stopping them again.
+Okay? So, you have to understand that
+
+628
+00:15:12,790 --> 00:15:12,800
+Okay? So, you have to understand that
+ 
+
+629
+00:15:12,800 --> 00:15:15,750
+Okay? So, you have to understand that
+that was just a cue for them to do what
+
+630
+00:15:15,750 --> 00:15:15,760
+that was just a cue for them to do what
+ 
+
+631
+00:15:15,760 --> 00:15:18,389
+that was just a cue for them to do what
+they've been trained to do. And you have
+
+632
+00:15:18,389 --> 00:15:18,399
+they've been trained to do. And you have
+ 
+
+633
+00:15:18,399 --> 00:15:21,509
+they've been trained to do. And you have
+to understand that pinning cannot be
+
+634
+00:15:21,509 --> 00:15:21,519
+to understand that pinning cannot be
+ 
+
+635
+00:15:21,519 --> 00:15:23,910
+to understand that pinning cannot be
+done with me pushing someone away from
+
+636
+00:15:23,910 --> 00:15:23,920
+done with me pushing someone away from
+ 
+
+637
+00:15:23,920 --> 00:15:27,670
+done with me pushing someone away from
+me. Pinning is in and down, not out and
+
+638
+00:15:27,670 --> 00:15:27,680
+me. Pinning is in and down, not out and
+ 
+
+639
+00:15:27,680 --> 00:15:31,670
+me. Pinning is in and down, not out and
+away. Okay? And I can't enter and
+
+640
+00:15:31,670 --> 00:15:31,680
+away. Okay? And I can't enter and
+ 
+
+641
+00:15:31,680 --> 00:15:33,910
+away. Okay? And I can't enter and
+something that is being perpetually
+
+642
+00:15:33,910 --> 00:15:33,920
+something that is being perpetually
+ 
+
+643
+00:15:33,920 --> 00:15:37,030
+something that is being perpetually
+moved ahead of me. So, if we get Mark
+
+644
+00:15:37,030 --> 00:15:37,040
+moved ahead of me. So, if we get Mark
+ 
+
+645
+00:15:37,040 --> 00:15:40,990
+moved ahead of me. So, if we get Mark
+his
+
+646
+00:15:40,990 --> 00:15:41,000
+
+ 
+
+647
+00:15:41,000 --> 00:15:44,470
+
+elbow, okay, you're going to notice that
+
+648
+00:15:44,470 --> 00:15:44,480
+elbow, okay, you're going to notice that
+ 
+
+649
+00:15:44,480 --> 00:15:46,629
+elbow, okay, you're going to notice that
+his elbow does not go forward at that
+
+650
+00:15:46,629 --> 00:15:46,639
+his elbow does not go forward at that
+ 
+
+651
+00:15:46,639 --> 00:15:49,509
+his elbow does not go forward at that
+line, but actually is coming this way on
+
+652
+00:15:49,509 --> 00:15:49,519
+line, but actually is coming this way on
+ 
+
+653
+00:15:49,519 --> 00:15:52,030
+line, but actually is coming this way on
+the
+
+654
+00:15:52,030 --> 00:15:52,040
+
+ 
+
+655
+00:15:52,040 --> 00:15:55,910
+
+line. So, we go here. Boom. There's that
+
+656
+00:15:55,910 --> 00:15:55,920
+line. So, we go here. Boom. There's that
+ 
+
+657
+00:15:55,920 --> 00:15:58,310
+line. So, we go here. Boom. There's that
+little inch that I got there. and then
+
+658
+00:15:58,310 --> 00:15:58,320
+little inch that I got there. and then
+ 
+
+659
+00:15:58,320 --> 00:16:04,269
+little inch that I got there. and then
+his elbows going this way on the
+
+660
+00:16:04,269 --> 00:16:04,279
+
+ 
+
+661
+00:16:04,279 --> 00:16:07,590
+
+line. Depending on how much yawn he has,
+
+662
+00:16:07,590 --> 00:16:07,600
+line. Depending on how much yawn he has,
+ 
+
+663
+00:16:07,600 --> 00:16:09,829
+line. Depending on how much yawn he has,
+how much inertia there was in the spinal
+
+664
+00:16:09,829 --> 00:16:09,839
+how much inertia there was in the spinal
+ 
+
+665
+00:16:09,839 --> 00:16:11,470
+how much inertia there was in the spinal
+displacement,
+
+666
+00:16:11,470 --> 00:16:11,480
+displacement,
+ 
+
+667
+00:16:11,480 --> 00:16:15,749
+displacement,
+uh you might not have it come this way.
+
+668
+00:16:15,749 --> 00:16:15,759
+uh you might not have it come this way.
+ 
+
+669
+00:16:15,759 --> 00:16:18,269
+uh you might not have it come this way.
+It might just stay right where it's at.
+
+670
+00:16:18,269 --> 00:16:18,279
+It might just stay right where it's at.
+ 
+
+671
+00:16:18,279 --> 00:16:21,670
+It might just stay right where it's at.
+Okay? But you definitely don't want to
+
+672
+00:16:21,670 --> 00:16:21,680
+Okay? But you definitely don't want to
+ 
+
+673
+00:16:21,680 --> 00:16:25,749
+Okay? But you definitely don't want to
+shove it ahead of you. So, we have some
+
+674
+00:16:25,749 --> 00:16:25,759
+shove it ahead of you. So, we have some
+ 
+
+675
+00:16:25,759 --> 00:16:26,749
+shove it ahead of you. So, we have some
+of your
+
+676
+00:16:26,749 --> 00:16:26,759
+of your
+ 
+
+677
+00:16:26,759 --> 00:16:28,269
+of your
+submissions
+
+678
+00:16:28,269 --> 00:16:28,279
+submissions
+ 
+
+679
+00:16:28,279 --> 00:16:31,189
+submissions
+where you're out here like that. Now,
+
+680
+00:16:31,189 --> 00:16:31,199
+where you're out here like that. Now,
+ 
+
+681
+00:16:31,199 --> 00:16:32,949
+where you're out here like that. Now,
+that's not where your power is. Your
+
+682
+00:16:32,949 --> 00:16:32,959
+that's not where your power is. Your
+ 
+
+683
+00:16:32,959 --> 00:16:36,069
+that's not where your power is. Your
+power is over here. We even had some of
+
+684
+00:16:36,069 --> 00:16:36,079
+power is over here. We even had some of
+ 
+
+685
+00:16:36,079 --> 00:16:40,990
+power is over here. We even had some of
+our dashing that had that happen.
+
+686
+00:16:40,990 --> 00:16:41,000
+
+ 
+
+687
+00:16:41,000 --> 00:16:46,189
+
+Okay. This is going around this
+
+688
+00:16:46,189 --> 00:16:46,199
+
+ 
+
+689
+00:16:46,199 --> 00:16:49,870
+
+way. So, think about it in regards to
+
+690
+00:16:49,870 --> 00:16:49,880
+way. So, think about it in regards to
+ 
+
+691
+00:16:49,880 --> 00:16:52,509
+way. So, think about it in regards to
+this. His elbow's out
+
+692
+00:16:52,509 --> 00:16:52,519
+this. His elbow's out
+ 
+
+693
+00:16:52,519 --> 00:16:57,910
+this. His elbow's out
+there. I yield. My arm is out there. I
+
+694
+00:16:57,910 --> 00:16:57,920
+there. I yield. My arm is out there. I
+ 
+
+695
+00:16:57,920 --> 00:17:00,670
+there. I yield. My arm is out there. I
+am going to
+
+696
+00:17:00,670 --> 00:17:00,680
+am going to
+ 
+
+697
+00:17:00,680 --> 00:17:04,510
+am going to
+enter. But and you can see that this
+
+698
+00:17:04,510 --> 00:17:04,520
+enter. But and you can see that this
+ 
+
+699
+00:17:04,520 --> 00:17:07,949
+enter. But and you can see that this
+elbow plane
+
+700
+00:17:07,949 --> 00:17:07,959
+
+ 
+
+701
+00:17:07,959 --> 00:17:11,909
+
+please is still slightly forward of my
+
+702
+00:17:11,909 --> 00:17:11,919
+please is still slightly forward of my
+ 
+
+703
+00:17:11,919 --> 00:17:15,630
+please is still slightly forward of my
+power line which is over
+
+704
+00:17:15,630 --> 00:17:15,640
+power line which is over
+ 
+
+705
+00:17:15,640 --> 00:17:18,789
+power line which is over
+here. So if I push down on this straight
+
+706
+00:17:18,789 --> 00:17:18,799
+here. So if I push down on this straight
+ 
+
+707
+00:17:18,799 --> 00:17:21,590
+here. So if I push down on this straight
+just go straight down.
+
+708
+00:17:21,590 --> 00:17:21,600
+just go straight down.
+ 
+
+709
+00:17:21,600 --> 00:17:24,150
+just go straight down.
+You can see it's to my left where it
+
+710
+00:17:24,150 --> 00:17:24,160
+You can see it's to my left where it
+ 
+
+711
+00:17:24,160 --> 00:17:26,429
+You can see it's to my left where it
+needed to be over
+
+712
+00:17:26,429 --> 00:17:26,439
+needed to be over
+ 
+
+713
+00:17:26,439 --> 00:17:29,909
+needed to be over
+here. So there always was it's just
+
+714
+00:17:29,909 --> 00:17:29,919
+here. So there always was it's just
+ 
+
+715
+00:17:29,919 --> 00:17:32,710
+here. So there always was it's just
+you're so used to the Federite way that
+
+716
+00:17:32,710 --> 00:17:32,720
+you're so used to the Federite way that
+ 
+
+717
+00:17:32,720 --> 00:17:35,190
+you're so used to the Federite way that
+you move it that way that you you can't
+
+718
+00:17:35,190 --> 00:17:35,200
+you move it that way that you you can't
+ 
+
+719
+00:17:35,200 --> 00:17:39,430
+you move it that way that you you can't
+see that there had to be some way that
+
+720
+00:17:39,430 --> 00:17:39,440
+see that there had to be some way that
+ 
+
+721
+00:17:39,440 --> 00:17:42,390
+see that there had to be some way that
+on the one step he was able to bring the
+
+722
+00:17:42,390 --> 00:17:42,400
+on the one step he was able to bring the
+ 
+
+723
+00:17:42,400 --> 00:17:45,590
+on the one step he was able to bring the
+UK's hand and his hand back underneath
+
+724
+00:17:45,590 --> 00:17:45,600
+UK's hand and his hand back underneath
+ 
+
+725
+00:17:45,600 --> 00:17:48,390
+UK's hand and his hand back underneath
+him. Okay.
+
+726
+00:17:48,390 --> 00:17:48,400
+him. Okay.
+ 
+
+727
+00:17:48,400 --> 00:17:54,190
+him. Okay.
+So,
+
+728
+00:17:54,190 --> 00:17:54,200
+
+ 
+
+729
+00:17:54,200 --> 00:17:57,390
+
+boom. Start looking for that
+
+730
+00:17:57,390 --> 00:17:57,400
+boom. Start looking for that
+ 
+
+731
+00:17:57,400 --> 00:18:12,630
+boom. Start looking for that
+elbow. Not going forward. Coming back.
+
+732
+00:18:12,630 --> 00:18:12,640
+
+ 
+
+733
+00:18:12,640 --> 00:18:14,909
+
+Now that
+
+734
+00:18:14,909 --> 00:18:14,919
+Now that
+ 
+
+735
+00:18:14,919 --> 00:18:17,870
+Now that
+said, you're going to run into the
+
+736
+00:18:17,870 --> 00:18:17,880
+said, you're going to run into the
+ 
+
+737
+00:18:17,880 --> 00:18:20,750
+said, you're going to run into the
+problem. What's making him go
+
+738
+00:18:20,750 --> 00:18:20,760
+problem. What's making him go
+ 
+
+739
+00:18:20,760 --> 00:18:25,190
+problem. What's making him go
+down? Because you lost your D skew. The
+
+740
+00:18:25,190 --> 00:18:25,200
+down? Because you lost your D skew. The
+ 
+
+741
+00:18:25,200 --> 00:18:28,909
+down? Because you lost your D skew. The
+D cue was that he goes to his
+
+742
+00:18:28,909 --> 00:18:28,919
+D cue was that he goes to his
+ 
+
+743
+00:18:28,919 --> 00:18:32,190
+D cue was that he goes to his
+knee. Okay, you lost
+
+744
+00:18:32,190 --> 00:18:32,200
+knee. Okay, you lost
+ 
+
+745
+00:18:32,200 --> 00:18:35,510
+knee. Okay, you lost
+that. What's making him go down is the X
+
+746
+00:18:35,510 --> 00:18:35,520
+that. What's making him go down is the X
+ 
+
+747
+00:18:35,520 --> 00:18:37,029
+that. What's making him go down is the X
+pattern.
+
+748
+00:18:37,029 --> 00:18:37,039
+pattern.
+ 
+
+749
+00:18:37,039 --> 00:18:40,710
+pattern.
+That means his head is coming around
+
+750
+00:18:40,710 --> 00:18:40,720
+That means his head is coming around
+ 
+
+751
+00:18:40,720 --> 00:18:44,590
+That means his head is coming around
+which it will because the elbow came
+
+752
+00:18:44,590 --> 00:18:44,600
+
+ 
+
+753
+00:18:44,600 --> 00:18:48,630
+
+back. The inertia that was happening on
+
+754
+00:18:48,630 --> 00:18:48,640
+back. The inertia that was happening on
+ 
+
+755
+00:18:48,640 --> 00:18:51,110
+back. The inertia that was happening on
+the spinal displacement when I bring the
+
+756
+00:18:51,110 --> 00:18:51,120
+the spinal displacement when I bring the
+ 
+
+757
+00:18:51,120 --> 00:18:53,750
+the spinal displacement when I bring the
+head around makes the leg go around with
+
+758
+00:18:53,750 --> 00:18:53,760
+head around makes the leg go around with
+ 
+
+759
+00:18:53,760 --> 00:18:56,070
+head around makes the leg go around with
+the centipal energy which you
+
+760
+00:18:56,070 --> 00:18:56,080
+the centipal energy which you
+ 
+
+761
+00:18:56,080 --> 00:18:59,310
+the centipal energy which you
+experienced in the throw.
+
+762
+00:18:59,310 --> 00:18:59,320
+experienced in the throw.
+ 
+
+763
+00:18:59,320 --> 00:19:00,990
+experienced in the throw.
+Okay. And
+
+764
+00:19:00,990 --> 00:19:01,000
+Okay. And
+ 
+
+765
+00:19:01,000 --> 00:19:04,630
+Okay. And
+then you have the third force here at
+
+766
+00:19:04,630 --> 00:19:04,640
+then you have the third force here at
+ 
+
+767
+00:19:04,640 --> 00:19:08,070
+then you have the third force here at
+the hip.
+
+768
+00:19:08,070 --> 00:19:08,080
+
+ 
+
+769
+00:19:08,080 --> 00:19:10,510
+
+That's the
+
+770
+00:19:10,510 --> 00:19:10,520
+That's the
+ 
+
+771
+00:19:10,520 --> 00:19:13,390
+That's the
+miashi. So that's where we're going.
+
+772
+00:19:13,390 --> 00:19:13,400
+miashi. So that's where we're going.
+ 
+
+773
+00:19:13,400 --> 00:19:15,310
+miashi. So that's where we're going.
+Now, this
+
+774
+00:19:15,310 --> 00:19:15,320
+Now, this
+ 
+
+775
+00:19:15,320 --> 00:19:18,909
+Now, this
+hip is going to be hit by this
+
+776
+00:19:18,909 --> 00:19:18,919
+hip is going to be hit by this
+ 
+
+777
+00:19:18,919 --> 00:19:25,789
+hip is going to be hit by this
+koshi simply with the
+
+778
+00:19:25,789 --> 00:19:25,799
+
+ 
+
+779
+00:19:25,799 --> 00:19:28,110
+
+edemi. It's nothing
+
+780
+00:19:28,110 --> 00:19:28,120
+edemi. It's nothing
+ 
+
+781
+00:19:28,120 --> 00:19:30,789
+edemi. It's nothing
+more. Virginia, would you mind? You're
+
+782
+00:19:30,789 --> 00:19:30,799
+more. Virginia, would you mind? You're
+ 
+
+783
+00:19:30,799 --> 00:19:31,870
+more. Virginia, would you mind? You're
+going to hold
+
+784
+00:19:31,870 --> 00:19:31,880
+going to hold
+ 
+
+785
+00:19:31,880 --> 00:19:34,710
+going to hold
+this. Okay.
+
+786
+00:19:34,710 --> 00:19:34,720
+this. Okay.
+ 
+
+787
+00:19:34,720 --> 00:19:37,029
+this. Okay.
+And you're going to when I say you're
+
+788
+00:19:37,029 --> 00:19:37,039
+And you're going to when I say you're
+ 
+
+789
+00:19:37,039 --> 00:19:39,909
+And you're going to when I say you're
+going to turn his head by pulling it.
+
+790
+00:19:39,909 --> 00:19:39,919
+going to turn his head by pulling it.
+ 
+
+791
+00:19:39,919 --> 00:19:42,390
+going to turn his head by pulling it.
+I'll push this to be the inertia. And
+
+792
+00:19:42,390 --> 00:19:42,400
+I'll push this to be the inertia. And
+ 
+
+793
+00:19:42,400 --> 00:19:45,789
+I'll push this to be the inertia. And
+this is my cushioning. One, two,
+
+794
+00:19:45,789 --> 00:19:45,799
+this is my cushioning. One, two,
+ 
+
+795
+00:19:45,799 --> 00:19:50,110
+this is my cushioning. One, two,
+three. That's all we're doing.
+
+796
+00:19:50,110 --> 00:19:50,120
+three. That's all we're doing.
+ 
+
+797
+00:19:50,120 --> 00:19:51,950
+three. That's all we're doing.
+Okay.
+
+798
+00:19:51,950 --> 00:19:51,960
+Okay.
+ 
+
+799
+00:19:51,960 --> 00:19:54,909
+Okay.
+Boom.
+
+800
+00:19:54,909 --> 00:19:54,919
+Boom.
+ 
+
+801
+00:19:54,919 --> 00:19:58,430
+Boom.
+Boom. I am not having
+
+802
+00:19:58,430 --> 00:19:58,440
+Boom. I am not having
+ 
+
+803
+00:19:58,440 --> 00:20:02,950
+Boom. I am not having
+therefore to push his elbow down.
+
+804
+00:20:02,950 --> 00:20:02,960
+therefore to push his elbow down.
+ 
+
+805
+00:20:02,960 --> 00:20:05,669
+therefore to push his elbow down.
+He's falling. The elbow's going to come
+
+806
+00:20:05,669 --> 00:20:05,679
+He's falling. The elbow's going to come
+ 
+
+807
+00:20:05,679 --> 00:20:07,669
+He's falling. The elbow's going to come
+down as gravity pulls his center of
+
+808
+00:20:07,669 --> 00:20:07,679
+down as gravity pulls his center of
+ 
+
+809
+00:20:07,679 --> 00:20:11,190
+down as gravity pulls his center of
+gravity closer to the earth. Okay. I
+
+810
+00:20:11,190 --> 00:20:11,200
+gravity closer to the earth. Okay. I
+ 
+
+811
+00:20:11,200 --> 00:20:15,470
+gravity closer to the earth. Okay. I
+just let it come back around me. I
+
+812
+00:20:15,470 --> 00:20:15,480
+just let it come back around me. I
+ 
+
+813
+00:20:15,480 --> 00:20:19,510
+just let it come back around me. I
+push and I keep it on that trajectory of
+
+814
+00:20:19,510 --> 00:20:19,520
+push and I keep it on that trajectory of
+ 
+
+815
+00:20:19,520 --> 00:20:21,909
+push and I keep it on that trajectory of
+the power line as we mentioned the
+
+816
+00:20:21,909 --> 00:20:21,919
+the power line as we mentioned the
+ 
+
+817
+00:20:21,919 --> 00:20:25,710
+the power line as we mentioned the
+previous video. Okay. So, it's
+
+818
+00:20:25,710 --> 00:20:25,720
+previous video. Okay. So, it's
+ 
+
+819
+00:20:25,720 --> 00:20:31,110
+previous video. Okay. So, it's
+effortless. Boom. Pop. make him fall and
+
+820
+00:20:31,110 --> 00:20:31,120
+effortless. Boom. Pop. make him fall and
+ 
+
+821
+00:20:31,120 --> 00:20:35,149
+effortless. Boom. Pop. make him fall and
+aim him as he's
+
+822
+00:20:35,149 --> 00:20:35,159
+
+ 
+
+823
+00:20:35,159 --> 00:20:37,950
+
+falling. When you have a
+
+824
+00:20:37,950 --> 00:20:37,960
+falling. When you have a
+ 
+
+825
+00:20:37,960 --> 00:20:41,190
+falling. When you have a
+beginner, you kind of do it because he's
+
+826
+00:20:41,190 --> 00:20:41,200
+beginner, you kind of do it because he's
+ 
+
+827
+00:20:41,200 --> 00:20:42,350
+beginner, you kind of do it because he's
+going to
+
+828
+00:20:42,350 --> 00:20:42,360
+going to
+ 
+
+829
+00:20:42,360 --> 00:20:45,669
+going to
+fall. There's no there's no and you
+
+830
+00:20:45,669 --> 00:20:45,679
+fall. There's no there's no and you
+ 
+
+831
+00:20:45,679 --> 00:20:47,270
+fall. There's no there's no and you
+know, I've said this many times in the
+
+832
+00:20:47,270 --> 00:20:47,280
+know, I've said this many times in the
+ 
+
+833
+00:20:47,280 --> 00:20:50,230
+know, I've said this many times in the
+rest. My kids always laugh about how you
+
+834
+00:20:50,230 --> 00:20:50,240
+rest. My kids always laugh about how you
+ 
+
+835
+00:20:50,240 --> 00:20:51,909
+rest. My kids always laugh about how you
+tell them how great they are at their
+
+836
+00:20:51,909 --> 00:20:51,919
+tell them how great they are at their
+ 
+
+837
+00:20:51,919 --> 00:20:53,590
+tell them how great they are at their
+chem. They're they're just getting
+
+838
+00:20:53,590 --> 00:20:53,600
+chem. They're they're just getting
+ 
+
+839
+00:20:53,600 --> 00:20:55,909
+chem. They're they're just getting
+thrown. I mean, they're good at keeping
+
+840
+00:20:55,909 --> 00:20:55,919
+thrown. I mean, they're good at keeping
+ 
+
+841
+00:20:55,919 --> 00:20:57,830
+thrown. I mean, they're good at keeping
+their head off the mat, but they don't
+
+842
+00:20:57,830 --> 00:20:57,840
+their head off the mat, but they don't
+ 
+
+843
+00:20:57,840 --> 00:21:00,390
+their head off the mat, but they don't
+have to do all the acrobatics that you
+
+844
+00:21:00,390 --> 00:21:00,400
+have to do all the acrobatics that you
+ 
+
+845
+00:21:00,400 --> 00:21:03,390
+have to do all the acrobatics that you
+see all around, which, you
+
+846
+00:21:03,390 --> 00:21:03,400
+see all around, which, you
+ 
+
+847
+00:21:03,400 --> 00:21:06,230
+see all around, which, you
+know, those people are. Those acrobatics
+
+848
+00:21:06,230 --> 00:21:06,240
+know, those people are. Those acrobatics
+ 
+
+849
+00:21:06,240 --> 00:21:08,390
+know, those people are. Those acrobatics
+are impressive, but it's not iikido. My
+
+850
+00:21:08,390 --> 00:21:08,400
+are impressive, but it's not iikido. My
+ 
+
+851
+00:21:08,400 --> 00:21:09,750
+are impressive, but it's not iikido. My
+people don't do that. They just get
+
+852
+00:21:09,750 --> 00:21:09,760
+people don't do that. They just get
+ 
+
+853
+00:21:09,760 --> 00:21:11,669
+people don't do that. They just get
+thrown and they learn how not to die
+
+854
+00:21:11,669 --> 00:21:11,679
+thrown and they learn how not to die
+ 
+
+855
+00:21:11,679 --> 00:21:13,350
+thrown and they learn how not to die
+when they hit the mat. There is talent
+
+856
+00:21:13,350 --> 00:21:13,360
+when they hit the mat. There is talent
+ 
+
+857
+00:21:13,360 --> 00:21:16,029
+when they hit the mat. There is talent
+in that, okay? But it's not the
+
+858
+00:21:16,029 --> 00:21:16,039
+in that, okay? But it's not the
+ 
+
+859
+00:21:16,039 --> 00:21:21,029
+in that, okay? But it's not the
+same as like Shiraava or those people
+
+860
+00:21:21,029 --> 00:21:21,039
+same as like Shiraava or those people
+ 
+
+861
+00:21:21,039 --> 00:21:22,549
+same as like Shiraava or those people
+you know that have to know all this
+
+862
+00:21:22,549 --> 00:21:22,559
+you know that have to know all this
+ 
+
+863
+00:21:22,559 --> 00:21:25,950
+you know that have to know all this
+choreography and be very gymnastic.
+
+864
+00:21:25,950 --> 00:21:25,960
+choreography and be very gymnastic.
+ 
+
+865
+00:21:25,960 --> 00:21:27,549
+choreography and be very gymnastic.
+Okay.
+
+866
+00:21:27,549 --> 00:21:27,559
+Okay.
+ 
+
+867
+00:21:27,559 --> 00:21:29,789
+Okay.
+So the
+
+868
+00:21:29,789 --> 00:21:29,799
+So the
+ 
+
+869
+00:21:29,799 --> 00:21:32,430
+So the
+beginner doesn't need to know
+
+870
+00:21:32,430 --> 00:21:32,440
+beginner doesn't need to know
+ 
+
+871
+00:21:32,440 --> 00:21:36,310
+beginner doesn't need to know
+anything for me to do this even slowly.
+
+872
+00:21:36,310 --> 00:21:36,320
+anything for me to do this even slowly.
+ 
+
+873
+00:21:36,320 --> 00:21:41,990
+anything for me to do this even slowly.
+I just slow.
+
+874
+00:21:41,990 --> 00:21:42,000
+
+ 
+
+875
+00:21:42,000 --> 00:21:46,549
+
+What if you mention my my beginners are
+
+876
+00:21:46,549 --> 00:21:46,559
+What if you mention my my beginners are
+ 
+
+877
+00:21:46,559 --> 00:21:49,070
+What if you mention my my beginners are
+too afraid of it? Well, don't send them
+
+878
+00:21:49,070 --> 00:21:49,080
+too afraid of it? Well, don't send them
+ 
+
+879
+00:21:49,080 --> 00:21:51,310
+too afraid of it? Well, don't send them
+flying. Just do the
+
+880
+00:21:51,310 --> 00:21:51,320
+flying. Just do the
+ 
+
+881
+00:21:51,320 --> 00:22:05,310
+flying. Just do the
+geometry.
+
+882
+00:22:05,310 --> 00:22:05,320
+
+ 
+
+883
+00:22:05,320 --> 00:22:10,230
+
+Boom. It looks pretty gentle. Okay. Um,
+
+884
+00:22:10,230 --> 00:22:10,240
+Boom. It looks pretty gentle. Okay. Um,
+ 
+
+885
+00:22:10,240 --> 00:22:12,390
+Boom. It looks pretty gentle. Okay. Um,
+we're going to let everyone try this and
+
+886
+00:22:12,390 --> 00:22:12,400
+we're going to let everyone try this and
+ 
+
+887
+00:22:12,400 --> 00:22:14,149
+we're going to let everyone try this and
+see if they have questions here and see
+
+888
+00:22:14,149 --> 00:22:14,159
+see if they have questions here and see
+ 
+
+889
+00:22:14,159 --> 00:22:16,350
+see if they have questions here and see
+if we need to film another
+
+890
+00:22:16,350 --> 00:22:16,360
+if we need to film another
+ 
+
+891
+00:22:16,360 --> 00:22:19,990
+if we need to film another
+clip. All right. So, when people see the
+
+892
+00:22:19,990 --> 00:22:20,000
+clip. All right. So, when people see the
+ 
+
+893
+00:22:20,000 --> 00:22:21,230
+clip. All right. So, when people see the
+X
+
+894
+00:22:21,230 --> 00:22:21,240
+X
+ 
+
+895
+00:22:21,240 --> 00:22:23,909
+X
+pattern, they will think of it through
+
+896
+00:22:23,909 --> 00:22:23,919
+pattern, they will think of it through
+ 
+
+897
+00:22:23,919 --> 00:22:27,590
+pattern, they will think of it through
+the ego tripartite mind and they don't
+
+898
+00:22:27,590 --> 00:22:27,600
+the ego tripartite mind and they don't
+ 
+
+899
+00:22:27,600 --> 00:22:31,029
+the ego tripartite mind and they don't
+understand the centripal energy is at
+
+900
+00:22:31,029 --> 00:22:31,039
+understand the centripal energy is at
+ 
+
+901
+00:22:31,039 --> 00:22:34,070
+understand the centripal energy is at
+work. The centrifugal energy is at work
+
+902
+00:22:34,070 --> 00:22:34,080
+work. The centrifugal energy is at work
+ 
+
+903
+00:22:34,080 --> 00:22:37,190
+work. The centrifugal energy is at work
+and the initial inertia of the spinal
+
+904
+00:22:37,190 --> 00:22:37,200
+and the initial inertia of the spinal
+ 
+
+905
+00:22:37,200 --> 00:22:41,110
+and the initial inertia of the spinal
+displacement. It's these forces that are
+
+906
+00:22:41,110 --> 00:22:41,120
+displacement. It's these forces that are
+ 
+
+907
+00:22:41,120 --> 00:22:44,669
+displacement. It's these forces that are
+at play and then it's a tiny
+
+908
+00:22:44,669 --> 00:22:44,679
+at play and then it's a tiny
+ 
+
+909
+00:22:44,679 --> 00:22:48,789
+at play and then it's a tiny
+little bump. That's all it is. Okay. You
+
+910
+00:22:48,789 --> 00:22:48,799
+little bump. That's all it is. Okay. You
+ 
+
+911
+00:22:48,799 --> 00:22:52,549
+little bump. That's all it is. Okay. You
+see the UK go flying boom, right? Boom.
+
+912
+00:22:52,549 --> 00:22:52,559
+see the UK go flying boom, right? Boom.
+ 
+
+913
+00:22:52,559 --> 00:22:55,590
+see the UK go flying boom, right? Boom.
+Up high and you'll you'll go like I have
+
+914
+00:22:55,590 --> 00:22:55,600
+Up high and you'll you'll go like I have
+ 
+
+915
+00:22:55,600 --> 00:22:58,990
+Up high and you'll you'll go like I have
+to do something big and it has to be uh
+
+916
+00:22:58,990 --> 00:22:59,000
+to do something big and it has to be uh
+ 
+
+917
+00:22:59,000 --> 00:23:01,110
+to do something big and it has to be uh
+materialbased, matter based. It's not
+
+918
+00:23:01,110 --> 00:23:01,120
+materialbased, matter based. It's not
+ 
+
+919
+00:23:01,120 --> 00:23:05,190
+materialbased, matter based. It's not
+matter based, it's energetic. Okay. Uh
+
+920
+00:23:05,190 --> 00:23:05,200
+matter based, it's energetic. Okay. Uh
+ 
+
+921
+00:23:05,200 --> 00:23:06,870
+matter based, it's energetic. Okay. Uh
+those things have to be in place. So,
+
+922
+00:23:06,870 --> 00:23:06,880
+those things have to be in place. So,
+ 
+
+923
+00:23:06,880 --> 00:23:09,909
+those things have to be in place. So,
+it's not uncommon when you now are able
+
+924
+00:23:09,909 --> 00:23:09,919
+it's not uncommon when you now are able
+ 
+
+925
+00:23:09,919 --> 00:23:12,390
+it's not uncommon when you now are able
+to enter because you're not pushing them
+
+926
+00:23:12,390 --> 00:23:12,400
+to enter because you're not pushing them
+ 
+
+927
+00:23:12,400 --> 00:23:16,230
+to enter because you're not pushing them
+away. You're now able to get into I like
+
+928
+00:23:16,230 --> 00:23:16,240
+away. You're now able to get into I like
+ 
+
+929
+00:23:16,240 --> 00:23:18,149
+away. You're now able to get into I like
+to call this like a wave. So, I grew up
+
+930
+00:23:18,149 --> 00:23:18,159
+to call this like a wave. So, I grew up
+ 
+
+931
+00:23:18,159 --> 00:23:21,190
+to call this like a wave. So, I grew up
+in Huntington Beach and we used to uh
+
+932
+00:23:21,190 --> 00:23:21,200
+in Huntington Beach and we used to uh
+ 
+
+933
+00:23:21,200 --> 00:23:23,510
+in Huntington Beach and we used to uh
+shoot the tube all the time. And so,
+
+934
+00:23:23,510 --> 00:23:23,520
+shoot the tube all the time. And so,
+ 
+
+935
+00:23:23,520 --> 00:23:25,909
+shoot the tube all the time. And so,
+there's a wave here. This hip is up
+
+936
+00:23:25,909 --> 00:23:25,919
+there's a wave here. This hip is up
+ 
+
+937
+00:23:25,919 --> 00:23:28,590
+there's a wave here. This hip is up
+higher than the other hip. And that is
+
+938
+00:23:28,590 --> 00:23:28,600
+higher than the other hip. And that is
+ 
+
+939
+00:23:28,600 --> 00:23:33,029
+higher than the other hip. And that is
+where my uh lead hip fits. Okay? And
+
+940
+00:23:33,029 --> 00:23:33,039
+where my uh lead hip fits. Okay? And
+ 
+
+941
+00:23:33,039 --> 00:23:35,909
+where my uh lead hip fits. Okay? And
+then as I'm just entering, that's what
+
+942
+00:23:35,909 --> 00:23:35,919
+then as I'm just entering, that's what
+ 
+
+943
+00:23:35,919 --> 00:23:37,070
+then as I'm just entering, that's what
+does the
+
+944
+00:23:37,070 --> 00:23:37,080
+does the
+ 
+
+945
+00:23:37,080 --> 00:23:40,390
+does the
+displacement. Okay. You're now going to
+
+946
+00:23:40,390 --> 00:23:40,400
+displacement. Okay. You're now going to
+ 
+
+947
+00:23:40,400 --> 00:23:42,710
+displacement. Okay. You're now going to
+not close the wave off because when you
+
+948
+00:23:42,710 --> 00:23:42,720
+not close the wave off because when you
+ 
+
+949
+00:23:42,720 --> 00:23:45,110
+not close the wave off because when you
+when you push them, this hip is now
+
+950
+00:23:45,110 --> 00:23:45,120
+when you push them, this hip is now
+ 
+
+951
+00:23:45,120 --> 00:23:47,029
+when you push them, this hip is now
+parallel to the other one and it's about
+
+952
+00:23:47,029 --> 00:23:47,039
+parallel to the other one and it's about
+ 
+
+953
+00:23:47,039 --> 00:23:49,750
+parallel to the other one and it's about
+to get lower as you're going. The wave
+
+954
+00:23:49,750 --> 00:23:49,760
+to get lower as you're going. The wave
+ 
+
+955
+00:23:49,760 --> 00:23:52,230
+to get lower as you're going. The wave
+closed on you. So like a new surfer,
+
+956
+00:23:52,230 --> 00:23:52,240
+closed on you. So like a new surfer,
+ 
+
+957
+00:23:52,240 --> 00:23:53,750
+closed on you. So like a new surfer,
+you're like, "Dude, you missed the tube
+
+958
+00:23:53,750 --> 00:23:53,760
+you're like, "Dude, you missed the tube
+ 
+
+959
+00:23:53,760 --> 00:23:55,750
+you're like, "Dude, you missed the tube
+because it it already closed on you."
+
+960
+00:23:55,750 --> 00:23:55,760
+because it it already closed on you."
+ 
+
+961
+00:23:55,760 --> 00:23:57,669
+because it it already closed on you."
+Okay? There's a time and place for it,
+
+962
+00:23:57,669 --> 00:23:57,679
+Okay? There's a time and place for it,
+ 
+
+963
+00:23:57,679 --> 00:23:59,950
+Okay? There's a time and place for it,
+and you have to be in the right time and
+
+964
+00:23:59,950 --> 00:23:59,960
+and you have to be in the right time and
+ 
+
+965
+00:23:59,960 --> 00:24:03,350
+and you have to be in the right time and
+place with your arm. now coming back
+
+966
+00:24:03,350 --> 00:24:03,360
+place with your arm. now coming back
+ 
+
+967
+00:24:03,360 --> 00:24:05,950
+place with your arm. now coming back
+towards you. It's going to probably be
+
+968
+00:24:05,950 --> 00:24:05,960
+towards you. It's going to probably be
+ 
+
+969
+00:24:05,960 --> 00:24:08,870
+towards you. It's going to probably be
+there. You're going to return to your
+
+970
+00:24:08,870 --> 00:24:08,880
+there. You're going to return to your
+ 
+
+971
+00:24:08,880 --> 00:24:11,430
+there. You're going to return to your
+material thinking and you're going to
+
+972
+00:24:11,430 --> 00:24:11,440
+material thinking and you're going to
+ 
+
+973
+00:24:11,440 --> 00:24:15,029
+material thinking and you're going to
+try to trip this leg underneath where
+
+974
+00:24:15,029 --> 00:24:15,039
+try to trip this leg underneath where
+ 
+
+975
+00:24:15,039 --> 00:24:17,669
+try to trip this leg underneath where
+you're doing something like that. I'm
+
+976
+00:24:17,669 --> 00:24:17,679
+you're doing something like that. I'm
+ 
+
+977
+00:24:17,679 --> 00:24:18,669
+you're doing something like that. I'm
+not doing
+
+978
+00:24:18,669 --> 00:24:18,679
+not doing
+ 
+
+979
+00:24:18,679 --> 00:24:23,269
+not doing
+that. Or you're going to do this over
+
+980
+00:24:23,269 --> 00:24:23,279
+that. Or you're going to do this over
+ 
+
+981
+00:24:23,279 --> 00:24:27,990
+that. Or you're going to do this over
+rotate. I didn't do that either. Okay.
+
+982
+00:24:27,990 --> 00:24:28,000
+rotate. I didn't do that either. Okay.
+ 
+
+983
+00:24:28,000 --> 00:24:32,630
+rotate. I didn't do that either. Okay.
+All I'm doing is fitting the yang koshi
+
+984
+00:24:32,630 --> 00:24:32,640
+All I'm doing is fitting the yang koshi
+ 
+
+985
+00:24:32,640 --> 00:24:35,430
+All I'm doing is fitting the yang koshi
+into this yin spot that's here. It's
+
+986
+00:24:35,430 --> 00:24:35,440
+into this yin spot that's here. It's
+ 
+
+987
+00:24:35,440 --> 00:24:38,470
+into this yin spot that's here. It's
+going in. Boom. Now, you have to
+
+988
+00:24:38,470 --> 00:24:38,480
+going in. Boom. Now, you have to
+ 
+
+989
+00:24:38,480 --> 00:24:41,310
+going in. Boom. Now, you have to
+remember I don't do the federite
+
+990
+00:24:41,310 --> 00:24:41,320
+remember I don't do the federite
+ 
+
+991
+00:24:41,320 --> 00:24:43,830
+remember I don't do the federite
+koshi. I don't I'm not in the stance
+
+992
+00:24:43,830 --> 00:24:43,840
+koshi. I don't I'm not in the stance
+ 
+
+993
+00:24:43,840 --> 00:24:46,350
+koshi. I don't I'm not in the stance
+where this is not very long. It stays
+
+994
+00:24:46,350 --> 00:24:46,360
+where this is not very long. It stays
+ 
+
+995
+00:24:46,360 --> 00:24:50,110
+where this is not very long. It stays
+yin. So, when we're
+
+996
+00:24:50,110 --> 00:24:50,120
+yin. So, when we're
+ 
+
+997
+00:24:50,120 --> 00:24:53,110
+yin. So, when we're
+here, if you enter with that stance, you
+
+998
+00:24:53,110 --> 00:24:53,120
+here, if you enter with that stance, you
+ 
+
+999
+00:24:53,120 --> 00:24:54,510
+here, if you enter with that stance, you
+don't get
+
+1000
+00:24:54,510 --> 00:24:54,520
+don't get
+ 
+
+1001
+00:24:54,520 --> 00:24:58,549
+don't get
+it. Remember my admi enters on the
+
+1002
+00:24:58,549 --> 00:24:58,559
+it. Remember my admi enters on the
+ 
+
+1003
+00:24:58,559 --> 00:25:01,909
+it. Remember my admi enters on the
+straight and then turns in. So you have
+
+1004
+00:25:01,909 --> 00:25:01,919
+straight and then turns in. So you have
+ 
+
+1005
+00:25:01,919 --> 00:25:04,149
+straight and then turns in. So you have
+that foot slightly in and that's what
+
+1006
+00:25:04,149 --> 00:25:04,159
+that foot slightly in and that's what
+ 
+
+1007
+00:25:04,159 --> 00:25:07,549
+that foot slightly in and that's what
+brings it. You don't have to go past
+
+1008
+00:25:07,549 --> 00:25:07,559
+brings it. You don't have to go past
+ 
+
+1009
+00:25:07,559 --> 00:25:10,390
+brings it. You don't have to go past
+that. You don't need to do a hip bump or
+
+1010
+00:25:10,390 --> 00:25:10,400
+that. You don't need to do a hip bump or
+ 
+
+1011
+00:25:10,400 --> 00:25:21,390
+that. You don't need to do a hip bump or
+anything like
+
+1012
+00:25:21,390 --> 00:25:21,400
+
+ 
+
+1013
+00:25:21,400 --> 00:25:31,710
+
+that. That's different.
+
+1014
+00:25:31,710 --> 00:25:31,720
+
+ 
+
+1015
+00:25:31,720 --> 00:25:34,990
+
+different enter as if you're doing idim
+
+1016
+00:25:34,990 --> 00:25:35,000
+different enter as if you're doing idim
+ 
+
+1017
+00:25:35,000 --> 00:25:39,710
+different enter as if you're doing idim
+nag on this hand my style of idimi
+
+1018
+00:25:39,710 --> 00:25:39,720
+nag on this hand my style of idimi
+ 
+
+1019
+00:25:39,720 --> 00:25:43,789
+nag on this hand my style of idimi
+nag that's
+
+1020
+00:25:43,789 --> 00:25:43,799
+
+ 
+
+1021
+00:25:43,799 --> 00:25:45,870
+
+it you're fed
+
+1022
+00:25:45,870 --> 00:25:45,880
+it you're fed
+ 
+
+1023
+00:25:45,880 --> 00:25:48,590
+it you're fed
+right they always freak
+
+1024
+00:25:48,590 --> 00:25:48,600
+right they always freak
+ 
+
+1025
+00:25:48,600 --> 00:25:52,789
+right they always freak
+out they don't know what's happening and
+
+1026
+00:25:52,789 --> 00:25:52,799
+out they don't know what's happening and
+ 
+
+1027
+00:25:52,799 --> 00:25:55,110
+out they don't know what's happening and
+because they feel So offbalance, it's
+
+1028
+00:25:55,110 --> 00:25:55,120
+because they feel So offbalance, it's
+ 
+
+1029
+00:25:55,120 --> 00:25:57,350
+because they feel So offbalance, it's
+very common that they're going to try to
+
+1030
+00:25:57,350 --> 00:25:57,360
+very common that they're going to try to
+ 
+
+1031
+00:25:57,360 --> 00:25:59,149
+very common that they're going to try to
+roll on
+
+1032
+00:25:59,149 --> 00:25:59,159
+roll on
+ 
+
+1033
+00:25:59,159 --> 00:26:00,750
+roll on
+you.
+
+1034
+00:26:00,750 --> 00:26:00,760
+you.
+ 
+
+1035
+00:26:00,760 --> 00:26:05,029
+you.
+Meaning you came out and you do a roll
+
+1036
+00:26:05,029 --> 00:26:05,039
+Meaning you came out and you do a roll
+ 
+
+1037
+00:26:05,039 --> 00:26:07,110
+Meaning you came out and you do a roll
+that way. Okay? And they do something
+
+1038
+00:26:07,110 --> 00:26:07,120
+that way. Okay? And they do something
+ 
+
+1039
+00:26:07,120 --> 00:26:09,310
+that way. Okay? And they do something
+like
+
+1040
+00:26:09,310 --> 00:26:09,320
+like
+ 
+
+1041
+00:26:09,320 --> 00:26:14,510
+like
+that. You're going to do a
+
+1042
+00:26:14,510 --> 00:26:14,520
+
+ 
+
+1043
+00:26:14,520 --> 00:26:18,230
+
+roll. Okay?
+
+1044
+00:26:18,230 --> 00:26:18,240
+roll. Okay?
+ 
+
+1045
+00:26:18,240 --> 00:26:20,110
+roll. Okay?
+First, some of you already had that
+
+1046
+00:26:20,110 --> 00:26:20,120
+First, some of you already had that
+ 
+
+1047
+00:26:20,120 --> 00:26:22,710
+First, some of you already had that
+experience, but it was exacerbated by
+
+1048
+00:26:22,710 --> 00:26:22,720
+experience, but it was exacerbated by
+ 
+
+1049
+00:26:22,720 --> 00:26:24,310
+experience, but it was exacerbated by
+you were pushing the elbow as you were
+
+1050
+00:26:24,310 --> 00:26:24,320
+you were pushing the elbow as you were
+ 
+
+1051
+00:26:24,320 --> 00:26:26,350
+you were pushing the elbow as you were
+trying to do the X
+
+1052
+00:26:26,350 --> 00:26:26,360
+trying to do the X
+ 
+
+1053
+00:26:26,360 --> 00:26:27,870
+trying to do the X
+power.
+
+1054
+00:26:27,870 --> 00:26:27,880
+power.
+ 
+
+1055
+00:26:27,880 --> 00:26:31,269
+power.
+Okay? You won't get as bad roll, but you
+
+1056
+00:26:31,269 --> 00:26:31,279
+Okay? You won't get as bad roll, but you
+ 
+
+1057
+00:26:31,279 --> 00:26:34,630
+Okay? You won't get as bad roll, but you
+may feel their upward pressure as they
+
+1058
+00:26:34,630 --> 00:26:34,640
+may feel their upward pressure as they
+ 
+
+1059
+00:26:34,640 --> 00:26:38,390
+may feel their upward pressure as they
+try to basically resist your technique.
+
+1060
+00:26:38,390 --> 00:26:38,400
+try to basically resist your technique.
+ 
+
+1061
+00:26:38,400 --> 00:26:40,070
+try to basically resist your technique.
+That's what that is. They're not letting
+
+1062
+00:26:40,070 --> 00:26:40,080
+That's what that is. They're not letting
+ 
+
+1063
+00:26:40,080 --> 00:26:41,830
+That's what that is. They're not letting
+you do
+
+1064
+00:26:41,830 --> 00:26:41,840
+you do
+ 
+
+1065
+00:26:41,840 --> 00:26:44,230
+you do
+uh the technique. They're violating the
+
+1066
+00:26:44,230 --> 00:26:44,240
+uh the technique. They're violating the
+ 
+
+1067
+00:26:44,240 --> 00:26:47,070
+uh the technique. They're violating the
+rule of neither assisting nor resisting.
+
+1068
+00:26:47,070 --> 00:26:47,080
+rule of neither assisting nor resisting.
+ 
+
+1069
+00:26:47,080 --> 00:26:50,710
+rule of neither assisting nor resisting.
+Okay? So, all you got to do is keep
+
+1070
+00:26:50,710 --> 00:26:50,720
+Okay? So, all you got to do is keep
+ 
+
+1071
+00:26:50,720 --> 00:26:53,549
+Okay? So, all you got to do is keep
+control of the
+
+1072
+00:26:53,549 --> 00:26:53,559
+
+ 
+
+1073
+00:26:53,559 --> 00:26:57,230
+
+elbow constantly 90° fluctuation that
+
+1074
+00:26:57,230 --> 00:26:57,240
+elbow constantly 90° fluctuation that
+ 
+
+1075
+00:26:57,240 --> 00:26:59,750
+elbow constantly 90° fluctuation that
+energy. You would feel it in your hand
+
+1076
+00:26:59,750 --> 00:26:59,760
+energy. You would feel it in your hand
+ 
+
+1077
+00:26:59,760 --> 00:27:01,590
+energy. You would feel it in your hand
+because you had to fluctuate, but no one
+
+1078
+00:27:01,590 --> 00:27:01,600
+because you had to fluctuate, but no one
+ 
+
+1079
+00:27:01,600 --> 00:27:03,190
+because you had to fluctuate, but no one
+else would know that they were trying to
+
+1080
+00:27:03,190 --> 00:27:03,200
+else would know that they were trying to
+ 
+
+1081
+00:27:03,200 --> 00:27:05,909
+else would know that they were trying to
+roll out. Okay? That's the ideal. So, if
+
+1082
+00:27:05,909 --> 00:27:05,919
+roll out. Okay? That's the ideal. So, if
+ 
+
+1083
+00:27:05,919 --> 00:27:10,390
+roll out. Okay? That's the ideal. So, if
+they roll out, it's not their fault. you
+
+1084
+00:27:10,390 --> 00:27:10,400
+they roll out, it's not their fault. you
+ 
+
+1085
+00:27:10,400 --> 00:27:12,870
+they roll out, it's not their fault. you
+didn't 90 degree fluctuate that upward
+
+1086
+00:27:12,870 --> 00:27:12,880
+didn't 90 degree fluctuate that upward
+ 
+
+1087
+00:27:12,880 --> 00:27:16,110
+didn't 90 degree fluctuate that upward
+lift into where you need them to go.
+
+1088
+00:27:16,110 --> 00:27:16,120
+lift into where you need them to go.
+ 
+
+1089
+00:27:16,120 --> 00:27:19,269
+lift into where you need them to go.
+Okay. All right. Here I I told Sean and
+
+1090
+00:27:19,269 --> 00:27:19,279
+Okay. All right. Here I I told Sean and
+ 
+
+1091
+00:27:19,279 --> 00:27:21,669
+Okay. All right. Here I I told Sean and
+Virginia to purposely try to roll out of
+
+1092
+00:27:21,669 --> 00:27:21,679
+Virginia to purposely try to roll out of
+ 
+
+1093
+00:27:21,679 --> 00:27:23,549
+Virginia to purposely try to roll out of
+it. And we're going to watch
+
+1094
+00:27:23,549 --> 00:27:23,559
+it. And we're going to watch
+ 
+
+1095
+00:27:23,559 --> 00:27:43,770
+it. And we're going to watch
+Ronin go ahead and 90° fluctuate.
+
+1096
+00:27:43,770 --> 00:27:43,780
+
+ 
+
+1097
+00:27:43,780 --> 00:27:53,190
+
+[Music]
+
+1098
+00:27:53,190 --> 00:27:53,200
+
+ 
+
+1099
+00:27:53,200 --> 00:27:55,830
+
+You can say he's not like umping their
+
+1100
+00:27:55,830 --> 00:27:55,840
+You can say he's not like umping their
+ 
+
+1101
+00:27:55,840 --> 00:27:59,510
+You can say he's not like umping their
+their arms down. You can see the the
+
+1102
+00:27:59,510 --> 00:27:59,520
+their arms down. You can see the the
+ 
+
+1103
+00:27:59,520 --> 00:28:01,830
+their arms down. You can see the the
+energy in them trying to do it, but it
+
+1104
+00:28:01,830 --> 00:28:01,840
+energy in them trying to do it, but it
+ 
+
+1105
+00:28:01,840 --> 00:28:03,750
+energy in them trying to do it, but it
+doesn't change anything for the nag.
+
+1106
+00:28:03,750 --> 00:28:03,760
+doesn't change anything for the nag.
+ 
+
+1107
+00:28:03,760 --> 00:28:05,470
+doesn't change anything for the nag.
+Okay, let's switch.
+
+1108
+00:28:05,470 --> 00:28:05,480
+Okay, let's switch.
+ 
+
+1109
+00:28:05,480 --> 00:28:16,050
+Okay, let's switch.
+Nag and you're trying to roll out. Okay.
+
+1110
+00:28:16,050 --> 00:28:16,060
+
+ 
+
+1111
+00:28:16,060 --> 00:28:18,389
+
+[Music]
+
+1112
+00:28:18,389 --> 00:28:18,399
+[Music]
+ 
+
+1113
+00:28:18,399 --> 00:28:20,389
+[Music]
+And we got one cuz you push your elbow
+
+1114
+00:28:20,389 --> 00:28:20,399
+And we got one cuz you push your elbow
+ 
+
+1115
+00:28:20,399 --> 00:28:22,310
+And we got one cuz you push your elbow
+forward and you push your elbow forward
+
+1116
+00:28:22,310 --> 00:28:22,320
+forward and you push your elbow forward
+ 
+
+1117
+00:28:22,320 --> 00:28:26,300
+forward and you push your elbow forward
+on your demo, too.
+
+1118
+00:28:26,300 --> 00:28:26,310
+
+ 
+
+1119
+00:28:26,310 --> 00:28:29,750
+
+[Music]
+
+1120
+00:28:29,750 --> 00:28:29,760
+
+ 
+
+1121
+00:28:29,760 --> 00:28:32,470
+
+Come on. You see that little push
+
+1122
+00:28:32,470 --> 00:28:32,480
+Come on. You see that little push
+ 
+
+1123
+00:28:32,480 --> 00:28:40,789
+Come on. You see that little push
+forward? You needed two moves to do it.
+
+1124
+00:28:40,789 --> 00:28:40,799
+
+ 
+
+1125
+00:28:40,799 --> 00:28:52,669
+
+Caught it. Two moves again at the
+
+1126
+00:28:52,669 --> 00:28:52,679
+
+ 
+
+1127
+00:28:52,679 --> 00:28:58,580
+
+end. Two moves
+
+1128
+00:28:58,580 --> 00:28:58,590
+
+ 
+
+1129
+00:28:58,590 --> 00:29:00,590
+
+[Music]
+
+1130
+00:29:00,590 --> 00:29:00,600
+[Music]
+ 
+
+1131
+00:29:00,600 --> 00:29:09,269
+[Music]
+again. Two moves again.
+
+1132
+00:29:09,269 --> 00:29:09,279
+
+ 
+
+1133
+00:29:09,279 --> 00:29:11,350
+
+Carrie, you tried to muscle it. You're
+
+1134
+00:29:11,350 --> 00:29:11,360
+Carrie, you tried to muscle it. You're
+ 
+
+1135
+00:29:11,360 --> 00:29:17,710
+Carrie, you tried to muscle it. You're
+too small to muscle
+
+1136
+00:29:17,710 --> 00:29:17,720
+
+ 
+
+1137
+00:29:17,720 --> 00:29:20,710
+
+it. So, you have a straight arm and then
+
+1138
+00:29:20,710 --> 00:29:20,720
+it. So, you have a straight arm and then
+ 
+
+1139
+00:29:20,720 --> 00:29:24,470
+it. So, you have a straight arm and then
+two moves at the end. Okay. Got got it.
+
+1140
+00:29:24,470 --> 00:29:24,480
+two moves at the end. Okay. Got got it.
+ 
+
+1141
+00:29:24,480 --> 00:29:26,950
+two moves at the end. Okay. Got got it.
+So, again, we're not all at the same
+
+1142
+00:29:26,950 --> 00:29:26,960
+So, again, we're not all at the same
+ 
+
+1143
+00:29:26,960 --> 00:29:29,350
+So, again, we're not all at the same
+level, right? Okay. Not even here in
+
+1144
+00:29:29,350 --> 00:29:29,360
+level, right? Okay. Not even here in
+ 
+
+1145
+00:29:29,360 --> 00:29:32,389
+level, right? Okay. Not even here in
+this dojo. So it has an impact on what
+
+1146
+00:29:32,389 --> 00:29:32,399
+this dojo. So it has an impact on what
+ 
+
+1147
+00:29:32,399 --> 00:29:35,029
+this dojo. So it has an impact on what
+we're able to work on and not work on
+
+1148
+00:29:35,029 --> 00:29:35,039
+we're able to work on and not work on
+ 
+
+1149
+00:29:35,039 --> 00:29:38,149
+we're able to work on and not work on
+and what we should be working on. Okay?
+
+1150
+00:29:38,149 --> 00:29:38,159
+and what we should be working on. Okay?
+ 
+
+1151
+00:29:38,159 --> 00:29:41,110
+and what we should be working on. Okay?
+Uh and so everyone is where they're at
+
+1152
+00:29:41,110 --> 00:29:41,120
+Uh and so everyone is where they're at
+ 
+
+1153
+00:29:41,120 --> 00:29:42,870
+Uh and so everyone is where they're at
+and we just keep moving forward from
+
+1154
+00:29:42,870 --> 00:29:42,880
+and we just keep moving forward from
+ 
+
+1155
+00:29:42,880 --> 00:29:46,640
+and we just keep moving forward from
+where everyone is at.
+

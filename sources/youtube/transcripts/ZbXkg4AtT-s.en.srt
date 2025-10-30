@@ -1,0 +1,1545 @@
+1
+00:00:01,490 --> 00:00:13,839
+
+[Music]
+
+2
+00:00:13,839 --> 00:00:13,849
+
+ 
+
+3
+00:00:13,849 --> 00:00:16,160
+
+I'm Christopher Hyde and this week we're
+
+4
+00:00:16,160 --> 00:00:16,170
+I'm Christopher Hyde and this week we're
+ 
+
+5
+00:00:16,170 --> 00:00:17,510
+I'm Christopher Hyde and this week we're
+talking about the Oh sake homie Wazza
+
+6
+00:00:17,510 --> 00:00:17,520
+talking about the Oh sake homie Wazza
+ 
+
+7
+00:00:17,520 --> 00:00:19,880
+talking about the Oh sake homie Wazza
+and what the OS a Comey was it is so the
+
+8
+00:00:19,880 --> 00:00:19,890
+and what the OS a Comey was it is so the
+ 
+
+9
+00:00:19,890 --> 00:00:21,769
+and what the OS a Comey was it is so the
+OCA call me woz is a set of pinning and
+
+10
+00:00:21,769 --> 00:00:21,779
+OCA call me woz is a set of pinning and
+ 
+
+11
+00:00:21,779 --> 00:00:23,420
+OCA call me woz is a set of pinning and
+takedown methods that we use in Aikido
+
+12
+00:00:23,420 --> 00:00:23,430
+takedown methods that we use in Aikido
+ 
+
+13
+00:00:23,430 --> 00:00:27,349
+takedown methods that we use in Aikido
+it's not the premier idea of the style
+
+14
+00:00:27,349 --> 00:00:27,359
+it's not the premier idea of the style
+ 
+
+15
+00:00:27,359 --> 00:00:29,630
+it's not the premier idea of the style
+right so if you look at the forms then
+
+16
+00:00:29,630 --> 00:00:29,640
+right so if you look at the forms then
+ 
+
+17
+00:00:29,640 --> 00:00:31,759
+right so if you look at the forms then
+most of the forms resolve and either a
+
+18
+00:00:31,759 --> 00:00:31,769
+most of the forms resolve and either a
+ 
+
+19
+00:00:31,769 --> 00:00:33,889
+most of the forms resolve and either a
+throw or a pin so it would make you
+
+20
+00:00:33,889 --> 00:00:33,899
+throw or a pin so it would make you
+ 
+
+21
+00:00:33,899 --> 00:00:35,389
+throw or a pin so it would make you
+think that Aikido must either be about
+
+22
+00:00:35,389 --> 00:00:35,399
+think that Aikido must either be about
+ 
+
+23
+00:00:35,399 --> 00:00:38,330
+think that Aikido must either be about
+projecting or about controlling but the
+
+24
+00:00:38,330 --> 00:00:38,340
+projecting or about controlling but the
+ 
+
+25
+00:00:38,340 --> 00:00:40,010
+projecting or about controlling but the
+problem is those are the things that
+
+26
+00:00:40,010 --> 00:00:40,020
+problem is those are the things that
+ 
+
+27
+00:00:40,020 --> 00:00:41,660
+problem is those are the things that
+have gone worse like I have to do those
+
+28
+00:00:41,660 --> 00:00:41,670
+have gone worse like I have to do those
+ 
+
+29
+00:00:41,670 --> 00:00:43,160
+have gone worse like I have to do those
+things so that's why I'm either pinning
+
+30
+00:00:43,160 --> 00:00:43,170
+things so that's why I'm either pinning
+ 
+
+31
+00:00:43,170 --> 00:00:44,750
+things so that's why I'm either pinning
+or throwing like that because things
+
+32
+00:00:44,750 --> 00:00:44,760
+or throwing like that because things
+ 
+
+33
+00:00:44,760 --> 00:00:46,100
+or throwing like that because things
+have gotten so bad that I get locked
+
+34
+00:00:46,100 --> 00:00:46,110
+have gotten so bad that I get locked
+ 
+
+35
+00:00:46,110 --> 00:00:48,170
+have gotten so bad that I get locked
+down in that and the basic Aikido theory
+
+36
+00:00:48,170 --> 00:00:48,180
+down in that and the basic Aikido theory
+ 
+
+37
+00:00:48,180 --> 00:00:50,000
+down in that and the basic Aikido theory
+that we use we would really like to do
+
+38
+00:00:50,000 --> 00:00:50,010
+that we use we would really like to do
+ 
+
+39
+00:00:50,010 --> 00:00:51,619
+that we use we would really like to do
+nothing to anyone we would like to just
+
+40
+00:00:51,619 --> 00:00:51,629
+nothing to anyone we would like to just
+ 
+
+41
+00:00:51,629 --> 00:00:53,150
+nothing to anyone we would like to just
+get away from them and not hurt them and
+
+42
+00:00:53,150 --> 00:00:53,160
+get away from them and not hurt them and
+ 
+
+43
+00:00:53,160 --> 00:00:54,319
+get away from them and not hurt them and
+them not hurt us and everything worked
+
+44
+00:00:54,319 --> 00:00:54,329
+them not hurt us and everything worked
+ 
+
+45
+00:00:54,329 --> 00:00:56,450
+them not hurt us and everything worked
+out well unfortunately that's always not
+
+46
+00:00:56,450 --> 00:00:56,460
+out well unfortunately that's always not
+ 
+
+47
+00:00:56,460 --> 00:00:58,580
+out well unfortunately that's always not
+gonna play out that way so oseco me woz
+
+48
+00:00:58,580 --> 00:00:58,590
+gonna play out that way so oseco me woz
+ 
+
+49
+00:00:58,590 --> 00:01:00,049
+gonna play out that way so oseco me woz
+is a series of techniques that allow us
+
+50
+00:01:00,049 --> 00:01:00,059
+is a series of techniques that allow us
+ 
+
+51
+00:01:00,059 --> 00:01:02,630
+is a series of techniques that allow us
+to take care of situations when we have
+
+52
+00:01:02,630 --> 00:01:02,640
+to take care of situations when we have
+ 
+
+53
+00:01:02,640 --> 00:01:05,240
+to take care of situations when we have
+the opportunity that arises a lot of
+
+54
+00:01:05,240 --> 00:01:05,250
+the opportunity that arises a lot of
+ 
+
+55
+00:01:05,250 --> 00:01:06,770
+the opportunity that arises a lot of
+people like to criticize Aikido
+
+56
+00:01:06,770 --> 00:01:06,780
+people like to criticize Aikido
+ 
+
+57
+00:01:06,780 --> 00:01:08,750
+people like to criticize Aikido
+techniques or Aikido students like to
+
+58
+00:01:08,750 --> 00:01:08,760
+techniques or Aikido students like to
+ 
+
+59
+00:01:08,760 --> 00:01:11,149
+techniques or Aikido students like to
+try to change the techniques because
+
+60
+00:01:11,149 --> 00:01:11,159
+try to change the techniques because
+ 
+
+61
+00:01:11,159 --> 00:01:12,469
+try to change the techniques because
+it's like oh you know I know better ways
+
+62
+00:01:12,469 --> 00:01:12,479
+it's like oh you know I know better ways
+ 
+
+63
+00:01:12,479 --> 00:01:14,270
+it's like oh you know I know better ways
+to pin than Aikido teaches I he teaches
+
+64
+00:01:14,270 --> 00:01:14,280
+to pin than Aikido teaches I he teaches
+ 
+
+65
+00:01:14,280 --> 00:01:16,789
+to pin than Aikido teaches I he teaches
+dumb ways to pin but the truth is IQ
+
+66
+00:01:16,789 --> 00:01:16,799
+dumb ways to pin but the truth is IQ
+ 
+
+67
+00:01:16,799 --> 00:01:18,350
+dumb ways to pin but the truth is IQ
+pins are all based around the idea of
+
+68
+00:01:18,350 --> 00:01:18,360
+pins are all based around the idea of
+ 
+
+69
+00:01:18,360 --> 00:01:21,050
+pins are all based around the idea of
+pinning with autonomy versus pinning
+
+70
+00:01:21,050 --> 00:01:21,060
+pinning with autonomy versus pinning
+ 
+
+71
+00:01:21,060 --> 00:01:22,130
+pinning with autonomy versus pinning
+with security
+
+72
+00:01:22,130 --> 00:01:22,140
+with security
+ 
+
+73
+00:01:22,140 --> 00:01:24,200
+with security
+so all pins of course have to have some
+
+74
+00:01:24,200 --> 00:01:24,210
+so all pins of course have to have some
+ 
+
+75
+00:01:24,210 --> 00:01:26,179
+so all pins of course have to have some
+security to them but I feel puts a
+
+76
+00:01:26,179 --> 00:01:26,189
+security to them but I feel puts a
+ 
+
+77
+00:01:26,189 --> 00:01:28,039
+security to them but I feel puts a
+premium on the autonomy and doesn't put
+
+78
+00:01:28,039 --> 00:01:28,049
+premium on the autonomy and doesn't put
+ 
+
+79
+00:01:28,049 --> 00:01:29,749
+premium on the autonomy and doesn't put
+a premium on the security if the
+
+80
+00:01:29,749 --> 00:01:29,759
+a premium on the security if the
+ 
+
+81
+00:01:29,759 --> 00:01:31,520
+a premium on the security if the
+security is what you put a premium in in
+
+82
+00:01:31,520 --> 00:01:31,530
+security is what you put a premium in in
+ 
+
+83
+00:01:31,530 --> 00:01:33,710
+security is what you put a premium in in
+modern style jiu-jitsu or any grappling
+
+84
+00:01:33,710 --> 00:01:33,720
+modern style jiu-jitsu or any grappling
+ 
+
+85
+00:01:33,720 --> 00:01:35,719
+modern style jiu-jitsu or any grappling
+style where the idea is to absolutely
+
+86
+00:01:35,719 --> 00:01:35,729
+style where the idea is to absolutely
+ 
+
+87
+00:01:35,729 --> 00:01:38,240
+style where the idea is to absolutely
+hold someone at all costs and Aikido we
+
+88
+00:01:38,240 --> 00:01:38,250
+hold someone at all costs and Aikido we
+ 
+
+89
+00:01:38,250 --> 00:01:39,830
+hold someone at all costs and Aikido we
+don't have the absolutely hold them at
+
+90
+00:01:39,830 --> 00:01:39,840
+don't have the absolutely hold them at
+ 
+
+91
+00:01:39,840 --> 00:01:41,810
+don't have the absolutely hold them at
+all costs mentality instead we have the
+
+92
+00:01:41,810 --> 00:01:41,820
+all costs mentality instead we have the
+ 
+
+93
+00:01:41,820 --> 00:01:43,639
+all costs mentality instead we have the
+idea of I want autonomy while being able
+
+94
+00:01:43,639 --> 00:01:43,649
+idea of I want autonomy while being able
+ 
+
+95
+00:01:43,649 --> 00:01:45,499
+idea of I want autonomy while being able
+to pin this guy if I cannot pin him
+
+96
+00:01:45,499 --> 00:01:45,509
+to pin this guy if I cannot pin him
+ 
+
+97
+00:01:45,509 --> 00:01:47,450
+to pin this guy if I cannot pin him
+that's fine because of the autonomy I've
+
+98
+00:01:47,450 --> 00:01:47,460
+that's fine because of the autonomy I've
+ 
+
+99
+00:01:47,460 --> 00:01:49,069
+that's fine because of the autonomy I've
+afforded myself I can always still get
+
+100
+00:01:49,069 --> 00:01:49,079
+afforded myself I can always still get
+ 
+
+101
+00:01:49,079 --> 00:01:50,569
+afforded myself I can always still get
+out of there so in this video we're
+
+102
+00:01:50,569 --> 00:01:50,579
+out of there so in this video we're
+ 
+
+103
+00:01:50,579 --> 00:01:51,830
+out of there so in this video we're
+going to talk a little bit about the
+
+104
+00:01:51,830 --> 00:01:51,840
+going to talk a little bit about the
+ 
+
+105
+00:01:51,840 --> 00:01:53,420
+going to talk a little bit about the
+autonomy and how that works
+
+106
+00:01:53,420 --> 00:01:53,430
+autonomy and how that works
+ 
+
+107
+00:01:53,430 --> 00:01:55,039
+autonomy and how that works
+I'm gonna call Josh in here and we're
+
+108
+00:01:55,039 --> 00:01:55,049
+I'm gonna call Josh in here and we're
+ 
+
+109
+00:01:55,049 --> 00:01:59,240
+I'm gonna call Josh in here and we're
+gonna show you some stuff okay so the
+
+110
+00:01:59,240 --> 00:01:59,250
+gonna show you some stuff okay so the
+ 
+
+111
+00:01:59,250 --> 00:02:00,740
+gonna show you some stuff okay so the
+first part we talked about pins and
+
+112
+00:02:00,740 --> 00:02:00,750
+first part we talked about pins and
+ 
+
+113
+00:02:00,750 --> 00:02:02,240
+first part we talked about pins and
+align to the pins look the way they look
+
+114
+00:02:02,240 --> 00:02:02,250
+align to the pins look the way they look
+ 
+
+115
+00:02:02,250 --> 00:02:04,399
+align to the pins look the way they look
+is we have to always account for weapon
+
+116
+00:02:04,399 --> 00:02:04,409
+is we have to always account for weapon
+ 
+
+117
+00:02:04,409 --> 00:02:05,630
+is we have to always account for weapon
+arm control so there's gonna be a weapon
+
+118
+00:02:05,630 --> 00:02:05,640
+arm control so there's gonna be a weapon
+ 
+
+119
+00:02:05,640 --> 00:02:06,770
+arm control so there's gonna be a weapon
+the reason we're pinning this guy is
+
+120
+00:02:06,770 --> 00:02:06,780
+the reason we're pinning this guy is
+ 
+
+121
+00:02:06,780 --> 00:02:08,059
+the reason we're pinning this guy is
+probably because he was armed this we've
+
+122
+00:02:08,059 --> 00:02:08,069
+probably because he was armed this we've
+ 
+
+123
+00:02:08,069 --> 00:02:09,800
+probably because he was armed this we've
+got to control that weapon arm first my
+
+124
+00:02:09,800 --> 00:02:09,810
+got to control that weapon arm first my
+ 
+
+125
+00:02:09,810 --> 00:02:12,050
+got to control that weapon arm first my
+second objective being the second hand
+
+126
+00:02:12,050 --> 00:02:12,060
+second objective being the second hand
+ 
+
+127
+00:02:12,060 --> 00:02:13,660
+second objective being the second hand
+over our
+
+128
+00:02:13,660 --> 00:02:13,670
+over our
+ 
+
+129
+00:02:13,670 --> 00:02:15,520
+over our
+though overall these things is my
+
+130
+00:02:15,520 --> 00:02:15,530
+though overall these things is my
+ 
+
+131
+00:02:15,530 --> 00:02:17,770
+though overall these things is my
+autonomy so understand what I'm pinning
+
+132
+00:02:17,770 --> 00:02:17,780
+autonomy so understand what I'm pinning
+ 
+
+133
+00:02:17,780 --> 00:02:20,140
+autonomy so understand what I'm pinning
+someone there are two kind of priorities
+
+134
+00:02:20,140 --> 00:02:20,150
+someone there are two kind of priorities
+ 
+
+135
+00:02:20,150 --> 00:02:21,640
+someone there are two kind of priorities
+I could have I can have a priority of
+
+136
+00:02:21,640 --> 00:02:21,650
+I could have I can have a priority of
+ 
+
+137
+00:02:21,650 --> 00:02:23,589
+I could have I can have a priority of
+security or I could have a priority of
+
+138
+00:02:23,589 --> 00:02:23,599
+security or I could have a priority of
+ 
+
+139
+00:02:23,599 --> 00:02:26,080
+security or I could have a priority of
+autonomy so security means I want to
+
+140
+00:02:26,080 --> 00:02:26,090
+autonomy so security means I want to
+ 
+
+141
+00:02:26,090 --> 00:02:27,550
+autonomy so security means I want to
+make sure he doesn't move at all
+
+142
+00:02:27,550 --> 00:02:27,560
+make sure he doesn't move at all
+ 
+
+143
+00:02:27,560 --> 00:02:29,649
+make sure he doesn't move at all
+autonomy means that I want to make sure
+
+144
+00:02:29,649 --> 00:02:29,659
+autonomy means that I want to make sure
+ 
+
+145
+00:02:29,659 --> 00:02:33,009
+autonomy means that I want to make sure
+I can move whenever I want so my
+
+146
+00:02:33,009 --> 00:02:33,019
+I can move whenever I want so my
+ 
+
+147
+00:02:33,019 --> 00:02:35,619
+I can move whenever I want so my
+autonomy and IQ depends is actually my
+
+148
+00:02:35,619 --> 00:02:35,629
+autonomy and IQ depends is actually my
+ 
+
+149
+00:02:35,629 --> 00:02:37,390
+autonomy and IQ depends is actually my
+number one and I'm gonna show you why
+
+150
+00:02:37,390 --> 00:02:37,400
+number one and I'm gonna show you why
+ 
+
+151
+00:02:37,400 --> 00:02:39,429
+number one and I'm gonna show you why
+this is so let's say I'm holding Josh
+
+152
+00:02:39,429 --> 00:02:39,439
+this is so let's say I'm holding Josh
+ 
+
+153
+00:02:39,439 --> 00:02:42,819
+this is so let's say I'm holding Josh
+down here in a classic Aikido pin okay
+
+154
+00:02:42,819 --> 00:02:42,829
+down here in a classic Aikido pin okay
+ 
+
+155
+00:02:42,829 --> 00:02:44,619
+down here in a classic Aikido pin okay
+this is a classic I could open like this
+
+156
+00:02:44,619 --> 00:02:44,629
+this is a classic I could open like this
+ 
+
+157
+00:02:44,629 --> 00:02:47,710
+this is a classic I could open like this
+now what I want Josh to do is Josh I
+
+158
+00:02:47,710 --> 00:02:47,720
+now what I want Josh to do is Josh I
+ 
+
+159
+00:02:47,720 --> 00:02:49,179
+now what I want Josh to do is Josh I
+want you to hold me I'm gonna try and
+
+160
+00:02:49,179 --> 00:02:49,189
+want you to hold me I'm gonna try and
+ 
+
+161
+00:02:49,189 --> 00:02:50,170
+want you to hold me I'm gonna try and
+get out of this so I'm gonna think
+
+162
+00:02:50,170 --> 00:02:50,180
+get out of this so I'm gonna think
+ 
+
+163
+00:02:50,180 --> 00:02:51,369
+get out of this so I'm gonna think
+there's trouble and I'm gonna get up and
+
+164
+00:02:51,369 --> 00:02:51,379
+there's trouble and I'm gonna get up and
+ 
+
+165
+00:02:51,379 --> 00:02:52,659
+there's trouble and I'm gonna get up and
+I'm gonna walk away Josh I want you to
+
+166
+00:02:52,659 --> 00:02:52,669
+I'm gonna walk away Josh I want you to
+ 
+
+167
+00:02:52,669 --> 00:02:55,890
+I'm gonna walk away Josh I want you to
+hold me when I do that you're a jockey
+
+168
+00:02:55,890 --> 00:02:55,900
+hold me when I do that you're a jockey
+ 
+
+169
+00:02:55,900 --> 00:02:58,929
+hold me when I do that you're a jockey
+okay now I moved out it's slick and slow
+
+170
+00:02:58,929 --> 00:02:58,939
+okay now I moved out it's slick and slow
+ 
+
+171
+00:02:58,939 --> 00:03:00,129
+okay now I moved out it's slick and slow
+as I possibly could
+
+172
+00:03:00,129 --> 00:03:00,139
+as I possibly could
+ 
+
+173
+00:03:00,139 --> 00:03:01,929
+as I possibly could
+with with any kind of reason and he
+
+174
+00:03:01,929 --> 00:03:01,939
+with with any kind of reason and he
+ 
+
+175
+00:03:01,939 --> 00:03:03,970
+with with any kind of reason and he
+still wasn't able to get me right so I
+
+176
+00:03:03,970 --> 00:03:03,980
+still wasn't able to get me right so I
+ 
+
+177
+00:03:03,980 --> 00:03:06,940
+still wasn't able to get me right so I
+was really able easily to escape that
+
+178
+00:03:06,940 --> 00:03:06,950
+was really able easily to escape that
+ 
+
+179
+00:03:06,950 --> 00:03:08,770
+was really able easily to escape that
+position right okay now I'm gonna have
+
+180
+00:03:08,770 --> 00:03:08,780
+position right okay now I'm gonna have
+ 
+
+181
+00:03:08,780 --> 00:03:11,740
+position right okay now I'm gonna have
+Josh lay on his stomach for me okay now
+
+182
+00:03:11,740 --> 00:03:11,750
+Josh lay on his stomach for me okay now
+ 
+
+183
+00:03:11,750 --> 00:03:14,770
+Josh lay on his stomach for me okay now
+we're gonna do say I cross body position
+
+184
+00:03:14,770 --> 00:03:14,780
+we're gonna do say I cross body position
+ 
+
+185
+00:03:14,780 --> 00:03:16,899
+we're gonna do say I cross body position
+like this so you might see in if you're
+
+186
+00:03:16,899 --> 00:03:16,909
+like this so you might see in if you're
+ 
+
+187
+00:03:16,909 --> 00:03:18,189
+like this so you might see in if you're
+doing some kind of pinning combination
+
+188
+00:03:18,189 --> 00:03:18,199
+doing some kind of pinning combination
+ 
+
+189
+00:03:18,199 --> 00:03:21,280
+doing some kind of pinning combination
+from wrestling or a modern jujitsu so
+
+190
+00:03:21,280 --> 00:03:21,290
+from wrestling or a modern jujitsu so
+ 
+
+191
+00:03:21,290 --> 00:03:22,899
+from wrestling or a modern jujitsu so
+this is side mountain in Brazilian
+
+192
+00:03:22,899 --> 00:03:22,909
+this is side mountain in Brazilian
+ 
+
+193
+00:03:22,909 --> 00:03:23,439
+this is side mountain in Brazilian
+jiu-jitsu
+
+194
+00:03:23,439 --> 00:03:23,449
+jiu-jitsu
+ 
+
+195
+00:03:23,449 --> 00:03:25,119
+jiu-jitsu
+okay now Josh I'm gonna try to get up
+
+196
+00:03:25,119 --> 00:03:25,129
+okay now Josh I'm gonna try to get up
+ 
+
+197
+00:03:25,129 --> 00:03:26,589
+okay now Josh I'm gonna try to get up
+and I want you to keep me here okay you
+
+198
+00:03:26,589 --> 00:03:26,599
+and I want you to keep me here okay you
+ 
+
+199
+00:03:26,599 --> 00:03:32,080
+and I want you to keep me here okay you
+ready okay so fun more work right if
+
+200
+00:03:32,080 --> 00:03:32,090
+ready okay so fun more work right if
+ 
+
+201
+00:03:32,090 --> 00:03:33,939
+ready okay so fun more work right if
+josh is right on it I might not ever get
+
+202
+00:03:33,939 --> 00:03:33,949
+josh is right on it I might not ever get
+ 
+
+203
+00:03:33,949 --> 00:03:36,189
+josh is right on it I might not ever get
+up right so this might seem like a silly
+
+204
+00:03:36,189 --> 00:03:36,199
+up right so this might seem like a silly
+ 
+
+205
+00:03:36,199 --> 00:03:37,479
+up right so this might seem like a silly
+thing to worry about because it's like
+
+206
+00:03:37,479 --> 00:03:37,489
+thing to worry about because it's like
+ 
+
+207
+00:03:37,489 --> 00:03:39,309
+thing to worry about because it's like
+well I'm holding him so why would he
+
+208
+00:03:39,309 --> 00:03:39,319
+well I'm holding him so why would he
+ 
+
+209
+00:03:39,319 --> 00:03:41,800
+well I'm holding him so why would he
+ever hold me there let me explain why
+
+210
+00:03:41,800 --> 00:03:41,810
+ever hold me there let me explain why
+ 
+
+211
+00:03:41,810 --> 00:03:43,990
+ever hold me there let me explain why
+this might happen so let's say I got
+
+212
+00:03:43,990 --> 00:03:44,000
+this might happen so let's say I got
+ 
+
+213
+00:03:44,000 --> 00:03:46,899
+this might happen so let's say I got
+this guy in out like him and I hear his
+
+214
+00:03:46,899 --> 00:03:46,909
+this guy in out like him and I hear his
+ 
+
+215
+00:03:46,909 --> 00:03:48,670
+this guy in out like him and I hear his
+friend arising and so I go oh I better
+
+216
+00:03:48,670 --> 00:03:48,680
+friend arising and so I go oh I better
+ 
+
+217
+00:03:48,680 --> 00:03:50,399
+friend arising and so I go oh I better
+get out of here to the Friends of riding
+
+218
+00:03:50,399 --> 00:03:50,409
+get out of here to the Friends of riding
+ 
+
+219
+00:03:50,409 --> 00:03:51,580
+get out of here to the Friends of riding
+okay
+
+220
+00:03:51,580 --> 00:03:51,590
+okay
+ 
+
+221
+00:03:51,590 --> 00:03:53,830
+okay
+the friends on top of me now before I
+
+222
+00:03:53,830 --> 00:03:53,840
+the friends on top of me now before I
+ 
+
+223
+00:03:53,840 --> 00:03:55,659
+the friends on top of me now before I
+can get out of there let's look at the
+
+224
+00:03:55,659 --> 00:03:55,669
+can get out of there let's look at the
+ 
+
+225
+00:03:55,669 --> 00:03:59,770
+can get out of there let's look at the
+same thing from an Aikido style pin so
+
+226
+00:03:59,770 --> 00:03:59,780
+same thing from an Aikido style pin so
+ 
+
+227
+00:03:59,780 --> 00:04:01,330
+same thing from an Aikido style pin so
+I'm here like this I'm paying this guy
+
+228
+00:04:01,330 --> 00:04:01,340
+I'm here like this I'm paying this guy
+ 
+
+229
+00:04:01,340 --> 00:04:05,010
+I'm here like this I'm paying this guy
+to go always friends coming
+
+230
+00:04:05,010 --> 00:04:05,020
+
+ 
+
+231
+00:04:05,020 --> 00:04:07,210
+
+okay now we're gonna set that up I'm
+
+232
+00:04:07,210 --> 00:04:07,220
+okay now we're gonna set that up I'm
+ 
+
+233
+00:04:07,220 --> 00:04:09,130
+okay now we're gonna set that up I'm
+inside Maya and Maya is gonna get to say
+
+234
+00:04:09,130 --> 00:04:09,140
+inside Maya and Maya is gonna get to say
+ 
+
+235
+00:04:09,140 --> 00:04:11,140
+inside Maya and Maya is gonna get to say
+go so she's gonna have the advantage on
+
+236
+00:04:11,140 --> 00:04:11,150
+go so she's gonna have the advantage on
+ 
+
+237
+00:04:11,150 --> 00:04:12,760
+go so she's gonna have the advantage on
+me as to when she goes we're gonna set
+
+238
+00:04:12,760 --> 00:04:12,770
+me as to when she goes we're gonna set
+ 
+
+239
+00:04:12,770 --> 00:04:13,990
+me as to when she goes we're gonna set
+her just a few feet away we're right
+
+240
+00:04:13,990 --> 00:04:14,000
+her just a few feet away we're right
+ 
+
+241
+00:04:14,000 --> 00:04:15,940
+her just a few feet away we're right
+side the boom safety distance here we're
+
+242
+00:04:15,940 --> 00:04:15,950
+side the boom safety distance here we're
+ 
+
+243
+00:04:15,950 --> 00:04:16,870
+side the boom safety distance here we're
+gonna see if I can get out of there
+
+244
+00:04:16,870 --> 00:04:16,880
+gonna see if I can get out of there
+ 
+
+245
+00:04:16,880 --> 00:04:17,410
+gonna see if I can get out of there
+before
+
+246
+00:04:17,410 --> 00:04:17,420
+before
+ 
+
+247
+00:04:17,420 --> 00:04:19,840
+before
+Joshua's gonna do is absolute best to
+
+248
+00:04:19,840 --> 00:04:19,850
+Joshua's gonna do is absolute best to
+ 
+
+249
+00:04:19,850 --> 00:04:21,729
+Joshua's gonna do is absolute best to
+keep me here when mine says go she's
+
+250
+00:04:21,729 --> 00:04:21,739
+keep me here when mine says go she's
+ 
+
+251
+00:04:21,739 --> 00:04:28,420
+keep me here when mine says go she's
+gonna do her best to get me go so you
+
+252
+00:04:28,420 --> 00:04:28,430
+gonna do her best to get me go so you
+ 
+
+253
+00:04:28,430 --> 00:04:30,070
+gonna do her best to get me go so you
+can see even with the advantage towards
+
+254
+00:04:30,070 --> 00:04:30,080
+can see even with the advantage towards
+ 
+
+255
+00:04:30,080 --> 00:04:32,080
+can see even with the advantage towards
+Maya she got to pick when she went I
+
+256
+00:04:32,080 --> 00:04:32,090
+Maya she got to pick when she went I
+ 
+
+257
+00:04:32,090 --> 00:04:34,480
+Maya she got to pick when she went I
+could get out of there before Maya could
+
+258
+00:04:34,480 --> 00:04:34,490
+could get out of there before Maya could
+ 
+
+259
+00:04:34,490 --> 00:04:37,590
+could get out of there before Maya could
+get in let's try it the other way
+
+260
+00:04:37,590 --> 00:04:37,600
+get in let's try it the other way
+ 
+
+261
+00:04:37,600 --> 00:04:39,490
+get in let's try it the other way
+actually it's a face this weight
+
+262
+00:04:39,490 --> 00:04:39,500
+actually it's a face this weight
+ 
+
+263
+00:04:39,500 --> 00:04:40,840
+actually it's a face this weight
+something easy to leave you out this
+
+264
+00:04:40,840 --> 00:04:40,850
+something easy to leave you out this
+ 
+
+265
+00:04:40,850 --> 00:04:43,060
+something easy to leave you out this
+round you guys fast like in what have
+
+266
+00:04:43,060 --> 00:04:43,070
+round you guys fast like in what have
+ 
+
+267
+00:04:43,070 --> 00:04:46,500
+round you guys fast like in what have
+you ready mine go
+
+268
+00:04:46,500 --> 00:04:46,510
+
+ 
+
+269
+00:04:46,510 --> 00:04:48,700
+
+okay so we're really trying to get out
+
+270
+00:04:48,700 --> 00:04:48,710
+okay so we're really trying to get out
+ 
+
+271
+00:04:48,710 --> 00:04:50,980
+okay so we're really trying to get out
+of there and it's nearly impossible for
+
+272
+00:04:50,980 --> 00:04:50,990
+of there and it's nearly impossible for
+ 
+
+273
+00:04:50,990 --> 00:04:52,990
+of there and it's nearly impossible for
+me to do that you have to account for
+
+274
+00:04:52,990 --> 00:04:53,000
+me to do that you have to account for
+ 
+
+275
+00:04:53,000 --> 00:04:55,390
+me to do that you have to account for
+your own autonomy why is that important
+
+276
+00:04:55,390 --> 00:04:55,400
+your own autonomy why is that important
+ 
+
+277
+00:04:55,400 --> 00:04:57,730
+your own autonomy why is that important
+Aikido because in Aikido the objective
+
+278
+00:04:57,730 --> 00:04:57,740
+Aikido because in Aikido the objective
+ 
+
+279
+00:04:57,740 --> 00:04:58,840
+Aikido because in Aikido the objective
+is there's always going to be multiple
+
+280
+00:04:58,840 --> 00:04:58,850
+is there's always going to be multiple
+ 
+
+281
+00:04:58,850 --> 00:05:00,250
+is there's always going to be multiple
+people who are better at fighting than
+
+282
+00:05:00,250 --> 00:05:00,260
+people who are better at fighting than
+ 
+
+283
+00:05:00,260 --> 00:05:02,620
+people who are better at fighting than
+we are right we just got to escape that
+
+284
+00:05:02,620 --> 00:05:02,630
+we are right we just got to escape that
+ 
+
+285
+00:05:02,630 --> 00:05:04,270
+we are right we just got to escape that
+can't fight with this guy I was
+
+286
+00:05:04,270 --> 00:05:04,280
+can't fight with this guy I was
+ 
+
+287
+00:05:04,280 --> 00:05:05,500
+can't fight with this guy I was
+fortunate enough to be able to hold this
+
+288
+00:05:05,500 --> 00:05:05,510
+fortunate enough to be able to hold this
+ 
+
+289
+00:05:05,510 --> 00:05:07,690
+fortunate enough to be able to hold this
+guy down but someone else came to fifth
+
+290
+00:05:07,690 --> 00:05:07,700
+guy down but someone else came to fifth
+ 
+
+291
+00:05:07,700 --> 00:05:09,640
+guy down but someone else came to fifth
+graders in a classroom one's got a knife
+
+292
+00:05:09,640 --> 00:05:09,650
+graders in a classroom one's got a knife
+ 
+
+293
+00:05:09,650 --> 00:05:11,170
+graders in a classroom one's got a knife
+I'm holding him down for the princess of
+
+294
+00:05:11,170 --> 00:05:11,180
+I'm holding him down for the princess of
+ 
+
+295
+00:05:11,180 --> 00:05:12,580
+I'm holding him down for the princess of
+the show up and help me meanwhile
+
+296
+00:05:12,580 --> 00:05:12,590
+the show up and help me meanwhile
+ 
+
+297
+00:05:12,590 --> 00:05:14,260
+the show up and help me meanwhile
+another fifth grader I didn't know that
+
+298
+00:05:14,260 --> 00:05:14,270
+another fifth grader I didn't know that
+ 
+
+299
+00:05:14,270 --> 00:05:16,030
+another fifth grader I didn't know that
+is attacking with the knife I have to be
+
+300
+00:05:16,030 --> 00:05:16,040
+is attacking with the knife I have to be
+ 
+
+301
+00:05:16,040 --> 00:05:17,860
+is attacking with the knife I have to be
+able to exit the position quickly you
+
+302
+00:05:17,860 --> 00:05:17,870
+able to exit the position quickly you
+ 
+
+303
+00:05:17,870 --> 00:05:19,600
+able to exit the position quickly you
+always have to account for autonomy and
+
+304
+00:05:19,600 --> 00:05:19,610
+always have to account for autonomy and
+ 
+
+305
+00:05:19,610 --> 00:05:22,030
+always have to account for autonomy and
+that's what IQ pins do autonomy an IQ is
+
+306
+00:05:22,030 --> 00:05:22,040
+that's what IQ pins do autonomy an IQ is
+ 
+
+307
+00:05:22,040 --> 00:05:23,650
+that's what IQ pins do autonomy an IQ is
+absolutely essential I'm Christopher
+
+308
+00:05:23,650 --> 00:05:23,660
+absolutely essential I'm Christopher
+ 
+
+309
+00:05:23,660 --> 00:05:26,620
+absolutely essential I'm Christopher
+Hine thanks for watching
+

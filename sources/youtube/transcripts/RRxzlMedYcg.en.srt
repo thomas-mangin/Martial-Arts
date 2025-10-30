@@ -1,0 +1,2645 @@
+1
+00:00:01,200 --> 00:00:14,680
+
+[Music]
+
+2
+00:00:14,680 --> 00:00:14,690
+
+ 
+
+3
+00:00:14,690 --> 00:00:17,029
+
+I'm Chris Ryan and this week we're
+
+4
+00:00:17,029 --> 00:00:17,039
+I'm Chris Ryan and this week we're
+ 
+
+5
+00:00:17,039 --> 00:00:18,439
+I'm Chris Ryan and this week we're
+talking about hadou key so
+
+6
+00:00:18,439 --> 00:00:18,449
+talking about hadou key so
+ 
+
+7
+00:00:18,449 --> 00:00:21,080
+talking about hadou key so
+disentanglement methods in Aikido so we
+
+8
+00:00:21,080 --> 00:00:21,090
+disentanglement methods in Aikido so we
+ 
+
+9
+00:00:21,090 --> 00:00:22,910
+disentanglement methods in Aikido so we
+should as iq2 students we should put a
+
+10
+00:00:22,910 --> 00:00:22,920
+should as iq2 students we should put a
+ 
+
+11
+00:00:22,920 --> 00:00:24,650
+should as iq2 students we should put a
+real premium on or hodo key methods if
+
+12
+00:00:24,650 --> 00:00:24,660
+real premium on or hodo key methods if
+ 
+
+13
+00:00:24,660 --> 00:00:26,420
+real premium on or hodo key methods if
+we can clear someone who's holding us
+
+14
+00:00:26,420 --> 00:00:26,430
+we can clear someone who's holding us
+ 
+
+15
+00:00:26,430 --> 00:00:27,380
+we can clear someone who's holding us
+then we don't have to worry about
+
+16
+00:00:27,380 --> 00:00:27,390
+then we don't have to worry about
+ 
+
+17
+00:00:27,390 --> 00:00:28,670
+then we don't have to worry about
+grappling with them or anything else
+
+18
+00:00:28,670 --> 00:00:28,680
+grappling with them or anything else
+ 
+
+19
+00:00:28,680 --> 00:00:30,200
+grappling with them or anything else
+remember the goal is always keep someone
+
+20
+00:00:30,200 --> 00:00:30,210
+remember the goal is always keep someone
+ 
+
+21
+00:00:30,210 --> 00:00:32,089
+remember the goal is always keep someone
+a distance because someone's at distance
+
+22
+00:00:32,089 --> 00:00:32,099
+a distance because someone's at distance
+ 
+
+23
+00:00:32,099 --> 00:00:33,319
+a distance because someone's at distance
+that means it's harder for them to hurt
+
+24
+00:00:33,319 --> 00:00:33,329
+that means it's harder for them to hurt
+ 
+
+25
+00:00:33,329 --> 00:00:35,630
+that means it's harder for them to hurt
+us and harder for us to hurt them so in
+
+26
+00:00:35,630 --> 00:00:35,640
+us and harder for us to hurt them so in
+ 
+
+27
+00:00:35,640 --> 00:00:36,889
+us and harder for us to hurt them so in
+Aikido ideally we'd like everyone to
+
+28
+00:00:36,889 --> 00:00:36,899
+Aikido ideally we'd like everyone to
+ 
+
+29
+00:00:36,899 --> 00:00:38,630
+Aikido ideally we'd like everyone to
+come out of this exchange with no one
+
+30
+00:00:38,630 --> 00:00:38,640
+come out of this exchange with no one
+ 
+
+31
+00:00:38,640 --> 00:00:40,340
+come out of this exchange with no one
+getting hurt mostly we care about
+
+32
+00:00:40,340 --> 00:00:40,350
+getting hurt mostly we care about
+ 
+
+33
+00:00:40,350 --> 00:00:42,170
+getting hurt mostly we care about
+ourselves however so the idea is I don't
+
+34
+00:00:42,170 --> 00:00:42,180
+ourselves however so the idea is I don't
+ 
+
+35
+00:00:42,180 --> 00:00:43,010
+ourselves however so the idea is I don't
+want to get hurt
+
+36
+00:00:43,010 --> 00:00:43,020
+want to get hurt
+ 
+
+37
+00:00:43,020 --> 00:00:45,319
+want to get hurt
+and hodo key gives us the ability to
+
+38
+00:00:45,319 --> 00:00:45,329
+and hodo key gives us the ability to
+ 
+
+39
+00:00:45,329 --> 00:00:46,760
+and hodo key gives us the ability to
+reset distance and put us in good
+
+40
+00:00:46,760 --> 00:00:46,770
+reset distance and put us in good
+ 
+
+41
+00:00:46,770 --> 00:00:48,350
+reset distance and put us in good
+position which is what we really want if
+
+42
+00:00:48,350 --> 00:00:48,360
+position which is what we really want if
+ 
+
+43
+00:00:48,360 --> 00:00:51,380
+position which is what we really want if
+our distance breaks down lasts yesterday
+
+44
+00:00:51,380 --> 00:00:51,390
+our distance breaks down lasts yesterday
+ 
+
+45
+00:00:51,390 --> 00:00:53,990
+our distance breaks down lasts yesterday
+we talked about real cop the Dorian of
+
+46
+00:00:53,990 --> 00:00:54,000
+we talked about real cop the Dorian of
+ 
+
+47
+00:00:54,000 --> 00:00:55,490
+we talked about real cop the Dorian of
+shear real caught the door so being
+
+48
+00:00:55,490 --> 00:00:55,500
+shear real caught the door so being
+ 
+
+49
+00:00:55,500 --> 00:00:56,959
+shear real caught the door so being
+grabbed on both sides we're gonna go
+
+50
+00:00:56,959 --> 00:00:56,969
+grabbed on both sides we're gonna go
+ 
+
+51
+00:00:56,969 --> 00:00:58,760
+grabbed on both sides we're gonna go
+into the Ted Dori today we're going
+
+52
+00:00:58,760 --> 00:00:58,770
+into the Ted Dori today we're going
+ 
+
+53
+00:00:58,770 --> 00:01:00,170
+into the Ted Dori today we're going
+talking about your top day touring gocta
+
+54
+00:01:00,170 --> 00:01:00,180
+talking about your top day touring gocta
+ 
+
+55
+00:01:00,180 --> 00:01:01,580
+talking about your top day touring gocta
+Dori and the similarities and
+
+56
+00:01:01,580 --> 00:01:01,590
+Dori and the similarities and
+ 
+
+57
+00:01:01,590 --> 00:01:03,110
+Dori and the similarities and
+differences between those two I'm gonna
+
+58
+00:01:03,110 --> 00:01:03,120
+differences between those two I'm gonna
+ 
+
+59
+00:01:03,120 --> 00:01:04,490
+differences between those two I'm gonna
+get Josh out here we're gonna try to go
+
+60
+00:01:04,490 --> 00:01:04,500
+get Josh out here we're gonna try to go
+ 
+
+61
+00:01:04,500 --> 00:01:07,520
+get Josh out here we're gonna try to go
+to work for you guys all right
+
+62
+00:01:07,520 --> 00:01:07,530
+to work for you guys all right
+ 
+
+63
+00:01:07,530 --> 00:01:10,160
+to work for you guys all right
+so yesterday we talked about real cop
+
+64
+00:01:10,160 --> 00:01:10,170
+so yesterday we talked about real cop
+ 
+
+65
+00:01:10,170 --> 00:01:12,020
+so yesterday we talked about real cop
+the Dorian of shear real cut the Dori so
+
+66
+00:01:12,020 --> 00:01:12,030
+the Dorian of shear real cut the Dori so
+ 
+
+67
+00:01:12,030 --> 00:01:13,820
+the Dorian of shear real cut the Dori so
+that was our dough Dori series we're
+
+68
+00:01:13,820 --> 00:01:13,830
+that was our dough Dori series we're
+ 
+
+69
+00:01:13,830 --> 00:01:15,260
+that was our dough Dori series we're
+gonna start talking about schedule today
+
+70
+00:01:15,260 --> 00:01:15,270
+gonna start talking about schedule today
+ 
+
+71
+00:01:15,270 --> 00:01:16,670
+gonna start talking about schedule today
+and what's going on in Ted Dori so
+
+72
+00:01:16,670 --> 00:01:16,680
+and what's going on in Ted Dori so
+ 
+
+73
+00:01:16,680 --> 00:01:19,520
+and what's going on in Ted Dori so
+Taylor is just Josh holding my hand this
+
+74
+00:01:19,520 --> 00:01:19,530
+Taylor is just Josh holding my hand this
+ 
+
+75
+00:01:19,530 --> 00:01:21,170
+Taylor is just Josh holding my hand this
+is one of the most criticized things the
+
+76
+00:01:21,170 --> 00:01:21,180
+is one of the most criticized things the
+ 
+
+77
+00:01:21,180 --> 00:01:22,580
+is one of the most criticized things the
+enemy I could have silvus why would
+
+78
+00:01:22,580 --> 00:01:22,590
+enemy I could have silvus why would
+ 
+
+79
+00:01:22,590 --> 00:01:24,499
+enemy I could have silvus why would
+someone hold your hand well the reason
+
+80
+00:01:24,499 --> 00:01:24,509
+someone hold your hand well the reason
+ 
+
+81
+00:01:24,509 --> 00:01:26,240
+someone hold your hand well the reason
+is I have something in my hand that I'm
+
+82
+00:01:26,240 --> 00:01:26,250
+is I have something in my hand that I'm
+ 
+
+83
+00:01:26,250 --> 00:01:27,770
+is I have something in my hand that I'm
+gonna use on him and if he doesn't hold
+
+84
+00:01:27,770 --> 00:01:27,780
+gonna use on him and if he doesn't hold
+ 
+
+85
+00:01:27,780 --> 00:01:30,319
+gonna use on him and if he doesn't hold
+my hand then he's gonna be in a bad way
+
+86
+00:01:30,319 --> 00:01:30,329
+my hand then he's gonna be in a bad way
+ 
+
+87
+00:01:30,329 --> 00:01:32,300
+my hand then he's gonna be in a bad way
+right and so may some people go like oh
+
+88
+00:01:32,300 --> 00:01:32,310
+right and so may some people go like oh
+ 
+
+89
+00:01:32,310 --> 00:01:33,890
+right and so may some people go like oh
+you're gonna punch him so he grabs your
+
+90
+00:01:33,890 --> 00:01:33,900
+you're gonna punch him so he grabs your
+ 
+
+91
+00:01:33,900 --> 00:01:35,899
+you're gonna punch him so he grabs your
+wrist if you if I was gonna punch him he
+
+92
+00:01:35,899 --> 00:01:35,909
+wrist if you if I was gonna punch him he
+ 
+
+93
+00:01:35,909 --> 00:01:37,190
+wrist if you if I was gonna punch him he
+could do a high cover which would work
+
+94
+00:01:37,190 --> 00:01:37,200
+could do a high cover which would work
+ 
+
+95
+00:01:37,200 --> 00:01:39,410
+could do a high cover which would work
+out way better for him than it would be
+
+96
+00:01:39,410 --> 00:01:39,420
+out way better for him than it would be
+ 
+
+97
+00:01:39,420 --> 00:01:41,240
+out way better for him than it would be
+to grab my wrist I mean it's hard to
+
+98
+00:01:41,240 --> 00:01:41,250
+to grab my wrist I mean it's hard to
+ 
+
+99
+00:01:41,250 --> 00:01:42,710
+to grab my wrist I mean it's hard to
+grab my wrist and if I were gonna punch
+
+100
+00:01:42,710 --> 00:01:42,720
+grab my wrist and if I were gonna punch
+ 
+
+101
+00:01:42,720 --> 00:01:44,480
+grab my wrist and if I were gonna punch
+Josh in just doing a high cover will
+
+102
+00:01:44,480 --> 00:01:44,490
+Josh in just doing a high cover will
+ 
+
+103
+00:01:44,490 --> 00:01:46,819
+Josh in just doing a high cover will
+pretty much neutralize that shot and he
+
+104
+00:01:46,819 --> 00:01:46,829
+pretty much neutralize that shot and he
+ 
+
+105
+00:01:46,829 --> 00:01:48,590
+pretty much neutralize that shot and he
+doesn't have to grab my hand however if
+
+106
+00:01:48,590 --> 00:01:48,600
+doesn't have to grab my hand however if
+ 
+
+107
+00:01:48,600 --> 00:01:50,240
+doesn't have to grab my hand however if
+I have blade in my hand and he high
+
+108
+00:01:50,240 --> 00:01:50,250
+I have blade in my hand and he high
+ 
+
+109
+00:01:50,250 --> 00:01:51,770
+I have blade in my hand and he high
+covered I'm probably going in between
+
+110
+00:01:51,770 --> 00:01:51,780
+covered I'm probably going in between
+ 
+
+111
+00:01:51,780 --> 00:01:53,300
+covered I'm probably going in between
+his arm and still stabbing him in the
+
+112
+00:01:53,300 --> 00:01:53,310
+his arm and still stabbing him in the
+ 
+
+113
+00:01:53,310 --> 00:01:55,069
+his arm and still stabbing him in the
+neck at the very least he's got a good
+
+114
+00:01:55,069 --> 00:01:55,079
+neck at the very least he's got a good
+ 
+
+115
+00:01:55,079 --> 00:01:56,870
+neck at the very least he's got a good
+cut on his arm right so I can't afford
+
+116
+00:01:56,870 --> 00:01:56,880
+cut on his arm right so I can't afford
+ 
+
+117
+00:01:56,880 --> 00:01:59,090
+cut on his arm right so I can't afford
+to do that so he's probably gonna defend
+
+118
+00:01:59,090 --> 00:01:59,100
+to do that so he's probably gonna defend
+ 
+
+119
+00:01:59,100 --> 00:02:00,770
+to do that so he's probably gonna defend
+with outstretched hands and then
+
+120
+00:02:00,770 --> 00:02:00,780
+with outstretched hands and then
+ 
+
+121
+00:02:00,780 --> 00:02:02,959
+with outstretched hands and then
+immediately he's gonna grab that hand if
+
+122
+00:02:02,959 --> 00:02:02,969
+immediately he's gonna grab that hand if
+ 
+
+123
+00:02:02,969 --> 00:02:04,370
+immediately he's gonna grab that hand if
+he can but he wants to get a hold of
+
+124
+00:02:04,370 --> 00:02:04,380
+he can but he wants to get a hold of
+ 
+
+125
+00:02:04,380 --> 00:02:05,480
+he can but he wants to get a hold of
+that hand so he doesn't get a hold of
+
+126
+00:02:05,480 --> 00:02:05,490
+that hand so he doesn't get a hold of
+ 
+
+127
+00:02:05,490 --> 00:02:06,950
+that hand so he doesn't get a hold of
+that hand I'm gonna stab him with it
+
+128
+00:02:06,950 --> 00:02:06,960
+that hand I'm gonna stab him with it
+ 
+
+129
+00:02:06,960 --> 00:02:09,550
+that hand I'm gonna stab him with it
+right so that's why we have
+
+130
+00:02:09,550 --> 00:02:09,560
+right so that's why we have
+ 
+
+131
+00:02:09,560 --> 00:02:11,710
+right so that's why we have
+Auri techniques I am using a weapon to
+
+132
+00:02:11,710 --> 00:02:11,720
+Auri techniques I am using a weapon to
+ 
+
+133
+00:02:11,720 --> 00:02:13,059
+Auri techniques I am using a weapon to
+defend myself I've been put in such a
+
+134
+00:02:13,059 --> 00:02:13,069
+defend myself I've been put in such a
+ 
+
+135
+00:02:13,069 --> 00:02:14,470
+defend myself I've been put in such a
+bad position that I need to use a weapon
+
+136
+00:02:14,470 --> 00:02:14,480
+bad position that I need to use a weapon
+ 
+
+137
+00:02:14,480 --> 00:02:17,320
+bad position that I need to use a weapon
+and this guy somehow to grab a hole to
+
+138
+00:02:17,320 --> 00:02:17,330
+and this guy somehow to grab a hole to
+ 
+
+139
+00:02:17,330 --> 00:02:19,780
+and this guy somehow to grab a hole to
+my hand now people also say that's lower
+
+140
+00:02:19,780 --> 00:02:19,790
+my hand now people also say that's lower
+ 
+
+141
+00:02:19,790 --> 00:02:21,220
+my hand now people also say that's lower
+percentage people aren't gonna grab your
+
+142
+00:02:21,220 --> 00:02:21,230
+percentage people aren't gonna grab your
+ 
+
+143
+00:02:21,230 --> 00:02:21,940
+percentage people aren't gonna grab your
+hand out of the air
+
+144
+00:02:21,940 --> 00:02:21,950
+hand out of the air
+ 
+
+145
+00:02:21,950 --> 00:02:24,220
+hand out of the air
+I hope it's low percentage I hope no one
+
+146
+00:02:24,220 --> 00:02:24,230
+I hope it's low percentage I hope no one
+ 
+
+147
+00:02:24,230 --> 00:02:25,660
+I hope it's low percentage I hope no one
+can ever grab my hand out of the air
+
+148
+00:02:25,660 --> 00:02:25,670
+can ever grab my hand out of the air
+ 
+
+149
+00:02:25,670 --> 00:02:27,190
+can ever grab my hand out of the air
+when I'm trying to stab them because I
+
+150
+00:02:27,190 --> 00:02:27,200
+when I'm trying to stab them because I
+ 
+
+151
+00:02:27,200 --> 00:02:29,080
+when I'm trying to stab them because I
+need to use a knife so I hope they don't
+
+152
+00:02:29,080 --> 00:02:29,090
+need to use a knife so I hope they don't
+ 
+
+153
+00:02:29,090 --> 00:02:31,000
+need to use a knife so I hope they don't
+get it however if they do get it I want
+
+154
+00:02:31,000 --> 00:02:31,010
+get it however if they do get it I want
+ 
+
+155
+00:02:31,010 --> 00:02:32,890
+get it however if they do get it I want
+to have techniques that help me clear
+
+156
+00:02:32,890 --> 00:02:32,900
+to have techniques that help me clear
+ 
+
+157
+00:02:32,900 --> 00:02:34,990
+to have techniques that help me clear
+the hand so that's why we have these it
+
+158
+00:02:34,990 --> 00:02:35,000
+the hand so that's why we have these it
+ 
+
+159
+00:02:35,000 --> 00:02:36,400
+the hand so that's why we have these it
+doesn't matter that's low percentage its
+
+160
+00:02:36,400 --> 00:02:36,410
+doesn't matter that's low percentage its
+ 
+
+161
+00:02:36,410 --> 00:02:37,780
+doesn't matter that's low percentage its
+percentage enough that I need to worry
+
+162
+00:02:37,780 --> 00:02:37,790
+percentage enough that I need to worry
+ 
+
+163
+00:02:37,790 --> 00:02:39,220
+percentage enough that I need to worry
+about it because if you've ever been in
+
+164
+00:02:39,220 --> 00:02:39,230
+about it because if you've ever been in
+ 
+
+165
+00:02:39,230 --> 00:02:40,660
+about it because if you've ever been in
+any kind of grappling situation and
+
+166
+00:02:40,660 --> 00:02:40,670
+any kind of grappling situation and
+ 
+
+167
+00:02:40,670 --> 00:02:41,740
+any kind of grappling situation and
+you're using weapon and they've
+
+168
+00:02:41,740 --> 00:02:41,750
+you're using weapon and they've
+ 
+
+169
+00:02:41,750 --> 00:02:43,360
+you're using weapon and they've
+controlled your weapon you want to find
+
+170
+00:02:43,360 --> 00:02:43,370
+controlled your weapon you want to find
+ 
+
+171
+00:02:43,370 --> 00:02:44,920
+controlled your weapon you want to find
+the best ways to clear it and that's
+
+172
+00:02:44,920 --> 00:02:44,930
+the best ways to clear it and that's
+ 
+
+173
+00:02:44,930 --> 00:02:47,050
+the best ways to clear it and that's
+what I'm looking to do another thing
+
+174
+00:02:47,050 --> 00:02:47,060
+what I'm looking to do another thing
+ 
+
+175
+00:02:47,060 --> 00:02:48,550
+what I'm looking to do another thing
+people like to criticize about these
+
+176
+00:02:48,550 --> 00:02:48,560
+people like to criticize about these
+ 
+
+177
+00:02:48,560 --> 00:02:50,949
+people like to criticize about these
+hadoo ki is no one's gonna hold your
+
+178
+00:02:50,949 --> 00:02:50,959
+hadoo ki is no one's gonna hold your
+ 
+
+179
+00:02:50,959 --> 00:02:53,170
+hadoo ki is no one's gonna hold your
+hand for that long a time let's hope
+
+180
+00:02:53,170 --> 00:02:53,180
+hand for that long a time let's hope
+ 
+
+181
+00:02:53,180 --> 00:02:54,910
+hand for that long a time let's hope
+they don't hold my hand that long the
+
+182
+00:02:54,910 --> 00:02:54,920
+they don't hold my hand that long the
+ 
+
+183
+00:02:54,920 --> 00:02:56,380
+they don't hold my hand that long the
+time so let's say I'm coming to jobs
+
+184
+00:02:56,380 --> 00:02:56,390
+time so let's say I'm coming to jobs
+ 
+
+185
+00:02:56,390 --> 00:02:58,539
+time so let's say I'm coming to jobs
+like this and he defends himself and he
+
+186
+00:02:58,539 --> 00:02:58,549
+like this and he defends himself and he
+ 
+
+187
+00:02:58,549 --> 00:03:00,339
+like this and he defends himself and he
+grabs my hand and we call this a job
+
+188
+00:03:00,339 --> 00:03:00,349
+grabs my hand and we call this a job
+ 
+
+189
+00:03:00,349 --> 00:03:02,589
+grabs my hand and we call this a job
+category and then you're gonna technique
+
+190
+00:03:02,589 --> 00:03:02,599
+category and then you're gonna technique
+ 
+
+191
+00:03:02,599 --> 00:03:04,449
+category and then you're gonna technique
+like Nico right you got who's gonna hold
+
+192
+00:03:04,449 --> 00:03:04,459
+like Nico right you got who's gonna hold
+ 
+
+193
+00:03:04,459 --> 00:03:06,820
+like Nico right you got who's gonna hold
+on while I go over here apply the Nico
+
+194
+00:03:06,820 --> 00:03:06,830
+on while I go over here apply the Nico
+ 
+
+195
+00:03:06,830 --> 00:03:08,620
+on while I go over here apply the Nico
+who's gonna hold on well I hope this guy
+
+196
+00:03:08,620 --> 00:03:08,630
+who's gonna hold on well I hope this guy
+ 
+
+197
+00:03:08,630 --> 00:03:09,850
+who's gonna hold on well I hope this guy
+doesn't hold on because when I go like
+
+198
+00:03:09,850 --> 00:03:09,860
+doesn't hold on because when I go like
+ 
+
+199
+00:03:09,860 --> 00:03:11,530
+doesn't hold on because when I go like
+this he lets go that's fine
+
+200
+00:03:11,530 --> 00:03:11,540
+this he lets go that's fine
+ 
+
+201
+00:03:11,540 --> 00:03:13,059
+this he lets go that's fine
+now I cut him with my weapon which was
+
+202
+00:03:13,059 --> 00:03:13,069
+now I cut him with my weapon which was
+ 
+
+203
+00:03:13,069 --> 00:03:15,789
+now I cut him with my weapon which was
+what my goal was so understand that he's
+
+204
+00:03:15,789 --> 00:03:15,799
+what my goal was so understand that he's
+ 
+
+205
+00:03:15,799 --> 00:03:17,620
+what my goal was so understand that he's
+not holding on so I can do a technique
+
+206
+00:03:17,620 --> 00:03:17,630
+not holding on so I can do a technique
+ 
+
+207
+00:03:17,630 --> 00:03:19,569
+not holding on so I can do a technique
+he's holding on because if you let's go
+
+208
+00:03:19,569 --> 00:03:19,579
+he's holding on because if you let's go
+ 
+
+209
+00:03:19,579 --> 00:03:21,460
+he's holding on because if you let's go
+I'm probably gonna stab him or cut him
+
+210
+00:03:21,460 --> 00:03:21,470
+I'm probably gonna stab him or cut him
+ 
+
+211
+00:03:21,470 --> 00:03:22,690
+I'm probably gonna stab him or cut him
+of whatever is in my hand or at least
+
+212
+00:03:22,690 --> 00:03:22,700
+of whatever is in my hand or at least
+ 
+
+213
+00:03:22,700 --> 00:03:23,890
+of whatever is in my hand or at least
+beat him with the stick that I have in
+
+214
+00:03:23,890 --> 00:03:23,900
+beat him with the stick that I have in
+ 
+
+215
+00:03:23,900 --> 00:03:25,210
+beat him with the stick that I have in
+my hand that's why you want to grab my
+
+216
+00:03:25,210 --> 00:03:25,220
+my hand that's why you want to grab my
+ 
+
+217
+00:03:25,220 --> 00:03:26,470
+my hand that's why you want to grab my
+hand the first place is because I have a
+
+218
+00:03:26,470 --> 00:03:26,480
+hand the first place is because I have a
+ 
+
+219
+00:03:26,480 --> 00:03:27,970
+hand the first place is because I have a
+weapon and I'm gonna use the weapon on
+
+220
+00:03:27,970 --> 00:03:27,980
+weapon and I'm gonna use the weapon on
+ 
+
+221
+00:03:27,980 --> 00:03:29,530
+weapon and I'm gonna use the weapon on
+him and he's gone from a light
+
+222
+00:03:29,530 --> 00:03:29,540
+him and he's gone from a light
+ 
+
+223
+00:03:29,540 --> 00:03:31,210
+him and he's gone from a light
+suppressed position to a beginning
+
+224
+00:03:31,210 --> 00:03:31,220
+suppressed position to a beginning
+ 
+
+225
+00:03:31,220 --> 00:03:33,220
+suppressed position to a beginning
+control positions that's why Ted Dory
+
+226
+00:03:33,220 --> 00:03:33,230
+control positions that's why Ted Dory
+ 
+
+227
+00:03:33,230 --> 00:03:35,770
+control positions that's why Ted Dory
+exists and why we use Ted Dory now let's
+
+228
+00:03:35,770 --> 00:03:35,780
+exists and why we use Ted Dory now let's
+ 
+
+229
+00:03:35,780 --> 00:03:37,660
+exists and why we use Ted Dory now let's
+talk about the basic ways we clear Ted
+
+230
+00:03:37,660 --> 00:03:37,670
+talk about the basic ways we clear Ted
+ 
+
+231
+00:03:37,670 --> 00:03:39,280
+talk about the basic ways we clear Ted
+doors so we'll go to the top paper so
+
+232
+00:03:39,280 --> 00:03:39,290
+doors so we'll go to the top paper so
+ 
+
+233
+00:03:39,290 --> 00:03:41,319
+doors so we'll go to the top paper so
+that's on the same side top pays the
+
+234
+00:03:41,319 --> 00:03:41,329
+that's on the same side top pays the
+ 
+
+235
+00:03:41,329 --> 00:03:44,020
+that's on the same side top pays the
+same side hand grab now again just like
+
+236
+00:03:44,020 --> 00:03:44,030
+same side hand grab now again just like
+ 
+
+237
+00:03:44,030 --> 00:03:46,120
+same side hand grab now again just like
+we saw before in the cockpit or we're
+
+238
+00:03:46,120 --> 00:03:46,130
+we saw before in the cockpit or we're
+ 
+
+239
+00:03:46,130 --> 00:03:47,740
+we saw before in the cockpit or we're
+gonna have a lot of the same answers one
+
+240
+00:03:47,740 --> 00:03:47,750
+gonna have a lot of the same answers one
+ 
+
+241
+00:03:47,750 --> 00:03:49,030
+gonna have a lot of the same answers one
+of the big answers I'm going to use is
+
+242
+00:03:49,030 --> 00:03:49,040
+of the big answers I'm going to use is
+ 
+
+243
+00:03:49,040 --> 00:03:49,960
+of the big answers I'm going to use is
+soap double re
+
+244
+00:03:49,960 --> 00:03:49,970
+soap double re
+ 
+
+245
+00:03:49,970 --> 00:03:52,690
+soap double re
+this soap Dewar is emphasizing Aikido
+
+246
+00:03:52,690 --> 00:03:52,700
+this soap Dewar is emphasizing Aikido
+ 
+
+247
+00:03:52,700 --> 00:03:54,819
+this soap Dewar is emphasizing Aikido
+all the time now generally in Aikido
+
+248
+00:03:54,819 --> 00:03:54,829
+all the time now generally in Aikido
+ 
+
+249
+00:03:54,829 --> 00:03:56,349
+all the time now generally in Aikido
+when we're demonstrating it we don't
+
+250
+00:03:56,349 --> 00:03:56,359
+when we're demonstrating it we don't
+ 
+
+251
+00:03:56,359 --> 00:03:57,819
+when we're demonstrating it we don't
+show it with Ando key because we're
+
+252
+00:03:57,819 --> 00:03:57,829
+show it with Ando key because we're
+ 
+
+253
+00:03:57,829 --> 00:03:59,860
+show it with Ando key because we're
+saying what if this technique fail then
+
+254
+00:03:59,860 --> 00:03:59,870
+saying what if this technique fail then
+ 
+
+255
+00:03:59,870 --> 00:04:01,569
+saying what if this technique fail then
+what would we do next so that's why you
+
+256
+00:04:01,569 --> 00:04:01,579
+what would we do next so that's why you
+ 
+
+257
+00:04:01,579 --> 00:04:03,039
+what would we do next so that's why you
+see this as a setup for tons of
+
+258
+00:04:03,039 --> 00:04:03,049
+see this as a setup for tons of
+ 
+
+259
+00:04:03,049 --> 00:04:05,590
+see this as a setup for tons of
+techniques but the idea is to get this
+
+260
+00:04:05,590 --> 00:04:05,600
+techniques but the idea is to get this
+ 
+
+261
+00:04:05,600 --> 00:04:08,259
+techniques but the idea is to get this
+technique right so when Josh is grabbing
+
+262
+00:04:08,259 --> 00:04:08,269
+technique right so when Josh is grabbing
+ 
+
+263
+00:04:08,269 --> 00:04:09,340
+technique right so when Josh is grabbing
+me here what I'm doing is I'm turning
+
+264
+00:04:09,340 --> 00:04:09,350
+me here what I'm doing is I'm turning
+ 
+
+265
+00:04:09,350 --> 00:04:11,440
+me here what I'm doing is I'm turning
+the thin part of my form towards the
+
+266
+00:04:11,440 --> 00:04:11,450
+the thin part of my form towards the
+ 
+
+267
+00:04:11,450 --> 00:04:13,509
+the thin part of my form towards the
+weak part of his grip as I'm doing soap
+
+268
+00:04:13,509 --> 00:04:13,519
+weak part of his grip as I'm doing soap
+ 
+
+269
+00:04:13,519 --> 00:04:14,990
+weak part of his grip as I'm doing soap
+the more I'm pushing my elbow
+
+270
+00:04:14,990 --> 00:04:15,000
+the more I'm pushing my elbow
+ 
+
+271
+00:04:15,000 --> 00:04:16,520
+the more I'm pushing my elbow
+or Tim that's making my arm work as a
+
+272
+00:04:16,520 --> 00:04:16,530
+or Tim that's making my arm work as a
+ 
+
+273
+00:04:16,530 --> 00:04:17,840
+or Tim that's making my arm work as a
+lever right here to get a fulcrum right
+
+274
+00:04:17,840 --> 00:04:17,850
+lever right here to get a fulcrum right
+ 
+
+275
+00:04:17,850 --> 00:04:19,789
+lever right here to get a fulcrum right
+in his hand and I turn and I clear my
+
+276
+00:04:19,789 --> 00:04:19,799
+in his hand and I turn and I clear my
+ 
+
+277
+00:04:19,799 --> 00:04:21,170
+in his hand and I turn and I clear my
+hand and that's what I'm looking for now
+
+278
+00:04:21,170 --> 00:04:21,180
+hand and that's what I'm looking for now
+ 
+
+279
+00:04:21,180 --> 00:04:22,880
+hand and that's what I'm looking for now
+understand if I had a knife in his hand
+
+280
+00:04:22,880 --> 00:04:22,890
+understand if I had a knife in his hand
+ 
+
+281
+00:04:22,890 --> 00:04:24,920
+understand if I had a knife in his hand
+when I do that I could quickly come back
+
+282
+00:04:24,920 --> 00:04:24,930
+when I do that I could quickly come back
+ 
+
+283
+00:04:24,930 --> 00:04:26,420
+when I do that I could quickly come back
+and cut with that knife right so for
+
+284
+00:04:26,420 --> 00:04:26,430
+and cut with that knife right so for
+ 
+
+285
+00:04:26,430 --> 00:04:27,830
+and cut with that knife right so for
+even knows it I've got to use my weapon
+
+286
+00:04:27,830 --> 00:04:27,840
+even knows it I've got to use my weapon
+ 
+
+287
+00:04:27,840 --> 00:04:29,630
+even knows it I've got to use my weapon
+which is what I'm looking for and that's
+
+288
+00:04:29,630 --> 00:04:29,640
+which is what I'm looking for and that's
+ 
+
+289
+00:04:29,640 --> 00:04:32,210
+which is what I'm looking for and that's
+our basic soak the mooring so Ted Cory
+
+290
+00:04:32,210 --> 00:04:32,220
+our basic soak the mooring so Ted Cory
+ 
+
+291
+00:04:32,220 --> 00:04:33,620
+our basic soak the mooring so Ted Cory
+huh dokey are just like all the other
+
+292
+00:04:33,620 --> 00:04:33,630
+huh dokey are just like all the other
+ 
+
+293
+00:04:33,630 --> 00:04:36,020
+huh dokey are just like all the other
+heard okey I can't have a good Pinocchio
+
+294
+00:04:36,020 --> 00:04:36,030
+heard okey I can't have a good Pinocchio
+ 
+
+295
+00:04:36,030 --> 00:04:37,850
+heard okey I can't have a good Pinocchio
+without having time your paint go in it
+
+296
+00:04:37,850 --> 00:04:37,860
+without having time your paint go in it
+ 
+
+297
+00:04:37,860 --> 00:04:39,770
+without having time your paint go in it
+so if I cleared my hand here it's no
+
+298
+00:04:39,770 --> 00:04:39,780
+so if I cleared my hand here it's no
+ 
+
+299
+00:04:39,780 --> 00:04:41,060
+so if I cleared my hand here it's no
+good because he's right there he's gonna
+
+300
+00:04:41,060 --> 00:04:41,070
+good because he's right there he's gonna
+ 
+
+301
+00:04:41,070 --> 00:04:42,680
+good because he's right there he's gonna
+get me again or it's gonna hit me while
+
+302
+00:04:42,680 --> 00:04:42,690
+get me again or it's gonna hit me while
+ 
+
+303
+00:04:42,690 --> 00:04:43,880
+get me again or it's gonna hit me while
+I'm doing that all kinds of bad stuffs
+
+304
+00:04:43,880 --> 00:04:43,890
+I'm doing that all kinds of bad stuffs
+ 
+
+305
+00:04:43,890 --> 00:04:45,470
+I'm doing that all kinds of bad stuffs
+gonna happen so I'm always looking for
+
+306
+00:04:45,470 --> 00:04:45,480
+gonna happen so I'm always looking for
+ 
+
+307
+00:04:45,480 --> 00:04:47,840
+gonna happen so I'm always looking for
+tiny Hank oh now I'm classic when you
+
+308
+00:04:47,840 --> 00:04:47,850
+tiny Hank oh now I'm classic when you
+ 
+
+309
+00:04:47,850 --> 00:04:49,400
+tiny Hank oh now I'm classic when you
+also see sorry that Google didn't have
+
+310
+00:04:49,400 --> 00:04:49,410
+also see sorry that Google didn't have
+ 
+
+311
+00:04:49,410 --> 00:04:51,500
+also see sorry that Google didn't have
+again a classic one you'll also see is
+
+312
+00:04:51,500 --> 00:04:51,510
+again a classic one you'll also see is
+ 
+
+313
+00:04:51,510 --> 00:04:53,240
+again a classic one you'll also see is
+the triangle from this now triangle is
+
+314
+00:04:53,240 --> 00:04:53,250
+the triangle from this now triangle is
+ 
+
+315
+00:04:53,250 --> 00:04:55,310
+the triangle from this now triangle is
+not the strategically most advantageous
+
+316
+00:04:55,310 --> 00:04:55,320
+not the strategically most advantageous
+ 
+
+317
+00:04:55,320 --> 00:04:56,750
+not the strategically most advantageous
+way so it's not gonna be the most
+
+318
+00:04:56,750 --> 00:04:56,760
+way so it's not gonna be the most
+ 
+
+319
+00:04:56,760 --> 00:04:58,730
+way so it's not gonna be the most
+effortless way but what it does a lot of
+
+320
+00:04:58,730 --> 00:04:58,740
+effortless way but what it does a lot of
+ 
+
+321
+00:04:58,740 --> 00:05:00,440
+effortless way but what it does a lot of
+nice stuff if I had a weapon in his hand
+
+322
+00:05:00,440 --> 00:05:00,450
+nice stuff if I had a weapon in his hand
+ 
+
+323
+00:05:00,450 --> 00:05:01,940
+nice stuff if I had a weapon in his hand
+or a head switch weapon hands I'm
+
+324
+00:05:01,940 --> 00:05:01,950
+or a head switch weapon hands I'm
+ 
+
+325
+00:05:01,950 --> 00:05:04,010
+or a head switch weapon hands I'm
+putting the weapon in his face while I'm
+
+326
+00:05:04,010 --> 00:05:04,020
+putting the weapon in his face while I'm
+ 
+
+327
+00:05:04,020 --> 00:05:06,080
+putting the weapon in his face while I'm
+trying to clear this one if he still had
+
+328
+00:05:06,080 --> 00:05:06,090
+trying to clear this one if he still had
+ 
+
+329
+00:05:06,090 --> 00:05:08,270
+trying to clear this one if he still had
+this hand I'm putting it away and
+
+330
+00:05:08,270 --> 00:05:08,280
+this hand I'm putting it away and
+ 
+
+331
+00:05:08,280 --> 00:05:09,650
+this hand I'm putting it away and
+putting him in a bits position which
+
+332
+00:05:09,650 --> 00:05:09,660
+putting him in a bits position which
+ 
+
+333
+00:05:09,660 --> 00:05:11,840
+putting him in a bits position which
+means if this gets clear immediately
+
+334
+00:05:11,840 --> 00:05:11,850
+means if this gets clear immediately
+ 
+
+335
+00:05:11,850 --> 00:05:13,610
+means if this gets clear immediately
+after I could go to work with my weapon
+
+336
+00:05:13,610 --> 00:05:13,620
+after I could go to work with my weapon
+ 
+
+337
+00:05:13,620 --> 00:05:15,200
+after I could go to work with my weapon
+because I'm already in a solid position
+
+338
+00:05:15,200 --> 00:05:15,210
+because I'm already in a solid position
+ 
+
+339
+00:05:15,210 --> 00:05:18,440
+because I'm already in a solid position
+for clearing this hand so triangles also
+
+340
+00:05:18,440 --> 00:05:18,450
+for clearing this hand so triangles also
+ 
+
+341
+00:05:18,450 --> 00:05:21,110
+for clearing this hand so triangles also
+super common for katate dori mode okey
+
+342
+00:05:21,110 --> 00:05:21,120
+super common for katate dori mode okey
+ 
+
+343
+00:05:21,120 --> 00:05:22,969
+super common for katate dori mode okey
+then again we're also gonna have food
+
+344
+00:05:22,969 --> 00:05:22,979
+then again we're also gonna have food
+ 
+
+345
+00:05:22,979 --> 00:05:24,409
+then again we're also gonna have food
+Chima Morey and the reason again is
+
+346
+00:05:24,409 --> 00:05:24,419
+Chima Morey and the reason again is
+ 
+
+347
+00:05:24,419 --> 00:05:26,330
+Chima Morey and the reason again is
+because it comes up in Conrad's a lot I
+
+348
+00:05:26,330 --> 00:05:26,340
+because it comes up in Conrad's a lot I
+ 
+
+349
+00:05:26,340 --> 00:05:28,159
+because it comes up in Conrad's a lot I
+could be trying to either go so global
+
+350
+00:05:28,159 --> 00:05:28,169
+could be trying to either go so global
+ 
+
+351
+00:05:28,169 --> 00:05:30,260
+could be trying to either go so global
+worried or try to go triangle and he
+
+352
+00:05:30,260 --> 00:05:30,270
+worried or try to go triangle and he
+ 
+
+353
+00:05:30,270 --> 00:05:32,210
+worried or try to go triangle and he
+pushes his arm up so let's say I tried
+
+354
+00:05:32,210 --> 00:05:32,220
+pushes his arm up so let's say I tried
+ 
+
+355
+00:05:32,220 --> 00:05:33,650
+pushes his arm up so let's say I tried
+to soak the more and pushes that arm out
+
+356
+00:05:33,650 --> 00:05:33,660
+to soak the more and pushes that arm out
+ 
+
+357
+00:05:33,660 --> 00:05:35,090
+to soak the more and pushes that arm out
+now it's hard for me to soak the more
+
+358
+00:05:35,090 --> 00:05:35,100
+now it's hard for me to soak the more
+ 
+
+359
+00:05:35,100 --> 00:05:36,650
+now it's hard for me to soak the more
+because he's pushing this arm out so we
+
+360
+00:05:36,650 --> 00:05:36,660
+because he's pushing this arm out so we
+ 
+
+361
+00:05:36,660 --> 00:05:38,840
+because he's pushing this arm out so we
+have an inside position here the area of
+
+362
+00:05:38,840 --> 00:05:38,850
+have an inside position here the area of
+ 
+
+363
+00:05:38,850 --> 00:05:40,430
+have an inside position here the area of
+contention that's not controlled and I
+
+364
+00:05:40,430 --> 00:05:40,440
+contention that's not controlled and I
+ 
+
+365
+00:05:40,440 --> 00:05:42,440
+contention that's not controlled and I
+don't like that for me or I could be
+
+366
+00:05:42,440 --> 00:05:42,450
+don't like that for me or I could be
+ 
+
+367
+00:05:42,450 --> 00:05:43,880
+don't like that for me or I could be
+trying to triangle and it didn't work so
+
+368
+00:05:43,880 --> 00:05:43,890
+trying to triangle and it didn't work so
+ 
+
+369
+00:05:43,890 --> 00:05:45,800
+trying to triangle and it didn't work so
+I try triangle and notice again we have
+
+370
+00:05:45,800 --> 00:05:45,810
+I try triangle and notice again we have
+ 
+
+371
+00:05:45,810 --> 00:05:47,480
+I try triangle and notice again we have
+this open position here there's no good
+
+372
+00:05:47,480 --> 00:05:47,490
+this open position here there's no good
+ 
+
+373
+00:05:47,490 --> 00:05:49,070
+this open position here there's no good
+for me now what will come off that
+
+374
+00:05:49,070 --> 00:05:49,080
+for me now what will come off that
+ 
+
+375
+00:05:49,080 --> 00:05:51,770
+for me now what will come off that
+really nicely is Buchi mawari now
+
+376
+00:05:51,770 --> 00:05:51,780
+really nicely is Buchi mawari now
+ 
+
+377
+00:05:51,780 --> 00:05:53,120
+really nicely is Buchi mawari now
+understand her coochie more I heard oh
+
+378
+00:05:53,120 --> 00:05:53,130
+understand her coochie more I heard oh
+ 
+
+379
+00:05:53,130 --> 00:05:54,710
+understand her coochie more I heard oh
+please don't come off of turning in
+
+380
+00:05:54,710 --> 00:05:54,720
+please don't come off of turning in
+ 
+
+381
+00:05:54,720 --> 00:05:56,420
+please don't come off of turning in
+front of him this is not a good et
+
+382
+00:05:56,420 --> 00:05:56,430
+front of him this is not a good et
+ 
+
+383
+00:05:56,430 --> 00:05:58,969
+front of him this is not a good et
+memorial the reason is he's right there
+
+384
+00:05:58,969 --> 00:05:58,979
+memorial the reason is he's right there
+ 
+
+385
+00:05:58,979 --> 00:06:01,070
+memorial the reason is he's right there
+he's gonna get me a Gucci Mori shoots
+
+386
+00:06:01,070 --> 00:06:01,080
+he's gonna get me a Gucci Mori shoots
+ 
+
+387
+00:06:01,080 --> 00:06:03,080
+he's gonna get me a Gucci Mori shoots
+through like this if I'm pushing through
+
+388
+00:06:03,080 --> 00:06:03,090
+through like this if I'm pushing through
+ 
+
+389
+00:06:03,090 --> 00:06:04,969
+through like this if I'm pushing through
+to get here it's exactly like a duck
+
+390
+00:06:04,969 --> 00:06:04,979
+to get here it's exactly like a duck
+ 
+
+391
+00:06:04,979 --> 00:06:06,650
+to get here it's exactly like a duck
+under in wrestling except he's got a
+
+392
+00:06:06,650 --> 00:06:06,660
+under in wrestling except he's got a
+ 
+
+393
+00:06:06,660 --> 00:06:07,940
+under in wrestling except he's got a
+hold on my wrist so we're here in this
+
+394
+00:06:07,940 --> 00:06:07,950
+hold on my wrist so we're here in this
+ 
+
+395
+00:06:07,950 --> 00:06:09,710
+hold on my wrist so we're here in this
+position I'm shooting underneath like
+
+396
+00:06:09,710 --> 00:06:09,720
+position I'm shooting underneath like
+ 
+
+397
+00:06:09,720 --> 00:06:11,090
+position I'm shooting underneath like
+this so I'm trying to get out and I'm
+
+398
+00:06:11,090 --> 00:06:11,100
+this so I'm trying to get out and I'm
+ 
+
+399
+00:06:11,100 --> 00:06:13,130
+this so I'm trying to get out and I'm
+shooting back here now he's still gonna
+
+400
+00:06:13,130 --> 00:06:13,140
+shooting back here now he's still gonna
+ 
+
+401
+00:06:13,140 --> 00:06:15,290
+shooting back here now he's still gonna
+hold to me we get sunk oh right there
+
+402
+00:06:15,290 --> 00:06:15,300
+hold to me we get sunk oh right there
+ 
+
+403
+00:06:15,300 --> 00:06:17,750
+hold to me we get sunk oh right there
+waiting for me we also have a cross eqo
+
+404
+00:06:17,750 --> 00:06:17,760
+waiting for me we also have a cross eqo
+ 
+
+405
+00:06:17,760 --> 00:06:19,550
+waiting for me we also have a cross eqo
+like this tons of techniques will appear
+
+406
+00:06:19,550 --> 00:06:19,560
+like this tons of techniques will appear
+ 
+
+407
+00:06:19,560 --> 00:06:21,590
+like this tons of techniques will appear
+for me from there but that's the basic
+
+408
+00:06:21,590 --> 00:06:21,600
+for me from there but that's the basic
+ 
+
+409
+00:06:21,600 --> 00:06:23,719
+for me from there but that's the basic
+idea so again we can take those ideas we
+
+410
+00:06:23,719 --> 00:06:23,729
+idea so again we can take those ideas we
+ 
+
+411
+00:06:23,729 --> 00:06:25,430
+idea so again we can take those ideas we
+had for cos the Dory and we can apply
+
+412
+00:06:25,430 --> 00:06:25,440
+had for cos the Dory and we can apply
+ 
+
+413
+00:06:25,440 --> 00:06:28,370
+had for cos the Dory and we can apply
+them generally to Catoctin right now guy
+
+414
+00:06:28,370 --> 00:06:28,380
+them generally to Catoctin right now guy
+ 
+
+415
+00:06:28,380 --> 00:06:30,320
+them generally to Catoctin right now guy
+Aquitaine or cross hand-grabber
+
+416
+00:06:30,320 --> 00:06:30,330
+Aquitaine or cross hand-grabber
+ 
+
+417
+00:06:30,330 --> 00:06:31,790
+Aquitaine or cross hand-grabber
+believe it or not we're gonna have a lot
+
+418
+00:06:31,790 --> 00:06:31,800
+believe it or not we're gonna have a lot
+ 
+
+419
+00:06:31,800 --> 00:06:33,740
+believe it or not we're gonna have a lot
+of the same situations from here however
+
+420
+00:06:33,740 --> 00:06:33,750
+of the same situations from here however
+ 
+
+421
+00:06:33,750 --> 00:06:35,570
+of the same situations from here however
+most of the time from this we're gonna
+
+422
+00:06:35,570 --> 00:06:35,580
+most of the time from this we're gonna
+ 
+
+423
+00:06:35,580 --> 00:06:37,339
+most of the time from this we're gonna
+be dealing with him desiring to get the
+
+424
+00:06:37,339 --> 00:06:37,349
+be dealing with him desiring to get the
+ 
+
+425
+00:06:37,349 --> 00:06:39,469
+be dealing with him desiring to get the
+eating me position on me so look he's
+
+426
+00:06:39,469 --> 00:06:39,479
+eating me position on me so look he's
+ 
+
+427
+00:06:39,479 --> 00:06:42,170
+eating me position on me so look he's
+getting et me on me no good so as this
+
+428
+00:06:42,170 --> 00:06:42,180
+getting et me on me no good so as this
+ 
+
+429
+00:06:42,180 --> 00:06:44,180
+getting et me on me no good so as this
+guy's coming to get me I'm gonna be
+
+430
+00:06:44,180 --> 00:06:44,190
+guy's coming to get me I'm gonna be
+ 
+
+431
+00:06:44,190 --> 00:06:45,469
+guy's coming to get me I'm gonna be
+positioning out like this
+
+432
+00:06:45,469 --> 00:06:45,479
+positioning out like this
+ 
+
+433
+00:06:45,479 --> 00:06:47,750
+positioning out like this
+go front on so they can see so if josh
+
+434
+00:06:47,750 --> 00:06:47,760
+go front on so they can see so if josh
+ 
+
+435
+00:06:47,760 --> 00:06:49,190
+go front on so they can see so if josh
+is coming to my back I'm gonna be
+
+436
+00:06:49,190 --> 00:06:49,200
+is coming to my back I'm gonna be
+ 
+
+437
+00:06:49,200 --> 00:06:50,690
+is coming to my back I'm gonna be
+turning this way now if it comes to my
+
+438
+00:06:50,690 --> 00:06:50,700
+turning this way now if it comes to my
+ 
+
+439
+00:06:50,700 --> 00:06:52,310
+turning this way now if it comes to my
+back again I'll turn this way you'll see
+
+440
+00:06:52,310 --> 00:06:52,320
+back again I'll turn this way you'll see
+ 
+
+441
+00:06:52,320 --> 00:06:54,469
+back again I'll turn this way you'll see
+every time we're going to a 45 position
+
+442
+00:06:54,469 --> 00:06:54,479
+every time we're going to a 45 position
+ 
+
+443
+00:06:54,479 --> 00:06:57,080
+every time we're going to a 45 position
+into an eye honey now from that what can
+
+444
+00:06:57,080 --> 00:06:57,090
+into an eye honey now from that what can
+ 
+
+445
+00:06:57,090 --> 00:06:57,409
+into an eye honey now from that what can
+I get
+
+446
+00:06:57,409 --> 00:06:57,419
+I get
+ 
+
+447
+00:06:57,419 --> 00:06:59,240
+I get
+well if I rolled this way I can get an
+
+448
+00:06:59,240 --> 00:06:59,250
+well if I rolled this way I can get an
+ 
+
+449
+00:06:59,250 --> 00:07:01,640
+well if I rolled this way I can get an
+eto generally to clear my hand if you
+
+450
+00:07:01,640 --> 00:07:01,650
+eto generally to clear my hand if you
+ 
+
+451
+00:07:01,650 --> 00:07:03,589
+eto generally to clear my hand if you
+push my hand the other way I can get a
+
+452
+00:07:03,589 --> 00:07:03,599
+push my hand the other way I can get a
+ 
+
+453
+00:07:03,599 --> 00:07:04,670
+push my hand the other way I can get a
+quarter done so you can see the
+
+454
+00:07:04,670 --> 00:07:04,680
+quarter done so you can see the
+ 
+
+455
+00:07:04,680 --> 00:07:06,140
+quarter done so you can see the
+corrugation they're getting the Kota
+
+456
+00:07:06,140 --> 00:07:06,150
+corrugation they're getting the Kota
+ 
+
+457
+00:07:06,150 --> 00:07:08,900
+corrugation they're getting the Kota
+gangsta pop free yes I'm quit and
+
+458
+00:07:08,900 --> 00:07:08,910
+gangsta pop free yes I'm quit and
+ 
+
+459
+00:07:08,910 --> 00:07:10,339
+gangsta pop free yes I'm quit and
+managed to get all the way to the
+
+460
+00:07:10,339 --> 00:07:10,349
+managed to get all the way to the
+ 
+
+461
+00:07:10,349 --> 00:07:12,800
+managed to get all the way to the
+outside I'll get my otach so meaning if
+
+462
+00:07:12,800 --> 00:07:12,810
+outside I'll get my otach so meaning if
+ 
+
+463
+00:07:12,810 --> 00:07:14,300
+outside I'll get my otach so meaning if
+he's coming to my back foot I'm faster
+
+464
+00:07:14,300 --> 00:07:14,310
+he's coming to my back foot I'm faster
+ 
+
+465
+00:07:14,310 --> 00:07:15,890
+he's coming to my back foot I'm faster
+than him I'll get to this position I can
+
+466
+00:07:15,890 --> 00:07:15,900
+than him I'll get to this position I can
+ 
+
+467
+00:07:15,900 --> 00:07:17,990
+than him I'll get to this position I can
+pop three what if this guy's faster than
+
+468
+00:07:17,990 --> 00:07:18,000
+pop three what if this guy's faster than
+ 
+
+469
+00:07:18,000 --> 00:07:19,700
+pop three what if this guy's faster than
+me understand we always have to account
+
+470
+00:07:19,700 --> 00:07:19,710
+me understand we always have to account
+ 
+
+471
+00:07:19,710 --> 00:07:20,659
+me understand we always have to account
+for that night kiddo
+
+472
+00:07:20,659 --> 00:07:20,669
+for that night kiddo
+ 
+
+473
+00:07:20,669 --> 00:07:22,490
+for that night kiddo
+so if he's coming to my back he's faster
+
+474
+00:07:22,490 --> 00:07:22,500
+so if he's coming to my back he's faster
+ 
+
+475
+00:07:22,500 --> 00:07:23,960
+so if he's coming to my back he's faster
+than me I shoot through and we get lucci
+
+476
+00:07:23,960 --> 00:07:23,970
+than me I shoot through and we get lucci
+ 
+
+477
+00:07:23,970 --> 00:07:26,839
+than me I shoot through and we get lucci
+mawari back to this position so those
+
+478
+00:07:26,839 --> 00:07:26,849
+mawari back to this position so those
+ 
+
+479
+00:07:26,849 --> 00:07:28,550
+mawari back to this position so those
+are the basic concepts we're gonna use
+
+480
+00:07:28,550 --> 00:07:28,560
+are the basic concepts we're gonna use
+ 
+
+481
+00:07:28,560 --> 00:07:30,080
+are the basic concepts we're gonna use
+intense someone grabs our hand
+
+482
+00:07:30,080 --> 00:07:30,090
+intense someone grabs our hand
+ 
+
+483
+00:07:30,090 --> 00:07:32,510
+intense someone grabs our hand
+the goal is not to get this guy so my
+
+484
+00:07:32,510 --> 00:07:32,520
+the goal is not to get this guy so my
+ 
+
+485
+00:07:32,520 --> 00:07:34,460
+the goal is not to get this guy so my
+goal is not to try and hurt Josh and
+
+486
+00:07:34,460 --> 00:07:34,470
+goal is not to try and hurt Josh and
+ 
+
+487
+00:07:34,470 --> 00:07:36,140
+goal is not to try and hurt Josh and
+that's not for a moral reason I'm not
+
+488
+00:07:36,140 --> 00:07:36,150
+that's not for a moral reason I'm not
+ 
+
+489
+00:07:36,150 --> 00:07:37,610
+that's not for a moral reason I'm not
+like in my head going like all I want to
+
+490
+00:07:37,610 --> 00:07:37,620
+like in my head going like all I want to
+ 
+
+491
+00:07:37,620 --> 00:07:39,140
+like in my head going like all I want to
+be a good boy and so I won't hurt my
+
+492
+00:07:39,140 --> 00:07:39,150
+be a good boy and so I won't hurt my
+ 
+
+493
+00:07:39,150 --> 00:07:41,029
+be a good boy and so I won't hurt my
+attacker that's not like my mindset my
+
+494
+00:07:41,029 --> 00:07:41,039
+attacker that's not like my mindset my
+ 
+
+495
+00:07:41,039 --> 00:07:43,070
+attacker that's not like my mindset my
+mind says he's a big ferocious beast and
+
+496
+00:07:43,070 --> 00:07:43,080
+mind says he's a big ferocious beast and
+ 
+
+497
+00:07:43,080 --> 00:07:44,300
+mind says he's a big ferocious beast and
+if I get in a fight with him he's gonna
+
+498
+00:07:44,300 --> 00:07:44,310
+if I get in a fight with him he's gonna
+ 
+
+499
+00:07:44,310 --> 00:07:44,899
+if I get in a fight with him he's gonna
+beat me up
+
+500
+00:07:44,899 --> 00:07:44,909
+beat me up
+ 
+
+501
+00:07:44,909 --> 00:07:46,610
+beat me up
+and I don't want this guy to beat me up
+
+502
+00:07:46,610 --> 00:07:46,620
+and I don't want this guy to beat me up
+ 
+
+503
+00:07:46,620 --> 00:07:48,260
+and I don't want this guy to beat me up
+so I'm just trying to get free so he
+
+504
+00:07:48,260 --> 00:07:48,270
+so I'm just trying to get free so he
+ 
+
+505
+00:07:48,270 --> 00:07:49,940
+so I'm just trying to get free so he
+won't murder me so every time he's
+
+506
+00:07:49,940 --> 00:07:49,950
+won't murder me so every time he's
+ 
+
+507
+00:07:49,950 --> 00:07:51,409
+won't murder me so every time he's
+grabbing hold of me I'm trying to clear
+
+508
+00:07:51,409 --> 00:07:51,419
+grabbing hold of me I'm trying to clear
+ 
+
+509
+00:07:51,419 --> 00:07:52,820
+grabbing hold of me I'm trying to clear
+and get out of there clear and get out
+
+510
+00:07:52,820 --> 00:07:52,830
+and get out of there clear and get out
+ 
+
+511
+00:07:52,830 --> 00:07:53,180
+and get out of there clear and get out
+of it
+
+512
+00:07:53,180 --> 00:07:53,190
+of it
+ 
+
+513
+00:07:53,190 --> 00:07:55,580
+of it
+I Aikido is truly a self-defense system
+
+514
+00:07:55,580 --> 00:07:55,590
+I Aikido is truly a self-defense system
+ 
+
+515
+00:07:55,590 --> 00:07:57,890
+I Aikido is truly a self-defense system
+the objective is not to assault this guy
+
+516
+00:07:57,890 --> 00:07:57,900
+the objective is not to assault this guy
+ 
+
+517
+00:07:57,900 --> 00:08:00,320
+the objective is not to assault this guy
+it's to not allow him to assault me as
+
+518
+00:08:00,320 --> 00:08:00,330
+it's to not allow him to assault me as
+ 
+
+519
+00:08:00,330 --> 00:08:03,550
+it's to not allow him to assault me as
+the goal tomorrow we're gonna talk about
+
+520
+00:08:03,550 --> 00:08:03,560
+the goal tomorrow we're gonna talk about
+ 
+
+521
+00:08:03,560 --> 00:08:05,779
+the goal tomorrow we're gonna talk about
+sushiro Rio thaen a bunch of interesting
+
+522
+00:08:05,779 --> 00:08:05,789
+sushiro Rio thaen a bunch of interesting
+ 
+
+523
+00:08:05,789 --> 00:08:07,310
+sushiro Rio thaen a bunch of interesting
+stuff that comes up with your sheer real
+
+524
+00:08:07,310 --> 00:08:07,320
+stuff that comes up with your sheer real
+ 
+
+525
+00:08:07,320 --> 00:08:09,350
+stuff that comes up with your sheer real
+thing I'm Chris Frey this is Aikido
+
+526
+00:08:09,350 --> 00:08:09,360
+thing I'm Chris Frey this is Aikido
+ 
+
+527
+00:08:09,360 --> 00:08:11,260
+thing I'm Chris Frey this is Aikido
+Fresno thanks for watching
+
+528
+00:08:11,260 --> 00:08:11,270
+Fresno thanks for watching
+ 
+
+529
+00:08:11,270 --> 00:08:18,050
+Fresno thanks for watching
+[Music]
+

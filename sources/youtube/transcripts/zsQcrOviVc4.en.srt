@@ -1,0 +1,855 @@
+1
+00:00:00,599 --> 00:00:01,950
+
+all right
+
+2
+00:00:01,950 --> 00:00:01,960
+all right
+ 
+
+3
+00:00:01,960 --> 00:00:04,950
+all right
+um again I think Adam should chime in on
+
+4
+00:00:04,950 --> 00:00:04,960
+um again I think Adam should chime in on
+ 
+
+5
+00:00:04,960 --> 00:00:07,150
+um again I think Adam should chime in on
+this because he could feel how hard
+
+6
+00:00:07,150 --> 00:00:07,160
+this because he could feel how hard
+ 
+
+7
+00:00:07,160 --> 00:00:08,509
+this because he could feel how hard
+we're actually
+
+8
+00:00:08,509 --> 00:00:08,519
+we're actually
+ 
+
+9
+00:00:08,519 --> 00:00:13,509
+we're actually
+pushing and in the cou cultivation set
+
+10
+00:00:13,509 --> 00:00:13,519
+pushing and in the cou cultivation set
+ 
+
+11
+00:00:13,519 --> 00:00:16,390
+pushing and in the cou cultivation set
+and we took him past failures we do that
+
+12
+00:00:16,390 --> 00:00:16,400
+and we took him past failures we do that
+ 
+
+13
+00:00:16,400 --> 00:00:18,029
+and we took him past failures we do that
+sometimes but sometimes we do dial it
+
+14
+00:00:18,029 --> 00:00:18,039
+sometimes but sometimes we do dial it
+ 
+
+15
+00:00:18,039 --> 00:00:20,310
+sometimes but sometimes we do dial it
+back but you have to be careful that
+
+16
+00:00:20,310 --> 00:00:20,320
+back but you have to be careful that
+ 
+
+17
+00:00:20,320 --> 00:00:23,830
+back but you have to be careful that
+you're dialing it back to
+
+18
+00:00:23,830 --> 00:00:23,840
+you're dialing it back to
+ 
+
+19
+00:00:23,840 --> 00:00:26,710
+you're dialing it back to
+your current state says that you're only
+
+20
+00:00:26,710 --> 00:00:26,720
+your current state says that you're only
+ 
+
+21
+00:00:26,720 --> 00:00:28,470
+your current state says that you're only
+supporting your current state and not
+
+22
+00:00:28,470 --> 00:00:28,480
+supporting your current state and not
+ 
+
+23
+00:00:28,480 --> 00:00:30,269
+supporting your current state and not
+the transformation from your current
+
+24
+00:00:30,269 --> 00:00:30,279
+the transformation from your current
+ 
+
+25
+00:00:30,279 --> 00:00:33,389
+the transformation from your current
+State you have to go to past failure
+
+26
+00:00:33,389 --> 00:00:33,399
+State you have to go to past failure
+ 
+
+27
+00:00:33,399 --> 00:00:37,270
+State you have to go to past failure
+Point okay um at least occasionally some
+
+28
+00:00:37,270 --> 00:00:37,280
+Point okay um at least occasionally some
+ 
+
+29
+00:00:37,280 --> 00:00:39,869
+Point okay um at least occasionally some
+people say like you know 10 they try to
+
+30
+00:00:39,869 --> 00:00:39,879
+people say like you know 10 they try to
+ 
+
+31
+00:00:39,879 --> 00:00:43,670
+people say like you know 10 they try to
+give it a percentage time 10 10 15 20%
+
+32
+00:00:43,670 --> 00:00:43,680
+give it a percentage time 10 10 15 20%
+ 
+
+33
+00:00:43,680 --> 00:00:47,110
+give it a percentage time 10 10 15 20%
+failure rate uh is what you want in your
+
+34
+00:00:47,110 --> 00:00:47,120
+failure rate uh is what you want in your
+ 
+
+35
+00:00:47,120 --> 00:00:49,990
+failure rate uh is what you want in your
+training um I don't think that the the
+
+36
+00:00:49,990 --> 00:00:50,000
+training um I don't think that the the
+ 
+
+37
+00:00:50,000 --> 00:00:51,590
+training um I don't think that the the
+main part is that you're not lying to
+
+38
+00:00:51,590 --> 00:00:51,600
+main part is that you're not lying to
+ 
+
+39
+00:00:51,600 --> 00:00:54,670
+main part is that you're not lying to
+yourself by manipulating your training
+
+40
+00:00:54,670 --> 00:00:54,680
+yourself by manipulating your training
+ 
+
+41
+00:00:54,680 --> 00:00:57,430
+yourself by manipulating your training
+environment to not expose uh where your
+
+42
+00:00:57,430 --> 00:00:57,440
+environment to not expose uh where your
+ 
+
+43
+00:00:57,440 --> 00:00:59,670
+environment to not expose uh where your
+limits are to you that's the main point
+
+44
+00:00:59,670 --> 00:00:59,680
+limits are to you that's the main point
+ 
+
+45
+00:00:59,680 --> 00:01:00,590
+limits are to you that's the main point
+okay
+
+46
+00:01:00,590 --> 00:01:00,600
+okay
+ 
+
+47
+00:01:00,600 --> 00:01:02,990
+okay
+so
+
+48
+00:01:02,990 --> 00:01:03,000
+so
+ 
+
+49
+00:01:03,000 --> 00:01:06,390
+so
+um when we do
+
+50
+00:01:06,390 --> 00:01:06,400
+um when we do
+ 
+
+51
+00:01:06,400 --> 00:01:09,830
+um when we do
+the C set and like we're
+
+52
+00:01:09,830 --> 00:01:09,840
+the C set and like we're
+ 
+
+53
+00:01:09,840 --> 00:01:14,429
+the C set and like we're
+pushing um sometimes we I you'll see my
+
+54
+00:01:14,429 --> 00:01:14,439
+pushing um sometimes we I you'll see my
+ 
+
+55
+00:01:14,439 --> 00:01:17,149
+pushing um sometimes we I you'll see my
+Desi where you can't really tell except
+
+56
+00:01:17,149 --> 00:01:17,159
+Desi where you can't really tell except
+ 
+
+57
+00:01:17,159 --> 00:01:18,870
+Desi where you can't really tell except
+for who's grabbing who's doing the
+
+58
+00:01:18,870 --> 00:01:18,880
+for who's grabbing who's doing the
+ 
+
+59
+00:01:18,880 --> 00:01:20,990
+for who's grabbing who's doing the
+grounding drill and that's cuz they're
+
+60
+00:01:20,990 --> 00:01:21,000
+grounding drill and that's cuz they're
+ 
+
+61
+00:01:21,000 --> 00:01:25,870
+grounding drill and that's cuz they're
+at that at that level okay um but when
+
+62
+00:01:25,870 --> 00:01:25,880
+at that at that level okay um but when
+ 
+
+63
+00:01:25,880 --> 00:01:28,630
+at that at that level okay um but when
+they first started I I want them to to
+
+64
+00:01:28,630 --> 00:01:28,640
+they first started I I want them to to
+ 
+
+65
+00:01:28,640 --> 00:01:31,270
+they first started I I want them to to
+Really Drive really drive and I'd let
+
+66
+00:01:31,270 --> 00:01:31,280
+Really Drive really drive and I'd let
+ 
+
+67
+00:01:31,280 --> 00:01:33,350
+Really Drive really drive and I'd let
+him drive and I'd have like two or three
+
+68
+00:01:33,350 --> 00:01:33,360
+him drive and I'd have like two or three
+ 
+
+69
+00:01:33,360 --> 00:01:36,190
+him drive and I'd have like two or three
+people trying to push so they would
+
+70
+00:01:36,190 --> 00:01:36,200
+people trying to push so they would
+ 
+
+71
+00:01:36,200 --> 00:01:37,990
+people trying to push so they would
+know
+
+72
+00:01:37,990 --> 00:01:38,000
+know
+ 
+
+73
+00:01:38,000 --> 00:01:40,350
+know
+um where what they're doing and what
+
+74
+00:01:40,350 --> 00:01:40,360
+um where what they're doing and what
+ 
+
+75
+00:01:40,360 --> 00:01:45,109
+um where what they're doing and what
+they're not doing okay so if Virginia if
+
+76
+00:01:45,109 --> 00:01:45,119
+they're not doing okay so if Virginia if
+ 
+
+77
+00:01:45,119 --> 00:01:47,389
+they're not doing okay so if Virginia if
+I have a bracing angle for example like
+
+78
+00:01:47,389 --> 00:01:47,399
+I have a bracing angle for example like
+ 
+
+79
+00:01:47,399 --> 00:01:49,870
+I have a bracing angle for example like
+A-frame bracing angle you you can use
+
+80
+00:01:49,870 --> 00:01:49,880
+A-frame bracing angle you you can use
+ 
+
+81
+00:01:49,880 --> 00:01:52,550
+A-frame bracing angle you you can use
+two hands right I'm stronger than her
+
+82
+00:01:52,550 --> 00:01:52,560
+two hands right I'm stronger than her
+ 
+
+83
+00:01:52,560 --> 00:01:54,230
+two hands right I'm stronger than her
+she's not she's not going to push that
+
+84
+00:01:54,230 --> 00:01:54,240
+she's not she's not going to push that
+ 
+
+85
+00:01:54,240 --> 00:01:58,230
+she's not she's not going to push that
+over okay um but when I put you in Han
+
+86
+00:01:58,230 --> 00:01:58,240
+over okay um but when I put you in Han
+ 
+
+87
+00:01:58,240 --> 00:02:02,149
+over okay um but when I put you in Han
+me and I don't have that angle and she's
+
+88
+00:02:02,149 --> 00:02:02,159
+me and I don't have that angle and she's
+ 
+
+89
+00:02:02,159 --> 00:02:03,069
+me and I don't have that angle and she's
+she's
+
+90
+00:02:03,069 --> 00:02:03,079
+she's
+ 
+
+91
+00:02:03,079 --> 00:02:05,990
+she's
+driving I don't want to see that but I
+
+92
+00:02:05,990 --> 00:02:06,000
+driving I don't want to see that but I
+ 
+
+93
+00:02:06,000 --> 00:02:07,430
+driving I don't want to see that but I
+need to see
+
+94
+00:02:07,430 --> 00:02:07,440
+need to see
+ 
+
+95
+00:02:07,440 --> 00:02:11,869
+need to see
+that I don't want her to just push so I
+
+96
+00:02:11,869 --> 00:02:11,879
+that I don't want her to just push so I
+ 
+
+97
+00:02:11,879 --> 00:02:15,589
+that I don't want her to just push so I
+so I can stand there she she has to be
+
+98
+00:02:15,589 --> 00:02:15,599
+so I can stand there she she has to be
+ 
+
+99
+00:02:15,599 --> 00:02:18,949
+so I can stand there she she has to be
+able to push push push push push push
+
+100
+00:02:18,949 --> 00:02:18,959
+able to push push push push push push
+ 
+
+101
+00:02:18,959 --> 00:02:21,630
+able to push push push push push push
+and I have to be able to stay in
+
+102
+00:02:21,630 --> 00:02:21,640
+and I have to be able to stay in
+ 
+
+103
+00:02:21,640 --> 00:02:24,030
+and I have to be able to stay in
+position without needing that bracing
+
+104
+00:02:24,030 --> 00:02:24,040
+position without needing that bracing
+ 
+
+105
+00:02:24,040 --> 00:02:27,750
+position without needing that bracing
+angle okay and so again this is where
+
+106
+00:02:27,750 --> 00:02:27,760
+angle okay and so again this is where
+ 
+
+107
+00:02:27,760 --> 00:02:29,509
+angle okay and so again this is where
+Adam could talk because his tire his
+
+108
+00:02:29,509 --> 00:02:29,519
+Adam could talk because his tire his
+ 
+
+109
+00:02:29,519 --> 00:02:32,030
+Adam could talk because his tire his
+tire like he's tiring on the UK he's
+
+110
+00:02:32,030 --> 00:02:32,040
+tire like he's tiring on the UK he's
+ 
+
+111
+00:02:32,040 --> 00:02:34,710
+tire like he's tiring on the UK he's
+like can't do it okay but you need to
+
+112
+00:02:34,710 --> 00:02:34,720
+like can't do it okay but you need to
+ 
+
+113
+00:02:34,720 --> 00:02:38,710
+like can't do it okay but you need to
+have your UK push like that okay um and
+
+114
+00:02:38,710 --> 00:02:38,720
+have your UK push like that okay um and
+ 
+
+115
+00:02:38,720 --> 00:02:40,070
+have your UK push like that okay um and
+then
+
+116
+00:02:40,070 --> 00:02:40,080
+then
+ 
+
+117
+00:02:40,080 --> 00:02:44,670
+then
+also when we do the the projection part
+
+118
+00:02:44,670 --> 00:02:44,680
+also when we do the the projection part
+ 
+
+119
+00:02:44,680 --> 00:02:47,990
+also when we do the the projection part
+so we do the projection part it's not
+
+120
+00:02:47,990 --> 00:02:48,000
+so we do the projection part it's not
+ 
+
+121
+00:02:48,000 --> 00:02:50,390
+so we do the projection part it's not
+that she stops pushing she's still
+
+122
+00:02:50,390 --> 00:02:50,400
+that she stops pushing she's still
+ 
+
+123
+00:02:50,400 --> 00:02:53,149
+that she stops pushing she's still
+driving so as I go back she's still
+
+124
+00:02:53,149 --> 00:02:53,159
+driving so as I go back she's still
+ 
+
+125
+00:02:53,159 --> 00:02:55,790
+driving so as I go back she's still
+pushing just as hard she's pushing just
+
+126
+00:02:55,790 --> 00:02:55,800
+pushing just as hard she's pushing just
+ 
+
+127
+00:02:55,800 --> 00:02:58,390
+pushing just as hard she's pushing just
+as hard and I still have to go
+
+128
+00:02:58,390 --> 00:02:58,400
+as hard and I still have to go
+ 
+
+129
+00:02:58,400 --> 00:03:00,949
+as hard and I still have to go
+forward it's not
+
+130
+00:03:00,949 --> 00:03:00,959
+forward it's not
+ 
+
+131
+00:03:00,959 --> 00:03:04,110
+forward it's not
+that they start pushing she goes back
+
+132
+00:03:04,110 --> 00:03:04,120
+that they start pushing she goes back
+ 
+
+133
+00:03:04,120 --> 00:03:06,710
+that they start pushing she goes back
+and now I stop pushing do you see and
+
+134
+00:03:06,710 --> 00:03:06,720
+and now I stop pushing do you see and
+ 
+
+135
+00:03:06,720 --> 00:03:10,350
+and now I stop pushing do you see and
+now she comes forward and then pushes so
+
+136
+00:03:10,350 --> 00:03:10,360
+now she comes forward and then pushes so
+ 
+
+137
+00:03:10,360 --> 00:03:11,630
+now she comes forward and then pushes so
+I have
+
+138
+00:03:11,630 --> 00:03:11,640
+I have
+ 
+
+139
+00:03:11,640 --> 00:03:15,229
+I have
+to push she goes back I'm still pushing
+
+140
+00:03:15,229 --> 00:03:15,239
+to push she goes back I'm still pushing
+ 
+
+141
+00:03:15,239 --> 00:03:18,190
+to push she goes back I'm still pushing
+she has to come forward against that
+
+142
+00:03:18,190 --> 00:03:18,200
+she has to come forward against that
+ 
+
+143
+00:03:18,200 --> 00:03:24,149
+she has to come forward against that
+still pushing okay um that said when we
+
+144
+00:03:24,149 --> 00:03:24,159
+still pushing okay um that said when we
+ 
+
+145
+00:03:24,159 --> 00:03:27,149
+still pushing okay um that said when we
+do when I I get when they get to a point
+
+146
+00:03:27,149 --> 00:03:27,159
+do when I I get when they get to a point
+ 
+
+147
+00:03:27,159 --> 00:03:30,390
+do when I I get when they get to a point
+where both parties are grounding I
+
+148
+00:03:30,390 --> 00:03:30,400
+where both parties are grounding I
+ 
+
+149
+00:03:30,400 --> 00:03:32,589
+where both parties are grounding I
+it is not the case that they're not
+
+150
+00:03:32,589 --> 00:03:32,599
+it is not the case that they're not
+ 
+
+151
+00:03:32,599 --> 00:03:35,710
+it is not the case that they're not
+pushing they're actually more efficient
+
+152
+00:03:35,710 --> 00:03:35,720
+pushing they're actually more efficient
+ 
+
+153
+00:03:35,720 --> 00:03:39,270
+pushing they're actually more efficient
+so if if I'm here and I do this bracing
+
+154
+00:03:39,270 --> 00:03:39,280
+so if if I'm here and I do this bracing
+ 
+
+155
+00:03:39,280 --> 00:03:41,830
+so if if I'm here and I do this bracing
+angle she's going going going she's
+
+156
+00:03:41,830 --> 00:03:41,840
+angle she's going going going she's
+ 
+
+157
+00:03:41,840 --> 00:03:45,429
+angle she's going going going she's
+pretty good but once I once I used the
+
+158
+00:03:45,429 --> 00:03:45,439
+pretty good but once I once I used the
+ 
+
+159
+00:03:45,439 --> 00:03:48,470
+pretty good but once I once I used the
+ground she not it's not good at all so
+
+160
+00:03:48,470 --> 00:03:48,480
+ground she not it's not good at all so
+ 
+
+161
+00:03:48,480 --> 00:03:51,149
+ground she not it's not good at all so
+that's a higher push even though on
+
+162
+00:03:51,149 --> 00:03:51,159
+that's a higher push even though on
+ 
+
+163
+00:03:51,159 --> 00:03:54,390
+that's a higher push even though on
+camera it does not look like it okay but
+
+164
+00:03:54,390 --> 00:03:54,400
+camera it does not look like it okay but
+ 
+
+165
+00:03:54,400 --> 00:03:57,270
+camera it does not look like it okay but
+you have to get your training Partners
+
+166
+00:03:57,270 --> 00:03:57,280
+you have to get your training Partners
+ 
+
+167
+00:03:57,280 --> 00:04:00,229
+you have to get your training Partners
+to just drive drive drive
+
+168
+00:04:00,229 --> 00:04:00,239
+to just drive drive drive
+ 
+
+169
+00:04:00,239 --> 00:04:03,470
+to just drive drive drive
+into you to actually be pushing you over
+
+170
+00:04:03,470 --> 00:04:03,480
+into you to actually be pushing you over
+ 
+
+171
+00:04:03,480 --> 00:04:06,480
+into you to actually be pushing you over
+okay
+
