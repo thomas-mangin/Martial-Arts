@@ -1,0 +1,1345 @@
+1
+00:00:22,950 --> 00:00:25,110
+
+okay for this video we're going to look
+
+2
+00:00:25,110 --> 00:00:25,120
+okay for this video we're going to look
+ 
+
+3
+00:00:25,120 --> 00:00:29,700
+okay for this video we're going to look
+at the second qubit a chi fairly gloomy
+
+4
+00:00:29,700 --> 00:00:29,710
+at the second qubit a chi fairly gloomy
+ 
+
+5
+00:00:29,710 --> 00:00:33,060
+at the second qubit a chi fairly gloomy
+Shuang is a few interesting bits and
+
+6
+00:00:33,060 --> 00:00:33,070
+Shuang is a few interesting bits and
+ 
+
+7
+00:00:33,070 --> 00:00:35,970
+Shuang is a few interesting bits and
+pieces to it has been a few changes over
+
+8
+00:00:35,970 --> 00:00:35,980
+pieces to it has been a few changes over
+ 
+
+9
+00:00:35,980 --> 00:00:37,650
+pieces to it has been a few changes over
+the years I'll be doing it she'll talk
+
+10
+00:00:37,650 --> 00:00:37,660
+the years I'll be doing it she'll talk
+ 
+
+11
+00:00:37,660 --> 00:00:40,049
+the years I'll be doing it she'll talk
+about where things have changed they're
+
+12
+00:00:40,049 --> 00:00:40,059
+about where things have changed they're
+ 
+
+13
+00:00:40,059 --> 00:00:43,560
+about where things have changed they're
+not necessarily you know right there
+
+14
+00:00:43,560 --> 00:00:43,570
+not necessarily you know right there
+ 
+
+15
+00:00:43,570 --> 00:00:45,630
+not necessarily you know right there
+they were right in there there now
+
+16
+00:00:45,630 --> 00:00:45,640
+they were right in there there now
+ 
+
+17
+00:00:45,640 --> 00:00:47,940
+they were right in there there now
+wrongman yeah they're just different so
+
+18
+00:00:47,940 --> 00:00:47,950
+wrongman yeah they're just different so
+ 
+
+19
+00:00:47,950 --> 00:00:51,420
+wrongman yeah they're just different so
+hmm there's you learn different aspects
+
+20
+00:00:51,420 --> 00:00:51,430
+hmm there's you learn different aspects
+ 
+
+21
+00:00:51,430 --> 00:00:52,920
+hmm there's you learn different aspects
+from doing in different ways
+
+22
+00:00:52,920 --> 00:00:52,930
+from doing in different ways
+ 
+
+23
+00:00:52,930 --> 00:00:55,740
+from doing in different ways
+okay so keeps all fairly open wide some
+
+24
+00:00:55,740 --> 00:00:55,750
+okay so keeps all fairly open wide some
+ 
+
+25
+00:00:55,750 --> 00:00:58,250
+okay so keeps all fairly open wide some
+of the changes that we've made
+
+26
+00:00:58,250 --> 00:00:58,260
+of the changes that we've made
+ 
+
+27
+00:00:58,260 --> 00:01:03,270
+of the changes that we've made
+okay in the first video I see some of
+
+28
+00:01:03,270 --> 00:01:03,280
+okay in the first video I see some of
+ 
+
+29
+00:01:03,280 --> 00:01:05,280
+okay in the first video I see some of
+these are snapshots so don't necessarily
+
+30
+00:01:05,280 --> 00:01:05,290
+these are snapshots so don't necessarily
+ 
+
+31
+00:01:05,290 --> 00:01:08,100
+these are snapshots so don't necessarily
+start you know necessary starting in
+
+32
+00:01:08,100 --> 00:01:08,110
+start you know necessary starting in
+ 
+
+33
+00:01:08,110 --> 00:01:09,330
+start you know necessary starting in
+this position though obviously you are
+
+34
+00:01:09,330 --> 00:01:09,340
+this position though obviously you are
+ 
+
+35
+00:01:09,340 --> 00:01:11,550
+this position though obviously you are
+but the exercise and this is this was
+
+36
+00:01:11,550 --> 00:01:11,560
+but the exercise and this is this was
+ 
+
+37
+00:01:11,560 --> 00:01:12,900
+but the exercise and this is this was
+quite a good demonstration because the
+
+38
+00:01:12,900 --> 00:01:12,910
+quite a good demonstration because the
+ 
+
+39
+00:01:12,910 --> 00:01:18,210
+quite a good demonstration because the
+attack yuki does doesn't he's not very
+
+40
+00:01:18,210 --> 00:01:18,220
+attack yuki does doesn't he's not very
+ 
+
+41
+00:01:18,220 --> 00:01:20,520
+attack yuki does doesn't he's not very
+practical from this sort of position was
+
+42
+00:01:20,520 --> 00:01:20,530
+practical from this sort of position was
+ 
+
+43
+00:01:20,530 --> 00:01:22,620
+practical from this sort of position was
+he be David makes things easy he's
+
+44
+00:01:22,620 --> 00:01:22,630
+he be David makes things easy he's
+ 
+
+45
+00:01:22,630 --> 00:01:25,050
+he be David makes things easy he's
+attacking the leg so he's gotta be here
+
+46
+00:01:25,050 --> 00:01:25,060
+attacking the leg so he's gotta be here
+ 
+
+47
+00:01:25,060 --> 00:01:27,529
+attacking the leg so he's gotta be here
+now I could reach you very easily
+
+48
+00:01:27,529 --> 00:01:27,539
+now I could reach you very easily
+ 
+
+49
+00:01:27,539 --> 00:01:33,059
+now I could reach you very easily
+without before he gets into range
+
+50
+00:01:33,059 --> 00:01:33,069
+without before he gets into range
+ 
+
+51
+00:01:33,069 --> 00:01:36,120
+without before he gets into range
+so yes have some significant time on me
+
+52
+00:01:36,120 --> 00:01:36,130
+so yes have some significant time on me
+ 
+
+53
+00:01:36,130 --> 00:01:38,790
+so yes have some significant time on me
+to make me react to block that otherwise
+
+54
+00:01:38,790 --> 00:01:38,800
+to make me react to block that otherwise
+ 
+
+55
+00:01:38,800 --> 00:01:40,650
+to make me react to block that otherwise
+I can just sort of counter it very
+
+56
+00:01:40,650 --> 00:01:40,660
+I can just sort of counter it very
+ 
+
+57
+00:01:40,660 --> 00:01:42,540
+I can just sort of counter it very
+easily now there's no hint emitting
+
+58
+00:01:42,540 --> 00:01:42,550
+easily now there's no hint emitting
+ 
+
+59
+00:01:42,550 --> 00:01:47,160
+easily now there's no hint emitting
+there as we both raise up the defender
+
+60
+00:01:47,160 --> 00:01:47,170
+there as we both raise up the defender
+ 
+
+61
+00:01:47,170 --> 00:01:48,900
+there as we both raise up the defender
+is following the attacker and that sort
+
+62
+00:01:48,900 --> 00:01:48,910
+is following the attacker and that sort
+ 
+
+63
+00:01:48,910 --> 00:01:51,449
+is following the attacker and that sort
+of raises last but it's not quite enough
+
+64
+00:01:51,449 --> 00:01:51,459
+of raises last but it's not quite enough
+ 
+
+65
+00:01:51,459 --> 00:01:54,590
+of raises last but it's not quite enough
+to create that time gap
+
+66
+00:01:54,590 --> 00:01:54,600
+to create that time gap
+ 
+
+67
+00:01:54,600 --> 00:01:57,399
+to create that time gap
+I mean that boy will attack but yeah
+
+68
+00:01:57,399 --> 00:01:57,409
+I mean that boy will attack but yeah
+ 
+
+69
+00:01:57,409 --> 00:02:01,700
+I mean that boy will attack but yeah
+this is this is the exercise so we check
+
+70
+00:02:01,700 --> 00:02:01,710
+this is this is the exercise so we check
+ 
+
+71
+00:02:01,710 --> 00:02:03,560
+this is this is the exercise so we check
+from here we show from the attack and
+
+72
+00:02:03,560 --> 00:02:03,570
+from here we show from the attack and
+ 
+
+73
+00:02:03,570 --> 00:02:06,590
+from here we show from the attack and
+this is quite interesting creeps in the
+
+74
+00:02:06,590 --> 00:02:06,600
+this is quite interesting creeps in the
+ 
+
+75
+00:02:06,600 --> 00:02:11,390
+this is quite interesting creeps in the
+first so folks praise he starts he
+
+76
+00:02:11,390 --> 00:02:11,400
+first so folks praise he starts he
+ 
+
+77
+00:02:11,400 --> 00:02:14,210
+first so folks praise he starts he
+raises up he takes the leg
+
+78
+00:02:14,210 --> 00:02:14,220
+raises up he takes the leg
+ 
+
+79
+00:02:14,220 --> 00:02:17,150
+raises up he takes the leg
+now that's very simple finish I could do
+
+80
+00:02:17,150 --> 00:02:17,160
+now that's very simple finish I could do
+ 
+
+81
+00:02:17,160 --> 00:02:20,240
+now that's very simple finish I could do
+from there yeah he can't really reach me
+
+82
+00:02:20,240 --> 00:02:20,250
+from there yeah he can't really reach me
+ 
+
+83
+00:02:20,250 --> 00:02:24,050
+from there yeah he can't really reach me
+so with it but I shoot he's managed to
+
+84
+00:02:24,050 --> 00:02:24,060
+so with it but I shoot he's managed to
+ 
+
+85
+00:02:24,060 --> 00:02:27,470
+so with it but I shoot he's managed to
+time I didn't have to respond to the
+
+86
+00:02:27,470 --> 00:02:27,480
+time I didn't have to respond to the
+ 
+
+87
+00:02:27,480 --> 00:02:31,070
+time I didn't have to respond to the
+attack so look at it from this point of
+
+88
+00:02:31,070 --> 00:02:31,080
+attack so look at it from this point of
+ 
+
+89
+00:02:31,080 --> 00:02:32,750
+attack so look at it from this point of
+view a snapshot he's actually got more
+
+90
+00:02:32,750 --> 00:02:32,760
+view a snapshot he's actually got more
+ 
+
+91
+00:02:32,760 --> 00:02:37,340
+view a snapshot he's actually got more
+time I blocked down here now from here
+
+92
+00:02:37,340 --> 00:02:37,350
+time I blocked down here now from here
+ 
+
+93
+00:02:37,350 --> 00:02:39,500
+time I blocked down here now from here
+now because of this geometry how this
+
+94
+00:02:39,500 --> 00:02:39,510
+now because of this geometry how this
+ 
+
+95
+00:02:39,510 --> 00:02:39,890
+now because of this geometry how this
+works
+
+96
+00:02:39,890 --> 00:02:39,900
+works
+ 
+
+97
+00:02:39,900 --> 00:02:42,970
+works
+he's risked his in within range of my
+
+98
+00:02:42,970 --> 00:02:42,980
+he's risked his in within range of my
+ 
+
+99
+00:02:42,980 --> 00:02:44,210
+he's risked his in within range of my
+sword
+
+100
+00:02:44,210 --> 00:02:44,220
+sword
+ 
+
+101
+00:02:44,220 --> 00:02:46,940
+sword
+so I raise a zither to cut put your
+
+102
+00:02:46,940 --> 00:02:46,950
+so I raise a zither to cut put your
+ 
+
+103
+00:02:46,950 --> 00:02:55,590
+so I raise a zither to cut put your
+wrist hallelujah
+
+104
+00:02:55,590 --> 00:02:55,600
+
+ 
+
+105
+00:02:55,600 --> 00:02:58,900
+
+okay so that's the line of his wrist I'm
+
+106
+00:02:58,900 --> 00:02:58,910
+okay so that's the line of his wrist I'm
+ 
+
+107
+00:02:58,910 --> 00:03:02,710
+okay so that's the line of his wrist I'm
+down here that's the attack button doing
+
+108
+00:03:02,710 --> 00:03:02,720
+down here that's the attack button doing
+ 
+
+109
+00:03:02,720 --> 00:03:09,640
+down here that's the attack button doing
+these risk okay so from here I raised to
+
+110
+00:03:09,640 --> 00:03:09,650
+these risk okay so from here I raised to
+ 
+
+111
+00:03:09,650 --> 00:03:12,190
+these risk okay so from here I raised to
+attack as this comes up he raises the
+
+112
+00:03:12,190 --> 00:03:12,200
+attack as this comes up he raises the
+ 
+
+113
+00:03:12,200 --> 00:03:14,140
+attack as this comes up he raises the
+point of his sword the other side now I
+
+114
+00:03:14,140 --> 00:03:14,150
+point of his sword the other side now I
+ 
+
+115
+00:03:14,150 --> 00:03:16,630
+point of his sword the other side now I
+can no longer get to attack you I have
+
+116
+00:03:16,630 --> 00:03:16,640
+can no longer get to attack you I have
+ 
+
+117
+00:03:16,640 --> 00:03:19,150
+can no longer get to attack you I have
+to change my mind I hold this on line he
+
+118
+00:03:19,150 --> 00:03:19,160
+to change my mind I hold this on line he
+ 
+
+119
+00:03:19,160 --> 00:03:22,030
+to change my mind I hold this on line he
+comes around for a thrust and I blow
+
+120
+00:03:22,030 --> 00:03:22,040
+comes around for a thrust and I blow
+ 
+
+121
+00:03:22,040 --> 00:03:27,450
+comes around for a thrust and I blow
+back and parry and that's the first part
+
+122
+00:03:27,450 --> 00:03:27,460
+back and parry and that's the first part
+ 
+
+123
+00:03:27,460 --> 00:03:30,580
+back and parry and that's the first part
+cue catchy now this part up the left now
+
+124
+00:03:30,580 --> 00:03:30,590
+cue catchy now this part up the left now
+ 
+
+125
+00:03:30,590 --> 00:03:32,860
+cue catchy now this part up the left now
+or it kinda gets lost where you go fast
+
+126
+00:03:32,860 --> 00:03:32,870
+or it kinda gets lost where you go fast
+ 
+
+127
+00:03:32,870 --> 00:03:37,750
+or it kinda gets lost where you go fast
+but I always avoid looking to get that
+
+128
+00:03:37,750 --> 00:03:37,760
+but I always avoid looking to get that
+ 
+
+129
+00:03:37,760 --> 00:03:39,760
+but I always avoid looking to get that
+attack okay so it gives this gives us
+
+130
+00:03:39,760 --> 00:03:39,770
+attack okay so it gives this gives us
+ 
+
+131
+00:03:39,770 --> 00:03:41,560
+attack okay so it gives this gives us
+off change your fingering I think he's
+
+132
+00:03:41,560 --> 00:03:41,570
+off change your fingering I think he's
+ 
+
+133
+00:03:41,570 --> 00:03:44,050
+off change your fingering I think he's
+quiet are you doing these otherwise you
+
+134
+00:03:44,050 --> 00:03:44,060
+quiet are you doing these otherwise you
+ 
+
+135
+00:03:44,060 --> 00:03:47,080
+quiet are you doing these otherwise you
+just saw going backwards now things
+
+136
+00:03:47,080 --> 00:03:47,090
+just saw going backwards now things
+ 
+
+137
+00:03:47,090 --> 00:03:48,850
+just saw going backwards now things
+happen I say things have changed I like
+
+138
+00:03:48,850 --> 00:03:48,860
+happen I say things have changed I like
+ 
+
+139
+00:03:48,860 --> 00:03:51,070
+happen I say things have changed I like
+the sort of the changing feeding that
+
+140
+00:03:51,070 --> 00:03:51,080
+the sort of the changing feeding that
+ 
+
+141
+00:03:51,080 --> 00:03:53,980
+the sort of the changing feeding that
+gives me rather than just yielding to
+
+142
+00:03:53,980 --> 00:03:53,990
+gives me rather than just yielding to
+ 
+
+143
+00:03:53,990 --> 00:03:56,140
+gives me rather than just yielding to
+his movement opening immunity that's
+
+144
+00:03:56,140 --> 00:03:56,150
+his movement opening immunity that's
+ 
+
+145
+00:03:56,150 --> 00:03:58,840
+his movement opening immunity that's
+kind of like a personal thing you may
+
+146
+00:03:58,840 --> 00:03:58,850
+kind of like a personal thing you may
+ 
+
+147
+00:03:58,850 --> 00:04:05,220
+kind of like a personal thing you may
+see it differently but that's fine here
+
+148
+00:04:05,220 --> 00:04:05,230
+see it differently but that's fine here
+ 
+
+149
+00:04:05,230 --> 00:04:08,440
+see it differently but that's fine here
+so preciously this one is I can leave it
+
+150
+00:04:08,440 --> 00:04:08,450
+so preciously this one is I can leave it
+ 
+
+151
+00:04:08,450 --> 00:04:12,160
+so preciously this one is I can leave it
+open or my clothes now used to be more
+
+152
+00:04:12,160 --> 00:04:12,170
+open or my clothes now used to be more
+ 
+
+153
+00:04:12,170 --> 00:04:14,680
+open or my clothes now used to be more
+emphasis on keeping his light to him
+
+154
+00:04:14,680 --> 00:04:14,690
+emphasis on keeping his light to him
+ 
+
+155
+00:04:14,690 --> 00:04:16,840
+emphasis on keeping his light to him
+close which case it's gone it's not
+
+156
+00:04:16,840 --> 00:04:16,850
+close which case it's gone it's not
+ 
+
+157
+00:04:16,850 --> 00:04:18,340
+close which case it's gone it's not
+worked really hard to hide around my
+
+158
+00:04:18,340 --> 00:04:18,350
+worked really hard to hide around my
+ 
+
+159
+00:04:18,350 --> 00:04:20,020
+worked really hard to hide around my
+sole wish I think he's good
+
+160
+00:04:20,020 --> 00:04:20,030
+sole wish I think he's good
+ 
+
+161
+00:04:20,030 --> 00:04:21,640
+sole wish I think he's good
+now what he doesn't open these hip
+
+162
+00:04:21,640 --> 00:04:21,650
+now what he doesn't open these hip
+ 
+
+163
+00:04:21,650 --> 00:04:25,390
+now what he doesn't open these hip
+breathe he'll outwards and that ship's
+
+164
+00:04:25,390 --> 00:04:25,400
+breathe he'll outwards and that ship's
+ 
+
+165
+00:04:25,400 --> 00:04:28,330
+breathe he'll outwards and that ship's
+line he's lying slightly and then get
+
+166
+00:04:28,330 --> 00:04:28,340
+line he's lying slightly and then get
+ 
+
+167
+00:04:28,340 --> 00:04:33,490
+line he's lying slightly and then get
+around my soul okay so this next part
+
+168
+00:04:33,490 --> 00:04:33,500
+around my soul okay so this next part
+ 
+
+169
+00:04:33,500 --> 00:04:39,700
+around my soul okay so this next part
+loogie boys around you I do I Drive the
+
+170
+00:04:39,700 --> 00:04:39,710
+loogie boys around you I do I Drive the
+ 
+
+171
+00:04:39,710 --> 00:04:43,270
+loogie boys around you I do I Drive the
+soul my blades back now comes with
+
+172
+00:04:43,270 --> 00:04:43,280
+soul my blades back now comes with
+ 
+
+173
+00:04:43,280 --> 00:04:45,420
+soul my blades back now comes with
+strike
+
+174
+00:04:45,420 --> 00:04:45,430
+strike
+ 
+
+175
+00:04:45,430 --> 00:04:49,379
+strike
+yeah now again this is Denise doing this
+
+176
+00:04:49,379 --> 00:04:49,389
+yeah now again this is Denise doing this
+ 
+
+177
+00:04:49,389 --> 00:04:54,779
+yeah now again this is Denise doing this
+now turn that over and opens the line
+
+178
+00:04:54,779 --> 00:04:54,789
+now turn that over and opens the line
+ 
+
+179
+00:04:54,789 --> 00:04:59,909
+now turn that over and opens the line
+for him to straight in other way is to
+
+180
+00:04:59,909 --> 00:04:59,919
+for him to straight in other way is to
+ 
+
+181
+00:04:59,919 --> 00:05:02,430
+for him to straight in other way is to
+click back back to what I try to do is
+
+182
+00:05:02,430 --> 00:05:02,440
+click back back to what I try to do is
+ 
+
+183
+00:05:02,440 --> 00:05:05,249
+click back back to what I try to do is
+come in for a little struts if it drops
+
+184
+00:05:05,249 --> 00:05:05,259
+come in for a little struts if it drops
+ 
+
+185
+00:05:05,259 --> 00:05:07,680
+come in for a little struts if it drops
+up the lead change the mind and we're
+
+186
+00:05:07,680 --> 00:05:07,690
+up the lead change the mind and we're
+ 
+
+187
+00:05:07,690 --> 00:05:10,110
+up the lead change the mind and we're
+back into this position now it doesn't
+
+188
+00:05:10,110 --> 00:05:10,120
+back into this position now it doesn't
+ 
+
+189
+00:05:10,120 --> 00:05:12,420
+back into this position now it doesn't
+really matter which one you do it's long
+
+190
+00:05:12,420 --> 00:05:12,430
+really matter which one you do it's long
+ 
+
+191
+00:05:12,430 --> 00:05:16,890
+really matter which one you do it's long
+johnstad which one you're doing and why
+
+192
+00:05:16,890 --> 00:05:16,900
+johnstad which one you're doing and why
+ 
+
+193
+00:05:16,900 --> 00:05:21,950
+johnstad which one you're doing and why
+are you doing it okay so one I told over
+
+194
+00:05:21,950 --> 00:05:21,960
+are you doing it okay so one I told over
+ 
+
+195
+00:05:21,960 --> 00:05:24,860
+are you doing it okay so one I told over
+open the line he comes he drops on the
+
+196
+00:05:24,860 --> 00:05:24,870
+open the line he comes he drops on the
+ 
+
+197
+00:05:24,870 --> 00:05:26,340
+open the line he comes he drops on the
+straight in
+
+198
+00:05:26,340 --> 00:05:26,350
+straight in
+ 
+
+199
+00:05:26,350 --> 00:05:30,650
+straight in
+that's me my team in the other way is
+
+200
+00:05:30,650 --> 00:05:30,660
+that's me my team in the other way is
+ 
+
+201
+00:05:30,660 --> 00:05:33,060
+that's me my team in the other way is
+also do this more on the move you can
+
+202
+00:05:33,060 --> 00:05:33,070
+also do this more on the move you can
+ 
+
+203
+00:05:33,070 --> 00:05:35,670
+also do this more on the move you can
+kind of start this deflection higher up
+
+204
+00:05:35,670 --> 00:05:35,680
+kind of start this deflection higher up
+ 
+
+205
+00:05:35,680 --> 00:05:39,500
+kind of start this deflection higher up
+as the source coming down well time to
+
+206
+00:05:39,500 --> 00:05:39,510
+as the source coming down well time to
+ 
+
+207
+00:05:39,510 --> 00:05:43,320
+as the source coming down well time to
+create a locally so I can attack II ever
+
+208
+00:05:43,320 --> 00:05:43,330
+create a locally so I can attack II ever
+ 
+
+209
+00:05:43,330 --> 00:05:45,839
+create a locally so I can attack II ever
+change my mind they all either one is
+
+210
+00:05:45,839 --> 00:05:45,849
+change my mind they all either one is
+ 
+
+211
+00:05:45,849 --> 00:05:50,730
+change my mind they all either one is
+fine white doing entirely up to what
+
+212
+00:05:50,730 --> 00:05:50,740
+fine white doing entirely up to what
+ 
+
+213
+00:05:50,740 --> 00:05:55,620
+fine white doing entirely up to what
+your teacher does you do okay so show
+
+214
+00:05:55,620 --> 00:05:55,630
+your teacher does you do okay so show
+ 
+
+215
+00:05:55,630 --> 00:06:03,740
+your teacher does you do okay so show
+the whole thing
+
+216
+00:06:03,740 --> 00:06:03,750
+
+ 
+
+217
+00:06:03,750 --> 00:06:48,580
+
+[Music]
+
+218
+00:06:48,580 --> 00:06:48,590
+[Music]
+ 
+
+219
+00:06:48,590 --> 00:06:51,290
+[Music]
+first variation to come up this Cup as
+
+220
+00:06:51,290 --> 00:06:51,300
+first variation to come up this Cup as
+ 
+
+221
+00:06:51,300 --> 00:06:54,170
+first variation to come up this Cup as
+he comes in for the thrust I moved to
+
+222
+00:06:54,170 --> 00:06:54,180
+he comes in for the thrust I moved to
+ 
+
+223
+00:06:54,180 --> 00:06:59,560
+he comes in for the thrust I moved to
+the side shoulders wrists okay
+
+224
+00:06:59,560 --> 00:06:59,570
+
+ 
+
+225
+00:06:59,570 --> 00:07:03,080
+
+the first body variation uses a similar
+
+226
+00:07:03,080 --> 00:07:03,090
+the first body variation uses a similar
+ 
+
+227
+00:07:03,090 --> 00:07:08,090
+the first body variation uses a similar
+move they come up further cup raises I
+
+228
+00:07:08,090 --> 00:07:08,100
+move they come up further cup raises I
+ 
+
+229
+00:07:08,100 --> 00:07:11,900
+move they come up further cup raises I
+move into each type position I'm
+
+230
+00:07:11,900 --> 00:07:11,910
+move into each type position I'm
+ 
+
+231
+00:07:11,910 --> 00:07:14,540
+move into each type position I'm
+controlling his body with the point of
+
+232
+00:07:14,540 --> 00:07:14,550
+controlling his body with the point of
+ 
+
+233
+00:07:14,550 --> 00:07:17,390
+controlling his body with the point of
+my sword except the khopesh thumb down
+
+234
+00:07:17,390 --> 00:07:17,400
+my sword except the khopesh thumb down
+ 
+
+235
+00:07:17,400 --> 00:07:19,280
+my sword except the khopesh thumb down
+the back middle finger of the song I
+
+236
+00:07:19,280 --> 00:07:19,290
+the back middle finger of the song I
+ 
+
+237
+00:07:19,290 --> 00:07:23,450
+the back middle finger of the song I
+turn over here like a it's difficult the
+
+238
+00:07:23,450 --> 00:07:23,460
+turn over here like a it's difficult the
+ 
+
+239
+00:07:23,460 --> 00:07:26,390
+turn over here like a it's difficult the
+throws he's got structure is too strong
+
+240
+00:07:26,390 --> 00:07:26,400
+throws he's got structure is too strong
+ 
+
+241
+00:07:26,400 --> 00:07:34,100
+throws he's got structure is too strong
+so I use blade to
+
+242
+00:07:34,100 --> 00:07:34,110
+
+ 
+
+243
+00:07:34,110 --> 00:07:57,179
+
+[Music]
+
+244
+00:07:57,179 --> 00:07:57,189
+[Music]
+ 
+
+245
+00:07:57,189 --> 00:08:00,219
+[Music]
+second variation as he comes for the cup
+
+246
+00:08:00,219 --> 00:08:00,229
+second variation as he comes for the cup
+ 
+
+247
+00:08:00,229 --> 00:08:05,230
+second variation as he comes for the cup
+my answer stripe basically a ribbon
+
+248
+00:08:05,230 --> 00:08:05,240
+my answer stripe basically a ribbon
+ 
+
+249
+00:08:05,240 --> 00:08:09,040
+my answer stripe basically a ribbon
+naked or a group and a ruby the second
+
+250
+00:08:09,040 --> 00:08:09,050
+naked or a group and a ruby the second
+ 
+
+251
+00:08:09,050 --> 00:08:10,749
+naked or a group and a ruby the second
+pointy variation I basically did the
+
+252
+00:08:10,749 --> 00:08:10,759
+pointy variation I basically did the
+ 
+
+253
+00:08:10,759 --> 00:08:14,219
+pointy variation I basically did the
+same entry blue said look at the safety
+
+254
+00:08:14,219 --> 00:08:14,229
+same entry blue said look at the safety
+ 
+
+255
+00:08:14,229 --> 00:08:24,249
+same entry blue said look at the safety
+technologies down okay so the second
+
+256
+00:08:24,249 --> 00:08:24,259
+technologies down okay so the second
+ 
+
+257
+00:08:24,259 --> 00:08:28,450
+technologies down okay so the second
+qubit variations while interesting quite
+
+258
+00:08:28,450 --> 00:08:28,460
+qubit variations while interesting quite
+ 
+
+259
+00:08:28,460 --> 00:08:31,209
+qubit variations while interesting quite
+interesting cubit actually also things
+
+260
+00:08:31,209 --> 00:08:31,219
+interesting cubit actually also things
+ 
+
+261
+00:08:31,219 --> 00:08:34,569
+interesting cubit actually also things
+in there to work okay thanks for
+
+262
+00:08:34,569 --> 00:08:34,579
+in there to work okay thanks for
+ 
+
+263
+00:08:34,579 --> 00:08:37,799
+in there to work okay thanks for
+watching
+
+264
+00:08:37,799 --> 00:08:37,809
+
+ 
+
+265
+00:08:37,809 --> 00:08:41,800
+
+[Music]
+
+266
+00:08:41,800 --> 00:08:41,810
+[Music]
+ 
+
+267
+00:08:41,810 --> 00:08:42,289
+[Music]
+you
+
+268
+00:08:42,289 --> 00:08:42,299
+you
+ 
+
+269
+00:08:42,299 --> 00:08:49,769
+you
+[Music]
+
