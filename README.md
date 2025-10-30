@@ -34,6 +34,8 @@ This project provides a complete session continuity system designed to maintain 
 |---------|---------|-------------|
 | `/resume` | Load previous session context | Start of every session |
 | `/checkpoint` | Save state and commit changes | End of every session |
+| `/discuss [topic]` | Explore topic through conversation | Before writing, to develop ideas |
+| `/extract [discussion-file]` | Transform discussion into blog draft | After discussion is complete |
 | `/review-aikido [file]` | Review blog post quality | After drafting a post |
 
 ## Project Structure
@@ -44,6 +46,7 @@ This project provides a complete session continuity system designed to maintain 
 │   ├── commands/          # Slash command definitions
 │   └── claude.md          # AI assistant documentation
 ├── posts/                 # Your blog posts go here
+├── discussions/           # Discussion notes (informal explorations)
 ├── sessions/              # Timestamped session summaries
 ├── blog-template.md       # Template for new posts
 ├── blog-guidelines.md     # Comprehensive writing guide
@@ -54,6 +57,24 @@ This project provides a complete session continuity system designed to maintain 
 ```
 
 ## Workflow
+
+### Two Approaches to Writing
+
+**Approach A: Discussion-Based (Recommended)**
+```bash
+/discuss irimi-principle     # Explore topic conversationally
+/extract discussions/...     # Transform to blog draft
+# Develop and refine draft
+/review-aikido posts/...     # Get critical feedback
+# Iterate to excellence
+```
+
+**Approach B: Direct Writing**
+```bash
+cp blog-template.md posts/...  # Start from template
+# Write directly
+/review-aikido posts/...       # Review when ready
+```
 
 ### Starting a Session
 ```

@@ -104,7 +104,7 @@ Welcome! This guide explains how to use the blog writing and session continuity 
 
 ---
 
-## The Three Essential Commands
+## The Essential Commands
 
 ### `/resume` - Start Your Session
 **When**: Beginning of every work session
@@ -166,11 +166,94 @@ This creates a historical record you can review later!
 /review-aikido posts/principle-of-irimi-2025-10-30.md
 ```
 
+### `/discuss` - Explore Topic Through Conversation
+**When**: When you want to explore an Aikido topic informally before writing
+**What it does**:
+- Has conversational dialogue about the topic
+- Asks probing questions to deepen thinking
+- Extracts key insights from your responses
+- Creates structured discussion notes
+- Identifies blog-worthy ideas
+- Records decisions and questions
+
+**Usage**:
+```bash
+/discuss irimi-principle
+```
+
+**Benefits**:
+- Think through ideas before committing to draft
+- Capture authentic insights in your voice
+- Explore freely without pressure to be polished
+- Create raw material for blog posts
+
+### `/extract` - Transform Discussion into Blog Draft
+**When**: After a discussion, when ready to create a blog post
+**What it does**:
+- Reads your discussion notes
+- Pulls out key insights and examples
+- Creates structured blog post draft
+- Identifies gaps that need filling
+- Provides starting point for refinement
+
+**Usage**:
+```bash
+/extract discussions/irimi-principle-2025-10-30.md
+```
+
+**Result**: Initial blog draft in posts/ ready for development and review
+
 ---
 
 ## Complete Blog Writing Workflow
 
-### Step-by-Step Process:
+You have two approaches for creating blog posts:
+
+### Approach A: Discussion-Based (Recommended)
+Start with informal exploration, then extract to draft
+
+**1. Start Session**
+```bash
+/resume
+```
+
+**2. Explore Topic Through Discussion**
+```bash
+/discuss irimi-principle
+```
+- Have natural conversation about the topic
+- Answer probing questions
+- Share experiences and insights
+- Discussion note saved automatically in discussions/
+
+**3. Extract to Blog Draft**
+```bash
+/extract discussions/irimi-principle-2025-10-30.md
+```
+- Creates initial draft in posts/
+- Structures your insights from discussion
+- Identifies gaps to fill
+
+**4. Develop Draft**
+- Expand thin sections
+- Add missing details
+- Refine language and flow
+- Fill identified gaps
+
+**5. Review & Iterate**
+```bash
+/review-aikido posts/irimi-principle-2025-10-30.md
+```
+- Get critical feedback
+- Revise based on feedback
+- Re-review until MA-level quality
+
+**6. Finalize**
+- Update topics.md (mark complete)
+- Run /checkpoint
+
+### Approach B: Direct Writing
+Write directly from template
 
 **1. Start Session**
 ```bash

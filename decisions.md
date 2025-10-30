@@ -54,5 +54,27 @@ This document tracks important decisions made during the project.
 - Better understanding of MA thesis development journey
 - Historical context for future reference
 
+### Discussion Capture and Extraction System
+**Decision**: Create /discuss and /extract commands to transform informal conversations into blog posts
+**Rationale**: User requested "an agent to help me transform informal discussions into decision, recording of idea in a way which can later be extracted to create the blog post". Direct writing from templates can be difficult - starting with informal exploration is more natural.
+**System Components**:
+- **/discuss command**: Conversational exploration of topics with probing questions, captures insights in structured notes
+- **/extract command**: Transforms discussion notes into initial blog post drafts
+- **discussions/ directory**: Stores discussion notes for later extraction or reference
+- **Workflow**: Explore → Extract → Develop → Review → Iterate
+**Benefits**:
+- Reduces "blank page" problem by starting with conversation
+- Captures authentic voice and insights naturally
+- Allows thinking through ideas before committing to structure
+- Creates reusable raw material (discussions can feed multiple posts)
+- Separates ideation (discussion) from composition (blog writing)
+- Decisions made during discussions can be logged to decisions.md
+**Impact**:
+- More natural workflow for content creation
+- Better quality insights from exploratory discussions
+- Preserves thinking process for future reference
+- Enables extracting multiple posts from single discussion
+- Reduces friction in getting started with blog writing
+
 ---
 
