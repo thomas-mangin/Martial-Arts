@@ -123,12 +123,28 @@
 - Build understanding students can apply immediately
 - **Physical progression**: Each internalization stage (hands → feet → timing → core → patterns) can be taught biomechanically
 
+**Your Biomechanical Framework** (See biomechanical-principles.md):
+- **23 core principles documented** covering foundation mechanics, applications, and advanced concepts
+- Examples: Leverage, gravity, Newton's laws, kinetic chain, balance mechanics
+- Weapons-context principles (deflect before lock, knife assumption, hard blocks unsafe)
+- Psychological-physical connections (remove expected resistance, tension/expectations)
+- Each principle includes aikido applications, teaching implications, and blog topics
+- **60+ blog post ideas** generated from biomechanical analysis
+
+**Key Biomechanical Insights**:
+- Grounding and connection (Ground → Feet → Hips → Body → Contact)
+- Tension disconnects power (rubber vs wood problem)
+- Joint vulnerabilities (weak directions universal across martial arts)
+- Weapons assumption explains "soft" techniques (blocking knife = getting cut)
+- Remove expected resistance (using opponent's tension against them)
+
 **Potential Blog Topics**:
 - Breaking down techniques biomechanically
 - Why "feel the ki" fails many students
 - Teaching methods that work for analytical minds
 - The biomechanics of each internalization stage
 - Why hand techniques are harder than body techniques (kinetic energy transfer)
+- Complete series on biomechanical foundations (see blog-series-structure.md)
 
 ---
 
@@ -232,21 +248,78 @@
 
 ## Aikido Philosophy
 
-### Peace vs. Martial Effectiveness
-**Your Stance**: [To be filled in - what's your view on "Aikido as art of peace" vs martial effectiveness?]
+### Honest Assessment: Aikido's Strengths and Limitations
 
-**Common Divide**:
-- Some see Aikido primarily as philosophy of peace and harmony (late O'Sensei)
-- Others emphasize martial effectiveness and combative application
-- Blending vs. strong center debate
+**Your Stance**: Aikido is not as good as other martial arts in certain contexts, particularly agreed fighting like MMA. This is by design, not failure.
 
-**Your Position**:
-- [Add your perspective here]
-- [What balance do you strike?]
-- [How do you reconcile these views?]
+**Why Aikido Has Limitations in Sport Fighting**:
+- Aikido **assumes weapons** (especially knives) in its design
+- Aikido **refuses hard blocks** - assumes blocking a knife thrust = getting cut
+- Training for weapons context ≠ training for unarmed sport context
+- MMA rules change what techniques are optimal
+- Aikido optimizes for self-defense with weapons, not cage fighting
+
+**What Aikido Assumes**:
+- Attacker may have weapon (knife, stick)
+- Can't hard block because weapon will cut through
+- Must deflect and control, not oppose directly
+- Real attacks are committed (not feints and testing like sport)
+- One encounter, not rounds with referee
+- Multiple attackers possible
+
+**What This Means**:
+- **Sport fighting (MMA, boxing, etc.)**: Other arts are better
+  - No weapons assumed
+  - Hard blocks are safe and effective
+  - Grappling has different priorities
+  - Referee stops dangerous situations
+- **Weapons-based self-defense**: Aikido's design strength
+  - Deflection over blocking (knife safety)
+  - Distance management
+  - Controlling armed limb
+  - Not going to ground (multiple attackers possible)
+
+**Your Honest Position**:
+- Aikido isn't superior to all martial arts
+- Each art optimizes for different context
+- Aikido's weapons assumption shapes entire methodology
+- MMA fighters would beat aikidoka in cage (different context)
+- Aikido practitioner might handle knife better (trained context)
+- Don't claim aikido is "the best" - it's contextual
+
+**Why This Honesty Matters**:
+- Avoids aikido exceptionalism/superiority complex
+- Understands design assumptions and trade-offs
+- Can appreciate other martial arts' strengths
+- Realistic about aikido's application
+- Prevents false claims that hurt credibility
+
+**The Knife Assumption Explains**:
+- Why no hard blocks (deflection instead)
+- Why distance management emphasized
+- Why standing control preferred over ground work
+- Why multiple attacker training common
+- Why "soft" deflection over "hard" opposition
 
 **Potential Blog Topics**:
-- [Based on your stance]
+- "Why Aikido Isn't Good for MMA (And That's OK)"
+- "The Knife Assumption: How Weapons Shape Aikido"
+- "Why Aikido Doesn't Block: It Assumes You're Blocking a Blade"
+- "Context Matters: What Aikido Is Actually For"
+- "Honest Assessment: When Aikido Works and When It Doesn't"
+- "The Trade-Offs of Training for Weapons vs. Sport"
+
+---
+
+### Peace vs. Martial Effectiveness
+**Your Stance**: Both/And approach (see divisive-topics.md for full position)
+
+**Summary**:
+- Train for effectiveness (biomechanics, pressure testing, functional technique)
+- Orient toward peace (confidence reduces need for violence)
+- Real violence survivors seek peace; violence fantasists seek conflict
+- Can't have meaningful peace without capability - otherwise just helplessness
+- Effective in aikido's context (weapons-assumed self-defense) ≠ effective in all contexts
 
 ---
 

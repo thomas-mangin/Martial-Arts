@@ -72,6 +72,21 @@ A complete workflow system has been implemented to maintain context between sess
    - Teaching implications at different mastery levels
    - Blog ideas about learning, plateaus, and progression
 
+9. **biomechanical-principles.md** - 23 core biomechanical principles
+   - Foundation mechanics (leverage, gravity, balance, Newton's laws)
+   - Application mechanics (surface area, targets, deflection, movement)
+   - Advanced concepts (tension, redirection, joints, weapons context)
+   - Each principle: explanation, aikido applications, teaching implications, blog topics
+   - 60+ blog post ideas generated
+   - Quick reference guide at top
+
+10. **blog-series-structure.md** - 10 progressive learning series
+   - 50+ blog posts organized into coherent series
+   - Readers can follow clear learning paths
+   - Series: Biomechanics, Learning Journey, Kata, Peace/Violence, Deflection, Iwama, Movement, Teaching, Cross-Discipline, Solo Training
+   - Tracking checkboxes for each series
+   - Writing strategy recommendations
+
 #### Directory Structure
 
 ```
@@ -100,6 +115,9 @@ A complete workflow system has been implemented to maintain context between sess
 ├── core-values.md              # User's martial arts beliefs and philosophy
 ├── divisive-topics.md          # Community debates and controversies
 ├── learning-journey.md         # Mastery stages and progression frameworks
+├── biomechanical-principles.md # 23 core biomechanical principles
+├── blog-series-structure.md    # 10 progressive learning series (50+ posts)
+├── SESSION-SUMMARY-BIOMECHANICS.md # Comprehensive overview of biomechanics work
 └── help.md                     # User guide
 ```
 

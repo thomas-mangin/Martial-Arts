@@ -218,13 +218,39 @@
 - Anti: "Real martial arts transcend winning and losing"
 - Moderates: "Competition is one tool, not the only tool"
 
-**Your Stance**: [To be defined in core-values.md]
+**Your Stance** (from core-values.md):
+
+**Context Matters - Different Training for Different Purposes**:
+- Competition (MMA, sport fighting): Tests skills in controlled, refereed environment
+- Self-defense (aikido focus): Assumes weapons, multiple attackers, no referee
+- **Both are valid but train for different things**
+
+**Aikido's Design Assumptions**:
+- Assumes weapons (especially knives)
+- Can't hard block (assumes blocking blade = getting cut)
+- Must deflect and control
+- Can't go to ground (multiple attackers possible)
+- One encounter, not rounds
+
+**What This Means for Competition**:
+- Aikido isn't optimized for sport fighting (by design, not failure)
+- MMA fighters would beat aikidoka in cage (different context)
+- Doesn't mean aikido is inferior - means it trains for different scenario
+- Sport fighting ≠ weapons-based self-defense
+
+**Your Honest Position**:
+- Competition has value for what it tests (pressure, timing, adaptation)
+- But aikido optimizes for weapons context, not sport context
+- Can appreciate MMA effectiveness without claiming aikido is "better"
+- Context determines what's effective
+- Don't need competition to validate different training goals
 
 **Blog Opportunities**:
-- What competition tests vs. what it doesn't
-- Aikido's choice to avoid competition - wise or limiting?
-- Training intensity without competitive pressure
-- When competition helps vs. when it hinders growth
+- "Why Aikido Isn't Good for MMA (And That's OK)"
+- "Context Matters: Sport vs. Self-Defense Training"
+- "What Competition Tests vs. What Aikido Trains For"
+- "The Knife Assumption: How Weapons Shape Aikido"
+- "Honest Assessment: When Aikido Works and When It Doesn't"
 
 ---
 
