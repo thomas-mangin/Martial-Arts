@@ -14,8 +14,8 @@
 **Content Discovery (Agents):**
 - `/track-source [name] [url] [discipline]` - Register blogger
 - `/scan-sources [name]` - Monitor bloggers for new content
-- `/youtube-fetch [url]` - Download and analyze YouTube video
-- `/youtube-analyze [video_id]` - Re-analyze existing transcript
+- `/youtube fetch [url]` - Download and analyze YouTube video
+- `/youtube analyze [video_id]` - Re-analyze existing transcript
 
 **System Maintenance (Agent):**
 - `/system-maintenance [mode]` - Audit, clean, sync, and optimize project structure
@@ -232,18 +232,22 @@
 
 ---
 
-## /youtube-fetch
+## /youtube
 
-**Purpose**: Download YouTube video transcripts and analyze for blog inspiration
+**Purpose**: Download and analyze YouTube video transcripts for blog inspiration
 
-**Usage**: `/youtube-fetch <youtube_url>`
+**Usage:**
+- `/youtube fetch <youtube_url>` - Download and analyze new video
+- `/youtube analyze <video_id>` - Re-analyze existing transcript
 
 **Examples:**
-- `/youtube-fetch https://www.youtube.com/watch?v=KGFEDrQRWSo`
-- `/youtube-fetch https://youtu.be/abc123XYZ`
+- `/youtube fetch https://www.youtube.com/watch?v=KGFEDrQRWSo`
+- `/youtube analyze KGFEDrQRWSo`
 
 **What it does:**
-- Agent downloads transcript using yt-dlp (script: `scripts/youtube-transcript.py`)
+
+**Fetch mode:**
+- Downloads transcript using yt-dlp (script: `scripts/youtube-transcript.py`)
 - Extracts video metadata (title, channel, duration, upload date)
 - Converts transcript to readable text format
 - Analyzes content for key themes and martial arts concepts
@@ -251,13 +255,27 @@
 - Creates findings report with analysis and recommendations
 - Updates/creates YouTube channel registry profiles
 
-**When to use**: When discovering valuable martial arts video content worth analyzing
+**Analyze mode:**
+- Reads existing transcript and metadata
+- Performs deep content analysis (themes, concepts, quotes, teaching methods)
+- Extracts cross-discipline insights applicable to Aikido
+- Generates 3-5 detailed blog topic ideas
+- Creates or updates findings report
+
+**When to use:**
+- **Fetch**: When discovering new martial arts video content
+- **Analyze**: To extract additional ideas from previously downloaded videos
 
 **Files created:**
-- Transcript: `sources/youtube/transcripts/<video_id>.txt`
-- Metadata: `sources/youtube/transcripts/<video_id>.json`
-- Findings: `sources/youtube/findings/YYYY-MM-DD-<video_id>-<description>.md`
-- Registry: `sources/youtube/registry/<channel-name>.md` (if new)
+
+**Fetch mode:**
+- `sources/youtube/transcripts/<video_id>.txt`
+- `sources/youtube/transcripts/<video_id>.json`
+- `sources/youtube/findings/YYYY-MM-DD-<video_id>.md`
+- `sources/youtube/registry/<channel-name>.md` (if new)
+
+**Analyze mode:**
+- Updates `sources/youtube/findings/YYYY-MM-DD-<video_id>.md`
 
 **Important notes:**
 - Transcripts are for research and inspiration only
@@ -266,36 +284,6 @@
 - Look for universal principles applicable to Aikido
 
 **Integration**: Ideas from YouTube findings can feed into `/discuss` or direct blog writing
-
----
-
-## /youtube-analyze
-
-**Purpose**: Analyze an already-downloaded YouTube transcript for blog ideas
-
-**Usage:**
-- `/youtube-analyze <video_id>`
-- `/youtube-analyze <path_to_transcript>`
-
-**Examples:**
-- `/youtube-analyze KGFEDrQRWSo`
-- `/youtube-analyze sources/youtube/transcripts/KGFEDrQRWSo.txt`
-
-**What it does:**
-- Agent reads existing transcript and metadata
-- Performs deep content analysis (themes, concepts, quotes, teaching methods)
-- Extracts cross-discipline insights applicable to Aikido
-- Generates 3-5 detailed blog topic ideas
-- Creates or updates findings report
-
-**When to use:**
-- To re-analyze a previously downloaded video
-- To extract additional blog ideas from existing transcripts
-- After downloading transcript manually
-
-**Result**: Updated findings report in `sources/youtube/findings/`
-
-**Integration**: Ideas can feed into `/discuss` or direct blog writing
 
 ---
 
@@ -386,8 +374,8 @@
 | `/review-aikido` | Agent | Fast | Quality check before publish |
 | `/track-source` | Agent | Fast | Register new blogger |
 | `/scan-sources` | Agent | Medium-Slow | Find new content weekly |
-| `/youtube-fetch` | Agent | Slow | Download & analyze video |
-| `/youtube-analyze` | Agent | Fast | Re-analyze existing transcript |
+| `/youtube fetch` | Agent | Slow | Download & analyze video |
+| `/youtube analyze` | Agent | Fast | Re-analyze existing transcript |
 | `/system-maintenance` | Agent | Varies | System health & optimization |
 
 ---
