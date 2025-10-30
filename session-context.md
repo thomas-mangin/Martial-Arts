@@ -4,11 +4,49 @@
 
 ## Current Status
 <!-- What you're currently working on -->
-**Data Gathering Phase** - Comprehensive biomechanics framework complete (23 principles, 10 blog series). Now identifying areas needing deeper exploration through /discuss before writing blogs.
+**Data Gathering Phase - Active Collection** - Biomechanical principles now at 25+ (ongoing), areas-needing-development.md now has 13 major topics with comprehensive frameworks ready for /discuss sessions.
 
 ## Recent Work
 <!-- What was accomplished in the last session -->
-- **AUTHENTICITY SYSTEM**: Created comprehensive framework for authentic voice
+
+**This Session (2025-10-30 Extended)**: Major expansion of biomechanics and topic frameworks
+
+- **BIOMECHANICAL PRINCIPLES EXPANDED**: 23 → 25+ principles (ongoing collection)
+  - Principle #24: Weight Transfer Timing (strike before foot grounds)
+  - Principle #25: Hip Rotation Power and Tai Sabaki (cross-discipline validation)
+  - Updated status to "actively gathering" (not fixed list)
+
+- **WEAPONS FRAMEWORK MASSIVELY EXPANDED** (Topic #1 in areas-needing-development.md):
+  - Added Indian Clubs connection (speed/power through circular motion)
+  - Added HEMA parallels (weapon rotation, center of gravity)
+  - Added jo kata pedagogy: 31st teaches centerline (like Wing Chun), 13th develops fluidity
+  - Added jo vs ken stance differences (why weapons require different footwork)
+  - Now comprehensive framework requiring multiple /discuss sessions (Session A/B/C structure)
+  - 15+ blog posts potential from weapons framework alone
+
+- **THREE MAJOR NEW TOPICS ADDED** to areas-needing-development.md:
+
+  1. **Stance Principles** (Topic #9) ⭐⭐:
+     - Three requirements: stability, power, movement (three-way balance)
+     - CRITICAL INSIGHT: Stances are transitions, not destinations
+     - Jo vs ken stance differences (weapon properties dictate stance)
+     - 40+ questions, 10+ blog posts potential
+
+  2. **Demonstration Robotization Problem** (Topic #10) ⭐⭐⭐:
+     - How teaching destroys teacher's fluidity (repeating rigid demonstrations)
+     - Vicious cycle: rigid demos → rigid students → rigid teachers
+     - "Do as I say, not as I do" problem
+     - 35+ questions, 8+ blog posts potential
+     - CRITICAL teaching issue affecting entire aikido community
+
+  3. **Contextual Design of Martial Arts** (Topic #11) ⭐⭐⭐:
+     - Fundamental framework: martial arts designed for specific contexts, not vacuum
+     - Seven context examples: Krav Maga (time), Silat (environment), karambit (clothing), ground fighting (public), aikido (weapons), historical, legal
+     - Extends honest assessment about aikido to ALL martial arts
+     - Resolves "my art vs your art" arguments by reframing question
+     - 50+ questions, 15+ blog posts potential
+
+**Previous Session Work**:
 - Created **core-values.md** - Fundamental beliefs as martial artist:
   - Teaching philosophy (biomechanics over mysticism)
   - Knowing vs. Embodied mastery framework
@@ -68,31 +106,43 @@
 
 ## Next Steps
 <!-- What to do next -->
-1. **Continue Data Gathering** - Priority /discuss sessions (see areas-needing-development.md):
-   - `/discuss` **Weapons Training Develops Biomechanics** - How ken/jo builds martial principles (foundational to many series)
-   - `/discuss` **Aikido Sword = Wing Chun Hands** - Cross-discipline structural insight (high value, unique observation)
-   - `/discuss` **Circle Principle** - Widely misunderstood, needs clarification before writing
-   - `/discuss` **No Defense Only Attack on Attack** - Timing principle that resolves peace vs. martial
-   - `/discuss` **Taking Balance** - Reading balance, continuous kuzushi, connection to circles
 
-2. **70+ Blog Ideas Available** (but many need depth first):
-   - 10 from source scans (blogs)
-   - 5 from YouTube analysis
-   - 18+ from learning-journey.md frameworks
-   - 60+ from biomechanical-principles.md
-   - **Organized into 10 progressive series** (see blog-series-structure.md)
+1. **Priority /discuss Sessions** (tracked in todos, see areas-needing-development.md for full details):
 
-3. **Some Topics Ready to Write** (sufficient material exists):
+   **HIGHEST PRIORITY** (foundational frameworks):
+   - `/discuss` **COMPREHENSIVE Weapons Framework** ⭐⭐⭐ - Indian clubs, HEMA, jo kata pedagogy (31st/13th), weapons→taijutsu transfer, jo vs ken stances (may need 3 separate sessions: A/B/C)
+   - `/discuss` **Contextual Design of Martial Arts** ⭐⭐⭐ - Krav Maga, Silat, karambit, ground fighting, seven contexts showing arts designed for specific purposes (extends honest assessment to all martial arts)
+   - `/discuss` **Demonstration Robotization** ⭐⭐⭐ - Critical teaching problem: how demonstrating destroys teacher's fluidity, vicious cycle affecting entire community
+
+   **VERY HIGH PRIORITY** (technical foundations):
+   - `/discuss` **Stance Principles** ⭐⭐ - Stability/power/movement three-way balance, stances as transitions not destinations, jo vs ken differences
+   - `/discuss` **Circle Principle** ⭐ - Widely misunderstood, deflection and balance taking mechanics
+
+2. **Blog Post Ideas Status**:
+   - **80+ total ideas** now (increased from 70+)
+   - 25+ biomechanical principles (ongoing collection, each generating 2-3+ blog ideas)
+   - 15+ from weapons framework alone
+   - 10+ from stance principles
+   - 8+ from demonstration robotization
+   - 15+ from contextual design
+   - Plus: learning-journey (18+), source scans (10), YouTube (5)
+   - **Organized into 10 progressive series** (blog-series-structure.md)
+   - **Most need /discuss depth first** before writing
+
+3. **Some Topics Ready to Write** (sufficient material without /discuss):
    - Newton's Third Law in Aikido (Principle #7)
    - The Kinetic Chain (Principle #8)
-   - Those Who've Faced Violence vs. Those Who Imagine It (core-values.md, veteran observations)
+   - Weight Transfer Timing (Principle #24 - just added)
+   - Hip Rotation and Tai Sabaki (Principle #25 - just added)
+   - Those Who've Faced Violence vs. Those Who Imagine It (veteran observations)
    - Knowing vs. Embodied Understanding (learning-journey.md)
    - Kata as Alphabet (learning-journey.md)
 
-4. **After /discuss Sessions**:
+4. **After Each /discuss Session**:
    - Capture insights in discussions/ directory
-   - Update areas-needing-development.md when topics are sufficiently developed
-   - Then ready to write blog posts with depth
+   - Update areas-needing-development.md (mark topic as sufficiently developed)
+   - Move to "Ready to Write" section
+   - Then write blog posts with proper depth
 
 ## Blockers/Questions
 <!-- Anything that needs decision or is blocking progress -->
@@ -100,16 +150,36 @@ None - system is complete and ready
 
 ## Notes
 <!-- Any other context that would be helpful -->
-- **Complete System Built**: 23 principles, 10 series, 70+ blog ideas, authentic voice framework
-- **Current Phase**: Data gathering - identifying what needs deeper exploration before writing
-- **5 Priority /discuss Topics** tracked in todos and areas-needing-development.md
-- **Your voice grounded in**: Technical understanding + military background + real pressure experience + veteran observations + first-dan honesty
-- **Unique observations to explore**:
-  - Weapons training develops biomechanics (how?)
-  - Aikido sword = Wing Chun hands (structural parallel)
-  - Circle principle widely misunderstood (what's the real mechanics?)
-- **Honest assessment**: Aikido assumes weapons, different context than sport fighting
-- See SESSION-SUMMARY-BIOMECHANICS.md for comprehensive overview
-- Git commits automatically pushed to GitHub
+
+**Session Summary**: Highly productive extended session adding critical depth to framework
+
+- **Biomechanical Principles**: 25+ documented (actively growing, not fixed list)
+  - Added Principle #24 (Weight Transfer Timing)
+  - Added Principle #25 (Hip Rotation/Tai Sabaki with cross-discipline validation)
+
+- **Major Topics in areas-needing-development.md**: 13 comprehensive frameworks (was 10)
+  - Topic #1: COMPREHENSIVE Weapons Framework (massively expanded) ⭐⭐⭐
+  - Topic #9: Stance Principles (NEW) ⭐⭐
+  - Topic #10: Demonstration Robotization (NEW) ⭐⭐⭐
+  - Topic #11: Contextual Design of Martial Arts (NEW) ⭐⭐⭐
+  - All topics have 30-50+ questions ready for /discuss
+
+- **Blog Post Potential**: 80+ ideas (increased from 70+)
+  - Three new topics alone add 33+ blog post ideas
+  - Each major framework can generate multiple series
+  - Most topics need /discuss depth before writing
+
+- **Critical Insights This Session**:
+  - **Stances are transitions, not destinations** (affects all movement)
+  - **Demonstration robotization** (explains widespread rigidity in aikido community)
+  - **Contextual design** (extends honest assessment to all martial arts)
+  - Weapons framework now comprehensive (Indian clubs, HEMA, jo kata pedagogy)
+
+- **Your voice grounded in**: Technical understanding + military background + real pressure experience + veteran observations + first-dan honesty + contextual analysis
+
+- **Next Session Should Start With**: Pick highest-priority /discuss topic (likely Weapons Framework or Contextual Design)
+
+- **All work committed and pushed to GitHub** throughout session (incremental commits)
+- See SESSION-SUMMARY-BIOMECHANICS.md for previous comprehensive overview
 - Use /checkpoint before ending session, /resume when starting next
 
