@@ -417,5 +417,48 @@ This document tracks important decisions made during the project.
 - Easier for future sessions and collaborators to navigate research materials
 - Professional documentation suitable for MA thesis project
 
+### YouTube Channel Information Extraction
+**Decision**: Create youtube-channel-info.py script using yt-dlp to extract channel information directly, rather than using WebFetch
+**Rationale**: User pointed out that YouTube information should be extracted from channel pages without requiring individual video analysis. WebFetch cannot access YouTube directly, but yt-dlp can extract comprehensive channel information programmatically.
+
+**Implementation**:
+- Created scripts/youtube-channel-info.py:
+  - Extracts channel name, ID, subscriber count
+  - Gets up to 10 recent videos with titles, URLs, views, durations
+  - Returns JSON output for programmatic use
+  - Uses yt-dlp's --flat-playlist flag for efficient channel scraping
+- Updated /track-source command:
+  - Step 4 now uses youtube-channel-info.py for YouTube channels
+  - Analyzes video titles to determine martial art discipline
+  - Identifies content themes from video patterns
+  - Populates channel profile immediately with real data
+- Updated channel profile template:
+  - Includes subscriber count, content themes, teaching style
+  - Lists recent video topics from extracted titles
+  - Recommends specific videos for /youtube-fetch analysis
+  - Shows connections to user's research frameworks
+
+**Benefits**:
+- **Immediate comprehensive profiles**: No need to analyze individual videos first
+- **Bypasses WebFetch limitation**: Direct yt-dlp access works where WebFetch fails
+- **Programmatic extraction**: JSON output enables automation
+- **Rich context**: Subscriber count, recent videos, themes all extracted at once
+- **Smarter tracking**: Can identify discipline and focus from video titles
+- **Better recommendations**: Suggests specific videos worth analyzing
+
+**Impact**:
+- Tony Sargeant channel tracked with full details (Iwama Aikido, 1,600 subscribers, 11 videos)
+- Channel profiles now much more informative from initial tracking
+- /track-source command handles YouTube channels as first-class citizens
+- System can quickly build YouTube source library with real data
+- Users can make informed decisions about which videos to analyze
+
+**Example Output**:
+- Channel: Tony Sargeant, 1,600 subscribers
+- Discipline: Aikido (Iwama style) - detected from video titles
+- Themes: Ki Musubi, Kumitachi, weapons training, dan tests
+- 11 recent videos listed with URLs
+- Connections to weapons-training-framework.md identified
+
 ---
 
