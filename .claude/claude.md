@@ -87,12 +87,15 @@ A complete workflow system has been implemented to maintain context between sess
 - Preserves authentic insights and thinking process
 
 **sources/ Directory:**
-- Contains tracked martial arts bloggers and content analysis
-- **registry/**: Blogger profiles with URLs, disciplines, scan history
+- Contains tracked martial arts bloggers, YouTube channels, and content analysis
+- **registry/**: Blogger and YouTube channel profiles with URLs, disciplines, scan history
 - **findings/**: Content analysis reports with blog ideas and response opportunities
-- Created by /track-source and /scan-sources commands
+- **youtube/transcripts/**: Downloaded YouTube video transcripts
+- **youtube/registry/**: YouTube channel/creator profiles
+- **youtube/findings/**: YouTube content analysis and blog ideas
+- Created by /track-source, /scan-sources, and /youtube-fetch commands
 - Enables monitoring community content for inspiration and engagement
-- Supports cross-discipline insights (Aikido, Karate, etc.)
+- Supports cross-discipline insights (Aikido, Karate, Silat, etc.)
 
 **sessions/ Directory:**
 - Contains timestamped session summaries (format: `session-YYYY-MM-DD-HHMM.md`)
@@ -257,6 +260,55 @@ A complete workflow system has been implemented to maintain context between sess
 
 **Integration**: Ideas from findings can feed into /discuss or direct blog writing
 
+### /youtube-fetch
+**Purpose**: Download YouTube video transcripts and analyze for blog inspiration
+
+**What it does:**
+1. Downloads transcript using yt-dlp (script: scripts/youtube-transcript.py)
+2. Extracts video metadata (title, channel, duration, upload date)
+3. Converts transcript to readable text format
+4. Analyzes content for key themes and martial arts concepts
+5. Generates 3-5 blog topic ideas with full details
+6. Creates findings report with analysis and recommendations
+7. Updates/creates YouTube channel registry profiles
+
+**Usage**: `/youtube-fetch <youtube_url>`
+
+**Example**: `/youtube-fetch https://www.youtube.com/watch?v=KGFEDrQRWSo`
+
+**When to use**: When discovering valuable martial arts video content worth analyzing
+
+**Files created:**
+- Transcript: `sources/youtube/transcripts/<video_id>.txt`
+- Metadata: `sources/youtube/transcripts/<video_id>.json`
+- Findings: `sources/youtube/findings/YYYY-MM-DD-<video_id>-<description>.md`
+- Registry: `sources/youtube/registry/<channel-name>.md` (if new)
+
+**Integration**: Ideas from YouTube findings can feed into /discuss or direct blog writing
+
+### /youtube-analyze
+**Purpose**: Analyze an already-downloaded YouTube transcript for blog ideas
+
+**What it does:**
+1. Reads existing transcript and metadata
+2. Performs deep content analysis (themes, concepts, quotes, teaching methods)
+3. Extracts cross-discipline insights applicable to Aikido
+4. Generates 3-5 detailed blog topic ideas
+5. Creates or updates findings report
+
+**Usage**:
+- `/youtube-analyze <video_id>`
+- `/youtube-analyze <path_to_transcript>`
+
+**Example**: `/youtube-analyze KGFEDrQRWSo`
+
+**When to use**:
+- To re-analyze a previously downloaded video
+- To extract additional blog ideas from existing transcripts
+- After downloading transcript manually
+
+**Result**: Updated findings report in `sources/youtube/findings/`
+
 ---
 
 ## Git Workflow
@@ -292,7 +344,7 @@ A complete workflow system has been implemented to maintain context between sess
 7. **Finalize**: Update topics.md (move to completed)
 8. **End Session**: `/checkpoint` to save state and commit
 
-**Approach C: Source-Inspired**
+**Approach C: Source-Inspired (Blog Content)**
 1. **Track Sources**: `/track-source "[Name]" "[URL]" "[Discipline]"` - Register bloggers
 2. **Scan Content**: `/scan-sources` - Find new posts and analyze
 3. **Review Findings**: Read sources/findings/[report].md for ideas
@@ -303,6 +355,17 @@ A complete workflow system has been implemented to maintain context between sess
 6. **Revise**: Based on critical feedback
 7. **Finalize**: Update topics.md, note source connection
 8. **End Session**: `/checkpoint` to save state and commit
+
+**Approach D: YouTube-Inspired**
+1. **Fetch Content**: `/youtube-fetch <youtube_url>` - Download and analyze video
+2. **Review Findings**: Read sources/youtube/findings/[report].md for ideas
+3. **Explore or Write**:
+   - Option A: `/discuss [inspired-topic]` → `/extract` → develop
+   - Option B: Write response directly from template
+4. **Review**: `/review-aikido posts/[filename].md`
+5. **Revise**: Based on critical feedback
+6. **Finalize**: Update topics.md, credit video with link if directly inspired
+7. **End Session**: `/checkpoint` to save state and commit
 
 ### Content Guidelines Summary:
 

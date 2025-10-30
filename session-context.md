@@ -4,7 +4,7 @@
 
 ## Current Status
 <!-- What you're currently working on -->
-Complete blog system validated end-to-end with 10 audience-targeted blog ideas from 2 source scans - ready to start writing first post
+Complete blog system with YouTube transcript capability - ready to start writing first post from 15+ blog ideas (10 from blog scans + 5 from YouTube)
 
 ## Recent Work
 <!-- What was accomplished in the last session -->
@@ -61,18 +61,38 @@ Complete blog system validated end-to-end with 10 audience-targeted blog ideas f
 - All ideas include audience targeting (3-5 profiles per idea)
 - Updated /checkpoint command to push to GitHub automatically
 - Validated complete system end-to-end: audience targeting + source scanning + idea generation
+- **YOUTUBE SYSTEM COMPLETE**: Built transcript extraction and analysis system
+- Created scripts/youtube-transcript.py (downloads transcripts via yt-dlp)
+- Created /youtube-fetch command (download and analyze videos)
+- Created /youtube-analyze command (analyze existing transcripts)
+- Tested on Maul Morié Silat video → 5 high-quality blog ideas
+- Created registry profiles for Jesse Enkamp (channel) and Maul Morié (instructor)
+- Updated all documentation (.claude/claude.md, sources/youtube/README.md)
+- Total blog ideas now: 15+ (10 from blogs + 5 from YouTube)
 
 ## Next Steps
 <!-- What to do next -->
-1. **Pick First Blog Post to Write** (4 high-priority ideas ready):
+1. **Pick First Blog Post to Write** (9 high-priority ideas ready):
+
+   **From Blog Sources (4 ideas):**
    - Solo Training for Aikido: Beyond Suburis (practical guide)
    - Body Modification in Aikido (technical depth)
    - Kata vs. Waza comparison (cross-discipline)
    - Quality Over Quantity training framework (universal appeal)
+
+   **From YouTube (5 ideas - all high quality):**
+   - "Drill Makes Skill" - Why kata isn't your technique
+   - "The Aikido Paradox" - Non-destructive as more martial
+   - "Reading Before Reacting" - Sensitivity training across arts
+   - "Why Aikido Training Feels Unrealistic" - Defending training methodology
+   - "The Water Village Principle" - Cultural context shapes techniques
+
 2. **Write Approach Options**:
    - **A. Discussion-Based**: `/discuss [topic]` → `/extract` → develop
    - **B. Direct Writing**: Use findings reports + template → write
-   - **C. Add to Topics**: Update topics.md with all 10 ideas for strategic planning
+   - **C. YouTube-Inspired**: `/youtube-fetch <url>` → review findings → write
+   - **D. Add to Topics**: Update topics.md with all 15 ideas for strategic planning
+
 3. **Apply Complete System**:
    - Use audience targeting (metadata + layered content)
    - Apply engagement techniques (hooks, but/therefore, etc.)
@@ -89,8 +109,10 @@ None
 - Git commits are now automatically pushed to GitHub (checkpoint updated)
 - Use /checkpoint before ending a session
 - Use /resume when starting a new session
-- **10 blog ideas ready**: See sources/findings/ for complete analysis
+- **15+ blog ideas ready**: See sources/findings/ and sources/youtube/findings/
 - **Source scans complete**: Leo Tamaki (Aikido) + Lionel Froidure (Karate)
-- **Cross-discipline opportunity**: 5 comparative ideas leverage both sources
-- **System 100% operational**: All components tested and working
+- **YouTube tested**: Maul Morié (Silat) video analyzed successfully
+- **Cross-discipline opportunities**: Comparative ideas from Aikido, Karate, and Silat
+- **System 100% operational**: All components including YouTube tested and working
+- **YouTube requires yt-dlp**: Already installed and verified working
 
