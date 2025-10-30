@@ -360,5 +360,27 @@ This document tracks important decisions made during the project.
 - **Missing**: HOW does sword training teach body mechanics? What biomechanical principles does jo develop? Why is weapons training more effective than empty hand for certain foundations?
 - **Action**: Need /discuss session to explore and document
 
+### Repository Structure Refactoring
+**Decision**: Reorganize files into blog/ and research/ directories
+**Rationale**: Root directory was cluttered with many specialized files. User requested better organization: "the blog- files should probably all be under a blog folder. Some for the files like SESSION-SUMMARY-BIOMECHANICS.md and SYSTEM_REVIEW.md areas-needing-development.md audience-profiles.md biomechanical-principles.md and core-values.md should probably be grouped under a folder called research"
+
+**Changes Made**:
+- Created blog/ directory: Contains blog-template.md, blog-guidelines.md, blog-engagement-techniques.md, blog-series-structure.md
+- Created research/ directory: Contains all research and analysis documents (core-values.md, divisive-topics.md, learning-journey.md, biomechanical-principles.md, areas-needing-development.md, audience-profiles.md, SESSION-SUMMARY-BIOMECHANICS.md, SYSTEM_REVIEW.md)
+- Updated all file references throughout project (CLAUDE.md, slash commands, help.md, README.md)
+- Used `git mv` to preserve file history
+
+**Benefits**:
+- Cleaner root directory with only essential tracking files
+- Related files grouped logically by purpose
+- Easier navigation and understanding of project structure
+- Better organization for long-term project maintenance
+- All functionality preserved - no breaking changes to workflow
+
+**Impact**:
+- Improves project maintainability and clarity
+- Makes it easier for future sessions to find relevant files
+- Professional project structure suitable for MA thesis work
+
 ---
 
