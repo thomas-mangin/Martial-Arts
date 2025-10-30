@@ -1,19 +1,33 @@
 # Session Context
 
-**Last Updated**: 2025-10-30 (evening session)
+**Last Updated**: 2025-10-30 10:24 AM
 
 ## Current Status
 <!-- What you're currently working on -->
-**System Maintenance Complete** - Repository refactored with blog/ and research/ directories. All file references updated throughout project. Ready to begin /discuss sessions on high-priority topics.
+**Research Directory Reorganization Complete** - Extracted 4 major frameworks from areas-needing-development.md to dedicated files. Repository now properly organized with frameworks in discoverable locations. Ready to begin /discuss sessions on highest-priority topics.
 
 ## Recent Work
 <!-- What was accomplished in the last session -->
 
-**This Session (2025-10-30 Evening)**: Repository refactoring and organization
+**This Session (2025-10-30 10:24 AM)**: Research directory reorganization
+
+- **RESEARCH DIRECTORY REORGANIZATION**:
+  - Deleted research/SESSION-SUMMARY-BIOMECHANICS.md (redundant summary)
+  - Moved research/SYSTEM_REVIEW.md → SYSTEM_REVIEW.md (root - not Aikido research)
+  - Extracted 4 major frameworks to dedicated files:
+    * **contextual-design-framework.md** (~400 lines) - Martial arts context principle
+    * **weapons-training-framework.md** (~190 lines) - Ken/jo biomechanics & taijutsu
+    * **stance-principles.md** (~140 lines) - Stability/power/movement, transitions
+    * **demonstration-robotization.md** (~130 lines) - Teaching trap problem
+  - Updated areas-needing-development.md (reduced from 807 to 361 lines)
+  - Updated .claude/claude.md directory documentation
+  - Committed and pushed to GitHub (commit 6b99adf)
+
+**Previous Session (2025-10-30 Evening)**: Repository refactoring and organization
 
 - **REPOSITORY REFACTORING**:
   - Created blog/ directory for all blog content files (template, guidelines, engagement techniques, series structure)
-  - Created research/ directory for all research documents (core values, divisive topics, learning journey, biomechanics, areas-needing-development, audience profiles, session summaries)
+  - Created research/ directory for all research documents (core values, divisive topics, learning journey, biomechanics, areas-needing-development, audience profiles)
   - Updated all file references throughout project (CLAUDE.md, slash commands, help.md, README.md)
   - Root directory now cleaner and better organized
   - All functionality preserved - commands work as before
@@ -116,16 +130,16 @@
 ## Next Steps
 <!-- What to do next -->
 
-1. **Priority /discuss Sessions** (tracked in todos, see areas-needing-development.md for full details):
+1. **Priority /discuss Sessions** (see framework files for full details):
 
-   **HIGHEST PRIORITY** (foundational frameworks):
-   - `/discuss` **COMPREHENSIVE Weapons Framework** ⭐⭐⭐ - Indian clubs, HEMA, jo kata pedagogy (31st/13th), weapons→taijutsu transfer, jo vs ken stances (may need 3 separate sessions: A/B/C)
-   - `/discuss` **Contextual Design of Martial Arts** ⭐⭐⭐ - Krav Maga, Silat, karambit, ground fighting, seven contexts showing arts designed for specific purposes (extends honest assessment to all martial arts)
-   - `/discuss` **Demonstration Robotization** ⭐⭐⭐ - Critical teaching problem: how demonstrating destroys teacher's fluidity, vicious cycle affecting entire community
+   **HIGHEST PRIORITY** (foundational frameworks - now in dedicated files):
+   - `/discuss` **Weapons Training Framework** ⭐⭐⭐ → See weapons-training-framework.md (may need 3 sessions)
+   - `/discuss` **Contextual Design of Martial Arts** ⭐⭐⭐ → See contextual-design-framework.md
+   - `/discuss` **Demonstration Robotization** ⭐⭐⭐ → See demonstration-robotization.md (explore solutions)
 
    **VERY HIGH PRIORITY** (technical foundations):
-   - `/discuss` **Stance Principles** ⭐⭐ - Stability/power/movement three-way balance, stances as transitions not destinations, jo vs ken differences
-   - `/discuss` **Circle Principle** ⭐ - Widely misunderstood, deflection and balance taking mechanics
+   - `/discuss` **Stance Principles** ⭐⭐ → See stance-principles.md
+   - `/discuss` **Circle Principle** ⭐ - Widely misunderstood, deflection and balance mechanics (in areas-needing-development.md)
 
 2. **Blog Post Ideas Status**:
    - **80+ total ideas** now (increased from 70+)
@@ -160,35 +174,30 @@ None - system is complete and ready
 ## Notes
 <!-- Any other context that would be helpful -->
 
-**Session Summary**: Highly productive extended session adding critical depth to framework
+**Current Session Summary**: Research directory reorganization for better discoverability
 
-- **Biomechanical Principles**: 25+ documented (actively growing, not fixed list)
-  - Added Principle #24 (Weight Transfer Timing)
-  - Added Principle #25 (Hip Rotation/Tai Sabaki with cross-discipline validation)
+- **Repository Organization Improved**:
+  - Major frameworks now in dedicated files (like core-values.md, learning-journey.md)
+  - areas-needing-development.md is lean tracking file (361 lines, down from 807)
+  - 4 new framework files contain 60+ blog post ideas combined
+  - Repository organization matches established patterns
 
-- **Major Topics in areas-needing-development.md**: 13 comprehensive frameworks (was 10)
-  - Topic #1: COMPREHENSIVE Weapons Framework (massively expanded) ⭐⭐⭐
-  - Topic #9: Stance Principles (NEW) ⭐⭐
-  - Topic #10: Demonstration Robotization (NEW) ⭐⭐⭐
-  - Topic #11: Contextual Design of Martial Arts (NEW) ⭐⭐⭐
-  - All topics have 30-50+ questions ready for /discuss
+- **4 Extracted Frameworks**:
+  - **contextual-design-framework.md** - 8 contexts, 25+ blog posts
+  - **weapons-training-framework.md** - Ken/jo/taijutsu, 15+ blog posts
+  - **stance-principles.md** - 3 requirements, transitions insight, 10+ blog posts
+  - **demonstration-robotization.md** - Teaching trap, vicious cycle, 9+ blog posts
 
-- **Blog Post Potential**: 80+ ideas (increased from 70+)
-  - Three new topics alone add 33+ blog post ideas
-  - Each major framework can generate multiple series
-  - Most topics need /discuss depth before writing
+- **Previous Sessions Summary**:
+  - **Biomechanical Principles**: 25+ documented (actively growing, not fixed list)
+  - **Major Topics**: 13 comprehensive frameworks tracked in areas-needing-development.md
+  - **Blog Post Potential**: 80+ ideas across all frameworks
+  - **Critical Insights**: Stances as transitions, demonstration robotization, contextual design, weapons framework
+  - **Voice grounded in**: Technical understanding + military background + real pressure experience + veteran observations + first-dan honesty
 
-- **Critical Insights This Session**:
-  - **Stances are transitions, not destinations** (affects all movement)
-  - **Demonstration robotization** (explains widespread rigidity in aikido community)
-  - **Contextual design** (extends honest assessment to all martial arts)
-  - Weapons framework now comprehensive (Indian clubs, HEMA, jo kata pedagogy)
+- **Next Session Should Start With**: Pick highest-priority /discuss topic (Weapons Framework, Contextual Design, or Demonstration Robotization)
 
-- **Your voice grounded in**: Technical understanding + military background + real pressure experience + veteran observations + first-dan honesty + contextual analysis
-
-- **Next Session Should Start With**: Pick highest-priority /discuss topic (likely Weapons Framework or Contextual Design)
-
-- **All work committed and pushed to GitHub** throughout session (incremental commits)
-- See SESSION-SUMMARY-BIOMECHANICS.md for previous comprehensive overview
+- **All work committed and pushed to GitHub** (commit 6b99adf)
+- See sessions/session-2025-10-30-1024.md for detailed session summary
 - Use /checkpoint before ending session, /resume when starting next
 
