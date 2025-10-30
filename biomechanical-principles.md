@@ -8,7 +8,9 @@
 
 ---
 
-## Quick Reference: All 23 Principles
+## Quick Reference: All Principles (Ongoing Collection)
+
+**Status**: Active collection - more principles being gathered
 
 ### Foundation Mechanics (1-10)
 1. **Leverage** - Distance from pivot multiplies strength
@@ -31,15 +33,17 @@
 16. **Directional Vulnerability** - Front strong, side/rear weak
 17. **External Foot Rotation** - Opens hips for power
 
-### Advanced Concepts (18-23)
+### Advanced Concepts (18-24)
 18. **Tension Disconnects Power** - Rubber vs wood, relaxation prerequisite
 19. **Upward Redirection** - Ikkyo principle, vertical deflection
 20. **Joint Vulnerability** - Weak directions in all martial arts
 21. **Deflect Before Lock** - Sequencing and safety, especially weapons
 22. **Weapons Assumption** - Why aikido refuses hard blocks
 23. **Remove Expected Resistance** - Using tension/expectations against attacker
+24. **Weight Transfer Timing** - Strike lands before foot grounds (transfer into target, not floor)
 
-**Total**: 23 principles, 60+ blog post ideas generated
+**Current Total**: 24 principles documented, more being gathered
+**Blog Ideas**: 60+ posts generated so far
 
 ---
 
@@ -1035,6 +1039,77 @@
 
 ---
 
+### 24. Weight Transfer Timing - Strike Lands Before Foot Grounds
+
+**Principle**: When striking, your hand must make contact BEFORE your foot is fully grounded. If your foot hits the ground first, your weight transfers into the floor; if your hand lands first, weight transfers into the target.
+
+**The Physics**:
+- Weight = potential energy that flows along path of least resistance
+- If foot grounds first: Ground provides solid base → weight flows downward into floor
+- If hand contacts first: Target provides resistance → weight flows forward through contact
+- Timing determines direction of energy transfer
+
+**Aikido Applications**:
+- Tegatana (hand blade) strikes must land before stepping completes
+- Atemi timing: impact happens during weight shift, not after grounding
+- Irimi entering: contact made while still in motion, not after arrival
+- Why "committed" attacks have more power: weight fully transferred into target
+
+**The Coordination Challenge**:
+- Requires precise timing between upper and lower body
+- Natural tendency is to ground first (feels safer)
+- More advanced practitioners make contact earlier in step cycle
+- Related to Stage 4 learning (core-initiated movement)
+
+**Teaching Implications**:
+- Can't teach timing to beginners still learning hand-foot coordination (Stage 2)
+- Stage 3+ students ready to work on strike timing
+- Demonstrate power difference: grounded strike vs. mid-step strike
+- Use slow motion to show weight flow direction
+- Connect to "committed attack" principle in uke role
+
+**Common Errors**:
+- Grounding completely, then punching (two separate actions)
+- Stopping forward momentum before contact
+- "Reaching" with arm while hips stay back (opposite problem)
+- Confusing snap (acceleration) with weight transfer timing
+
+**Connection to Other Principles**:
+- **#2 Gravity**: Weight transfer uses gravity as power source
+- **#8 Grounding and Connection**: But connection must flow to target, not floor
+- **#9 Body Alignment**: Requires unified structure for weight transfer
+- **#10 Snap Movement**: Snap is acceleration; weight transfer is direction of force
+- **Stage 4 (learning-journey.md)**: Core-initiated movement enables proper timing
+
+**Why This Matters**:
+- Explains why "committed" attacks are more dangerous (full weight transfer)
+- Shows why stopped, then-punched attacks lack power (weight grounded)
+- Reveals timing element in power generation (not just speed or strength)
+- Demonstrates coordination required for effective striking
+
+**Blog Potential**:
+- "Why Your Punch Lacks Power: The Weight Transfer Timing Problem"
+- "Strike Before You Land: The Timing of Committed Attacks"
+- "Why Stepping, Then Punching Doesn't Work"
+- "The Coordination of Power: Hand and Foot Timing"
+- "How Uke Should Attack: Committed vs. Pulled Punches"
+- "Weight Transfer Direction: Into the Floor or Into the Target?"
+
+**Training Methods**:
+- Slow-motion stepping with timed contact
+- Partner feedback on impact timing vs. foot landing
+- Shadow striking with focus on coordination
+- Video analysis of timing in committed attacks
+- Progression: static stance → stepping → moving
+
+**Observation Note (First Dan Perspective)**:
+- This timing is something I observe in advanced practitioners but am still working to embody consistently
+- The coordination is subtle and requires Stage 4+ development
+- Easier to demonstrate with weapons (bokken) where timing is more visible
+- Shows why uke role is important - must attack with proper timing for tori to practice against realistic energy
+
+---
+
 ## Integration Notes for Series Structure
 
 These principles build progressively:
@@ -1064,15 +1139,28 @@ Each principle can reference earlier ones, creating learning progression.
 
 ## Notes for Future Development
 
-**Additional principles to explore and add**:
-- (Space for more biomechanical insights as training continues)
-- (User will provide more principles over time)
+**Status**: ACTIVELY GATHERING MORE PRINCIPLES
+
+This collection is not complete - many more biomechanical principles are being identified and will be added as they're articulated.
+
+**Principles to be added**:
+- More will be identified through ongoing training and analysis
+- User is continuing to gather and document observations
+- Some principles may need /discuss sessions to fully explore
+
+**Categories that may expand**:
+- Timing principles (like #24)
+- Circle mechanics (mentioned but not yet fully captured)
+- Weapons-specific biomechanics (how ken/jo teaches principles)
+- Cross-discipline parallels (Aikido sword = Wing Chun hands)
+- Additional advanced concepts
 
 **Questions to Investigate**:
 - How do these principles change or become more clear at higher levels?
 - Which principles are observable vs. embodied at first dan level?
 - How do advanced practitioners use these principles differently?
+- Which principles are best learned through weapons vs. empty hand?
 
 ---
 
-*This is a living document. Add new biomechanical principles as they're discovered or understood more deeply through training.*
+*This is a living document. Biomechanical principles are being actively gathered and will continue to be added as training deepens and understanding crystallizes.*
