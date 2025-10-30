@@ -76,5 +76,53 @@ This document tracks important decisions made during the project.
 - Enables extracting multiple posts from single discussion
 - Reduces friction in getting started with blog writing
 
+### Source Tracking and Content Monitoring System
+**Decision**: Create /track-source and /scan-sources commands to monitor martial arts bloggers and generate ideas
+**Rationale**: User requested "two agents which can help me find what was posted by other martial artists in their blog and use that for the recording of idea". Need system to:
+1. Track martial arts bloggers from any discipline (Aikido, Karate, etc.)
+2. Monitor their content for new posts
+3. Analyze posts for key ideas and arguments
+4. Generate blog topic ideas (response, alternative perspective, inspired exploration)
+5. Build engagement with martial arts community
+
+**System Components**:
+- **/track-source command**: Register blogger profiles with URL, discipline, focus areas, scan history
+- **/scan-sources command**: Fetch recent posts, analyze content, generate blog ideas, create findings reports
+- **sources/registry/**: Blogger profiles with metadata and tracking history
+- **sources/findings/**: Content analysis reports with blog ideas, response opportunities, discussion prompts
+- **Example sources**: Leo Tamaki (Aikido), Lionel Froidure (Karate)
+- **Workflow**: Track → Scan → Review Findings → Explore/Respond → Write
+
+**Types of Blog Ideas Generated**:
+- Response (direct engagement with their argument)
+- Alternative Perspective (different way to view topic)
+- Inspired Exploration (their topic sparks related idea)
+- Extension (building on their foundation)
+- Comparative Analysis (cross-discipline insights)
+
+**Benefits**:
+- Discover content inspiration from martial arts community
+- Identify response and engagement opportunities
+- Generate cross-discipline insights (Aikido vs. Karate perspectives)
+- Stay connected to ongoing martial arts discourse
+- Build dialogue with other practitioners
+- Find gaps in community conversation to fill
+
+**Impact**:
+- Third approach to blog creation (source-inspired)
+- Systematic monitoring replaces ad-hoc browsing
+- Ideas captured and structured for easy action
+- Can respond to timely topics in community
+- Cross-pollination between different martial arts
+- Builds authentic engagement vs. working in isolation
+- Findings reports provide ready-to-use blog ideas
+
+**Integration**:
+- Findings can feed into /discuss (explore idea first)
+- Or direct blog writing (respond immediately)
+- Ideas tracked in topics.md
+- Source connections documented
+- Supports all three workflow approaches
+
 ---
 

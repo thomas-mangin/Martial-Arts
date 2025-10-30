@@ -203,11 +203,47 @@ This creates a historical record you can review later!
 
 **Result**: Initial blog draft in posts/ ready for development and review
 
+### `/track-source` - Register Martial Arts Bloggers
+**When**: When you discover a blogger worth monitoring
+**What it does**:
+- Creates profile for a martial arts blogger
+- Records their URL, discipline, focus areas
+- Tracks scan history
+- Maintains source registry
+
+**Usage**:
+```bash
+/track-source "Leo Tamaki" "https://www.leotamaki.com" "Aikido"
+```
+
+**Benefits**:
+- Monitor other martial artists' content
+- Find inspiration from the community
+- Identify response opportunities
+- Build cross-discipline insights
+
+### `/scan-sources` - Monitor Blogger Content
+**When**: Regularly (weekly/bi-weekly) to find new content
+**What it does**:
+- Fetches recent posts from tracked bloggers
+- Identifies new content since last scan
+- Analyzes posts for key arguments and ideas
+- Generates blog topic ideas
+- Creates findings report
+
+**Usage**:
+```bash
+/scan-sources              # Scan all tracked sources
+/scan-sources leo-tamaki   # Scan specific source
+```
+
+**Result**: Findings report in sources/findings/ with blog ideas, response opportunities, and discussion prompts
+
 ---
 
 ## Complete Blog Writing Workflow
 
-You have two approaches for creating blog posts:
+You have three approaches for creating blog posts:
 
 ### Approach A: Discussion-Based (Recommended)
 Start with informal exploration, then extract to draft
@@ -310,6 +346,55 @@ If you made significant changes:
 ```bash
 /checkpoint
 ```
+
+### Approach C: Source-Inspired
+Discover ideas from other martial arts bloggers
+
+**1. Track Sources**
+```bash
+/track-source "Leo Tamaki" "https://www.leotamaki.com" "Aikido"
+```
+- Add martial arts bloggers to monitor
+- Can be from any discipline (Aikido, Karate, etc.)
+
+**2. Scan for Content**
+```bash
+/scan-sources
+```
+- Check tracked blogs for new posts
+- Analyze content for key ideas
+- Generate blog topic ideas
+- Create findings report
+
+**3. Review Findings**
+- Read sources/findings/[report].md
+- Identify interesting ideas or response opportunities
+- Note which ideas resonate
+
+**4. Explore or Write**
+
+**Option A: Explore through discussion first**:
+```bash
+/discuss [idea from findings]
+```
+Then extract to blog draft
+
+**Option B: Write response directly**:
+```bash
+cp blog-template.md posts/response-to-[topic].md
+```
+Write your perspective
+
+**5. Review & Iterate**
+```bash
+/review-aikido posts/[file].md
+```
+- Get critical feedback
+- Revise until excellent
+
+**6. Finalize**
+- Update topics.md
+- Run /checkpoint
 
 ---
 

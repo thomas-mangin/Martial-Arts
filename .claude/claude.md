@@ -60,10 +60,15 @@ A complete workflow system has been implemented to maintain context between sess
 │   │   ├── resume.md           # Load previous session context
 │   │   ├── review-aikido.md    # Review blog posts for quality
 │   │   ├── discuss.md          # Explore topics through conversation
-│   │   └── extract.md          # Transform discussions to blog drafts
+│   │   ├── extract.md          # Transform discussions to blog drafts
+│   │   ├── track-source.md     # Register martial arts bloggers
+│   │   └── scan-sources.md     # Monitor bloggers for content
 │   └── claude.md               # This file - project context
 ├── posts/                      # Blog posts directory
 ├── discussions/                # Discussion notes (informal explorations)
+├── sources/                    # Source tracking and monitoring
+│   ├── registry/              # Blogger profiles
+│   └── findings/              # Content analysis and ideas
 ├── sessions/                   # Session history (timestamped summaries)
 ├── topics.md                   # Topic tracking
 ├── session-context.md          # Session state
@@ -80,6 +85,14 @@ A complete workflow system has been implemented to maintain context between sess
 - Serves as raw material for blog posts
 - Can be extracted to blog drafts with /extract command
 - Preserves authentic insights and thinking process
+
+**sources/ Directory:**
+- Contains tracked martial arts bloggers and content analysis
+- **registry/**: Blogger profiles with URLs, disciplines, scan history
+- **findings/**: Content analysis reports with blog ideas and response opportunities
+- Created by /track-source and /scan-sources commands
+- Enables monitoring community content for inspiration and engagement
+- Supports cross-discipline insights (Aikido, Karate, etc.)
 
 **sessions/ Directory:**
 - Contains timestamped session summaries (format: `session-YYYY-MM-DD-HHMM.md`)
@@ -190,6 +203,60 @@ A complete workflow system has been implemented to maintain context between sess
 
 **Result**: Initial blog draft in `posts/[topic-name]-YYYY-MM-DD.md` ready for development and review
 
+### /track-source
+**Purpose**: Register martial arts bloggers to monitor for content
+
+**What it does:**
+1. Creates blogger profile in sources/registry/
+2. Records URL, discipline, focus areas
+3. Tracks scan history
+4. Maintains source registry index
+5. Optional: Fetches initial blog information
+
+**Usage**: `/track-source "[Name]" "[URL]" "[Discipline]"`
+
+**Example**: `/track-source "Leo Tamaki" "https://www.leotamaki.com" "Aikido"`
+
+**When to use**: When discovering a martial arts blogger worth monitoring
+
+**Source profiles include:**
+- Blogger name, URL, discipline
+- Focus areas and notes
+- Scan history and statistics
+- Ideas generated from their content
+- Connection to user's blog posts
+
+### /scan-sources
+**Purpose**: Monitor tracked bloggers for new content and extract blog ideas
+
+**What it does:**
+1. Fetches recent posts from tracked blogs
+2. Identifies new content since last scan
+3. Analyzes posts for key arguments and ideas
+4. Generates blog topic ideas (response, alternative perspective, inspired exploration)
+5. Creates findings report with actionable ideas
+6. Updates source profiles with scan results
+
+**Usage**:
+- `/scan-sources` - Scan all tracked sources
+- `/scan-sources [name]` - Scan specific source
+
+**Example**: `/scan-sources leo-tamaki`
+
+**When to use**: Weekly or bi-weekly to find new content and inspiration
+
+**Findings report includes:**
+- Summary of new posts found
+- Key arguments and points from each post
+- Blog ideas generated (with type, angle, connection to Aikido)
+- Response opportunities
+- Discussion prompts for /discuss command
+- Recommended actions
+
+**Result**: Findings saved in `sources/findings/YYYY-MM-DD-[source-name].md`
+
+**Integration**: Ideas from findings can feed into /discuss or direct blog writing
+
 ---
 
 ## Git Workflow
@@ -203,7 +270,7 @@ A complete workflow system has been implemented to maintain context between sess
 
 ## Blog Writing Workflow
 
-### Two Approaches:
+### Three Approaches:
 
 **Approach A: Discussion-Based (Recommended)**
 1. **Start Session**: `/resume` to see where you left off
@@ -223,6 +290,18 @@ A complete workflow system has been implemented to maintain context between sess
 5. **Review**: `/review-aikido posts/[filename].md`
 6. **Revise**: Based on review feedback
 7. **Finalize**: Update topics.md (move to completed)
+8. **End Session**: `/checkpoint` to save state and commit
+
+**Approach C: Source-Inspired**
+1. **Track Sources**: `/track-source "[Name]" "[URL]" "[Discipline]"` - Register bloggers
+2. **Scan Content**: `/scan-sources` - Find new posts and analyze
+3. **Review Findings**: Read sources/findings/[report].md for ideas
+4. **Explore or Write**:
+   - Option A: `/discuss [inspired-topic]` → `/extract` → develop
+   - Option B: Write response directly from template
+5. **Review**: `/review-aikido posts/[filename].md`
+6. **Revise**: Based on critical feedback
+7. **Finalize**: Update topics.md, note source connection
 8. **End Session**: `/checkpoint` to save state and commit
 
 ### Content Guidelines Summary:

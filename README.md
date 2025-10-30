@@ -36,6 +36,8 @@ This project provides a complete session continuity system designed to maintain 
 | `/checkpoint` | Save state and commit changes | End of every session |
 | `/discuss [topic]` | Explore topic through conversation | Before writing, to develop ideas |
 | `/extract [discussion-file]` | Transform discussion into blog draft | After discussion is complete |
+| `/track-source [name] [url] [discipline]` | Register martial arts blogger | When discovering sources to monitor |
+| `/scan-sources [name]` | Monitor bloggers for new content | Weekly/bi-weekly for inspiration |
 | `/review-aikido [file]` | Review blog post quality | After drafting a post |
 
 ## Project Structure
@@ -47,6 +49,9 @@ This project provides a complete session continuity system designed to maintain 
 │   └── claude.md          # AI assistant documentation
 ├── posts/                 # Your blog posts go here
 ├── discussions/           # Discussion notes (informal explorations)
+├── sources/               # Tracked bloggers and content findings
+│   ├── registry/         # Blogger profiles
+│   └── findings/         # Content analysis and ideas
 ├── sessions/              # Timestamped session summaries
 ├── blog-template.md       # Template for new posts
 ├── blog-guidelines.md     # Comprehensive writing guide
@@ -58,7 +63,7 @@ This project provides a complete session continuity system designed to maintain 
 
 ## Workflow
 
-### Two Approaches to Writing
+### Three Approaches to Writing
 
 **Approach A: Discussion-Based (Recommended)**
 ```bash
@@ -74,6 +79,16 @@ This project provides a complete session continuity system designed to maintain 
 cp blog-template.md posts/...  # Start from template
 # Write directly
 /review-aikido posts/...       # Review when ready
+```
+
+**Approach C: Source-Inspired**
+```bash
+/track-source "Leo Tamaki" "..." "Aikido"  # Add sources
+/scan-sources                              # Find new content
+# Review findings report
+/discuss [inspired-topic]     # Explore idea
+# Or write response directly
+/review-aikido posts/...      # Review
 ```
 
 ### Starting a Session
