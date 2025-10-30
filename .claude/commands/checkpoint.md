@@ -74,3 +74,5 @@ You are helping the user save their current session state so they can resume wor
 - Keep the session-context.md concise and actionable
 - The goal is quick context saving, not extensive documentation
 - If push fails, inform user but complete checkpoint anyway
+- **Note**: Detailed documentation is in `.claude/docs/` and loaded by agents on-demand
+- session-context.md should only contain current session state, not full documentation

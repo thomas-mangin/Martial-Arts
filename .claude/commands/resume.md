@@ -16,13 +16,13 @@ You are helping the user resume work from their previous session by loading save
      • Work - Write posts, add topics, make progress
      • /checkpoint - End session, save & commit everything
 
-     Quick Guide:
-     1. Check "Next Steps" below for what to do
-     2. Copy blog/blog-template.md for new posts → posts/
-     3. Follow blog/blog-guidelines.md for structure
-     4. Use /review-aikido [file] before finalizing
+     Quick Commands:
+     • /discuss [topic] - Explore ideas through conversation
+     • /extract [file] - Transform discussion to blog draft
+     • /review-aikido [file] - Review post quality before publishing
+     • /scan-sources - Monitor bloggers for new content
 
-     📖 Need help? Read help.md for complete guide
+     📖 Need help? See OVERVIEW.md or .claude/docs/ for details
      ────────────────────────────────────────────
      ```
 
