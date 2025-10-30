@@ -546,9 +546,71 @@ What I've found in training is [concrete evidence from your practice].
 - Run `/review-aikido` command for feedback
 - Check all Japanese terms for correct spelling
 - Verify any historical facts or claims
+- **Verify technical accuracy against `/syllabus/` directory** (see below)
 - Read aloud to catch awkward phrasing
 - Ensure logical flow between sections
 - Confirm practical value for readers
+
+### Using the Syllabus for Technical Verification
+
+**The `/syllabus/` directory is your factual reference system** - use it to ensure technical accuracy before publishing.
+
+**When to Check the Syllabus:**
+- Writing about specific techniques → Check `/syllabus/techniques/`
+- Using Japanese terminology → Verify against `/syllabus/terminology.md` (100+ term dictionary)
+- Discussing weapons training → Reference complete kata sequences in `/syllabus/weapons/`
+- Mentioning rank or grading → Confirm details in `/syllabus/overview.md`
+- Describing attacks → Check progression in `/syllabus/attacks.md`
+
+**What the Syllabus Contains:**
+
+1. **Comprehensive Terminology** (`/syllabus/terminology.md`)
+   - 100+ Japanese terms with English translations
+   - Definitions, historical context, proper usage
+   - Techniques, attacks, ranks, philosophical concepts
+   - Organizational terms and etiquette
+
+2. **Technique Documentation** (`/syllabus/techniques/*.md`)
+   - Detailed technique descriptions and mechanics
+   - When techniques are introduced (by rank)
+   - Key principles and teaching points
+   - Connections to other techniques
+
+3. **Complete Kata Sequences** (`/syllabus/weapons/`)
+   - **31 Jo Kata**: All 31 movements documented with descriptions
+   - **13 Jo Kata**: All 13 movements with Japanese names, translations, details
+   - **7 Ken Suburi**: Sword solo practice
+   - **Ki Musubi no Tachi**: Partnered sword practice
+   - Other weapons forms (kumijo, ken-tai-jo)
+
+4. **Rank Progression** (`/syllabus/overview.md`)
+   - Grading structure (Rokkyu through Yondan)
+   - When techniques/kata are introduced
+   - Kihon vs. Kinonagare distinction
+   - Takemusu/Iwama lineage information
+
+5. **Attack Types** (`/syllabus/attacks.md`)
+   - All attack types explained
+   - Progressive introduction by rank
+   - Proper terminology
+
+**How to Use:**
+1. **Draft your content first** - get ideas down
+2. **Identify claims to verify** - techniques, terms, kata sequences, historical facts
+3. **Check relevant syllabus files** - confirm accuracy
+4. **Correct any errors** before running `/review-aikido`
+5. **Cite specifics when helpful** - "In the 31 Jo Kata, movement #13..." shows depth
+
+**Syllabus = Facts, Research = Interpretation:**
+- `/syllabus/` contains documented factual information
+- `/research/` contains your analysis and frameworks
+- Separate facts from interpretation in your writing
+- Ground interpretations in documented facts
+
+**Example:**
+- ✓ "Ikkyo is introduced at Rokkyu (6th kyu) in the Iwama syllabus" ← Verifiable fact from `/syllabus/overview.md`
+- ✓ "I believe ikkyo is taught first because..." ← Your interpretation from `/research/`
+- ✗ "Ikkyo is always the first technique taught" ← Unverified generalization
 
 ### Length Guidelines
 - Minimum: 600 words (for focused, specific topics)

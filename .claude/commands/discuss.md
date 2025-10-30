@@ -25,17 +25,28 @@ Transform informal, exploratory conversation into structured notes that:
 - If not: ask "What Aikido topic would you like to explore?"
 - Examples: irimi principle, ukemi training, ma-ai, training mindset, specific technique
 
-### 2. **Check Core Values and Context**
+### 2. **Check Core Values, Context, and Syllabus**
 Before starting discussion, quickly review:
 - **`research/core-values.md`**: User's fundamental beliefs relevant to this topic
 - **`research/divisive-topics.md`**: Whether this topic touches on community debates
 - **`research/learning-journey.md`**: If topic relates to mastery stages or learning progression
+- **`/syllabus/` directory**: For technical accuracy and factual grounding
+  - **`/syllabus/terminology.md`**: Correct Japanese terms and definitions (100+ terms)
+  - **`/syllabus/techniques/*.md`**: Technique details and mechanics
+  - **`/syllabus/weapons/jo/*.md`**: Complete jo kata sequences (31 jo, 13 jo, etc.)
+  - **`/syllabus/weapons/ken/*.md`**: Ken suburi and kumitachi details
+  - **`/syllabus/overview.md`**: Rank progression, grading requirements
+  - **`/syllabus/attacks.md`**: Attack types and when they're introduced
 
 This awareness helps you:
 - Ask questions aligned with user's values
 - Explore divisive topics with appropriate nuance
 - Apply learning journey frameworks where relevant
 - Recognize when user's ideas conflict with or extend their stated values
+- **Use correct terminology and technical details**
+- **Reference specific kata movements when discussing weapons training**
+- **Understand rank-appropriate content and progression**
+- **Ground discussion in documented facts before exploring interpretation**
 
 ### 3. **Open Discussion**
 Start with opening questions:
@@ -117,6 +128,10 @@ Write a structured discussion note in `discussions/` directory:
 **Divisive Topics**: [Does this topic touch on community debates (from research/divisive-topics.md)? Which ones?]
 
 **Learning Journey Concepts**: [Does this discussion use frameworks from research/learning-journey.md? (knowing vs. embodiment, kata as alphabet, etc.)]
+
+**Syllabus References**: [Which syllabus files are relevant? Techniques, kata sequences, terminology, etc.]
+
+**Technical Accuracy Notes**: [Any specific factual details verified against /syllabus/ during discussion]
 
 ---
 
