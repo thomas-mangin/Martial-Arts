@@ -13,7 +13,6 @@ You are helping the user save their current session state so they can resume wor
      - Show the user what changed (git diff summary)
      - Ask what commit message they want or suggest one based on the changes
      - Stage and commit all changes to the local git repo
-     - DO NOT push to remote
    - If no changes, note that everything is already committed
 
 3. **Update Session Context**
@@ -57,13 +56,21 @@ You are helping the user save their current session state so they can resume wor
    - Base the summary on the conversation that happened during the session
    - Use the Write tool to create the file in sessions/
 
-7. **Summary**
+7. **Push to GitHub**
+   - Check if git remote is configured: `git remote -v`
+   - If remote exists, push to GitHub: `git push origin main`
+   - If push succeeds, confirm to user
+   - If push fails (e.g., no remote, authentication issues), inform user but don't block checkpoint completion
+
+8. **Summary**
    - Show a brief summary of what was checkpointed
    - Mention the session summary file that was created
+   - Confirm push to GitHub (if successful)
    - Remind them to use `/resume` when starting their next session
 
 ## Important Notes
 - Be conversational but efficient
-- Only commit to local git, never push
+- Commits are made locally and then pushed to GitHub
 - Keep the session-context.md concise and actionable
 - The goal is quick context saving, not extensive documentation
+- If push fails, inform user but complete checkpoint anyway
