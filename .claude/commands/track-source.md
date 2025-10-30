@@ -53,24 +53,39 @@ If user only provides name or partial info, ask for:
 - If exists: Ask if user wants to update it
 - If new: Proceed to create
 
-### 3. **Fetch Initial Information** (Optional)
+### 4. **Fetch Initial Information**
 
-If URL is provided, use WebFetch to get initial context:
+**For Blogs**: Use WebFetch to get initial context:
 - Check if the blog is active
 - Identify recent post titles (if visible)
 - Get a sense of their writing style and topics
 - This helps populate the profile better
 
-### 4. **Ask Contextual Questions**
+**For YouTube Channels**: Use youtube-channel-info.py script to extract channel information:
+- Run: `python scripts/youtube-channel-info.py "<channel_url>"`
+- Script extracts:
+  - Channel name and ID
+  - Subscriber count
+  - Recent video titles (up to 10)
+  - Video view counts and durations
+- Analyze video titles to determine:
+  - Martial art discipline (Aikido, Karate, etc.)
+  - Content themes (technique, philosophy, training, competition)
+  - Teaching style/approach
+- Use this information to populate the channel profile
 
-To create a useful profile, ask:
+### 5. **Ask Contextual Questions** (If Needed)
+
+After fetching initial information, ask additional questions if needed:
 - **Why tracking?** "What interests you about [name]'s work?"
-- **Focus areas?** "What do they typically write about? (technique, philosophy, training methods, history, etc.)"
-- **Language?** "What language is their content in?"
-- **Notes?** "Any particular reason you want to track them? (similar perspective, different discipline, inspiring writing, etc.)"
-- **Active?** "Is this an active blog or historical archive?"
+- **Additional focus areas?** (If not clear from fetch) "What else should I know about their content?"
+- **Notes?** "Any particular reason you want to track them?"
 
-### 5. **Create Source Profile**
+**For Blogs Only**:
+- **Language?** "What language is their content in?" (YouTube can detect from fetch)
+- **Active?** "Is this an active blog or historical archive?" (YouTube channels show activity)
+
+### 6. **Create Source Profile**
 
 #### For Blogs/Websites
 
@@ -161,6 +176,14 @@ Create file: `sources/registry/[name-kebab-case].md`
 
 Create file: `sources/youtube/registry/[name-kebab-case].md`
 
+**Populate from WebFetch results**:
+- Use channel name from fetch
+- Use discipline/focus from fetch (if detected)
+- Use description from fetch
+- Include subscriber count if available
+- List recent video topics/themes from fetch
+- Note teaching/presentation style from fetch
+
 **Format**:
 
 ```markdown
@@ -170,7 +193,9 @@ Create file: `sources/youtube/registry/[name-kebab-case].md`
 
 **Channel Type**: YouTube Channel
 
-**Discipline/Focus**: [Martial art - to be determined from video analysis if unknown]
+**Discipline/Focus**: [Martial art(s) from fetch - e.g., "Aikido", "Karate", "Multiple martial arts", etc.]
+
+**Subscribers**: [Count if available from fetch, otherwise "Unknown"]
 
 **Date Added**: [Today's date]
 
@@ -178,20 +203,32 @@ Create file: `sources/youtube/registry/[name-kebab-case].md`
 
 ## Channel Overview
 
-**Description**: [Channel name]'s YouTube channel - [brief description if known]
+**Description**: [Use description from WebFetch]
+
+**Content Themes**: [From WebFetch analysis]
+- [Theme 1 - e.g., Technical breakdowns]
+- [Theme 2 - e.g., Training methodology]
+- [Theme 3 - e.g., Historical context]
+
+**Teaching Style**: [From WebFetch - e.g., "Detailed technical explanations", "Philosophical approach", "Demonstration-focused", etc.]
 
 **Why Tracking**:
-- [Reason 1 - e.g., Potential martial arts insights and techniques]
-- [Reason 2 - e.g., Cross-discipline perspectives]
-- [Reason 3 - e.g., Teaching methods and biomechanics explanations]
+- [Reason from user input]
+- [What makes this channel valuable]
+- [Connection to user's work]
+
+**Recent Video Topics** (from channel page):
+- [Recent topic 1]
+- [Recent topic 2]
+- [Recent topic 3]
 
 ---
 
-## Scan History
+## Content Tracking
 
-### Initial Registration
-- **Date**: [Today's date]
-- **Status**: Registered, awaiting first video analysis
+### Registration Details
+- **Date Added**: [Today's date]
+- **Initial Status**: Active channel with [subscriber count or "subscribers"]
 - **Videos Analyzed**: 0
 - **Blog Ideas Generated**: 0
 
@@ -201,19 +238,24 @@ Create file: `sources/youtube/registry/[name-kebab-case].md`
 
 *No videos analyzed yet. Use /youtube-fetch with specific video URLs to analyze content and generate blog ideas.*
 
+**To Analyze**:
+1. Browse channel for relevant videos
+2. Run `/youtube-fetch <video_url>` for videos of interest
+3. Findings will be saved in sources/youtube/findings/
+
 ---
 
 ## Blog Ideas Generated
 
-*Blog ideas will be added here as videos are analyzed.*
+*Blog ideas will be added here as videos are analyzed with /youtube-fetch.*
 
 ---
 
 ## Notes
 
-- Channel registered for tracking
-- First video analysis will populate discipline/focus information
-- Use `/youtube-fetch <video_url>` to analyze specific videos from this channel
+- Channel information extracted from channel page on [Today's date]
+- Use `/youtube-fetch <video_url>` to analyze specific videos and generate blog ideas
+- Profile will be enriched as videos are analyzed
 - Check channel periodically for new content relevant to blog topics
 
 ---
@@ -221,7 +263,7 @@ Create file: `sources/youtube/registry/[name-kebab-case].md`
 *Last Updated: [Today's date]*
 ```
 
-### 6. **Confirm and Guide**
+### 7. **Confirm and Guide**
 
 After creating the profile, tell the user:
 
@@ -254,22 +296,26 @@ After creating the profile, tell the user:
 
 📁 Profile saved: sources/youtube/registry/[filename].md
 
-📋 Summary:
+📋 Summary (extracted from channel page):
 - Channel: [Channel name]
 - URL: [YouTube channel URL]
-- Discipline: [Martial art or "To be determined"]
-- Status: Active (pending video analysis)
+- Discipline: [Martial art(s) detected or "Multiple martial arts"]
+- Subscribers: [Count if available]
+- Content Themes: [List 2-3 main themes detected]
+- Status: Active
 
 🔍 Next steps:
-1. Visit the channel to find interesting videos
-2. Run `/youtube-fetch <video_url>` to analyze specific videos
+1. Visit the channel to find interesting videos: [channel URL]
+2. Run `/youtube-fetch <video_url>` to analyze specific videos and generate blog ideas
 3. Review findings in sources/youtube/findings/
-4. Video analysis will populate channel discipline/focus information
 
-📝 The profile will be automatically updated as videos are analyzed
+📝 Notes:
+- Channel information extracted from channel page
+- Profile includes description, themes, and recent topics
+- Use /youtube-fetch to analyze individual videos for detailed blog ideas
 ```
 
-### 7. **Update Source Registry Index** (Optional)
+### 8. **Update Source Registry Index** (Optional)
 
 Create or update `sources/registry/INDEX.md` with list of all tracked sources:
 
