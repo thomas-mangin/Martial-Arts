@@ -8,69 +8,95 @@ Extract valuable martial arts insights from YouTube videos and transform them in
 
 ## Modes of Operation
 
-### Mode: `fetch` - Download and Analyze New Video
+### Mode: `fetch` - Download and Analyze Video(s)
 
-**Usage**: `/youtube fetch <youtube_url>`
+**Usage**:
+- Single video: `/youtube fetch <video_url>`
+- Full channel: `/youtube fetch <channel_url>`
+- Limited channel: `/youtube fetch <channel_url> --limit N`
 
 **Process:**
 
-1. **Download Transcript**
+1. **Download Transcript(s)**
    - Run: `python scripts/youtube-transcript.py "<url>"`
-   - Creates three files:
+   - Script automatically detects if URL is a channel or single video
+   - For channels: Downloads all videos (or limited number if --limit specified)
+   - Skips videos that already have transcripts
+   - Creates three files per video:
      - `sources/youtube/transcripts/<video_id>.txt` - Readable transcript
      - `sources/youtube/transcripts/<video_id>.json` - Metadata
      - `sources/youtube/transcripts/<video_id>.en.srt` - Raw SRT
 
-2. **Read Metadata**
-   - Load JSON metadata
-   - Extract: video title, channel, upload date, duration
-   - Note video URL for reference
+2. **For Each Downloaded Video (Single or Channel):**
 
-3. **Analyze Transcript Content**
-   - Read transcript text
-   - Identify:
-     - Key themes and topics discussed
-     - Martial arts concepts, techniques, philosophy
-     - Teaching approaches and demonstrations
-     - Cross-discipline insights (if applicable)
-     - Unique perspectives or novel ideas
+   a. **Read Metadata**
+      - Load JSON metadata
+      - Extract: video title, channel, upload date, duration
+      - Note video URL for reference
 
-4. **Generate Blog Ideas**
-   - Create 3-5 blog topic ideas based on analysis
-   - For each idea include:
-     - **Title**: Compelling blog post title
-     - **Type**: Response / Alternative Perspective / Inspired Exploration / Extension / Comparative Analysis
-     - **Angle**: Specific approach or argument
-     - **Connection to Aikido**: How it applies specifically to Aikido
-     - **Target Audiences**: 3-5 audience profiles who would benefit
-     - **Key Points**: 3-4 main points to explore
-     - **Hook Potential**: What makes this interesting/engaging
-     - **Source Inspiration**: What from video inspired this (paraphrased, not verbatim)
+   b. **Analyze Transcript Content**
+      - Read transcript text
+      - Identify:
+        - Key themes and topics discussed
+        - Martial arts concepts, techniques, philosophy
+        - Teaching approaches and demonstrations
+        - Cross-discipline insights (if applicable)
+        - Unique perspectives or novel ideas
 
-5. **Create Findings Report**
-   - Save to: `sources/youtube/findings/YYYY-MM-DD-<video_id>-<brief-description>.md`
-   - Include:
-     - Video metadata (title, channel, URL, date, duration)
-     - Content summary (2-3 paragraphs)
-     - Key themes identified
-     - Notable concepts/quotes (paraphrased)
-     - Blog ideas generated (full details)
-     - Discussion prompts for /discuss command
-     - Recommended next actions
+   c. **Generate Blog Ideas**
+      - Create 3-5 blog topic ideas based on analysis
+      - For each idea include:
+        - **Title**: Compelling blog post title
+        - **Type**: Response / Alternative Perspective / Inspired Exploration / Extension / Comparative Analysis
+        - **Angle**: Specific approach or argument
+        - **Connection to Aikido**: How it applies specifically to Aikido
+        - **Target Audiences**: 3-5 audience profiles who would benefit
+        - **Key Points**: 3-4 main points to explore
+        - **Hook Potential**: What makes this interesting/engaging
+        - **Source Inspiration**: What from video inspired this (paraphrased, not verbatim)
 
-6. **Update/Create Channel Registry**
+   d. **Create Individual Findings Report**
+      - Save to: `sources/youtube/findings/YYYY-MM-DD-<video_id>-<brief-description>.md`
+      - Include:
+        - Video metadata (title, channel, URL, date, duration)
+        - Content summary (2-3 paragraphs)
+        - Key themes identified
+        - Notable concepts/quotes (paraphrased)
+        - Blog ideas generated (full details)
+        - Discussion prompts for /discuss command
+        - Recommended next actions
+
+3. **Update/Create Channel Registry**
    - Check if channel exists in `sources/youtube/registry/`
    - If new:
      - Create profile: `sources/youtube/registry/<channel-slug>.md`
      - Include: channel name, focus, discipline(s), videos tracked
    - If exists:
-     - Add this video to tracked list
+     - Add new video(s) to tracked list
+     - Update statistics (total videos, blog ideas)
      - Update channel profile if needed
 
-7. **Display Summary**
-   - Show video title and channel
-   - Number of blog ideas generated
-   - Highlight most promising ideas
+4. **Create Channel Summary Report (for channel fetches)**
+   - Save to: `sources/youtube/findings/YYYY-MM-DD-<channel-name>-channel-summary.md`
+   - Include:
+     - Channel overview
+     - Total videos analyzed
+     - Download/skip/fail statistics
+     - Cross-video themes and patterns
+     - Top blog ideas across all videos
+     - Recommended videos to explore first
+     - Overall assessment of channel value
+
+5. **Display Summary**
+   - For single video:
+     - Show video title and channel
+     - Number of blog ideas generated
+     - Highlight most promising ideas
+   - For channel:
+     - Show channel name and total videos
+     - Download statistics (new/skipped/failed)
+     - Total blog ideas generated
+     - Highlight top cross-video themes
    - Suggest next steps (discuss, write directly, add to topics.md)
 
 ### Mode: `analyze` - Re-analyze Existing Transcript
@@ -261,6 +287,88 @@ Extract valuable martial arts insights from YouTube videos and transform them in
 ---
 
 *Last updated: [Date]*
+```
+
+### Channel Summary Report Template
+
+```markdown
+# YouTube Channel Analysis: [Channel Name]
+
+**Channel URL**: [URL]
+**Analysis Date**: [Date]
+**Total Videos**: [count]
+**Videos Analyzed**: [count newly analyzed]
+**Videos Skipped**: [count already had transcripts]
+**Videos Failed**: [count couldn't get transcripts]
+
+## Channel Overview
+
+[2-3 paragraph summary of channel focus, instructor style, content type]
+
+## Download Statistics
+
+- **Newly Downloaded**: [count] videos
+- **Already Had Transcripts**: [count] videos (skipped)
+- **Failed to Download**: [count] videos (no subtitles/captions available)
+- **Total Blog Ideas Generated**: [count across all new videos]
+
+## Cross-Video Themes
+
+[Themes that appear across multiple videos]
+
+1. **[Theme 1]**: [Description and which videos]
+2. **[Theme 2]**: [Description and which videos]
+3. **[Theme 3]**: [Description and which videos]
+
+## Top Blog Ideas from Channel
+
+[Highlight 5-10 best blog ideas across all videos analyzed]
+
+### 1. [Blog Title]
+- **Source Video**: [Title and video_id]
+- **Type**: [Response/Alternative/Inspired/Extension/Comparative]
+- **Why Compelling**: [Brief explanation]
+- **Target Audiences**: [Profiles]
+
+[Repeat for top ideas]
+
+## Recommended Videos to Explore First
+
+[If many videos, suggest which ones are most valuable]
+
+1. **[Video Title]** (`[video_id]`)
+   - Why: [Reason this one stands out]
+   - Findings: `sources/youtube/findings/YYYY-MM-DD-[video_id].md`
+
+## Channel Assessment
+
+**Overall Value**: [High/Medium/Low]
+
+**Strengths**:
+- [What this channel does well]
+- [Unique contributions]
+
+**Blog Fit**:
+- [How well content aligns with blog goals]
+- [Which audiences benefit most]
+
+**Recommended Use**:
+- [How to leverage this channel going forward]
+- [Whether to track new videos]
+
+## Individual Video Reports
+
+[List all findings reports created]
+
+1. `sources/youtube/findings/YYYY-MM-DD-[video_id]-[title].md`
+2. `sources/youtube/findings/YYYY-MM-DD-[video_id]-[title].md`
+[etc.]
+
+---
+
+*Channel summary generated by YouTube agent*
+*Registry: `sources/youtube/registry/[channel-slug].md`*
+*To explore specific ideas: `/discuss [topic]`*
 ```
 
 ## Error Handling

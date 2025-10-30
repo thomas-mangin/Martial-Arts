@@ -1,15 +1,157 @@
 #!/usr/bin/env python3
 """
 YouTube Transcript Downloader
-Downloads transcripts from YouTube videos using yt-dlp
+Downloads transcripts from YouTube videos or entire channels using yt-dlp
 """
 
 import sys
 import json
 import subprocess
 import os
+import re
 from datetime import datetime
 from pathlib import Path
+
+def is_channel_url(url):
+    """Check if URL is a channel URL"""
+    channel_patterns = [
+        r'youtube\.com/@',
+        r'youtube\.com/channel/',
+        r'youtube\.com/c/',
+        r'youtube\.com/user/',
+    ]
+    return any(re.search(pattern, url) for pattern in channel_patterns)
+
+def get_channel_videos(channel_url):
+    """
+    Get list of all video URLs from a channel
+
+    Args:
+        channel_url: YouTube channel URL
+
+    Returns:
+        list: List of video URLs, or None if failed
+    """
+    print(f"Fetching video list from channel...")
+    print(f"URL: {channel_url}\n")
+
+    cmd = [
+        'yt-dlp',
+        '--flat-playlist',
+        '--print', 'url',
+        '--print', 'title',
+        '--print', '---',
+        channel_url
+    ]
+
+    try:
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            check=True
+        )
+
+        # Parse output into video info
+        lines = result.stdout.strip().split('\n')
+        videos = []
+
+        i = 0
+        while i < len(lines):
+            if i + 2 < len(lines) and lines[i + 2] == '---':
+                url = lines[i]
+                title = lines[i + 1]
+                videos.append({'url': url, 'title': title})
+                i += 3
+            else:
+                i += 1
+
+        print(f"Found {len(videos)} videos in channel\n")
+        return videos
+
+    except subprocess.CalledProcessError as e:
+        print(f"Error fetching channel videos: {e.stderr}")
+        return None
+
+def download_channel(channel_url, output_dir="sources/youtube/transcripts", limit=None):
+    """
+    Download transcripts from all videos in a channel
+
+    Args:
+        channel_url: YouTube channel URL
+        output_dir: Directory to save transcripts
+        limit: Optional limit on number of videos to process
+
+    Returns:
+        dict: Summary of results
+    """
+    videos = get_channel_videos(channel_url)
+
+    if not videos:
+        return {
+            'success': False,
+            'error': 'Failed to fetch channel videos'
+        }
+
+    if limit:
+        videos = videos[:limit]
+        print(f"Limiting to first {limit} videos\n")
+
+    results = {
+        'success': True,
+        'total_videos': len(videos),
+        'downloaded': [],
+        'skipped': [],
+        'failed': []
+    }
+
+    for i, video in enumerate(videos, 1):
+        print(f"\n{'='*60}")
+        print(f"Processing video {i}/{len(videos)}")
+        print(f"Title: {video['title']}")
+        print(f"{'='*60}\n")
+
+        # Extract video ID
+        video_id = video['url'].split('v=')[-1].split('&')[0]
+
+        # Check if already downloaded
+        transcript_path = f"{output_dir}/{video_id}.txt"
+        if os.path.exists(transcript_path):
+            print(f"✓ Transcript already exists, skipping...")
+            results['skipped'].append({
+                'video_id': video_id,
+                'title': video['title'],
+                'reason': 'already_exists'
+            })
+            continue
+
+        # Download transcript
+        result = download_transcript(video['url'], output_dir)
+
+        if result['success']:
+            results['downloaded'].append({
+                'video_id': result['video_id'],
+                'title': result['title'],
+                'transcript_path': result['transcript_path']
+            })
+        else:
+            results['failed'].append({
+                'video_id': video_id,
+                'title': video['title'],
+                'error': result.get('error', 'Unknown error')
+            })
+
+    # Print summary
+    print(f"\n{'='*60}")
+    print("CHANNEL DOWNLOAD COMPLETE")
+    print(f"{'='*60}")
+    print(f"Total videos: {results['total_videos']}")
+    print(f"Downloaded: {len(results['downloaded'])}")
+    print(f"Skipped: {len(results['skipped'])}")
+    print(f"Failed: {len(results['failed'])}")
+    print(f"{'='*60}\n")
+
+    return results
 
 def download_transcript(video_url, output_dir="sources/youtube/transcripts"):
     """
@@ -218,11 +360,28 @@ def download_transcript(video_url, output_dir="sources/youtube/transcripts"):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python youtube-transcript.py <youtube_url>")
+        print("Usage:")
+        print("  Single video: python youtube-transcript.py <video_url>")
+        print("  Full channel: python youtube-transcript.py <channel_url>")
+        print("  Limited channel: python youtube-transcript.py <channel_url> --limit N")
         sys.exit(1)
 
     url = sys.argv[1]
-    result = download_transcript(url)
+    limit = None
+
+    # Check for limit argument
+    if len(sys.argv) > 2 and sys.argv[2] == '--limit' and len(sys.argv) > 3:
+        try:
+            limit = int(sys.argv[3])
+        except ValueError:
+            print("ERROR: --limit must be followed by a number")
+            sys.exit(1)
+
+    # Determine if it's a channel or video URL
+    if is_channel_url(url):
+        result = download_channel(url, limit=limit)
+    else:
+        result = download_transcript(url)
 
     if not result['success']:
         print(f"\nERROR: {result.get('error', 'Unknown error')}")

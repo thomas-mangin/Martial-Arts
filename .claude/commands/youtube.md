@@ -1,11 +1,17 @@
 # YouTube Command
 
-Download and analyze YouTube video transcripts for blog inspiration.
+Download and analyze YouTube video or channel transcripts for blog inspiration.
 
 ## Usage
 
-**Fetch and analyze new video:**
-`/youtube fetch <youtube_url>`
+**Fetch and analyze single video:**
+`/youtube fetch <video_url>`
+
+**Fetch and analyze entire channel:**
+`/youtube fetch <channel_url>`
+
+**Fetch with limit (first N videos):**
+`/youtube fetch <channel_url> --limit N`
 
 **Re-analyze existing transcript:**
 `/youtube analyze <video_id>`
@@ -13,8 +19,14 @@ Download and analyze YouTube video transcripts for blog inspiration.
 ## Examples
 
 ```bash
-# Download and analyze video
+# Download and analyze single video
 /youtube fetch https://www.youtube.com/watch?v=KGFEDrQRWSo
+
+# Download and analyze entire channel
+/youtube fetch https://www.youtube.com/@AikidoSangenkai
+
+# Download first 10 videos from channel
+/youtube fetch https://www.youtube.com/@AikidoSangenkai --limit 10
 
 # Re-analyze existing transcript
 /youtube analyze KGFEDrQRWSo
@@ -22,12 +34,21 @@ Download and analyze YouTube video transcripts for blog inspiration.
 
 ## What It Does
 
-**Fetch mode:**
+**Fetch mode (single video):**
 - Downloads transcript using yt-dlp
 - Extracts metadata (title, channel, duration, date)
 - Analyzes content for themes and concepts
 - Generates 3-5 blog topic ideas
 - Creates findings report
+- Updates/creates channel registry
+
+**Fetch mode (channel):**
+- Lists all videos in channel
+- Downloads transcripts for videos not yet fetched
+- Analyzes each new video individually
+- Generates blog ideas per video
+- Creates individual findings reports
+- Creates channel summary report with cross-video themes
 - Updates/creates channel registry
 
 **Analyze mode:**
@@ -38,18 +59,24 @@ Download and analyze YouTube video transcripts for blog inspiration.
 
 ## Files Created
 
-**Fetch mode:**
+**Fetch mode (single video):**
 - `sources/youtube/transcripts/<video_id>.txt`
 - `sources/youtube/transcripts/<video_id>.json`
 - `sources/youtube/findings/YYYY-MM-DD-<video_id>.md`
 - `sources/youtube/registry/<channel-name>.md` (if new)
+
+**Fetch mode (channel):**
+- All of the above for each video
+- `sources/youtube/findings/YYYY-MM-DD-<channel-name>-channel-summary.md`
 
 **Analyze mode:**
 - Updates `sources/youtube/findings/YYYY-MM-DD-<video_id>.md`
 
 ## When to Use
 
-- **Fetch**: When discovering new martial arts video content
+- **Fetch (video)**: When discovering individual martial arts videos
+- **Fetch (channel)**: When wanting to analyze all content from a specific instructor/channel
+- **Fetch --limit**: To sample a channel before doing full analysis
 - **Analyze**: To extract additional ideas from previously downloaded videos
 
 ## Result

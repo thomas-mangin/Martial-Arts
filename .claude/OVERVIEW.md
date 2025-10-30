@@ -17,7 +17,9 @@ Master's thesis project for writing Aikido blog posts with session continuity be
 ### Content Discovery Agents
 - `/track-source [name] [url] [discipline]` - Register martial arts bloggers
 - `/scan-sources [name]` - Monitor bloggers for new content and ideas
-- `/youtube fetch [url]` - Download and analyze YouTube transcripts
+- `/youtube fetch [url]` - Download and analyze video/channel transcripts
+  - Supports single videos or entire channels
+  - Use `--limit N` to fetch first N videos from channel
 - `/youtube analyze [video_id]` - Re-analyze existing transcripts
 
 ### System Maintenance
