@@ -2,59 +2,60 @@
 
 You are helping the user save their current session state so they can resume work later.
 
+**IMPORTANT: This command should execute autonomously without asking questions. Generate commit messages, infer decisions from work done, and create session summaries automatically.**
+
 ## Steps to Execute
 
 1. **Check Git Status**
    - Run `git status` to see what files have changed
-   - List any untracked or modified files
+   - Note any untracked or modified files
 
-2. **Commit Changes**
+2. **Commit Changes Automatically**
    - If there are uncommitted changes:
-     - Show the user what changed (git diff summary)
-     - Ask what commit message they want or suggest one based on the changes
-     - Stage and commit all changes to the local git repo
+     - Analyze the changed files to understand what was done
+     - Generate a descriptive commit message based on the changes (look at file names, git diff summary)
+     - Stage and commit all changes with the generated message
+     - Show user what was committed
    - If no changes, note that everything is already committed
 
-3. **Update Session Context**
-   - Read `session-context.md`
-   - Ask the user:
-     - What's the current status? (what they just finished/are working on)
-     - What should be the next steps?
-     - Are there any blockers or questions to note?
-   - Update the session-context.md file with:
-     - Current timestamp
-     - Updated status, recent work, and next steps
-     - Any blockers or notes
+3. **Session Context Already Updated**
+   - Assume `session-context.md` was updated during the session
+   - Do NOT ask user to update it again
+   - Just note that context will be saved in session summary
 
-4. **Review Topics**
-   - Read `topics.md`
-   - Ask if they want to:
-     - Update the current topic
-     - Add any new topic ideas
-     - Move current topic to completed if finished
-   - Update topics.md if needed
+4. **Topics File**
+   - Assume `topics.md` is current
+   - Do NOT ask for updates
+   - Will be reflected in session summary if changed
 
-5. **Log Decisions** (if any were made)
-   - Ask if any important decisions were made this session
-   - If yes, append to `decisions.md` with date, decision, and rationale
+5. **Infer Decisions Automatically**
+   - Look at conversation history and files changed
+   - If major architectural changes, new systems created, or significant choices made:
+     - Add decision to `decisions.md` automatically
+     - Include date, decision, and rationale based on work done
+   - Do NOT ask user if decisions were made - infer from context
 
-6. **Create Session Summary**
-   - Generate a timestamped session summary file in `sessions/` directory
-   - Filename format: `session-YYYY-MM-DD-HHMM.md` (e.g., `session-2025-10-30-0145.md`)
-   - Include in the summary:
-     - **Session Date & Time**: When the session occurred
-     - **Duration**: Approximate session length based on conversation
-     - **Main Focus**: What was the primary work/topic
-     - **Accomplishments**: Bullet list of what was completed
-     - **Key Decisions**: Any important decisions made (reference decisions.md)
-     - **Challenges/Issues**: Problems encountered or unresolved questions
-     - **Conversation Highlights**: Brief summary of key interactions/discussions
-     - **Files Modified**: List of files created or changed
-     - **Next Steps**: What to do in the next session
-     - **Notes**: Any other relevant context
-   - Write this summary file automatically (don't ask user to write it)
-   - Base the summary on the conversation that happened during the session
-   - Use the Write tool to create the file in sessions/
+6. **Create Session Summary Automatically**
+   - Generate timestamped session summary in `sessions/` directory
+   - Filename: `session-YYYY-MM-DD-HHMM.md` (use current timestamp)
+   - **Analyze the session automatically**:
+     - Review conversation history for main focus and accomplishments
+     - Look at git diff / changed files for technical work done
+     - Identify key decisions from major changes
+     - Note any challenges or blockers mentioned
+     - Extract next steps from context
+   - **Include in summary**:
+     - Session Date & Time
+     - Duration (approximate from conversation length)
+     - Main Focus (infer from work done)
+     - Accomplishments (bullet list from files changed + conversation)
+     - Key Decisions (reference decisions.md if updated)
+     - Challenges/Issues (if any mentioned)
+     - Conversation Highlights (key exchanges)
+     - Files Modified (from git status/diff)
+     - Next Steps (from session-context.md or infer)
+     - Notes (any other relevant context)
+   - Write summary automatically - no user input needed
 
 7. **Push to GitHub**
    - Check if git remote is configured: `git remote -v`
@@ -69,10 +70,21 @@ You are helping the user save their current session state so they can resume wor
    - Remind them to use `/resume` when starting their next session
 
 ## Important Notes
-- Be conversational but efficient
+- **Execute autonomously** - no questions, just do the checkpoint
+- **Infer don't ask** - generate commit messages, identify decisions, create summaries automatically
+- **Analyze the session** - review conversation and file changes to understand what happened
 - Commits are made locally and then pushed to GitHub
-- Keep the session-context.md concise and actionable
-- The goal is quick context saving, not extensive documentation
 - If push fails, inform user but complete checkpoint anyway
+- Be efficient - this should take 30-60 seconds total
 - **Note**: Detailed documentation is in `.claude/docs/` and loaded by agents on-demand
 - session-context.md should only contain current session state, not full documentation
+
+## Commit Message Generation Guidelines
+- Look at changed files to understand the work
+- Use descriptive messages that explain what changed and why
+- Format: "Action: brief description\n\nDetails if needed"
+- Examples:
+  - "Update session context after blog post writing"
+  - "Add new discussion notes for relaxation topic"
+  - "Refactor documentation for better organization"
+  - "Create first blog post draft on irimi principle"
