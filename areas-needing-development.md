@@ -89,6 +89,13 @@ Which of the 25 principles are easier/better to learn with weapons?
 - What leverage principles are clearer with jo than empty hand?
 - How does jo rotation translate to empty-hand techniques?
 
+**Jo vs Ken Stances - Why Different?**:
+- Why does jo require different foot stance than ken?
+- What biomechanical requirements of jo dictate stance?
+- What biomechanical requirements of ken dictate stance?
+- How does weapon length/weight/balance affect optimal stance?
+- Do stances change for different jo techniques? Different ken techniques?
+
 **Jo Kata Pedagogy - Specific Examples**:
 - **31st Jo Kata & Lines/Centerline**:
   - What does "teaches lines" mean practically?
@@ -371,7 +378,295 @@ Or one very comprehensive session covering all elements (90+ minutes).
 
 ---
 
-### 9. Cross-Discipline Insights Need Examples
+### 9. Stance Principles - Stability, Power, and Movement ⭐⭐ VERY HIGH PRIORITY
+
+**Current State**:
+- Principle #3 (two-foot balance problem) exists
+- Principle #17 (external foot rotation) mentions foot positioning
+- Principle #25 (hip rotation/tai sabaki) touches on weight drop
+- But no comprehensive stance framework
+- Jo vs ken stance differences mentioned in weapons section but not explained
+
+**What's Missing - MAJOR GAPS**:
+
+This needs comprehensive framework covering:
+
+#### A. What Makes a Good Stance - Three Requirements
+
+**Physical Stability**:
+- Balance distribution between feet (50/50, 60/40, etc.)
+- Center of gravity position (height, forward/back)
+- Base width (too narrow = unstable, too wide = immobile)
+- Triangle stability principle (two feet + center creates triangle)
+- Connection to ground (principle #8)
+
+**Ability to Generate Power**:
+- Hip rotation capability (principle #25)
+- Weight transfer potential (principle #24)
+- External foot rotation enabling hip use (principle #17)
+- Back foot push for forward power
+- Structural alignment for force transmission (principle #9)
+
+**Ability to Move**:
+- Can transition to any direction immediately
+- Not "stuck" in position
+- Weight distribution allows instant movement
+- Feet positioned to enable next step
+
+**The Three-Way Balance**:
+- Stance too stable = can't move quickly
+- Stance too mobile = lacks power/stability
+- Good stance = optimal balance of all three requirements
+- Different techniques require different optimization (stability vs mobility vs power)
+
+#### B. Stances Are Transition Points, Not Destinations ⭐ CRITICAL INSIGHT
+
+**The Problem**:
+- Many aikidoka stop in "the stance" as if it's a position to hold
+- Stances taught as static positions in kata
+- Students freeze in stance thinking that's correct
+- Demonstration/kata practice reinforces stopping in stance
+
+**The Reality**:
+- Stances are **transition points** in continuous movement
+- You pass through stance, never stop there
+- Like walking: you don't stop in each step position
+- Natural movement flows through positions without pausing
+- Stopping in stance breaks flow and makes you vulnerable
+
+**Why This Matters**:
+- Stopping = telegraphing next move
+- Stopping = giving opponent time to respond
+- Stopping = breaking power generation (momentum lost)
+- Stopping = unnatural movement (people don't fight in frozen stances)
+- Fluidity requires continuous motion through transition points
+
+**Connection to Principles**:
+- Stage 3 learning (timing and flow) vs. rigid positioning
+- Principle #14 (natural walking) - stances should flow like walking
+- 13th Jo Kata teaching fluidity (not stopping)
+- Continuous kuzushi (principle #5) - never stop moving
+
+#### C. Jo vs Ken Stance Differences - Why?
+
+**Weapon Properties Dictate Stance**:
+- **Ken (sword)**: One-handed (primarily), blade orientation matters, cutting arcs
+- **Jo (staff)**: Two-handed, both ends usable, different leverage points
+- Weight distribution different
+- Balance point of weapon different
+- Range different (jo longer)
+
+**What This Reveals**:
+- Stance follows from weapon biomechanics, not tradition
+- Same principle: stability + power + movement
+- Different weapon = different optimal balance of three requirements
+- Understanding WHY helps apply principles across contexts
+
+#### D. Stance in Empty Hand (Taijutsu)
+
+**Do Same Principles Apply?**:
+- Still need stability + power + movement
+- But without weapon weight to manage
+- More mobile than weapon stances?
+- How does empty-hand stance differ from ken/jo?
+- Why does weapons training develop better empty-hand stance?
+
+**Questions for /discuss**:
+
+**What Makes a Good Stance**:
+- What are the three requirements of a good stance (stability, power, movement)?
+- How do you balance these three (can't maximize all simultaneously)?
+- What's the optimal weight distribution for different situations?
+- How does center of gravity height affect stability vs. mobility?
+- How wide should base be (feet apart) for optimal balance?
+- What role does external foot rotation play in stance?
+- How does good stance enable hip rotation and power generation?
+
+**Stances as Transitions**:
+- Why do aikidoka stop in stances when they should flow through?
+- What does "stance as transition point" mean practically?
+- How is this like walking (passing through positions, not stopping)?
+- Why does stopping in stance break power and telegraph movement?
+- How do you train continuous flow through stances without stopping?
+- What's the difference between "holding a stance" and "moving through a stance"?
+- Is this related to fluidity (13th jo kata) vs. rigidity?
+
+**Jo vs Ken Stances**:
+- Why does jo require different stance than ken?
+- How does weapon weight affect stance requirements?
+- How does weapon length affect stance width/depth?
+- How does two-handed (jo) vs. one-handed (ken) change weight distribution?
+- What biomechanical principle determines optimal stance for each weapon?
+- Can you derive correct stance from understanding weapon properties?
+
+**Stance Progression in Training**:
+- Do beginners need to learn static stances first?
+- When/how do you progress from static to flowing stances?
+- Is teaching static stances necessary or does it create bad habits?
+- How do you teach "pass through, don't stop" to beginners?
+- What's the progression: static → dynamic → flowing?
+
+**Empty Hand vs Weapon Stances**:
+- How do empty-hand stances differ from weapon stances?
+- Why are weapon stances generally deeper/wider?
+- Does weapons training develop better empty-hand stance? (Why?)
+- Can you have good empty-hand stance without weapons training?
+
+**Blog Potential** (10+ posts):
+- "What Makes a Good Stance: Stability, Power, and Movement"
+- "The Three-Way Balance: Why Perfect Stance Doesn't Exist"
+- "Stances Are Transitions, Not Destinations"
+- "Why Stopping in Your Stance Makes You Vulnerable"
+- "Flowing Through Positions: The Walking Principle"
+- "Jo vs Ken Stances: Why Weapons Require Different Footwork"
+- "How Weapon Properties Dictate Stance Requirements"
+- "From Weapons to Empty Hand: How Jo/Ken Training Develops Better Stance"
+- "The Static Stance Trap: Why Freezing in Position Breaks Flow"
+- "Teaching Stances Without Creating Rigidity"
+
+**Why This is VERY HIGH PRIORITY**:
+- Foundational to all movement (affects every technique)
+- Common error: treating stances as destinations instead of transitions
+- Connects to fluidity vs. rigidity problem
+- Explains jo vs ken differences (weapons framework)
+- Links to learning stages (rigid → flowing progression)
+- Relates to demonstration robotization problem (next topic)
+- Affects both weapons and empty-hand training
+
+---
+
+### 10. Demonstration Robotization Problem - Teaching Trap ⭐⭐⭐ CRITICAL TEACHING ISSUE
+
+**Current State**: Not documented anywhere - this is a major teaching problem not yet captured
+
+**The Problem Defined**:
+
+**What Is Demonstration Robotization?**:
+- Teachers repeatedly demonstrate techniques for students
+- Demonstrations require stopping at key points for clarity
+- Demonstrations emphasize positions over transitions
+- Demonstrations become teacher's main practice
+- **Result**: Teacher's own movement becomes rigid, robotic, non-fluid
+- Teacher loses the very fluidity they're trying to teach
+
+**How Demonstration Contradicts Fluidity**:
+- **Fluid technique**: Continuous flow, no stops, natural transitions
+- **Demonstration**: Stop to show position, hold stance, pause for students to see
+- These are OPPOSITE movements
+- Practicing demonstrations = practicing rigidity
+- Students copy the rigid demonstration, not the fluid technique
+
+**How This Affects Teachers**:
+- Teacher's own practice becomes demonstration practice
+- Hours spent showing positions instead of flowing through them
+- Muscle memory builds for stopped/rigid movement
+- Teacher gradually loses fluidity they once had
+- Ironic: teaching fluidity makes teacher less fluid
+- "Do as I say, not as I do" problem - teacher can't demonstrate what they're teaching
+
+**The Efficiency Problem**:
+- Rigid movement is inefficient (wastes energy, telegraphs intent)
+- Fluid movement is efficient (minimal wasted motion, continuous power)
+- Demonstration practice makes teacher inefficient
+- Teacher plateau because demonstration practice doesn't develop skill
+
+**Why This Happens**:
+- Teaching requires communication (slowing down, showing positions)
+- Students need to see structure (hard to see in fluid motion)
+- Repetition reinforces (teacher does hundreds of rigid demonstrations)
+- No correction mechanism (teacher rarely practices fluidly anymore)
+- Role of teacher = demonstrate, not train
+- Class structure emphasizes teaching over teacher's training
+
+**The Vicious Cycle**:
+1. Teacher learns fluid technique
+2. Begins teaching, must demonstrate clearly
+3. Demonstrates with stops/pauses for student learning
+4. Repeats demonstrations hundreds of times
+5. Muscle memory shifts to rigid demonstration style
+6. Teacher's own fluidity degrades
+7. Students learn rigid style from rigid demonstration
+8. Students become teachers, repeat cycle
+
+**Questions for /discuss**:
+
+**Understanding the Problem**:
+- What is demonstration robotization? How does it develop?
+- How does demonstration practice contradict fluid technique?
+- Why do teachers lose fluidity the more they teach?
+- Is this problem visible in many instructors?
+- Can you demonstrate fluidly while teaching clearly?
+- What's the difference between technique and demonstration-of-technique?
+
+**Effects on Teachers**:
+- How does repeated demonstration change teacher's movement?
+- What happens when demonstration becomes teacher's main practice?
+- Do experienced teachers become more rigid over time?
+- Is this why some teachers can't do what they're describing?
+- How does this create "do as I say, not as I do" problem?
+- Can teachers reverse this if they're aware of it?
+
+**Effects on Students**:
+- Do students copy the rigid demonstration or the intended fluid technique?
+- How can students learn fluidity from rigid demonstrations?
+- Is this why many aikidoka have robotic movement?
+- Does this explain why kata (formal demonstrations) can create rigidity?
+- How do students learn "don't do it this way, do it fluidly" when demonstration shows rigid form?
+
+**The Teaching Dilemma**:
+- How do you teach clearly without creating rigidity?
+- How do you show positions without stopping in them?
+- Can you demonstrate flow and structure simultaneously?
+- Is there a way to teach that doesn't degrade teacher's fluidity?
+- Should teachers maintain separate practice for their own fluidity?
+- What teaching methods avoid demonstration robotization?
+
+**Solutions/Approaches**:
+- How should teachers practice to maintain fluidity despite teaching demands?
+- Should teacher dedicate time to fluid practice (not just demonstration)?
+- Can you demonstrate in a way that emphasizes transitions over positions?
+- How do you teach "I'm showing you the structure, but in reality you flow through it"?
+- Should beginners see fluid technique even if they can't yet reproduce it?
+- What's the balance between clear demonstration and fluid practice?
+
+**Connection to Other Concepts**:
+- Stances as transitions (not destinations) - demonstration makes stances look like destinations
+- 13th jo kata fluidity vs. 31st kata precision - demonstration emphasizes precision over fluidity
+- Stage 3 (timing/flow) - demonstration can prevent reaching this stage
+- Kata as alphabet vs. kata as scripture - demonstration approach treats it as scripture
+- Knowing vs. embodied - teacher knows fluidity but embodies rigidity from demonstration practice
+
+**Blog Potential** (8+ posts):
+- "Demonstration Robotization: The Teaching Trap"
+- "How Teaching Aikido Can Make You Worse at Aikido"
+- "Why Many Teachers Lose Their Fluidity"
+- "The Demonstration Trap: Practicing Rigidity While Teaching Flow"
+- "How to Teach Without Destroying Your Own Technique"
+- "The Vicious Cycle: Rigid Demos Create Rigid Students Create Rigid Teachers"
+- "Separating Teaching Practice from Training Practice"
+- "How to Demonstrate Without Stopping: Teaching Transitions"
+- "Why Your Sensei Can't Do What They're Describing"
+
+**Why This is CRITICAL PRIORITY**:
+- Affects teaching quality across aikido community
+- Explains why many teachers have rigid movement
+- Explains why students learn robotic techniques
+- Self-perpetuating problem (rigid students become rigid teachers)
+- Solution requires awareness and intentional practice structure
+- Has major implications for how we teach and what we demonstrate
+- Connects to fluidity vs. rigidity theme throughout learning-journey
+- This insight could improve teaching methodology significantly
+
+**Cross-References**:
+- Connects to Iwama critique (rigidity without relaxation) - demonstration practice may contribute
+- Connects to stance transitions (demonstration makes stances look like destinations)
+- Connects to 13th jo kata (fluidity development) vs. demonstration rigidity
+- Connects to Stage 3 learning (flow) - demonstration prevents flow
+- Relates to kata as alphabet - demonstrations can make kata look like fixed scripture
+
+---
+
+### 11. Cross-Discipline Insights Need Examples
 
 **Current State**:
 - blog-series-structure.md has Series 9: Cross-Discipline Insights (5 posts)
@@ -398,7 +693,7 @@ Or one very comprehensive session covering all elements (90+ minutes).
 
 ---
 
-### 10. Solo Training Beyond Suburis
+### 12. Solo Training Beyond Suburis
 
 **Current State**:
 - blog-series-structure.md has Series 10: Solo Training (4 posts)
