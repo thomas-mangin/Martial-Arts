@@ -34,28 +34,47 @@ Leo Tamaki is a respected Aikido teacher and blogger who offers deep technical i
 ## Content Tracking
 
 **Added**: 2025-10-30
-**Last Scanned**: Not yet scanned
-**Total Posts Reviewed**: 0
-**Ideas Generated**: 0
+**Last Scanned**: 2025-10-30
+**Total Posts Reviewed**: 1
+**Ideas Generated**: 5
 **Blog Posts Inspired**: 0
 
 ### Scan History
 | Date | Posts Found | Ideas Generated | Status |
 |------|-------------|-----------------|---------|
-| - | - | - | - |
+| 2025-10-30 | 1 (major interview) | 5 high-quality ideas | ✅ Complete |
 
 ### Ideas Generated from This Source
-*None yet. Run `/scan-sources leo-tamaki` to analyze his content.*
+
+1. **"The 10,000-Hour Question: How Long Does Aikido Mastery Really Take?"** (Exploration/Response)
+   - Audiences: Intermediate, Advanced, Beginners, Instructors, Prospects
+   - Priority: Medium
+
+2. **"Solo Training for Aikido: Beyond Suburis"** (Practical Extension)
+   - Audiences: Intermediate, Young adults, Beginners, Advanced, Instructors
+   - Priority: ✅ High
+
+3. **"When Simple Techniques Aren't Enough: Body Modification in Aikido"** (Response/Technical)
+   - Audiences: Intermediate, Technical focus, Advanced, Instructors, Cross-trainers
+   - Priority: ✅ High
+
+4. **"Teaching Aikido Through Discovery: Guided Experimentation vs. Direct Instruction"** (Pedagogical)
+   - Audiences: Instructors, Dojo owners, Advanced, Intermediate
+   - Priority: Medium
+
+5. **"The Paradox of Aikido Ranking: When Belts Don't Reflect Mastery"** (Response/Critical)
+   - Audiences: Advanced, Instructors, Dojo owners, Intermediate, Cross-trainers
+   - Priority: Lower (controversial, needs careful timing)
+
+**See findings report**: `sources/findings/2025-10-30-leo-tamaki.md`
 
 ---
 
 ## Recent Posts Tracked
 
-*Will be populated by /scan-sources command*
-
 | Date | Title | URL | Analyzed | Notes |
 |------|-------|-----|----------|-------|
-| - | - | - | - | - |
+| 2023-10-31 | "Une vision de la voie: interview avec Léo Tamaki" | https://www.leotamaki.com | ✅ Yes | Extensive interview on aikido philosophy, solo training, body modification, teaching methodology. Generated 5 blog ideas. |
 
 ---
 
