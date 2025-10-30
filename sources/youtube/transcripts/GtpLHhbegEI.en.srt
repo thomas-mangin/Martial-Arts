@@ -1,0 +1,3265 @@
+1
+00:00:00,960 --> 00:00:02,550
+
+hi i'm christopher hine and today we're
+
+2
+00:00:02,550 --> 00:00:02,560
+hi i'm christopher hine and today we're
+ 
+
+3
+00:00:02,560 --> 00:00:05,030
+hi i'm christopher hine and today we're
+going to talk about internal
+
+4
+00:00:05,030 --> 00:00:05,040
+going to talk about internal
+ 
+
+5
+00:00:05,040 --> 00:00:06,710
+going to talk about internal
+power
+
+6
+00:00:06,710 --> 00:00:06,720
+power
+ 
+
+7
+00:00:06,720 --> 00:00:08,549
+power
+this is something i really don't like
+
+8
+00:00:08,549 --> 00:00:08,559
+this is something i really don't like
+ 
+
+9
+00:00:08,559 --> 00:00:11,270
+this is something i really don't like
+talking about very much anymore because
+
+10
+00:00:11,270 --> 00:00:11,280
+talking about very much anymore because
+ 
+
+11
+00:00:11,280 --> 00:00:12,950
+talking about very much anymore because
+um i feel like there's kind of a
+
+12
+00:00:12,950 --> 00:00:12,960
+um i feel like there's kind of a
+ 
+
+13
+00:00:12,960 --> 00:00:14,470
+um i feel like there's kind of a
+nonsense factory that just kind of
+
+14
+00:00:14,470 --> 00:00:14,480
+nonsense factory that just kind of
+ 
+
+15
+00:00:14,480 --> 00:00:16,790
+nonsense factory that just kind of
+produces nonsense about this
+
+16
+00:00:16,790 --> 00:00:16,800
+produces nonsense about this
+ 
+
+17
+00:00:16,800 --> 00:00:19,830
+produces nonsense about this
+unendingly and there is no escape from
+
+18
+00:00:19,830 --> 00:00:19,840
+unendingly and there is no escape from
+ 
+
+19
+00:00:19,840 --> 00:00:23,029
+unendingly and there is no escape from
+it um that being said i believe there is
+
+20
+00:00:23,029 --> 00:00:23,039
+it um that being said i believe there is
+ 
+
+21
+00:00:23,039 --> 00:00:24,870
+it um that being said i believe there is
+something that's being pointed out with
+
+22
+00:00:24,870 --> 00:00:24,880
+something that's being pointed out with
+ 
+
+23
+00:00:24,880 --> 00:00:26,550
+something that's being pointed out with
+internal power and i think there are
+
+24
+00:00:26,550 --> 00:00:26,560
+internal power and i think there are
+ 
+
+25
+00:00:26,560 --> 00:00:28,230
+internal power and i think there are
+some legitimate teachers who say they
+
+26
+00:00:28,230 --> 00:00:28,240
+some legitimate teachers who say they
+ 
+
+27
+00:00:28,240 --> 00:00:31,109
+some legitimate teachers who say they
+teach internal power or internal things
+
+28
+00:00:31,109 --> 00:00:31,119
+teach internal power or internal things
+ 
+
+29
+00:00:31,119 --> 00:00:33,510
+teach internal power or internal things
+and and they're legitimately describing
+
+30
+00:00:33,510 --> 00:00:33,520
+and and they're legitimately describing
+ 
+
+31
+00:00:33,520 --> 00:00:35,750
+and and they're legitimately describing
+some real stuff that's happening however
+
+32
+00:00:35,750 --> 00:00:35,760
+some real stuff that's happening however
+ 
+
+33
+00:00:35,760 --> 00:00:37,350
+some real stuff that's happening however
+there are demonstrations of these things
+
+34
+00:00:37,350 --> 00:00:37,360
+there are demonstrations of these things
+ 
+
+35
+00:00:37,360 --> 00:00:39,270
+there are demonstrations of these things
+that are so fantastical that a lot of
+
+36
+00:00:39,270 --> 00:00:39,280
+that are so fantastical that a lot of
+ 
+
+37
+00:00:39,280 --> 00:00:42,229
+that are so fantastical that a lot of
+times people equate internal power with
+
+38
+00:00:42,229 --> 00:00:42,239
+times people equate internal power with
+ 
+
+39
+00:00:42,239 --> 00:00:44,229
+times people equate internal power with
+magic power there's also kind of
+
+40
+00:00:44,229 --> 00:00:44,239
+magic power there's also kind of
+ 
+
+41
+00:00:44,239 --> 00:00:46,549
+magic power there's also kind of
+confusion whether internal power is
+
+42
+00:00:46,549 --> 00:00:46,559
+confusion whether internal power is
+ 
+
+43
+00:00:46,559 --> 00:00:48,869
+confusion whether internal power is
+spiritual stuff or internal power is a
+
+44
+00:00:48,869 --> 00:00:48,879
+spiritual stuff or internal power is a
+ 
+
+45
+00:00:48,879 --> 00:00:51,189
+spiritual stuff or internal power is a
+body skill or internal power is an
+
+46
+00:00:51,189 --> 00:00:51,199
+body skill or internal power is an
+ 
+
+47
+00:00:51,199 --> 00:00:53,670
+body skill or internal power is an
+inherent skill or an energetic skill or
+
+48
+00:00:53,670 --> 00:00:53,680
+inherent skill or an energetic skill or
+ 
+
+49
+00:00:53,680 --> 00:00:56,709
+inherent skill or an energetic skill or
+all kinds of stuff around this
+
+50
+00:00:56,709 --> 00:00:56,719
+all kinds of stuff around this
+ 
+
+51
+00:00:56,719 --> 00:00:59,590
+all kinds of stuff around this
+i also want to separate saying internal
+
+52
+00:00:59,590 --> 00:00:59,600
+i also want to separate saying internal
+ 
+
+53
+00:00:59,600 --> 00:01:02,389
+i also want to separate saying internal
+power from um internal chinese martial
+
+54
+00:01:02,389 --> 00:01:02,399
+power from um internal chinese martial
+ 
+
+55
+00:01:02,399 --> 00:01:04,390
+power from um internal chinese martial
+arts i believe there's a distinction
+
+56
+00:01:04,390 --> 00:01:04,400
+arts i believe there's a distinction
+ 
+
+57
+00:01:04,400 --> 00:01:05,990
+arts i believe there's a distinction
+between those two things internal
+
+58
+00:01:05,990 --> 00:01:06,000
+between those two things internal
+ 
+
+59
+00:01:06,000 --> 00:01:07,910
+between those two things internal
+chinese martial arts is a
+
+60
+00:01:07,910 --> 00:01:07,920
+chinese martial arts is a
+ 
+
+61
+00:01:07,920 --> 00:01:09,830
+chinese martial arts is a
+valid section of martial arts to be
+
+62
+00:01:09,830 --> 00:01:09,840
+valid section of martial arts to be
+ 
+
+63
+00:01:09,840 --> 00:01:12,149
+valid section of martial arts to be
+studied i've studied them with an expert
+
+64
+00:01:12,149 --> 00:01:12,159
+studied i've studied them with an expert
+ 
+
+65
+00:01:12,159 --> 00:01:14,230
+studied i've studied them with an expert
+in internal chinese martial arts and
+
+66
+00:01:14,230 --> 00:01:14,240
+in internal chinese martial arts and
+ 
+
+67
+00:01:14,240 --> 00:01:16,550
+in internal chinese martial arts and
+then there's what's the other extreme
+
+68
+00:01:16,550 --> 00:01:16,560
+then there's what's the other extreme
+ 
+
+69
+00:01:16,560 --> 00:01:19,230
+then there's what's the other extreme
+side of that is people who study uh
+
+70
+00:01:19,230 --> 00:01:19,240
+side of that is people who study uh
+ 
+
+71
+00:01:19,240 --> 00:01:22,390
+side of that is people who study uh
+ipitis right so internal power internal
+
+72
+00:01:22,390 --> 00:01:22,400
+ipitis right so internal power internal
+ 
+
+73
+00:01:22,400 --> 00:01:24,149
+ipitis right so internal power internal
+strength internal training
+
+74
+00:01:24,149 --> 00:01:24,159
+strength internal training
+ 
+
+75
+00:01:24,159 --> 00:01:26,230
+strength internal training
+and when you see uh that kind of stuff a
+
+76
+00:01:26,230 --> 00:01:26,240
+and when you see uh that kind of stuff a
+ 
+
+77
+00:01:26,240 --> 00:01:27,910
+and when you see uh that kind of stuff a
+lot of times those guys it's not that
+
+78
+00:01:27,910 --> 00:01:27,920
+lot of times those guys it's not that
+ 
+
+79
+00:01:27,920 --> 00:01:29,910
+lot of times those guys it's not that
+they're
+
+80
+00:01:29,910 --> 00:01:29,920
+they're
+ 
+
+81
+00:01:29,920 --> 00:01:32,069
+they're
+i think there are some more devious
+
+82
+00:01:32,069 --> 00:01:32,079
+i think there are some more devious
+ 
+
+83
+00:01:32,079 --> 00:01:33,190
+i think there are some more devious
+versions of that and i think there's
+
+84
+00:01:33,190 --> 00:01:33,200
+versions of that and i think there's
+ 
+
+85
+00:01:33,200 --> 00:01:34,950
+versions of that and i think there's
+some less devious versions of that but
+
+86
+00:01:34,950 --> 00:01:34,960
+some less devious versions of that but
+ 
+
+87
+00:01:34,960 --> 00:01:36,550
+some less devious versions of that but
+basically there are some things that
+
+88
+00:01:36,550 --> 00:01:36,560
+basically there are some things that
+ 
+
+89
+00:01:36,560 --> 00:01:38,789
+basically there are some things that
+they do that can seem very impressive
+
+90
+00:01:38,789 --> 00:01:38,799
+they do that can seem very impressive
+ 
+
+91
+00:01:38,799 --> 00:01:40,469
+they do that can seem very impressive
+i'm going to show you a series of these
+
+92
+00:01:40,469 --> 00:01:40,479
+i'm going to show you a series of these
+ 
+
+93
+00:01:40,479 --> 00:01:42,069
+i'm going to show you a series of these
+demonstrations
+
+94
+00:01:42,069 --> 00:01:42,079
+demonstrations
+ 
+
+95
+00:01:42,079 --> 00:01:44,069
+demonstrations
+and
+
+96
+00:01:44,069 --> 00:01:44,079
+and
+ 
+
+97
+00:01:44,079 --> 00:01:45,670
+and
+when seen through the wrong lens can be
+
+98
+00:01:45,670 --> 00:01:45,680
+when seen through the wrong lens can be
+ 
+
+99
+00:01:45,680 --> 00:01:47,109
+when seen through the wrong lens can be
+misconstrued as something that they are
+
+100
+00:01:47,109 --> 00:01:47,119
+misconstrued as something that they are
+ 
+
+101
+00:01:47,119 --> 00:01:49,109
+misconstrued as something that they are
+not they are basically just ways to be
+
+102
+00:01:49,109 --> 00:01:49,119
+not they are basically just ways to be
+ 
+
+103
+00:01:49,119 --> 00:01:51,429
+not they are basically just ways to be
+efficient and efficient uses of the body
+
+104
+00:01:51,429 --> 00:01:51,439
+efficient and efficient uses of the body
+ 
+
+105
+00:01:51,439 --> 00:01:53,670
+efficient and efficient uses of the body
+they are available to anyone in fact you
+
+106
+00:01:53,670 --> 00:01:53,680
+they are available to anyone in fact you
+ 
+
+107
+00:01:53,680 --> 00:01:55,429
+they are available to anyone in fact you
+use them all the time you just don't
+
+108
+00:01:55,429 --> 00:01:55,439
+use them all the time you just don't
+ 
+
+109
+00:01:55,439 --> 00:01:57,270
+use them all the time you just don't
+know it anything that you do right and
+
+110
+00:01:57,270 --> 00:01:57,280
+know it anything that you do right and
+ 
+
+111
+00:01:57,280 --> 00:01:58,709
+know it anything that you do right and
+efficiently you probably use some
+
+112
+00:01:58,709 --> 00:01:58,719
+efficiently you probably use some
+ 
+
+113
+00:01:58,719 --> 00:02:01,350
+efficiently you probably use some
+internal power principles when doing it
+
+114
+00:02:01,350 --> 00:02:01,360
+internal power principles when doing it
+ 
+
+115
+00:02:01,360 --> 00:02:02,630
+internal power principles when doing it
+but then there's a lot of people who
+
+116
+00:02:02,630 --> 00:02:02,640
+but then there's a lot of people who
+ 
+
+117
+00:02:02,640 --> 00:02:04,230
+but then there's a lot of people who
+like to say oh only certain people who
+
+118
+00:02:04,230 --> 00:02:04,240
+like to say oh only certain people who
+ 
+
+119
+00:02:04,240 --> 00:02:05,990
+like to say oh only certain people who
+have the skill who got to sit for six
+
+120
+00:02:05,990 --> 00:02:06,000
+have the skill who got to sit for six
+ 
+
+121
+00:02:06,000 --> 00:02:07,670
+have the skill who got to sit for six
+years on a mountain and breathe through
+
+122
+00:02:07,670 --> 00:02:07,680
+years on a mountain and breathe through
+ 
+
+123
+00:02:07,680 --> 00:02:09,350
+years on a mountain and breathe through
+their belly and hit their heads with red
+
+124
+00:02:09,350 --> 00:02:09,360
+their belly and hit their heads with red
+ 
+
+125
+00:02:09,360 --> 00:02:11,270
+their belly and hit their heads with red
+bricks or whatever whatever
+
+126
+00:02:11,270 --> 00:02:11,280
+bricks or whatever whatever
+ 
+
+127
+00:02:11,280 --> 00:02:13,589
+bricks or whatever whatever
+magic secret thing is
+
+128
+00:02:13,589 --> 00:02:13,599
+magic secret thing is
+ 
+
+129
+00:02:13,599 --> 00:02:14,869
+magic secret thing is
+that's the only way you're going to get
+
+130
+00:02:14,869 --> 00:02:14,879
+that's the only way you're going to get
+ 
+
+131
+00:02:14,879 --> 00:02:16,550
+that's the only way you're going to get
+it so
+
+132
+00:02:16,550 --> 00:02:16,560
+it so
+ 
+
+133
+00:02:16,560 --> 00:02:17,750
+it so
+i'm going to get josh out here we're
+
+134
+00:02:17,750 --> 00:02:17,760
+i'm going to get josh out here we're
+ 
+
+135
+00:02:17,760 --> 00:02:19,190
+i'm going to get josh out here we're
+going to go over a few things i'm going
+
+136
+00:02:19,190 --> 00:02:19,200
+going to go over a few things i'm going
+ 
+
+137
+00:02:19,200 --> 00:02:20,550
+going to go over a few things i'm going
+to break this up into sections because
+
+138
+00:02:20,550 --> 00:02:20,560
+to break this up into sections because
+ 
+
+139
+00:02:20,560 --> 00:02:21,589
+to break this up into sections because
+there's several sections i think you
+
+140
+00:02:21,589 --> 00:02:21,599
+there's several sections i think you
+ 
+
+141
+00:02:21,599 --> 00:02:22,949
+there's several sections i think you
+need to understand
+
+142
+00:02:22,949 --> 00:02:22,959
+need to understand
+ 
+
+143
+00:02:22,959 --> 00:02:25,350
+need to understand
+this is a organization i made for myself
+
+144
+00:02:25,350 --> 00:02:25,360
+this is a organization i made for myself
+ 
+
+145
+00:02:25,360 --> 00:02:27,110
+this is a organization i made for myself
+when i was trying to
+
+146
+00:02:27,110 --> 00:02:27,120
+when i was trying to
+ 
+
+147
+00:02:27,120 --> 00:02:28,790
+when i was trying to
+debunk a lot of this stuff and i was
+
+148
+00:02:28,790 --> 00:02:28,800
+debunk a lot of this stuff and i was
+ 
+
+149
+00:02:28,800 --> 00:02:29,990
+debunk a lot of this stuff and i was
+kind of going through and saying like
+
+150
+00:02:29,990 --> 00:02:30,000
+kind of going through and saying like
+ 
+
+151
+00:02:30,000 --> 00:02:31,910
+kind of going through and saying like
+well that's just this this is just this
+
+152
+00:02:31,910 --> 00:02:31,920
+well that's just this this is just this
+ 
+
+153
+00:02:31,920 --> 00:02:33,430
+well that's just this this is just this
+and i realized that there are just some
+
+154
+00:02:33,430 --> 00:02:33,440
+and i realized that there are just some
+ 
+
+155
+00:02:33,440 --> 00:02:35,430
+and i realized that there are just some
+basic themes that are used over and over
+
+156
+00:02:35,430 --> 00:02:35,440
+basic themes that are used over and over
+ 
+
+157
+00:02:35,440 --> 00:02:36,949
+basic themes that are used over and over
+and over and they're kind of
+
+158
+00:02:36,949 --> 00:02:36,959
+and over and they're kind of
+ 
+
+159
+00:02:36,959 --> 00:02:38,229
+and over and they're kind of
+misconstrued as different things so
+
+160
+00:02:38,229 --> 00:02:38,239
+misconstrued as different things so
+ 
+
+161
+00:02:38,239 --> 00:02:39,589
+misconstrued as different things so
+today we're going to talk about levers
+
+162
+00:02:39,589 --> 00:02:39,599
+today we're going to talk about levers
+ 
+
+163
+00:02:39,599 --> 00:02:41,990
+today we're going to talk about levers
+and leverage and how that's used in
+
+164
+00:02:41,990 --> 00:02:42,000
+and leverage and how that's used in
+ 
+
+165
+00:02:42,000 --> 00:02:43,509
+and leverage and how that's used in
+internal strength internal power
+
+166
+00:02:43,509 --> 00:02:43,519
+internal strength internal power
+ 
+
+167
+00:02:43,519 --> 00:02:45,750
+internal strength internal power
+internal training and i'm gonna get josh
+
+168
+00:02:45,750 --> 00:02:45,760
+internal training and i'm gonna get josh
+ 
+
+169
+00:02:45,760 --> 00:02:46,949
+internal training and i'm gonna get josh
+over here we're gonna make a simple
+
+170
+00:02:46,949 --> 00:02:46,959
+over here we're gonna make a simple
+ 
+
+171
+00:02:46,959 --> 00:02:50,650
+over here we're gonna make a simple
+demonstration for you guys josh
+
+172
+00:02:50,650 --> 00:02:50,660
+demonstration for you guys josh
+ 
+
+173
+00:02:50,660 --> 00:02:57,400
+demonstration for you guys josh
+[Music]
+
+174
+00:02:57,400 --> 00:02:57,410
+[Music]
+ 
+
+175
+00:02:57,410 --> 00:02:58,780
+[Music]
+[Applause]
+
+176
+00:02:58,780 --> 00:02:58,790
+[Applause]
+ 
+
+177
+00:02:58,790 --> 00:03:07,509
+[Applause]
+[Music]
+
+178
+00:03:07,509 --> 00:03:07,519
+
+ 
+
+179
+00:03:07,519 --> 00:03:09,270
+
+all right so we're going to talk about
+
+180
+00:03:09,270 --> 00:03:09,280
+all right so we're going to talk about
+ 
+
+181
+00:03:09,280 --> 00:03:11,190
+all right so we're going to talk about
+the mysteries of
+
+182
+00:03:11,190 --> 00:03:11,200
+the mysteries of
+ 
+
+183
+00:03:11,200 --> 00:03:13,190
+the mysteries of
+internal power
+
+184
+00:03:13,190 --> 00:03:13,200
+internal power
+ 
+
+185
+00:03:13,200 --> 00:03:15,190
+internal power
+there's a few different things those
+
+186
+00:03:15,190 --> 00:03:15,200
+there's a few different things those
+ 
+
+187
+00:03:15,200 --> 00:03:16,790
+there's a few different things those
+uh
+
+188
+00:03:16,790 --> 00:03:16,800
+uh
+ 
+
+189
+00:03:16,800 --> 00:03:18,710
+uh
+line out to right so one of the things
+
+190
+00:03:18,710 --> 00:03:18,720
+line out to right so one of the things
+ 
+
+191
+00:03:18,720 --> 00:03:21,430
+line out to right so one of the things
+is leverage another one is
+
+192
+00:03:21,430 --> 00:03:21,440
+is leverage another one is
+ 
+
+193
+00:03:21,440 --> 00:03:23,589
+is leverage another one is
+muscle distraction another one is force
+
+194
+00:03:23,589 --> 00:03:23,599
+muscle distraction another one is force
+ 
+
+195
+00:03:23,599 --> 00:03:24,630
+muscle distraction another one is force
+angle
+
+196
+00:03:24,630 --> 00:03:24,640
+angle
+ 
+
+197
+00:03:24,640 --> 00:03:26,229
+angle
+another one is joining force so those
+
+198
+00:03:26,229 --> 00:03:26,239
+another one is joining force so those
+ 
+
+199
+00:03:26,239 --> 00:03:28,630
+another one is joining force so those
+are the ways i kind of break it down to
+
+200
+00:03:28,630 --> 00:03:28,640
+are the ways i kind of break it down to
+ 
+
+201
+00:03:28,640 --> 00:03:30,470
+are the ways i kind of break it down to
+when you see these demonstrations that
+
+202
+00:03:30,470 --> 00:03:30,480
+when you see these demonstrations that
+ 
+
+203
+00:03:30,480 --> 00:03:32,470
+when you see these demonstrations that
+look really amazing you're probably
+
+204
+00:03:32,470 --> 00:03:32,480
+look really amazing you're probably
+ 
+
+205
+00:03:32,480 --> 00:03:33,910
+look really amazing you're probably
+seeing one of those really simple
+
+206
+00:03:33,910 --> 00:03:33,920
+seeing one of those really simple
+ 
+
+207
+00:03:33,920 --> 00:03:35,910
+seeing one of those really simple
+principles those are real legitimate
+
+208
+00:03:35,910 --> 00:03:35,920
+principles those are real legitimate
+ 
+
+209
+00:03:35,920 --> 00:03:37,750
+principles those are real legitimate
+principles of physics or anything else
+
+210
+00:03:37,750 --> 00:03:37,760
+principles of physics or anything else
+ 
+
+211
+00:03:37,760 --> 00:03:39,270
+principles of physics or anything else
+that you can use you use them in martial
+
+212
+00:03:39,270 --> 00:03:39,280
+that you can use you use them in martial
+ 
+
+213
+00:03:39,280 --> 00:03:40,390
+that you can use you use them in martial
+arts systems all the time you probably
+
+214
+00:03:40,390 --> 00:03:40,400
+arts systems all the time you probably
+ 
+
+215
+00:03:40,400 --> 00:03:42,229
+arts systems all the time you probably
+use them in your regular life all the
+
+216
+00:03:42,229 --> 00:03:42,239
+use them in your regular life all the
+ 
+
+217
+00:03:42,239 --> 00:03:44,710
+use them in your regular life all the
+time the the muckety muck of it and the
+
+218
+00:03:44,710 --> 00:03:44,720
+time the the muckety muck of it and the
+ 
+
+219
+00:03:44,720 --> 00:03:46,309
+time the the muckety muck of it and the
+stuff that makes me mad is when people
+
+220
+00:03:46,309 --> 00:03:46,319
+stuff that makes me mad is when people
+ 
+
+221
+00:03:46,319 --> 00:03:48,710
+stuff that makes me mad is when people
+get into like oh that guy's vetted to be
+
+222
+00:03:48,710 --> 00:03:48,720
+get into like oh that guy's vetted to be
+ 
+
+223
+00:03:48,720 --> 00:03:51,910
+get into like oh that guy's vetted to be
+a real internal master you know and uh i
+
+224
+00:03:51,910 --> 00:03:51,920
+a real internal master you know and uh i
+ 
+
+225
+00:03:51,920 --> 00:03:53,110
+a real internal master you know and uh i
+think a lot of this is just kind of
+
+226
+00:03:53,110 --> 00:03:53,120
+think a lot of this is just kind of
+ 
+
+227
+00:03:53,120 --> 00:03:55,270
+think a lot of this is just kind of
+nonsense so i'm gonna show you some
+
+228
+00:03:55,270 --> 00:03:55,280
+nonsense so i'm gonna show you some
+ 
+
+229
+00:03:55,280 --> 00:03:56,630
+nonsense so i'm gonna show you some
+stuff with leverage and some of it's
+
+230
+00:03:56,630 --> 00:03:56,640
+stuff with leverage and some of it's
+ 
+
+231
+00:03:56,640 --> 00:03:58,149
+stuff with leverage and some of it's
+kind of interesting and cool and you can
+
+232
+00:03:58,149 --> 00:03:58,159
+kind of interesting and cool and you can
+ 
+
+233
+00:03:58,159 --> 00:04:00,229
+kind of interesting and cool and you can
+kind of apply that to things you see and
+
+234
+00:04:00,229 --> 00:04:00,239
+kind of apply that to things you see and
+ 
+
+235
+00:04:00,239 --> 00:04:01,350
+kind of apply that to things you see and
+you can see how you get these
+
+236
+00:04:01,350 --> 00:04:01,360
+you can see how you get these
+ 
+
+237
+00:04:01,360 --> 00:04:02,630
+you can see how you get these
+demonstrations so maybe at the end if
+
+238
+00:04:02,630 --> 00:04:02,640
+demonstrations so maybe at the end if
+ 
+
+239
+00:04:02,640 --> 00:04:03,750
+demonstrations so maybe at the end if
+you guys are interested i'll make a
+
+240
+00:04:03,750 --> 00:04:03,760
+you guys are interested i'll make a
+ 
+
+241
+00:04:03,760 --> 00:04:04,869
+you guys are interested i'll make a
+video me doing some of these
+
+242
+00:04:04,869 --> 00:04:04,879
+video me doing some of these
+ 
+
+243
+00:04:04,879 --> 00:04:06,949
+video me doing some of these
+demonstrations um or maybe i'll get
+
+244
+00:04:06,949 --> 00:04:06,959
+demonstrations um or maybe i'll get
+ 
+
+245
+00:04:06,959 --> 00:04:08,949
+demonstrations um or maybe i'll get
+someone real small and and cute to do it
+
+246
+00:04:08,949 --> 00:04:08,959
+someone real small and and cute to do it
+ 
+
+247
+00:04:08,959 --> 00:04:11,270
+someone real small and and cute to do it
+and be better okay
+
+248
+00:04:11,270 --> 00:04:11,280
+and be better okay
+ 
+
+249
+00:04:11,280 --> 00:04:12,390
+and be better okay
+all right so we're talking about
+
+250
+00:04:12,390 --> 00:04:12,400
+all right so we're talking about
+ 
+
+251
+00:04:12,400 --> 00:04:14,630
+all right so we're talking about
+leverage so leverage is just any time
+
+252
+00:04:14,630 --> 00:04:14,640
+leverage so leverage is just any time
+ 
+
+253
+00:04:14,640 --> 00:04:16,870
+leverage so leverage is just any time
+we're using a lever so i got a big long
+
+254
+00:04:16,870 --> 00:04:16,880
+we're using a lever so i got a big long
+ 
+
+255
+00:04:16,880 --> 00:04:19,189
+we're using a lever so i got a big long
+lever so it would really magnify things
+
+256
+00:04:19,189 --> 00:04:19,199
+lever so it would really magnify things
+ 
+
+257
+00:04:19,199 --> 00:04:21,670
+lever so it would really magnify things
+uh awesomely and right here we have 20
+
+258
+00:04:21,670 --> 00:04:21,680
+uh awesomely and right here we have 20
+ 
+
+259
+00:04:21,680 --> 00:04:23,909
+uh awesomely and right here we have 20
+pounds that i stuck a strap on so i got
+
+260
+00:04:23,909 --> 00:04:23,919
+pounds that i stuck a strap on so i got
+ 
+
+261
+00:04:23,919 --> 00:04:25,749
+pounds that i stuck a strap on so i got
+a 20 pound weight there josh just pick
+
+262
+00:04:25,749 --> 00:04:25,759
+a 20 pound weight there josh just pick
+ 
+
+263
+00:04:25,759 --> 00:04:27,590
+a 20 pound weight there josh just pick
+up the 20 pound weight
+
+264
+00:04:27,590 --> 00:04:27,600
+up the 20 pound weight
+ 
+
+265
+00:04:27,600 --> 00:04:29,909
+up the 20 pound weight
+right okay so not not terribly hard for
+
+266
+00:04:29,909 --> 00:04:29,919
+right okay so not not terribly hard for
+ 
+
+267
+00:04:29,919 --> 00:04:31,749
+right okay so not not terribly hard for
+josh's full-grown man he can easily pick
+
+268
+00:04:31,749 --> 00:04:31,759
+josh's full-grown man he can easily pick
+ 
+
+269
+00:04:31,759 --> 00:04:34,550
+josh's full-grown man he can easily pick
+up 20 pounds okay now uh can you go to
+
+270
+00:04:34,550 --> 00:04:34,560
+up 20 pounds okay now uh can you go to
+ 
+
+271
+00:04:34,560 --> 00:04:36,469
+up 20 pounds okay now uh can you go to
+the end of this lever here maybe i don't
+
+272
+00:04:36,469 --> 00:04:36,479
+the end of this lever here maybe i don't
+ 
+
+273
+00:04:36,479 --> 00:04:37,990
+the end of this lever here maybe i don't
+want to get you off frame but i'll set
+
+274
+00:04:37,990 --> 00:04:38,000
+want to get you off frame but i'll set
+ 
+
+275
+00:04:38,000 --> 00:04:40,790
+want to get you off frame but i'll set
+this up okay now once you get both hands
+
+276
+00:04:40,790 --> 00:04:40,800
+this up okay now once you get both hands
+ 
+
+277
+00:04:40,800 --> 00:04:42,469
+this up okay now once you get both hands
+on this lever and i'm going to thread
+
+278
+00:04:42,469 --> 00:04:42,479
+on this lever and i'm going to thread
+ 
+
+279
+00:04:42,479 --> 00:04:44,390
+on this lever and i'm going to thread
+that strap through there and now i want
+
+280
+00:04:44,390 --> 00:04:44,400
+that strap through there and now i want
+ 
+
+281
+00:04:44,400 --> 00:04:48,390
+that strap through there and now i want
+you to pick up that 20 pound weight
+
+282
+00:04:48,390 --> 00:04:48,400
+
+ 
+
+283
+00:04:48,400 --> 00:04:51,030
+
+okay same 20 pounds right but now the
+
+284
+00:04:51,030 --> 00:04:51,040
+okay same 20 pounds right but now the
+ 
+
+285
+00:04:51,040 --> 00:04:52,950
+okay same 20 pounds right but now the
+stick's bending josh is working real
+
+286
+00:04:52,950 --> 00:04:52,960
+stick's bending josh is working real
+ 
+
+287
+00:04:52,960 --> 00:04:55,590
+stick's bending josh is working real
+hard and the weight didn't budge any and
+
+288
+00:04:55,590 --> 00:04:55,600
+hard and the weight didn't budge any and
+ 
+
+289
+00:04:55,600 --> 00:04:56,710
+hard and the weight didn't budge any and
+there's no faking you can tell there's
+
+290
+00:04:56,710 --> 00:04:56,720
+there's no faking you can tell there's
+ 
+
+291
+00:04:56,720 --> 00:04:58,469
+there's no faking you can tell there's
+no faking because the stick's bending
+
+292
+00:04:58,469 --> 00:04:58,479
+no faking because the stick's bending
+ 
+
+293
+00:04:58,479 --> 00:04:59,510
+no faking because the stick's bending
+right it's like
+
+294
+00:04:59,510 --> 00:04:59,520
+right it's like
+ 
+
+295
+00:04:59,520 --> 00:05:01,909
+right it's like
+just a ton of weight right and that's
+
+296
+00:05:01,909 --> 00:05:01,919
+just a ton of weight right and that's
+ 
+
+297
+00:05:01,919 --> 00:05:03,670
+just a ton of weight right and that's
+because as this weight goes out on the
+
+298
+00:05:03,670 --> 00:05:03,680
+because as this weight goes out on the
+ 
+
+299
+00:05:03,680 --> 00:05:05,830
+because as this weight goes out on the
+lever arm its weight
+
+300
+00:05:05,830 --> 00:05:05,840
+lever arm its weight
+ 
+
+301
+00:05:05,840 --> 00:05:07,510
+lever arm its weight
+relatively gets magnified and that's not
+
+302
+00:05:07,510 --> 00:05:07,520
+relatively gets magnified and that's not
+ 
+
+303
+00:05:07,520 --> 00:05:09,029
+relatively gets magnified and that's not
+true and we can get into physics about
+
+304
+00:05:09,029 --> 00:05:09,039
+true and we can get into physics about
+ 
+
+305
+00:05:09,039 --> 00:05:11,430
+true and we can get into physics about
+it but it's not really important but
+
+306
+00:05:11,430 --> 00:05:11,440
+it but it's not really important but
+ 
+
+307
+00:05:11,440 --> 00:05:13,510
+it but it's not really important but
+for his purposes its weight gets
+
+308
+00:05:13,510 --> 00:05:13,520
+for his purposes its weight gets
+ 
+
+309
+00:05:13,520 --> 00:05:15,830
+for his purposes its weight gets
+magnified because he's got to move the
+
+310
+00:05:15,830 --> 00:05:15,840
+magnified because he's got to move the
+ 
+
+311
+00:05:15,840 --> 00:05:18,310
+magnified because he's got to move the
+weight so much further from that end
+
+312
+00:05:18,310 --> 00:05:18,320
+weight so much further from that end
+ 
+
+313
+00:05:18,320 --> 00:05:19,990
+weight so much further from that end
+that it's just really hard and he can't
+
+314
+00:05:19,990 --> 00:05:20,000
+that it's just really hard and he can't
+ 
+
+315
+00:05:20,000 --> 00:05:21,670
+that it's just really hard and he can't
+get it to go anywhere all right now i
+
+316
+00:05:21,670 --> 00:05:21,680
+get it to go anywhere all right now i
+ 
+
+317
+00:05:21,680 --> 00:05:23,909
+get it to go anywhere all right now i
+could make this his job a little easier
+
+318
+00:05:23,909 --> 00:05:23,919
+could make this his job a little easier
+ 
+
+319
+00:05:23,919 --> 00:05:25,510
+could make this his job a little easier
+i'll put a fulcrum in here now he just
+
+320
+00:05:25,510 --> 00:05:25,520
+i'll put a fulcrum in here now he just
+ 
+
+321
+00:05:25,520 --> 00:05:27,029
+i'll put a fulcrum in here now he just
+pushes down on that weight oh look and
+
+322
+00:05:27,029 --> 00:05:27,039
+pushes down on that weight oh look and
+ 
+
+323
+00:05:27,039 --> 00:05:29,189
+pushes down on that weight oh look and
+it comes up easy again right okay now
+
+324
+00:05:29,189 --> 00:05:29,199
+it comes up easy again right okay now
+ 
+
+325
+00:05:29,199 --> 00:05:31,110
+it comes up easy again right okay now
+look it only moved that much for how
+
+326
+00:05:31,110 --> 00:05:31,120
+look it only moved that much for how
+ 
+
+327
+00:05:31,120 --> 00:05:33,350
+look it only moved that much for how
+much he moved it over there but it still
+
+328
+00:05:33,350 --> 00:05:33,360
+much he moved it over there but it still
+ 
+
+329
+00:05:33,360 --> 00:05:35,830
+much he moved it over there but it still
+came up and it was easy yeah easy
+
+330
+00:05:35,830 --> 00:05:35,840
+came up and it was easy yeah easy
+ 
+
+331
+00:05:35,840 --> 00:05:38,310
+came up and it was easy yeah easy
+super easy okay so that's one thing to
+
+332
+00:05:38,310 --> 00:05:38,320
+super easy okay so that's one thing to
+ 
+
+333
+00:05:38,320 --> 00:05:40,870
+super easy okay so that's one thing to
+understand is how long is the lever arm
+
+334
+00:05:40,870 --> 00:05:40,880
+understand is how long is the lever arm
+ 
+
+335
+00:05:40,880 --> 00:05:42,150
+understand is how long is the lever arm
+we're using
+
+336
+00:05:42,150 --> 00:05:42,160
+we're using
+ 
+
+337
+00:05:42,160 --> 00:05:43,830
+we're using
+to do the work now it's a simple
+
+338
+00:05:43,830 --> 00:05:43,840
+to do the work now it's a simple
+ 
+
+339
+00:05:43,840 --> 00:05:45,350
+to do the work now it's a simple
+demonstration you might see in class
+
+340
+00:05:45,350 --> 00:05:45,360
+demonstration you might see in class
+ 
+
+341
+00:05:45,360 --> 00:05:47,110
+demonstration you might see in class
+physics whatever
+
+342
+00:05:47,110 --> 00:05:47,120
+physics whatever
+ 
+
+343
+00:05:47,120 --> 00:05:49,110
+physics whatever
+intro to science whatever right
+
+344
+00:05:49,110 --> 00:05:49,120
+intro to science whatever right
+ 
+
+345
+00:05:49,120 --> 00:05:50,870
+intro to science whatever right
+but that can be done in lots of really
+
+346
+00:05:50,870 --> 00:05:50,880
+but that can be done in lots of really
+ 
+
+347
+00:05:50,880 --> 00:05:52,790
+but that can be done in lots of really
+tricky ways that becomes hard to see
+
+348
+00:05:52,790 --> 00:05:52,800
+tricky ways that becomes hard to see
+ 
+
+349
+00:05:52,800 --> 00:05:56,870
+tricky ways that becomes hard to see
+right so for example let's just say
+
+350
+00:05:56,870 --> 00:05:56,880
+right so for example let's just say
+ 
+
+351
+00:05:56,880 --> 00:05:59,749
+right so for example let's just say
+josh's job okay josh's job is to move
+
+352
+00:05:59,749 --> 00:05:59,759
+josh's job okay josh's job is to move
+ 
+
+353
+00:05:59,759 --> 00:06:01,670
+josh's job okay josh's job is to move
+this weight and he's going to move it
+
+354
+00:06:01,670 --> 00:06:01,680
+this weight and he's going to move it
+ 
+
+355
+00:06:01,680 --> 00:06:04,070
+this weight and he's going to move it
+sideways from the end of that stick okay
+
+356
+00:06:04,070 --> 00:06:04,080
+sideways from the end of that stick okay
+ 
+
+357
+00:06:04,080 --> 00:06:05,830
+sideways from the end of that stick okay
+and you got to kind of lock it in there
+
+358
+00:06:05,830 --> 00:06:05,840
+and you got to kind of lock it in there
+ 
+
+359
+00:06:05,840 --> 00:06:07,029
+and you got to kind of lock it in there
+he's pushing as hard as he can i should
+
+360
+00:06:07,029 --> 00:06:07,039
+he's pushing as hard as he can i should
+ 
+
+361
+00:06:07,039 --> 00:06:08,710
+he's pushing as hard as he can i should
+probably move because he'll whack me all
+
+362
+00:06:08,710 --> 00:06:08,720
+probably move because he'll whack me all
+ 
+
+363
+00:06:08,720 --> 00:06:09,990
+probably move because he'll whack me all
+right so he's pushing are you pushing
+
+364
+00:06:09,990 --> 00:06:10,000
+right so he's pushing are you pushing
+ 
+
+365
+00:06:10,000 --> 00:06:12,070
+right so he's pushing are you pushing
+hard yeah all right i can see the stick
+
+366
+00:06:12,070 --> 00:06:12,080
+hard yeah all right i can see the stick
+ 
+
+367
+00:06:12,080 --> 00:06:13,270
+hard yeah all right i can see the stick
+bending he's pushing as hard as you can
+
+368
+00:06:13,270 --> 00:06:13,280
+bending he's pushing as hard as you can
+ 
+
+369
+00:06:13,280 --> 00:06:15,350
+bending he's pushing as hard as you can
+and that weight won't move at all right
+
+370
+00:06:15,350 --> 00:06:15,360
+and that weight won't move at all right
+ 
+
+371
+00:06:15,360 --> 00:06:18,390
+and that weight won't move at all right
+okay now i can line the weight up with
+
+372
+00:06:18,390 --> 00:06:18,400
+okay now i can line the weight up with
+ 
+
+373
+00:06:18,400 --> 00:06:19,909
+okay now i can line the weight up with
+it and now push the weight and move the
+
+374
+00:06:19,909 --> 00:06:19,919
+it and now push the weight and move the
+ 
+
+375
+00:06:19,919 --> 00:06:21,189
+it and now push the weight and move the
+weight oh
+
+376
+00:06:21,189 --> 00:06:21,199
+weight oh
+ 
+
+377
+00:06:21,199 --> 00:06:23,990
+weight oh
+amazingly easy right why is it so easy
+
+378
+00:06:23,990 --> 00:06:24,000
+amazingly easy right why is it so easy
+ 
+
+379
+00:06:24,000 --> 00:06:25,909
+amazingly easy right why is it so easy
+and that was just a little angle change
+
+380
+00:06:25,909 --> 00:06:25,919
+and that was just a little angle change
+ 
+
+381
+00:06:25,919 --> 00:06:29,110
+and that was just a little angle change
+now why did that happen well because the
+
+382
+00:06:29,110 --> 00:06:29,120
+now why did that happen well because the
+ 
+
+383
+00:06:29,120 --> 00:06:32,150
+now why did that happen well because the
+lever arm is almost nothing when he's in
+
+384
+00:06:32,150 --> 00:06:32,160
+lever arm is almost nothing when he's in
+ 
+
+385
+00:06:32,160 --> 00:06:34,309
+lever arm is almost nothing when he's in
+this configuration right there are no
+
+386
+00:06:34,309 --> 00:06:34,319
+this configuration right there are no
+ 
+
+387
+00:06:34,319 --> 00:06:35,830
+this configuration right there are no
+angles to it so it's essentially a
+
+388
+00:06:35,830 --> 00:06:35,840
+angles to it so it's essentially a
+ 
+
+389
+00:06:35,840 --> 00:06:37,029
+angles to it so it's essentially a
+straight line so it's just like he's
+
+390
+00:06:37,029 --> 00:06:37,039
+straight line so it's just like he's
+ 
+
+391
+00:06:37,039 --> 00:06:38,309
+straight line so it's just like he's
+pushing with his hand it's easy for him
+
+392
+00:06:38,309 --> 00:06:38,319
+pushing with his hand it's easy for him
+ 
+
+393
+00:06:38,319 --> 00:06:41,830
+pushing with his hand it's easy for him
+to push 20 pounds but if it's at 90
+
+394
+00:06:41,830 --> 00:06:41,840
+to push 20 pounds but if it's at 90
+ 
+
+395
+00:06:41,840 --> 00:06:45,350
+to push 20 pounds but if it's at 90
+degrees to that and he tries to push it
+
+396
+00:06:45,350 --> 00:06:45,360
+degrees to that and he tries to push it
+ 
+
+397
+00:06:45,360 --> 00:06:47,029
+degrees to that and he tries to push it
+he can't right suddenly it feels so
+
+398
+00:06:47,029 --> 00:06:47,039
+he can't right suddenly it feels so
+ 
+
+399
+00:06:47,039 --> 00:06:49,670
+he can't right suddenly it feels so
+heavy so this is one of the tricks
+
+400
+00:06:49,670 --> 00:06:49,680
+heavy so this is one of the tricks
+ 
+
+401
+00:06:49,680 --> 00:06:51,749
+heavy so this is one of the tricks
+that's done and i say tricks and i mean
+
+402
+00:06:51,749 --> 00:06:51,759
+that's done and i say tricks and i mean
+ 
+
+403
+00:06:51,759 --> 00:06:53,670
+that's done and i say tricks and i mean
+you can you can take that for whatever
+
+404
+00:06:53,670 --> 00:06:53,680
+you can you can take that for whatever
+ 
+
+405
+00:06:53,680 --> 00:06:55,430
+you can you can take that for whatever
+it is right like trick meaning it
+
+406
+00:06:55,430 --> 00:06:55,440
+it is right like trick meaning it
+ 
+
+407
+00:06:55,440 --> 00:06:57,749
+it is right like trick meaning it
+deceives people now that could be used
+
+408
+00:06:57,749 --> 00:06:57,759
+deceives people now that could be used
+ 
+
+409
+00:06:57,759 --> 00:06:59,510
+deceives people now that could be used
+for deceptive purposes like you know
+
+410
+00:06:59,510 --> 00:06:59,520
+for deceptive purposes like you know
+ 
+
+411
+00:06:59,520 --> 00:07:02,070
+for deceptive purposes like you know
+like now give me 500 a month and i'll
+
+412
+00:07:02,070 --> 00:07:02,080
+like now give me 500 a month and i'll
+ 
+
+413
+00:07:02,080 --> 00:07:03,830
+like now give me 500 a month and i'll
+teach you these secret things that's one
+
+414
+00:07:03,830 --> 00:07:03,840
+teach you these secret things that's one
+ 
+
+415
+00:07:03,840 --> 00:07:05,029
+teach you these secret things that's one
+kind of deception another kind of
+
+416
+00:07:05,029 --> 00:07:05,039
+kind of deception another kind of
+ 
+
+417
+00:07:05,039 --> 00:07:06,710
+kind of deception another kind of
+deception is simply here's something you
+
+418
+00:07:06,710 --> 00:07:06,720
+deception is simply here's something you
+ 
+
+419
+00:07:06,720 --> 00:07:08,070
+deception is simply here's something you
+don't understand let me help you
+
+420
+00:07:08,070 --> 00:07:08,080
+don't understand let me help you
+ 
+
+421
+00:07:08,080 --> 00:07:10,070
+don't understand let me help you
+understand that right so if josh were to
+
+422
+00:07:10,070 --> 00:07:10,080
+understand that right so if josh were to
+ 
+
+423
+00:07:10,080 --> 00:07:12,230
+understand that right so if josh were to
+hold my arm sideways like this right and
+
+424
+00:07:12,230 --> 00:07:12,240
+hold my arm sideways like this right and
+ 
+
+425
+00:07:12,240 --> 00:07:13,830
+hold my arm sideways like this right and
+i try to push josh over and be real
+
+426
+00:07:13,830 --> 00:07:13,840
+i try to push josh over and be real
+ 
+
+427
+00:07:13,840 --> 00:07:15,430
+i try to push josh over and be real
+strong for me i try to push him over
+
+428
+00:07:15,430 --> 00:07:15,440
+strong for me i try to push him over
+ 
+
+429
+00:07:15,440 --> 00:07:17,110
+strong for me i try to push him over
+like this this is really hard for me to
+
+430
+00:07:17,110 --> 00:07:17,120
+like this this is really hard for me to
+ 
+
+431
+00:07:17,120 --> 00:07:19,350
+like this this is really hard for me to
+do because i have a lever arm now if i
+
+432
+00:07:19,350 --> 00:07:19,360
+do because i have a lever arm now if i
+ 
+
+433
+00:07:19,360 --> 00:07:20,870
+do because i have a lever arm now if i
+line that lever arm up straight like
+
+434
+00:07:20,870 --> 00:07:20,880
+line that lever arm up straight like
+ 
+
+435
+00:07:20,880 --> 00:07:22,950
+line that lever arm up straight like
+this super easy for me to push josh over
+
+436
+00:07:22,950 --> 00:07:22,960
+this super easy for me to push josh over
+ 
+
+437
+00:07:22,960 --> 00:07:24,309
+this super easy for me to push josh over
+all of a sudden and that's because i did
+
+438
+00:07:24,309 --> 00:07:24,319
+all of a sudden and that's because i did
+ 
+
+439
+00:07:24,319 --> 00:07:25,909
+all of a sudden and that's because i did
+the exact same thing that i did with
+
+440
+00:07:25,909 --> 00:07:25,919
+the exact same thing that i did with
+ 
+
+441
+00:07:25,919 --> 00:07:28,629
+the exact same thing that i did with
+that stick right i aligned the lever in
+
+442
+00:07:28,629 --> 00:07:28,639
+that stick right i aligned the lever in
+ 
+
+443
+00:07:28,639 --> 00:07:30,870
+that stick right i aligned the lever in
+a way that there was no length to the
+
+444
+00:07:30,870 --> 00:07:30,880
+a way that there was no length to the
+ 
+
+445
+00:07:30,880 --> 00:07:33,350
+a way that there was no length to the
+lever arm right and when i was working
+
+446
+00:07:33,350 --> 00:07:33,360
+lever arm right and when i was working
+ 
+
+447
+00:07:33,360 --> 00:07:35,510
+lever arm right and when i was working
+with these ideas i started calling this
+
+448
+00:07:35,510 --> 00:07:35,520
+with these ideas i started calling this
+ 
+
+449
+00:07:35,520 --> 00:07:37,189
+with these ideas i started calling this
+shortening lever length right and i
+
+450
+00:07:37,189 --> 00:07:37,199
+shortening lever length right and i
+ 
+
+451
+00:07:37,199 --> 00:07:38,390
+shortening lever length right and i
+don't like that because it's all just
+
+452
+00:07:38,390 --> 00:07:38,400
+don't like that because it's all just
+ 
+
+453
+00:07:38,400 --> 00:07:39,830
+don't like that because it's all just
+really a part of leverage is the truth
+
+454
+00:07:39,830 --> 00:07:39,840
+really a part of leverage is the truth
+ 
+
+455
+00:07:39,840 --> 00:07:41,749
+really a part of leverage is the truth
+but if you're trying to push if i'm
+
+456
+00:07:41,749 --> 00:07:41,759
+but if you're trying to push if i'm
+ 
+
+457
+00:07:41,759 --> 00:07:43,670
+but if you're trying to push if i'm
+trying to push josh like this it's hard
+
+458
+00:07:43,670 --> 00:07:43,680
+trying to push josh like this it's hard
+ 
+
+459
+00:07:43,680 --> 00:07:45,830
+trying to push josh like this it's hard
+to push because this lever links this
+
+460
+00:07:45,830 --> 00:07:45,840
+to push because this lever links this
+ 
+
+461
+00:07:45,840 --> 00:07:48,230
+to push because this lever links this
+long but if i can line that lever up
+
+462
+00:07:48,230 --> 00:07:48,240
+long but if i can line that lever up
+ 
+
+463
+00:07:48,240 --> 00:07:50,550
+long but if i can line that lever up
+here now it just got really easy so all
+
+464
+00:07:50,550 --> 00:07:50,560
+here now it just got really easy so all
+ 
+
+465
+00:07:50,560 --> 00:07:51,990
+here now it just got really easy so all
+i'm doing is i'm shortening the length
+
+466
+00:07:51,990 --> 00:07:52,000
+i'm doing is i'm shortening the length
+ 
+
+467
+00:07:52,000 --> 00:07:53,510
+i'm doing is i'm shortening the length
+of the lever the lever is this long
+
+468
+00:07:53,510 --> 00:07:53,520
+of the lever the lever is this long
+ 
+
+469
+00:07:53,520 --> 00:07:55,510
+of the lever the lever is this long
+right now when i get it here essentially
+
+470
+00:07:55,510 --> 00:07:55,520
+right now when i get it here essentially
+ 
+
+471
+00:07:55,520 --> 00:07:56,629
+right now when i get it here essentially
+because i'm pushing from my elbow
+
+472
+00:07:56,629 --> 00:07:56,639
+because i'm pushing from my elbow
+ 
+
+473
+00:07:56,639 --> 00:07:57,990
+because i'm pushing from my elbow
+because i'm using my body it's
+
+474
+00:07:57,990 --> 00:07:58,000
+because i'm using my body it's
+ 
+
+475
+00:07:58,000 --> 00:07:59,909
+because i'm using my body it's
+essentially nothing right so i can boom
+
+476
+00:07:59,909 --> 00:07:59,919
+essentially nothing right so i can boom
+ 
+
+477
+00:07:59,919 --> 00:08:01,990
+essentially nothing right so i can boom
+i can do that another trick i can use
+
+478
+00:08:01,990 --> 00:08:02,000
+i can do that another trick i can use
+ 
+
+479
+00:08:02,000 --> 00:08:03,510
+i can do that another trick i can use
+with this and there's lots of ways to do
+
+480
+00:08:03,510 --> 00:08:03,520
+with this and there's lots of ways to do
+ 
+
+481
+00:08:03,520 --> 00:08:05,189
+with this and there's lots of ways to do
+this but foreign
+
+482
+00:08:05,189 --> 00:08:05,199
+this but foreign
+ 
+
+483
+00:08:05,199 --> 00:08:07,270
+this but foreign
+let's say josh locks my arms down to the
+
+484
+00:08:07,270 --> 00:08:07,280
+let's say josh locks my arms down to the
+ 
+
+485
+00:08:07,280 --> 00:08:09,589
+let's say josh locks my arms down to the
+ground right so oh it's so hard but i
+
+486
+00:08:09,589 --> 00:08:09,599
+ground right so oh it's so hard but i
+ 
+
+487
+00:08:09,599 --> 00:08:11,909
+ground right so oh it's so hard but i
+can use leverage on my leg to get my
+
+488
+00:08:11,909 --> 00:08:11,919
+can use leverage on my leg to get my
+ 
+
+489
+00:08:11,919 --> 00:08:13,430
+can use leverage on my leg to get my
+arms up and then once he's straight i
+
+490
+00:08:13,430 --> 00:08:13,440
+arms up and then once he's straight i
+ 
+
+491
+00:08:13,440 --> 00:08:15,189
+arms up and then once he's straight i
+can shove him away from me right so i
+
+492
+00:08:15,189 --> 00:08:15,199
+can shove him away from me right so i
+ 
+
+493
+00:08:15,199 --> 00:08:17,270
+can shove him away from me right so i
+can literally drive my arms down either
+
+494
+00:08:17,270 --> 00:08:17,280
+can literally drive my arms down either
+ 
+
+495
+00:08:17,280 --> 00:08:18,710
+can literally drive my arms down either
+side and come up so even though he's
+
+496
+00:08:18,710 --> 00:08:18,720
+side and come up so even though he's
+ 
+
+497
+00:08:18,720 --> 00:08:20,790
+side and come up so even though he's
+pushing my arms down i can get him up
+
+498
+00:08:20,790 --> 00:08:20,800
+pushing my arms down i can get him up
+ 
+
+499
+00:08:20,800 --> 00:08:23,110
+pushing my arms down i can get him up
+right and that's not i know people have
+
+500
+00:08:23,110 --> 00:08:23,120
+right and that's not i know people have
+ 
+
+501
+00:08:23,120 --> 00:08:25,029
+right and that's not i know people have
+seen the demonstration i'm not showing
+
+502
+00:08:25,029 --> 00:08:25,039
+seen the demonstration i'm not showing
+ 
+
+503
+00:08:25,039 --> 00:08:26,469
+seen the demonstration i'm not showing
+the demonstration we will get around to
+
+504
+00:08:26,469 --> 00:08:26,479
+the demonstration we will get around to
+ 
+
+505
+00:08:26,479 --> 00:08:27,350
+the demonstration we will get around to
+in another one we're going to go to
+
+506
+00:08:27,350 --> 00:08:27,360
+in another one we're going to go to
+ 
+
+507
+00:08:27,360 --> 00:08:30,070
+in another one we're going to go to
+force angle for another one um but but
+
+508
+00:08:30,070 --> 00:08:30,080
+force angle for another one um but but
+ 
+
+509
+00:08:30,080 --> 00:08:31,350
+force angle for another one um but but
+you can see that i could use the
+
+510
+00:08:31,350 --> 00:08:31,360
+you can see that i could use the
+ 
+
+511
+00:08:31,360 --> 00:08:33,750
+you can see that i could use the
+leverage here to line this up right just
+
+512
+00:08:33,750 --> 00:08:33,760
+leverage here to line this up right just
+ 
+
+513
+00:08:33,760 --> 00:08:35,509
+leverage here to line this up right just
+like i did with the yoga block there and
+
+514
+00:08:35,509 --> 00:08:35,519
+like i did with the yoga block there and
+ 
+
+515
+00:08:35,519 --> 00:08:37,829
+like i did with the yoga block there and
+then once the lever arm length is about
+
+516
+00:08:37,829 --> 00:08:37,839
+then once the lever arm length is about
+ 
+
+517
+00:08:37,839 --> 00:08:39,990
+then once the lever arm length is about
+zero i can drive into them really really
+
+518
+00:08:39,990 --> 00:08:40,000
+zero i can drive into them really really
+ 
+
+519
+00:08:40,000 --> 00:08:42,630
+zero i can drive into them really really
+easy so leverage is something that is
+
+520
+00:08:42,630 --> 00:08:42,640
+easy so leverage is something that is
+ 
+
+521
+00:08:42,640 --> 00:08:45,269
+easy so leverage is something that is
+really deceptive to people if you show
+
+522
+00:08:45,269 --> 00:08:45,279
+really deceptive to people if you show
+ 
+
+523
+00:08:45,279 --> 00:08:46,710
+really deceptive to people if you show
+most people that i think they would be
+
+524
+00:08:46,710 --> 00:08:46,720
+most people that i think they would be
+ 
+
+525
+00:08:46,720 --> 00:08:48,790
+most people that i think they would be
+surprised that 20 pounds is so heavy on
+
+526
+00:08:48,790 --> 00:08:48,800
+surprised that 20 pounds is so heavy on
+ 
+
+527
+00:08:48,800 --> 00:08:50,630
+surprised that 20 pounds is so heavy on
+the end of an eight foot lever and the
+
+528
+00:08:50,630 --> 00:08:50,640
+the end of an eight foot lever and the
+ 
+
+529
+00:08:50,640 --> 00:08:51,750
+the end of an eight foot lever and the
+same thing is true if you see
+
+530
+00:08:51,750 --> 00:08:51,760
+same thing is true if you see
+ 
+
+531
+00:08:51,760 --> 00:08:53,430
+same thing is true if you see
+demonstrations where you get a little
+
+532
+00:08:53,430 --> 00:08:53,440
+demonstrations where you get a little
+ 
+
+533
+00:08:53,440 --> 00:08:54,870
+demonstrations where you get a little
+guy and they're picked up in the air so
+
+534
+00:08:54,870 --> 00:08:54,880
+guy and they're picked up in the air so
+ 
+
+535
+00:08:54,880 --> 00:08:56,150
+guy and they're picked up in the air so
+easily and then all of a sudden they
+
+536
+00:08:56,150 --> 00:08:56,160
+easily and then all of a sudden they
+ 
+
+537
+00:08:56,160 --> 00:08:57,910
+easily and then all of a sudden they
+become so heavy and they fall back down
+
+538
+00:08:57,910 --> 00:08:57,920
+become so heavy and they fall back down
+ 
+
+539
+00:08:57,920 --> 00:08:59,910
+become so heavy and they fall back down
+to the ground well all they're doing is
+
+540
+00:08:59,910 --> 00:08:59,920
+to the ground well all they're doing is
+ 
+
+541
+00:08:59,920 --> 00:09:01,350
+to the ground well all they're doing is
+lengthening the lever arm and they can
+
+542
+00:09:01,350 --> 00:09:01,360
+lengthening the lever arm and they can
+ 
+
+543
+00:09:01,360 --> 00:09:02,389
+lengthening the lever arm and they can
+do that in lots of ways you can do it
+
+544
+00:09:02,389 --> 00:09:02,399
+do that in lots of ways you can do it
+ 
+
+545
+00:09:02,399 --> 00:09:04,870
+do that in lots of ways you can do it
+forward backwards sideways so angles
+
+546
+00:09:04,870 --> 00:09:04,880
+forward backwards sideways so angles
+ 
+
+547
+00:09:04,880 --> 00:09:06,389
+forward backwards sideways so angles
+tend to deceive us when we're looking at
+
+548
+00:09:06,389 --> 00:09:06,399
+tend to deceive us when we're looking at
+ 
+
+549
+00:09:06,399 --> 00:09:08,230
+tend to deceive us when we're looking at
+things especially for looking in videos
+
+550
+00:09:08,230 --> 00:09:08,240
+things especially for looking in videos
+ 
+
+551
+00:09:08,240 --> 00:09:09,509
+things especially for looking in videos
+or pictures because they're
+
+552
+00:09:09,509 --> 00:09:09,519
+or pictures because they're
+ 
+
+553
+00:09:09,519 --> 00:09:11,030
+or pictures because they're
+two-dimensional and when you add that
+
+554
+00:09:11,030 --> 00:09:11,040
+two-dimensional and when you add that
+ 
+
+555
+00:09:11,040 --> 00:09:13,269
+two-dimensional and when you add that
+third dimension you can't see that
+
+556
+00:09:13,269 --> 00:09:13,279
+third dimension you can't see that
+ 
+
+557
+00:09:13,279 --> 00:09:15,350
+third dimension you can't see that
+there's actually an angle going on
+
+558
+00:09:15,350 --> 00:09:15,360
+there's actually an angle going on
+ 
+
+559
+00:09:15,360 --> 00:09:18,230
+there's actually an angle going on
+that's hard for you to pick out so a lot
+
+560
+00:09:18,230 --> 00:09:18,240
+that's hard for you to pick out so a lot
+ 
+
+561
+00:09:18,240 --> 00:09:19,750
+that's hard for you to pick out so a lot
+of stuff would leverage that you really
+
+562
+00:09:19,750 --> 00:09:19,760
+of stuff would leverage that you really
+ 
+
+563
+00:09:19,760 --> 00:09:21,509
+of stuff would leverage that you really
+already understand you know anybody need
+
+564
+00:09:21,509 --> 00:09:21,519
+already understand you know anybody need
+ 
+
+565
+00:09:21,519 --> 00:09:22,790
+already understand you know anybody need
+to pick up something heavy they would
+
+566
+00:09:22,790 --> 00:09:22,800
+to pick up something heavy they would
+ 
+
+567
+00:09:22,800 --> 00:09:24,310
+to pick up something heavy they would
+grab a lever and try and do that or
+
+568
+00:09:24,310 --> 00:09:24,320
+grab a lever and try and do that or
+ 
+
+569
+00:09:24,320 --> 00:09:25,910
+grab a lever and try and do that or
+you're turning a bolt and you lengthen
+
+570
+00:09:25,910 --> 00:09:25,920
+you're turning a bolt and you lengthen
+ 
+
+571
+00:09:25,920 --> 00:09:27,269
+you're turning a bolt and you lengthen
+your wrench you know that the bolt will
+
+572
+00:09:27,269 --> 00:09:27,279
+your wrench you know that the bolt will
+ 
+
+573
+00:09:27,279 --> 00:09:29,269
+your wrench you know that the bolt will
+be easier to turn so stuff that you do
+
+574
+00:09:29,269 --> 00:09:29,279
+be easier to turn so stuff that you do
+ 
+
+575
+00:09:29,279 --> 00:09:33,190
+be easier to turn so stuff that you do
+all the time is part of this
+
+576
+00:09:33,190 --> 00:09:33,200
+all the time is part of this
+ 
+
+577
+00:09:33,200 --> 00:09:36,710
+all the time is part of this
+continuum of ipitis stuff it's just
+
+578
+00:09:36,710 --> 00:09:36,720
+continuum of ipitis stuff it's just
+ 
+
+579
+00:09:36,720 --> 00:09:38,150
+continuum of ipitis stuff it's just
+whether we talk about it like the big
+
+580
+00:09:38,150 --> 00:09:38,160
+whether we talk about it like the big
+ 
+
+581
+00:09:38,160 --> 00:09:39,750
+whether we talk about it like the big
+giant mystery or we talk about it like
+
+582
+00:09:39,750 --> 00:09:39,760
+giant mystery or we talk about it like
+ 
+
+583
+00:09:39,760 --> 00:09:40,870
+giant mystery or we talk about it like
+oh it's something you can get a handle
+
+584
+00:09:40,870 --> 00:09:40,880
+oh it's something you can get a handle
+ 
+
+585
+00:09:40,880 --> 00:09:42,389
+oh it's something you can get a handle
+on if you think about it more right and
+
+586
+00:09:42,389 --> 00:09:42,399
+on if you think about it more right and
+ 
+
+587
+00:09:42,399 --> 00:09:44,310
+on if you think about it more right and
+i'm i'm a big fan of let's talk about it
+
+588
+00:09:44,310 --> 00:09:44,320
+i'm i'm a big fan of let's talk about it
+ 
+
+589
+00:09:44,320 --> 00:09:45,829
+i'm i'm a big fan of let's talk about it
+like it's a thing we can get a handle on
+
+590
+00:09:45,829 --> 00:09:45,839
+like it's a thing we can get a handle on
+ 
+
+591
+00:09:45,839 --> 00:09:46,790
+like it's a thing we can get a handle on
+because
+
+592
+00:09:46,790 --> 00:09:46,800
+because
+ 
+
+593
+00:09:46,800 --> 00:09:48,630
+because
+i think it's too easy to deceive people
+
+594
+00:09:48,630 --> 00:09:48,640
+i think it's too easy to deceive people
+ 
+
+595
+00:09:48,640 --> 00:09:50,070
+i think it's too easy to deceive people
+already the world's already full of so
+
+596
+00:09:50,070 --> 00:09:50,080
+already the world's already full of so
+ 
+
+597
+00:09:50,080 --> 00:09:51,030
+already the world's already full of so
+much
+
+598
+00:09:51,030 --> 00:09:51,040
+much
+ 
+
+599
+00:09:51,040 --> 00:09:52,310
+much
+confusing things that when you come to a
+
+600
+00:09:52,310 --> 00:09:52,320
+confusing things that when you come to a
+ 
+
+601
+00:09:52,320 --> 00:09:53,590
+confusing things that when you come to a
+martial arts system you should be making
+
+602
+00:09:53,590 --> 00:09:53,600
+martial arts system you should be making
+ 
+
+603
+00:09:53,600 --> 00:09:55,829
+martial arts system you should be making
+things simpler so i hope that
+
+604
+00:09:55,829 --> 00:09:55,839
+things simpler so i hope that
+ 
+
+605
+00:09:55,839 --> 00:09:57,829
+things simpler so i hope that
+demonstration of leverage helped you if
+
+606
+00:09:57,829 --> 00:09:57,839
+demonstration of leverage helped you if
+ 
+
+607
+00:09:57,839 --> 00:09:58,949
+demonstration of leverage helped you if
+there's some more stuff you'd like to
+
+608
+00:09:58,949 --> 00:09:58,959
+there's some more stuff you'd like to
+ 
+
+609
+00:09:58,959 --> 00:10:00,310
+there's some more stuff you'd like to
+seek there's more stuff i could do with
+
+610
+00:10:00,310 --> 00:10:00,320
+seek there's more stuff i could do with
+ 
+
+611
+00:10:00,320 --> 00:10:01,829
+seek there's more stuff i could do with
+leverage it's just i think this is kind
+
+612
+00:10:01,829 --> 00:10:01,839
+leverage it's just i think this is kind
+ 
+
+613
+00:10:01,839 --> 00:10:03,910
+leverage it's just i think this is kind
+of the gross ideas of it like being able
+
+614
+00:10:03,910 --> 00:10:03,920
+of the gross ideas of it like being able
+ 
+
+615
+00:10:03,920 --> 00:10:05,750
+of the gross ideas of it like being able
+to see the angles of the lever and how
+
+616
+00:10:05,750 --> 00:10:05,760
+to see the angles of the lever and how
+ 
+
+617
+00:10:05,760 --> 00:10:07,190
+to see the angles of the lever and how
+it works and
+
+618
+00:10:07,190 --> 00:10:07,200
+it works and
+ 
+
+619
+00:10:07,200 --> 00:10:08,630
+it works and
+and how you can shorten that lever
+
+620
+00:10:08,630 --> 00:10:08,640
+and how you can shorten that lever
+ 
+
+621
+00:10:08,640 --> 00:10:09,750
+and how you can shorten that lever
+length and how that makes a big
+
+622
+00:10:09,750 --> 00:10:09,760
+length and how that makes a big
+ 
+
+623
+00:10:09,760 --> 00:10:11,110
+length and how that makes a big
+difference and how you can add a fulcrum
+
+624
+00:10:11,110 --> 00:10:11,120
+difference and how you can add a fulcrum
+ 
+
+625
+00:10:11,120 --> 00:10:13,030
+difference and how you can add a fulcrum
+to give you more power that is one of
+
+626
+00:10:13,030 --> 00:10:13,040
+to give you more power that is one of
+ 
+
+627
+00:10:13,040 --> 00:10:14,550
+to give you more power that is one of
+the most important things and leverage
+
+628
+00:10:14,550 --> 00:10:14,560
+the most important things and leverage
+ 
+
+629
+00:10:14,560 --> 00:10:16,790
+the most important things and leverage
+of course is essential in all jiu-jitsu
+
+630
+00:10:16,790 --> 00:10:16,800
+of course is essential in all jiu-jitsu
+ 
+
+631
+00:10:16,800 --> 00:10:18,630
+of course is essential in all jiu-jitsu
+and aikido any kind of grappling already
+
+632
+00:10:18,630 --> 00:10:18,640
+and aikido any kind of grappling already
+ 
+
+633
+00:10:18,640 --> 00:10:19,509
+and aikido any kind of grappling already
+kind of thing we're holding and
+
+634
+00:10:19,509 --> 00:10:19,519
+kind of thing we're holding and
+ 
+
+635
+00:10:19,519 --> 00:10:21,350
+kind of thing we're holding and
+manipulating things even we're using
+
+636
+00:10:21,350 --> 00:10:21,360
+manipulating things even we're using
+ 
+
+637
+00:10:21,360 --> 00:10:23,110
+manipulating things even we're using
+weapons we're using the lever length of
+
+638
+00:10:23,110 --> 00:10:23,120
+weapons we're using the lever length of
+ 
+
+639
+00:10:23,120 --> 00:10:26,630
+weapons we're using the lever length of
+the weapon to to enact uh power trade of
+
+640
+00:10:26,630 --> 00:10:26,640
+the weapon to to enact uh power trade of
+ 
+
+641
+00:10:26,640 --> 00:10:29,190
+the weapon to to enact uh power trade of
+sorts so i'm christopher hein this is
+
+642
+00:10:29,190 --> 00:10:29,200
+sorts so i'm christopher hein this is
+ 
+
+643
+00:10:29,200 --> 00:10:31,509
+sorts so i'm christopher hein this is
+joshua tihi and behind that camera is
+
+644
+00:10:31,509 --> 00:10:31,519
+joshua tihi and behind that camera is
+ 
+
+645
+00:10:31,519 --> 00:10:33,430
+joshua tihi and behind that camera is
+maya solano mcdaniel we're going to be
+
+646
+00:10:33,430 --> 00:10:33,440
+maya solano mcdaniel we're going to be
+ 
+
+647
+00:10:33,440 --> 00:10:35,990
+maya solano mcdaniel we're going to be
+back in the next uh video series i'm
+
+648
+00:10:35,990 --> 00:10:36,000
+back in the next uh video series i'm
+ 
+
+649
+00:10:36,000 --> 00:10:38,230
+back in the next uh video series i'm
+going to talk about force angle so we'll
+
+650
+00:10:38,230 --> 00:10:38,240
+going to talk about force angle so we'll
+ 
+
+651
+00:10:38,240 --> 00:10:44,980
+going to talk about force angle so we'll
+see you next time
+
+652
+00:10:44,980 --> 00:10:44,990
+
+ 
+
+653
+00:10:44,990 --> 00:10:53,009
+
+[Music]
+
