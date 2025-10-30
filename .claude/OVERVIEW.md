@@ -20,6 +20,11 @@ Master's thesis project for writing Aikido blog posts with session continuity be
 - `/youtube-fetch [url]` - Download and analyze YouTube transcripts
 - `/youtube-analyze [video_id]` - Re-analyze existing transcripts
 
+### System Maintenance
+- `/system-maintenance [mode]` - Audit, clean, sync, and optimize project structure
+  - Modes: `audit`, `cleanup`, `sync`, `optimize`, `full`
+  - Keeps system lean without using your context
+
 ## Core Files (Root Directory)
 
 **Session Management:**
