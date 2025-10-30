@@ -107,6 +107,7 @@ A complete workflow system has been implemented to maintain context between sess
 │   ├── blog-engagement-techniques.md # Engagement strategies
 │   └── blog-series-structure.md # 10 progressive learning series (50+ posts)
 ├── research/                   # Research and analysis documents
+│   ├── research.md             # **START HERE** - Research directory overview & guide
 │   ├── core-values.md          # User's martial arts beliefs and philosophy
 │   ├── divisive-topics.md      # Community debates and controversies
 │   ├── learning-journey.md     # Mastery stages and progression frameworks
