@@ -57,6 +57,7 @@ This document contains only **active decisions** that affect how Claude should t
 - Value peace from understanding cost, not from weakness
 - Position on peace vs. martial: Both/And - martially effective AND peace-oriented
 - Real violence survivors seek peace; violence fantasists seek conflict
+- When discussing martial effectiveness, reference violence context framework (see research/divisive-topics.md)
 
 ---
 

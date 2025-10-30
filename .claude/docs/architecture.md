@@ -76,6 +76,11 @@
 - Agents handle reading source files internally
 - User only sees findings reports
 
+**Information Routing** - Where to store new information
+- Read `.claude/docs/information-routing.md` when unsure where to store user-provided information
+- Defines decision tree for routing knowledge to correct files
+- Prevents file bloat and maintains clean architecture
+
 ## Agent System
 
 Agents are autonomous workers that handle complex multi-step tasks. They read necessary files internally and return only final results.
