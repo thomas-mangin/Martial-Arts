@@ -17,6 +17,9 @@
 - `/youtube-fetch [url]` - Download and analyze YouTube video
 - `/youtube-analyze [video_id]` - Re-analyze existing transcript
 
+**System Maintenance (Agent):**
+- `/system-maintenance [mode]` - Audit, clean, sync, and optimize project structure
+
 ---
 
 ## /resume
@@ -296,6 +299,82 @@
 
 ---
 
+## /system-maintenance
+
+**Purpose**: Maintain project structure, optimize token usage, and ensure system health
+
+**Usage**: `/system-maintenance [mode]`
+
+**Modes:**
+- `audit` - Health check report (read-only)
+- `cleanup` - Archive old sessions, clean TODOs
+- `sync` - Update cross-references and INDEX files
+- `optimize` - Reduce token bloat
+- `full` - Complete maintenance cycle
+
+**Examples:**
+- `/system-maintenance audit` - Check system health
+- `/system-maintenance cleanup` - Clean old content
+- `/system-maintenance optimize` - Reduce token usage
+- `/system-maintenance full` - Complete maintenance run
+
+**What it does:**
+
+**Audit mode:**
+- Measures token usage in all key files
+- Validates file structure and cross-references
+- Checks INDEX completeness
+- Detects bloat and stale content
+- Generates comprehensive health report (🟢🟡🔴)
+
+**Cleanup mode:**
+- Archives session summaries >90 days old to `sessions/archive/`
+- Removes completed TODOs
+- Identifies obsolete files
+- Cleans empty directories
+
+**Sync mode:**
+- Updates `research/INDEX.md` with all research files
+- Ensures agent/command pairs are synchronized
+- Fixes broken file references
+- Updates directory listings in documentation
+
+**Optimize mode:**
+- Reduces OVERVIEW.md to target size (<500 words)
+- Streamlines command files (<200 words each)
+- Optimizes session-context.md (<1000 words)
+- Moves detailed content to appropriate locations
+
+**Full mode:**
+- Runs: audit → cleanup → sync → optimize → audit
+- Provides before/after comparison
+- Shows all improvements made
+
+**When to use:**
+- **Monthly**: Run `audit` to check system health
+- **Quarterly**: Run `full` for comprehensive maintenance
+- **After major changes**: Run `sync` to update cross-references
+- **When /resume feels slow**: Run `optimize` to reduce tokens
+
+**Agent loads internally:**
+- Complete system documentation
+- All agent and command definitions
+- All INDEX and tracking files
+- Token usage targets and thresholds
+
+**Result**: Comprehensive report with health status, issues found/fixed, token analysis, recommendations, and next steps
+
+**Output format:**
+- Clear status indicators (🟢 Healthy / 🟡 Needs Attention / 🔴 Issues Found)
+- Detailed findings by category
+- Specific recommendations with priority
+- List of files checked/modified
+- Before/after comparisons (for write modes)
+
+**Integration**: Maintains the system that maintains the blog - keeps infrastructure lean so you can focus on writing
+
+---
+
 ## Command Comparison
 
 | Command | Type | Speed | Use Case |
@@ -309,6 +388,7 @@
 | `/scan-sources` | Agent | Medium-Slow | Find new content weekly |
 | `/youtube-fetch` | Agent | Slow | Download & analyze video |
 | `/youtube-analyze` | Agent | Fast | Re-analyze existing transcript |
+| `/system-maintenance` | Agent | Varies | System health & optimization |
 
 ---
 
