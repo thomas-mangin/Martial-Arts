@@ -18,8 +18,8 @@ You are helping the user resume work from their previous session by loading save
 
      Quick Guide:
      1. Check "Next Steps" below for what to do
-     2. Copy blog-template.md for new posts → posts/
-     3. Follow blog-guidelines.md for structure
+     2. Copy blog/blog-template.md for new posts → posts/
+     3. Follow blog/blog-guidelines.md for structure
      4. Use /review-aikido [file] before finalizing
 
      📖 Need help? Read help.md for complete guide

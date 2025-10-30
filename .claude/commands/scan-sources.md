@@ -92,7 +92,7 @@ WebFetch(
 - **Summary**: What is this post about? (2-3 sentences)
 - **Key Arguments**: Main points the author makes
 - **Martial Art Context**: Principles, techniques, or concepts discussed
-- **Audience Fit**: Which audiences would find this valuable? (see audience-profiles.md)
+- **Audience Fit**: Which audiences would find this valuable? (see research/audience-profiles.md)
   - Experience level (Beginner/Intermediate/Advanced)
   - Interest type (Technical/Philosophical/Practical/Historical)
   - Role (Students/Instructors/Leaders)
@@ -112,7 +112,7 @@ For each post, create 2-4 potential blog ideas:
 **Idea: [Proposed blog title]**
 - **Type**: [Response / Alternative Perspective / Inspired Exploration / Extension / Comparative Analysis]
 - **Angle**: [How you'd approach this topic]
-- **Primary Audience**: [1-2 profiles who will gain most value - see audience-profiles.md]
+- **Primary Audience**: [1-2 profiles who will gain most value - see research/audience-profiles.md]
 - **Secondary Audiences**: [2-3 additional profiles who will benefit]
 - **Audience Value**: [What each audience type will gain from this post]
 - **Connection**: [How it relates to the source post]
@@ -201,7 +201,7 @@ Create file: `sources/findings/YYYY-MM-DD-[source-name].md`
 #### Idea 1: [Proposed Title]
 - **Type**: Response
 - **Angle**: [How you'd approach it]
-- **Primary Audience**: [1-2 audience profiles - see audience-profiles.md]
+- **Primary Audience**: [1-2 audience profiles - see research/audience-profiles.md]
 - **Secondary Audiences**: [2-3 additional profiles]
 - **Audience Value**: [What each audience type will gain]
 - **Connection**: [Link to source post]
@@ -286,7 +286,7 @@ If you want to explore through /discuss first:
 
 *To explore an idea: `/discuss [topic]`*
 *To track an idea: Add to `topics.md`*
-*To respond directly: Copy blog-template.md and write*
+*To respond directly: Copy blog/blog-template.md and write*
 ```
 
 ### 8. **Update Source Profile**
@@ -480,7 +480,7 @@ User: /scan-sources
       ↓
 [Findings show response opportunity]
       ↓
-User: cp blog-template.md posts/response-to-[topic].md
+User: cp blog/blog-template.md posts/response-to-[topic].md
       ↓
 [Write response]
       ↓

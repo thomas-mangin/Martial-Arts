@@ -53,8 +53,8 @@ This project provides a complete session continuity system designed to maintain 
 │   ├── registry/         # Blogger profiles
 │   └── findings/         # Content analysis and ideas
 ├── sessions/              # Timestamped session summaries
-├── blog-template.md       # Template for new posts
-├── blog-guidelines.md     # Comprehensive writing guide
+├── blog/blog-template.md       # Template for new posts
+├── blog/blog-guidelines.md     # Comprehensive writing guide
 ├── help.md               # Complete user documentation
 ├── topics.md             # Topic tracking and planning
 ├── session-context.md    # Current session state
@@ -76,7 +76,7 @@ This project provides a complete session continuity system designed to maintain 
 
 **Approach B: Direct Writing**
 ```bash
-cp blog-template.md posts/...  # Start from template
+cp blog/blog-template.md posts/...  # Start from template
 # Write directly
 /review-aikido posts/...       # Review when ready
 ```
@@ -102,7 +102,7 @@ cp blog-template.md posts/...  # Start from template
 ### During Work
 ```bash
 # Create a new blog post
-cp blog-template.md posts/my-topic-2025-10-30.md
+cp blog/blog-template.md posts/my-topic-2025-10-30.md
 
 # Edit and write...
 
@@ -125,7 +125,7 @@ cp blog-template.md posts/my-topic-2025-10-30.md
 ## Documentation
 
 - **[help.md](help.md)** - Complete user guide with examples and workflows
-- **[blog-guidelines.md](blog-guidelines.md)** - Writing standards and structure guide
+- **[blog/blog-guidelines.md](blog/blog-guidelines.md)** - Writing standards and structure guide
 - **[.claude/claude.md](.claude/claude.md)** - System documentation for AI assistants
 - **[sessions/README.md](sessions/README.md)** - Guide to session history
 
@@ -165,7 +165,7 @@ Review any past session to understand the project's evolution.
 ## Getting Help
 
 1. **Read [help.md](help.md)** - Comprehensive guide to the system
-2. **Read [blog-guidelines.md](blog-guidelines.md)** - Writing guidance and standards
+2. **Read [blog/blog-guidelines.md](blog/blog-guidelines.md)** - Writing guidance and standards
 3. **Ask Claude** - Just ask questions in Claude Code
 4. **Review sessions/** - See what you've accomplished previously
 
@@ -178,8 +178,8 @@ Review any past session to understand the project's evolution.
 - `decisions.md` - Important decisions
 
 ### Reference Files (Don't Edit)
-- `blog-template.md` - Copy this for new posts
-- `blog-guidelines.md` - Writing reference
+- `blog/blog-template.md` - Copy this for new posts
+- `blog/blog-guidelines.md` - Writing reference
 - `help.md` - User guide
 
 ### System Files (Auto-Generated)
@@ -200,8 +200,8 @@ After your first `/resume`:
 
 1. Add blog topic ideas to `topics.md`
 2. Choose your first topic
-3. Copy `blog-template.md` to `posts/[topic]-[date].md`
-4. Write following `blog-guidelines.md`
+3. Copy `blog/blog-template.md` to `posts/[topic]-[date].md`
+4. Write following `blog/blog-guidelines.md`
 5. Review with `/review-aikido`
 6. Revise and improve
 7. `/checkpoint` when done
@@ -210,7 +210,7 @@ After your first `/resume`:
 
 For issues or questions:
 - Refer to [help.md](help.md) for detailed guidance
-- Check [blog-guidelines.md](blog-guidelines.md) for writing questions
+- Check [blog/blog-guidelines.md](blog/blog-guidelines.md) for writing questions
 - Review past sessions in `sessions/` for context
 - Ask Claude Code directly for assistance
 

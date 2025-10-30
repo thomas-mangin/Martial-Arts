@@ -20,10 +20,10 @@ Welcome! This guide explains how to use the blog writing and session continuity 
 1. **Writing a new blog post:**
    ```bash
    # Copy the template
-   cp blog-template.md posts/my-topic-2025-10-30.md
+   cp blog/blog/blog-template.md posts/my-topic-2025-10-30.md
 
    # Edit the file with your content
-   # Follow the structure in blog-guidelines.md
+   # Follow the structure in blog/blog/blog-guidelines.md
    ```
 
 2. **As you work:**
@@ -66,8 +66,8 @@ Welcome! This guide explains how to use the blog writing and session continuity 
 
 **posts/[your-blog-post].md**
 - Your actual blog posts
-- Copy from blog-template.md to start
-- Follow structure in blog-guidelines.md
+- Copy from blog/blog-template.md to start
+- Follow structure in blog/blog-guidelines.md
 
 **decisions.md**
 - Important decisions you make
@@ -82,12 +82,12 @@ Welcome! This guide explains how to use the blog writing and session continuity 
 
 ### Reference Files (Read, Don't Usually Edit):
 
-**blog-template.md**
+**blog/blog-template.md**
 - Template for new posts
 - Copy this file to start writing
 - Don't edit the original
 
-**blog-guidelines.md**
+**blog/blog-guidelines.md**
 - Complete writing guide
 - Structure recommendations
 - Content quality standards
@@ -303,12 +303,12 @@ Write directly from template
 
 **3. Create New Post**
 ```bash
-cp blog-template.md posts/principle-of-irimi-2025-10-30.md
+cp blog/blog-template.md posts/principle-of-irimi-2025-10-30.md
 ```
 Naming convention: `[topic-slug]-YYYY-MM-DD.md`
 
 **4. Write Your Post**
-- Open `blog-guidelines.md` for reference
+- Open `blog/blog-guidelines.md` for reference
 - Fill in the template sections
 - Aim for 800-1200 words
 - Use clear structure:
@@ -381,7 +381,7 @@ Then extract to blog draft
 
 **Option B: Write response directly**:
 ```bash
-cp blog-template.md posts/response-to-[topic].md
+cp blog/blog-template.md posts/response-to-[topic].md
 ```
 Write your perspective
 
@@ -548,7 +548,7 @@ But `/checkpoint` will never push automatically - you control this.
 **During work:**
 - Focus on one post at a time
 - Add topic ideas as they occur
-- Use blog-guidelines.md as reference
+- Use blog/blog-guidelines.md as reference
 - Review frequently
 
 **End of day:**
@@ -568,7 +568,7 @@ But `/checkpoint` will never push automatically - you control this.
 - One post at a time in "Current Topic"
 
 **Reference guidelines:**
-- `blog-guidelines.md` has everything you need
+- `blog/blog-guidelines.md` has everything you need
 - Covers structure, tone, terminology
 - Common pitfalls to avoid
 
@@ -656,7 +656,7 @@ The files maintain continuity, not the AI's memory.
 
 ```bash
 # Create new post from template
-cp blog-template.md posts/new-topic-2025-10-30.md
+cp blog/blog-template.md posts/new-topic-2025-10-30.md
 
 # List all posts
 ls posts/
@@ -679,8 +679,8 @@ cat posts/my-post.md
 - `posts/*.md` - Your blog posts
 
 ### Files to Reference
-- `blog-template.md` - Copy this for new posts
-- `blog-guidelines.md` - Writing guide
+- `blog/blog-template.md` - Copy this for new posts
+- `blog/blog-guidelines.md` - Writing guide
 - `help.md` - This guide
 
 ### System Files
@@ -694,7 +694,7 @@ cat posts/my-post.md
 ### Within the System
 
 1. **Read this file** (`help.md`)
-2. **Check blog-guidelines.md** for writing questions
+2. **Check blog/blog-guidelines.md** for writing questions
 3. **Ask Claude** - Just ask your question in the chat
 
 ### Common Questions
@@ -711,7 +711,7 @@ cat posts/my-post.md
 
 **"How do I know if my post is good?"**
 - Use `/review-aikido` to get feedback
-- Check against blog-guidelines.md
+- Check against blog/blog-guidelines.md
 - Read it aloud to yourself
 - Does it provide value to readers?
 
@@ -748,13 +748,13 @@ DONE! Ready for next session
 ✅ **Do:**
 - Use `/resume` at start of every session
 - Use `/checkpoint` at end of every session
-- Reference blog-guidelines.md when writing
+- Reference blog/blog-guidelines.md when writing
 - Review posts with `/review-aikido` before finalizing
 - Keep topics.md updated
 - Log important decisions
 
 ❌ **Don't:**
-- Edit blog-template.md (copy it instead)
+- Edit blog/blog-template.md (copy it instead)
 - Push to remote without intending to
 - Work on multiple posts simultaneously
 - Skip the review step

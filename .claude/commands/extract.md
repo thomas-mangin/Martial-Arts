@@ -32,7 +32,7 @@ Identify:
 - **Core thesis**: What's the main insight or argument?
 - **Key points**: What are the 2-4 main ideas?
 - **Best examples**: Which stories/examples are most illustrative?
-- **Target audiences**: Who will this serve? (From discussion note or infer from content - see audience-profiles.md)
+- **Target audiences**: Who will this serve? (From discussion note or infer from content - see research/audience-profiles.md)
 - **Audience value**: What will each audience type gain from this?
 - **Structure**: What's the logical flow?
 - **Gaps**: What's missing or needs development?
@@ -65,7 +65,7 @@ Is there enough material for a blog post?
 ### 5. **Create Blog Post Draft**
 **Filename**: `posts/[topic-name]-YYYY-MM-DD.md`
 
-Copy blog-template.md structure and fill it in:
+Copy blog/blog-template.md structure and fill it in:
 
 #### Title
 - Specific and engaging
@@ -110,7 +110,7 @@ Extract actionable insights:
 - What should they remember?
 - What can they apply immediately?
 
-**Consider tiering by audience level** (see blog-template.md and blog-guidelines.md):
+**Consider tiering by audience level** (see blog/blog-template.md and blog/blog-guidelines.md):
 - For Beginners: Foundational actions
 - For Intermediate/Advanced: Refinement practices
 - For Instructors: Teaching insights (if applicable)

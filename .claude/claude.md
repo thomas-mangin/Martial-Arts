@@ -37,12 +37,12 @@ A complete workflow system has been implemented to maintain context between sess
    - Date, decision, and rationale for each entry
    - Helps understand why certain approaches were chosen
 
-4. **blog-template.md** - Blog post template
+4. **blog/blog-template.md** - Blog post template
    - Copy this file for each new blog post
    - Pre-structured sections with guidance
    - Includes metadata fields, content sections, and optional elements
 
-5. **blog-guidelines.md** - Comprehensive writing guide
+5. **blog/blog-guidelines.md** - Comprehensive writing guide
    - Structure best practices
    - Content category guidelines (Technique, Philosophy, Training, History, Personal Reflection)
    - Writing style and tone recommendations
@@ -51,28 +51,28 @@ A complete workflow system has been implemented to maintain context between sess
    - Common pitfalls to avoid
    - **NEW**: Authenticity section referencing core values, divisive topics, learning journey
 
-6. **core-values.md** - User's fundamental beliefs as martial artist
+6. **research/core-values.md** - User's fundamental beliefs as martial artist
    - Teaching philosophy (biomechanics vs. mysticism)
    - Mastery concepts (knowing vs. embodied understanding)
    - Style perspectives (Iwama approach, relaxation, structure)
    - Aikido philosophy positions (peace vs. martial effectiveness)
    - Guides authentic voice and consistency across posts
 
-7. **divisive-topics.md** - Community debates and controversies
+7. **research/divisive-topics.md** - Community debates and controversies
    - Aikido-specific debates (art of peace vs. martial, Iwama vs. blending, ki vs. biomechanics)
    - General martial arts debates (kata vs. alive training, traditional vs. modern, competition)
    - Cross-discipline debates (hard vs. soft styles, weapons vs. empty hand)
    - Frameworks for handling controversial topics with nuance
    - Helps write with awareness of multiple perspectives
 
-8. **learning-journey.md** - Mastery stages and progression frameworks
+8. **research/learning-journey.md** - Mastery stages and progression frameworks
    - Knowing (intellectual) vs. Embodied (natural movement) distinction
    - The journey from thinking to automatic response
    - Kata as alphabet concept (forms as foundation, not scripture)
    - Teaching implications at different mastery levels
    - Blog ideas about learning, plateaus, and progression
 
-9. **biomechanical-principles.md** - 23 core biomechanical principles
+9. **research/biomechanical-principles.md** - 23 core biomechanical principles
    - Foundation mechanics (leverage, gravity, balance, Newton's laws)
    - Application mechanics (surface area, targets, deflection, movement)
    - Advanced concepts (tension, redirection, joints, weapons context)
@@ -80,7 +80,7 @@ A complete workflow system has been implemented to maintain context between sess
    - 60+ blog post ideas generated
    - Quick reference guide at top
 
-10. **blog-series-structure.md** - 10 progressive learning series
+10. **blog/blog-series-structure.md** - 10 progressive learning series
    - 50+ blog posts organized into coherent series
    - Readers can follow clear learning paths
    - Series: Biomechanics, Learning Journey, Kata, Peace/Violence, Deflection, Iwama, Movement, Teaching, Cross-Discipline, Solo Training
@@ -101,6 +101,20 @@ A complete workflow system has been implemented to maintain context between sess
 │   │   ├── track-source.md     # Register martial arts bloggers
 │   │   └── scan-sources.md     # Monitor bloggers for content
 │   └── claude.md               # This file - project context
+├── blog/                       # Blog content files
+│   ├── blog-template.md        # Post template
+│   ├── blog-guidelines.md      # Writing guidelines
+│   ├── blog-engagement-techniques.md # Engagement strategies
+│   └── blog-series-structure.md # 10 progressive learning series (50+ posts)
+├── research/                   # Research and analysis documents
+│   ├── core-values.md          # User's martial arts beliefs and philosophy
+│   ├── divisive-topics.md      # Community debates and controversies
+│   ├── learning-journey.md     # Mastery stages and progression frameworks
+│   ├── biomechanical-principles.md # 25+ core biomechanical principles
+│   ├── areas-needing-development.md # Topics needing /discuss sessions
+│   ├── audience-profiles.md    # Reader profiles and targeting
+│   ├── SESSION-SUMMARY-BIOMECHANICS.md # Biomechanics overview
+│   └── SYSTEM_REVIEW.md        # System review notes
 ├── posts/                      # Blog posts directory
 ├── discussions/                # Discussion notes (informal explorations)
 ├── sources/                    # Source tracking and monitoring
@@ -110,14 +124,6 @@ A complete workflow system has been implemented to maintain context between sess
 ├── topics.md                   # Topic tracking
 ├── session-context.md          # Session state
 ├── decisions.md                # Decision log
-├── blog-template.md            # Post template
-├── blog-guidelines.md          # Writing guidelines
-├── core-values.md              # User's martial arts beliefs and philosophy
-├── divisive-topics.md          # Community debates and controversies
-├── learning-journey.md         # Mastery stages and progression frameworks
-├── biomechanical-principles.md # 23 core biomechanical principles
-├── blog-series-structure.md    # 10 progressive learning series (50+ posts)
-├── SESSION-SUMMARY-BIOMECHANICS.md # Comprehensive overview of biomechanics work
 └── help.md                     # User guide
 ```
 
@@ -380,8 +386,8 @@ A complete workflow system has been implemented to maintain context between sess
 **Approach B: Direct Writing**
 1. **Start Session**: `/resume` to see where you left off
 2. **Choose Topic**: Review topics.md, select or add new topic
-3. **Create Post**: `cp blog-template.md posts/[topic-name]-YYYY-MM-DD.md`
-4. **Write Content**: Follow structure in blog-guidelines.md
+3. **Create Post**: `cp blog/blog-template.md posts/[topic-name]-YYYY-MM-DD.md`
+4. **Write Content**: Follow structure in blog/blog-guidelines.md
 5. **Review**: `/review-aikido posts/[filename].md`
 6. **Revise**: Based on review feedback
 7. **Finalize**: Update topics.md (move to completed)
@@ -445,21 +451,21 @@ A complete workflow system has been implemented to maintain context between sess
 
 **Three foundational documents establish user's voice and perspective:**
 
-1. **core-values.md** - User's fundamental beliefs as martial artist
+1. **research/core-values.md** - User's fundamental beliefs as martial artist
    - Teaching philosophy (e.g., biomechanics over mysticism)
    - Mastery concepts (knowing vs. embodied understanding)
    - Style perspectives (e.g., Iwama approach critique)
    - Aikido philosophy positions
    - What the user genuinely believes and why
 
-2. **divisive-topics.md** - Community debates and controversies
+2. **research/divisive-topics.md** - Community debates and controversies
    - Aikido-specific debates (peace vs. martial, Iwama vs. blending, ki vs. biomechanics)
    - General martial arts debates (kata vs. alive training, traditional vs. modern)
    - Cross-discipline debates (hard vs. soft styles, weapons focus)
    - Multiple perspectives on each issue
    - Framework for handling controversies with nuance
 
-3. **learning-journey.md** - Mastery stages and progression
+3. **research/learning-journey.md** - Mastery stages and progression
    - Knowing (intellectual) vs. Embodied (natural movement)
    - Journey from conscious to automatic
    - Kata as alphabet (not scripture)
@@ -476,9 +482,9 @@ A complete workflow system has been implemented to maintain context between sess
 - Captures authentic voice and perspective
 
 **During Blog Writing**:
-- Reference core-values.md to ensure consistency
-- Check divisive-topics.md if topic is controversial
-- Apply learning-journey.md frameworks when discussing mastery/progression
+- Reference research/core-values.md to ensure consistency
+- Check research/divisive-topics.md if topic is controversial
+- Apply research/learning-journey.md frameworks when discussing mastery/progression
 - Maintain authentic voice, not generic advice
 - Stay aligned with stated positions
 
@@ -517,9 +523,9 @@ A complete workflow system has been implemented to maintain context between sess
 ### Example Usage
 
 **Before writing about "Teaching Relaxation in Aikido":**
-1. Check core-values.md: User believes in biomechanics, critiques Iwama practitioners who never learn to relax
-2. Check divisive-topics.md: Iwama vs. blending debate is relevant
-3. Check learning-journey.md: Knowing vs. embodied mastery applies to teaching
+1. Check research/core-values.md: User believes in biomechanics, critiques Iwama practitioners who never learn to relax
+2. Check research/divisive-topics.md: Iwama vs. blending debate is relevant
+3. Check research/learning-journey.md: Knowing vs. embodied mastery applies to teaching
 4. Write with: biomechanical explanations, acknowledge Iwama approach while noting common failure to progress, explain embodiment journey
 
 **Result**: Authentic post consistent with user's perspective, handles controversy with nuance, applies established frameworks.
@@ -538,10 +544,10 @@ A complete workflow system has been implemented to maintain context between sess
 - Add topic ideas to topics.md as they come up
 - Log important decisions to decisions.md
 - Keep blog posts in posts/ directory
-- Follow blog-guidelines.md for content quality
-- **Update core-values.md** when beliefs crystallize or evolve
-- **Update divisive-topics.md** when encountering new debates
-- **Update learning-journey.md** when refining mastery frameworks
+- Follow blog/blog-guidelines.md for content quality
+- **Update research/core-values.md** when beliefs crystallize or evolve
+- **Update research/divisive-topics.md** when encountering new debates
+- **Update research/learning-journey.md** when refining mastery frameworks
 
 ### Always End With:
 1. Run `/checkpoint` to save state
