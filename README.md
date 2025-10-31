@@ -49,6 +49,7 @@ This project provides a complete session continuity system designed to maintain 
 │   └── claude.md          # AI assistant documentation
 ├── posts/                 # Your blog posts go here
 ├── discussions/           # Discussion notes (informal explorations)
+├── research/              # Frameworks, values, and principles (see research/INDEX.md)
 ├── sources/               # Tracked bloggers and content findings
 │   ├── registry/         # Blogger profiles
 │   └── findings/         # Content analysis and ideas
