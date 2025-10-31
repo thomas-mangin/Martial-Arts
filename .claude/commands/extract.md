@@ -16,9 +16,12 @@ The extract agent will:
 1. Read and analyze the discussion note
 2. Assess article potential and readiness
 3. Create structured article draft in `articles/` directory
-4. Preserve authentic insights and voice
-5. Mark gaps that need development
-6. Provide next steps guidance
+4. Organize for educational depth (not blog engagement)
+5. Preserve authentic insights and voice
+6. Mark gaps that need development
+7. Provide next steps guidance
+
+**Target Output**: 1,500-3,000+ words for comprehensive coverage
 
 ## Result
 

@@ -29,9 +29,13 @@ Tasks that are pending but not currently being worked on.
   - save-objective.md: Clarified instance path priority
   - pause-task.md: Already correct ✅
   - CLAUDE.md: Updated git push statement (automatic push documented)
+- ✅ **Phase 4 COMPLETE**: Content Creation Commands (minor fixes for article standards)
+  - discuss.md: Already correct ✅
+  - extract.md: Added educational focus note and word count target (1,500-3,000+)
+  - review-aikido.md: Updated quality standard to "MSc-level" (more precise)
+  - decisions.md: Fixed ToC "blog" → "article"
 
 **Next Steps**:
-- Phase 4: Content Creation Commands (/discuss, /extract, /review-aikido)
 - Phase 5: Source Discovery Commands (/track-source, /scan-sources, /youtube)
 - Phase 6: Multi-Instance Commands (/instances, /cleanup-instances)
 - Phase 7: Research Documentation (research/INDEX.md and all research files)

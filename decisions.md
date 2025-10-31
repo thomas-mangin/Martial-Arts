@@ -9,7 +9,7 @@ This document contains only **active decisions** that affect how Claude should t
 ## Table of Contents
 
 1. [Foundational Values](#foundational-values) - Core beliefs about martial arts
-2. [Writing Style](#writing-style) - How to write blog content
+2. [Writing Style](#writing-style) - How to write article content
 3. [Content Strategy](#content-strategy) - Audience and topic selection
 4. [Content Quality](#content-quality) - Review standards
 5. [System Architecture](#system-architecture) - Technical organization

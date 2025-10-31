@@ -40,4 +40,4 @@ After drafting or revising an article, before finalizing. Part of the recommende
 
 ## Note
 
-Reviews are CRITICAL and push for book/educational-level quality. Expect multiple iterations. The agent is collaborative and will help you improve the article through iteration.
+Reviews are CRITICAL and push for MSc-level quality standards (not casual blog quality). Expect multiple iterations. The agent is collaborative and will help you improve the article through iteration.
