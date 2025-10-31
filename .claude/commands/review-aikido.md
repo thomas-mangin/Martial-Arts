@@ -1,14 +1,14 @@
-# Review-Aikido Command - Critical Blog Post Quality Review
+# Review-Aikido Command - Critical Article Quality Review
 
-Launches the review-aikido agent to provide thorough, critical feedback on blog posts.
+Launches the review-aikido agent to provide thorough, critical feedback on articles.
 
 ## Usage
 
-`/review-aikido posts/[filename].md`
+`/review-aikido articles/[filename].md`
 
 **Examples:**
-- `/review-aikido posts/teaching-relaxation-2025-10-30.md`
-- `/review-aikido posts/biomechanics-of-irimi-2025-10-30.md`
+- `/review-aikido articles/teaching-relaxation-2025-10-30.md`
+- `/review-aikido articles/biomechanics-of-irimi-2025-10-30.md`
 
 ## What It Does
 
@@ -33,10 +33,10 @@ Detailed critical review with:
 
 ## When to Use
 
-After drafting or revising a blog post, before finalizing. Part of the recommended workflow:
+After drafting or revising an article, before finalizing. Part of the recommended workflow:
 
 `/discuss` → `/extract` → develop → `/review-aikido` → revise → `/review-aikido` → `/checkpoint`
 
 ## Note
 
-Reviews are CRITICAL and push for MA-level quality. Expect multiple iterations. The agent is collaborative and will help you improve the post through iteration.
+Reviews are CRITICAL and push for book/educational-level quality. Expect multiple iterations. The agent is collaborative and will help you improve the article through iteration.

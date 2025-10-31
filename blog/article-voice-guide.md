@@ -1,6 +1,6 @@
-# Blog Voice Guide
+# Article Voice Guide
 
-**Purpose**: Practical guidance for maintaining authentic voice and consistent perspective when writing blog posts.
+**Purpose**: Practical guidance for maintaining authentic voice and consistent perspective when writing articles.
 
 **Last Updated**: 2025-10-31
 
@@ -8,7 +8,7 @@
 
 ## Quick Reference
 
-**Before writing any post**:
+**Before writing any article**:
 1. Check decisions.md for your foundational values and writing style
 2. Reference this guide for framing language and common pitfalls
 3. Identify which learning stages you can speak to authentically
@@ -147,7 +147,7 @@ This is specific, honest, and valuable without exaggerating.
 
 ## Voice Consistency Checklist
 
-Before publishing any post, verify:
+Before publishing any article, verify:
 
 ### Perspective Check
 - [ ] Am I writing from first dan perspective (not master)?
@@ -314,4 +314,4 @@ See research/audience-profiles.md for complete audience analysis.
 
 ---
 
-*Use this guide alongside decisions.md and research/ files to maintain authentic, consistent voice across all blog posts.*
+*Use this guide alongside decisions.md and research/ files to maintain authentic, consistent voice across all articles.*

@@ -1,7 +1,19 @@
-# Blog Engagement Techniques from YouTube Best Practices
+# Blog Engagement Techniques from YouTube Best Practices [LEGACY]
+
+**⚠️ STATUS: LEGACY REFERENCE - NOT ALIGNED WITH CURRENT APPROACH**
+
+This file contains engagement-focused techniques (hooks, retention, clickbait-style titles) designed to maximize reader engagement and views. **This approach contradicts the current educational article series approach**, which prioritizes:
+- Comprehensive depth over quick engagement
+- Clear descriptive titles over catchy hooks
+- Professional educational tone over conversational style
+- Completeness over retention tactics
+
+**Keep this file for reference only** if you ever want to write engagement-focused blog posts. For current educational article series, see `article-guidelines.md` instead.
+
+---
 
 **Date**: 2025-10-30
-**Purpose**: Apply proven YouTube engagement techniques to martial arts blog writing
+**Original Purpose**: Apply proven YouTube engagement techniques to martial arts blog writing
 
 ---
 

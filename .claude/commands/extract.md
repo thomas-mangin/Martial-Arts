@@ -1,6 +1,6 @@
-# Extract Command - Transform Discussion to Blog Draft
+# Extract Command - Transform Discussion to Article Draft
 
-Launches the extract agent to transform discussion notes into structured blog post drafts.
+Launches the extract agent to transform discussion notes into structured article drafts.
 
 ## Usage
 
@@ -14,21 +14,21 @@ Launches the extract agent to transform discussion notes into structured blog po
 
 The extract agent will:
 1. Read and analyze the discussion note
-2. Assess blog potential and readiness
-3. Create structured blog draft in `posts/` directory
+2. Assess article potential and readiness
+3. Create structured article draft in `articles/` directory
 4. Preserve authentic insights and voice
 5. Mark gaps that need development
 6. Provide next steps guidance
 
 ## Result
 
-Blog draft saved as `posts/[topic-name]-YYYY-MM-DD.md`
+Article draft saved as `articles/[topic-name]-YYYY-MM-DD.md`
 
-Ready to develop and review with: `/review-aikido posts/[filename].md`
+Ready to develop and review with: `/review-aikido articles/[filename].md`
 
 ## When to Use
 
-After discussion is complete and ready to become a blog post. Part of the recommended workflow:
+After discussion is complete and ready to become an article. Part of the recommended workflow:
 
 `/discuss` → `/extract` → develop → `/review-aikido` → `/checkpoint`
 

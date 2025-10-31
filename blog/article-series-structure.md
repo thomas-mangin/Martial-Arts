@@ -1,10 +1,10 @@
-# Blog Series Structure
+# Article Series Structure
 
-**Purpose**: Organize blog posts into progressive learning series so readers can build understanding systematically rather than through random posts. Each series builds on previous concepts, creating clear learning pathways.
+**Purpose**: Organize articles into progressive learning series so readers can build understanding systematically rather than through random content. Each series builds on previous concepts, creating clear learning pathways designed for book publication.
 
-**Your Approach**: "I would like to write blogs in series so that a reader can take things progressively."
+**Your Approach**: "I would like to write articles in series so that a reader can take things progressively."
 
-**Last Updated**: 2025-10-30
+**Last Updated**: 2025-10-31
 
 ---
 
@@ -13,7 +13,7 @@
 **Benefits**:
 - Readers can follow clear learning path
 - Each post builds on previous concepts
-- Can reference earlier posts in series
+- Can reference earlier articles in series
 - Creates narrative through-line
 - Encourages readers to return for next installment
 - Easier to maintain consistency
@@ -21,24 +21,24 @@
 
 **How to Use This**:
 - Choose a series based on what interests you
-- Write posts in order within series
-- Reference previous posts when building on concepts
+- Write articles in order within series
+- Reference previous articles when building on concepts
 - Series can run in parallel (work on multiple series)
 - Mark completion status to track progress
 
 ---
 
-## Series 1: Biomechanics Foundations (6 posts)
+## Series 1: Biomechanics Foundations (6 articles)
 
 **Target Audience**: Beginners to Intermediate, Technical focus, Instructors
 **Goal**: Establish core biomechanical understanding of aikido
 
-### Posts in Order:
+### Articles in Order:
 
 1. **"Newton's Third Law in Aikido: Why You Can't Push Without Being Pushed"**
    - Foundation: Action/reaction, force and counter-force
    - Why redirection is more efficient than opposition
-   - Sets up later posts on leverage and deflection
+   - Sets up later articles on leverage and deflection
 
 2. **"The Kinetic Chain: How Power Flows from Ground to Contact"**
    - Grounding and connection principle
@@ -69,12 +69,12 @@
 
 ---
 
-## Series 2: The Learning Journey (5 posts)
+## Series 2: The Learning Journey (5 articles)
 
 **Target Audience**: All levels, Instructors, those experiencing plateaus
 **Goal**: Help readers understand their progression stage and what's next
 
-### Posts in Order:
+### Articles in Order:
 
 1. **"From Hands to Hips: The Hidden Progression of Aikido Mastery"**
    - Overview of 5 stages: hands → feet → timing → core → patterns
@@ -105,12 +105,12 @@
 
 ---
 
-## Series 3: Kata Philosophy (4 posts)
+## Series 3: Kata Philosophy (4 articles)
 
 **Target Audience**: Intermediate to Advanced, Traditional practitioners, Instructors
 **Goal**: Reframe relationship with kata from scripture to alphabet
 
-### Posts in Order:
+### Articles in Order:
 
 1. **"Your Kata Is an Alphabet, Not a Bible"**
    - Metaphor introduction
@@ -135,12 +135,12 @@
 
 ---
 
-## Series 4: Peace and Violence (5 posts)
+## Series 4: Peace and Violence (5 articles)
 
 **Target Audience**: All levels, Philosophical focus, those questioning aikido's relevance
 **Goal**: Resolve peace vs. martial effectiveness using your veteran observations
 
-### Posts in Order:
+### Articles in Order:
 
 1. **"Those Who've Faced Violence vs. Those Who Imagine It"**
    - Your veteran observations
@@ -171,12 +171,12 @@
 
 ---
 
-## Series 5: Deflection and Angles (4 posts)
+## Series 5: Deflection and Angles (4 articles)
 
 **Target Audience**: Intermediate to Advanced, Technical focus
 **Goal**: Understand geometric principles of redirection
 
-### Posts in Order:
+### Articles in Order:
 
 1. **"Why Aikido Doesn't Block: The Physics of Redirection"**
    - Deflection vs. opposition
@@ -202,12 +202,12 @@
 
 ---
 
-## Series 6: The Iwama Question (4 posts)
+## Series 6: The Iwama Question (4 articles)
 
 **Target Audience**: Intermediate to Advanced, those practicing Iwama or curious about styles
 **Goal**: Nuanced exploration of structure vs. relaxation progression
 
-### Posts in Order:
+### Articles in Order:
 
 1. **"Why Iwama Emphasizes Weapons: Building the Foundation"**
    - Weapons training builds structure and core
@@ -233,12 +233,12 @@
 
 ---
 
-## Series 7: Movement Mechanics (5 posts)
+## Series 7: Movement Mechanics (5 articles)
 
 **Target Audience**: All levels, Movement-focused, those interested in tai sabaki
 **Goal**: Understand natural movement in martial context
 
-### Posts in Order:
+### Articles in Order:
 
 1. **"Why Normal Walking Is a Martial Skill"**
    - Natural gait under pressure
@@ -269,12 +269,12 @@
 
 ---
 
-## Series 8: Teaching Aikido (5 posts)
+## Series 8: Teaching Aikido (5 articles)
 
 **Target Audience**: Instructors, Dojo owners, those aspiring to teach
 **Goal**: Effective teaching based on learning stages and biomechanics
 
-### Posts in Order:
+### Articles in Order:
 
 1. **"Stop Telling Beginners to 'Move from Your Center'"**
    - Teaching mistakes: wrong cue for their stage
@@ -305,12 +305,12 @@
 
 ---
 
-## Series 9: Cross-Discipline Insights (5 posts)
+## Series 9: Cross-Discipline Insights (5 articles)
 
 **Target Audience**: Cross-training martial artists, Advanced practitioners, Comparative learners
 **Goal**: Apply insights from other martial arts to aikido
 
-### Posts in Order:
+### Articles in Order:
 
 1. **"What Karate Teaches About Quality Over Quantity"**
    - From Lionel Froidure scan
@@ -341,12 +341,12 @@
 
 ---
 
-## Series 10: Solo Training (4 posts)
+## Series 10: Solo Training (4 articles)
 
 **Target Audience**: All levels, Busy practitioners, Home trainers
 **Goal**: Effective solo practice beyond suburis
 
-### Posts in Order:
+### Articles in Order:
 
 1. **"Solo Training for Aikido: Beyond Suburis"**
    - From source scans (high priority)
@@ -372,7 +372,7 @@
 
 ---
 
-## Standalone Posts (High Value but Don't Fit Series)
+## Standalone Articles (High Value but Don't Fit Series)
 
 These can be written anytime as standalone content:
 
@@ -388,19 +388,19 @@ These can be written anytime as standalone content:
 ## Series Writing Strategy
 
 ### Approach 1: Complete One Series
-- Focus on single series, write all posts in order
+- Focus on single series, write all articles in order
 - Maintains momentum and consistency
 - Readers get complete learning path quickly
-- Example: Complete Biomechanics Foundations (6 posts)
+- Example: Complete Biomechanics Foundations (6 articles)
 
 ### Approach 2: Parallel Series
 - Work on multiple series simultaneously
 - Alternate between series to avoid burnout
 - Provides variety in writing
-- Example: Post 1 from Biomechanics, Post 1 from Learning Journey, Post 1 from Peace/Violence
+- Example: Article1 from Biomechanics, Article1 from Learning Journey, Article1 from Peace/Violence
 
 ### Approach 3: Priority-Based
-- Write highest-value posts from each series first
+- Write highest-value articles from each series first
 - Mix foundational with advanced
 - Balance technical with philosophical
 - Example: One biomechanics, one personal experience, one teaching
@@ -417,82 +417,82 @@ Choose one series and complete it. Builds writing momentum, creates clear value 
 ## Tracking Series Progress
 
 ### Series 1: Biomechanics Foundations
-- [ ] Post 1: Newton's Third Law
-- [ ] Post 2: Kinetic Chain
-- [ ] Post 3: Hip Position
-- [ ] Post 4: Body Alignment
-- [ ] Post 5: Snap Movement
-- [ ] Post 6: Hard on Soft
+- [ ] Article1: Newton's Third Law
+- [ ] Article2: Kinetic Chain
+- [ ] Article3: Hip Position
+- [ ] Article4: Body Alignment
+- [ ] Article5: Snap Movement
+- [ ] Article6: Hard on Soft
 
 ### Series 2: The Learning Journey
-- [ ] Post 1: Hands to Hips Overview
-- [ ] Post 2: Why Beginners Focus on Hands
-- [ ] Post 3: Critical Shift (Core Movement)
-- [ ] Post 4: Why You Can Explain But Can't Do
-- [ ] Post 5: Pattern Recognition
+- [ ] Article1: Hands to Hips Overview
+- [ ] Article2: Why Beginners Focus on Hands
+- [ ] Article3: Critical Shift (Core Movement)
+- [ ] Article4: Why You Can Explain But Can't Do
+- [ ] Article5: Pattern Recognition
 
 ### Series 3: Kata Philosophy
-- [ ] Post 1: Alphabet Not Bible
-- [ ] Post 2: Kata to Creativity
-- [ ] Post 3: When Form Becomes Prison
-- [ ] Post 4: Students Outgrow Forms
+- [ ] Article1: Alphabet Not Bible
+- [ ] Article2: Kata to Creativity
+- [ ] Article3: When Form Becomes Prison
+- [ ] Article4: Students Outgrow Forms
 
 ### Series 4: Peace and Violence
-- [ ] Post 1: Those Who Faced vs. Imagined
-- [ ] Post 2: Why Veterans Value Peace
-- [ ] Post 3: Gap Between Training and Reality
-- [ ] Post 4: No Defense (Attack the Attack)
-- [ ] Post 5: Peace Through Strength
+- [ ] Article1: Those Who Faced vs. Imagined
+- [ ] Article2: Why Veterans Value Peace
+- [ ] Article3: Gap Between Training and Reality
+- [ ] Article4: No Defense (Attack the Attack)
+- [ ] Article5: Peace Through Strength
 
 ### Series 5: Deflection and Angles
-- [ ] Post 1: Why Aikido Doesn't Block
-- [ ] Post 2: Triangle Principle
-- [ ] Post 3: Angle Changes
-- [ ] Post 4: Circular Attacks and Directional Weakness
+- [ ] Article1: Why Aikido Doesn't Block
+- [ ] Article2: Triangle Principle
+- [ ] Article3: Angle Changes
+- [ ] Article4: Circular Attacks and Directional Weakness
 
 ### Series 6: The Iwama Question
-- [ ] Post 1: Why Iwama Emphasizes Weapons
-- [ ] Post 2: Why Practitioners Often Plateau
-- [ ] Post 3: Two Phases (Structure Before Relaxation)
-- [ ] Post 4: What Relaxation Actually Means
+- [ ] Article1: Why Iwama Emphasizes Weapons
+- [ ] Article2: Why Practitioners Often Plateau
+- [ ] Article3: Two Phases (Structure Before Relaxation)
+- [ ] Article4: What Relaxation Actually Means
 
 ### Series 7: Movement Mechanics
-- [ ] Post 1: Normal Walking as Martial Skill
-- [ ] Post 2: Why Train Barefoot
-- [ ] Post 3: Feet Turn Outward (Power Position)
-- [ ] Post 4: Kinetic Energy Problem
-- [ ] Post 5: Attention Reveals Level
+- [ ] Article1: Normal Walking as Martial Skill
+- [ ] Article2: Why Train Barefoot
+- [ ] Article3: Feet Turn Outward (Power Position)
+- [ ] Article4: Kinetic Energy Problem
+- [ ] Article5: Attention Reveals Level
 
 ### Series 8: Teaching Aikido
-- [ ] Post 1: Stop Telling Beginners "Move from Center"
-- [ ] Post 2: Teacher Who Knows vs. Embodies
-- [ ] Post 3: Teaching Ma-ai Effectively
-- [ ] Post 4: Biomechanics Beats Mysticism
-- [ ] Post 5: Building Confidence Not Aggression
+- [ ] Article1: Stop Telling Beginners "Move from Center"
+- [ ] Article2: Teacher Who Knows vs. Embodies
+- [ ] Article3: Teaching Ma-ai Effectively
+- [ ] Article4: Biomechanics Beats Mysticism
+- [ ] Article5: Building Confidence Not Aggression
 
 ### Series 9: Cross-Discipline Insights
-- [ ] Post 1: What Karate Teaches (Quality Over Quantity)
-- [ ] Post 2: Kata vs. Waza
-- [ ] Post 3: Water Village Principle
-- [ ] Post 4: Reading Before Reacting
-- [ ] Post 5: Why Aikido Training Feels Unrealistic
+- [ ] Article1: What Karate Teaches (Quality Over Quantity)
+- [ ] Article2: Kata vs. Waza
+- [ ] Article3: Water Village Principle
+- [ ] Article4: Reading Before Reacting
+- [ ] Article5: Why Aikido Training Feels Unrealistic
 
 ### Series 10: Solo Training
-- [ ] Post 1: Solo Training Beyond Suburis
-- [ ] Post 2: Body Modification
-- [ ] Post 3: Same Technique Five Times
-- [ ] Post 4: Drill Makes Skill
+- [ ] Article1: Solo Training Beyond Suburis
+- [ ] Article2: Body Modification
+- [ ] Article3: Same Technique Five Times
+- [ ] Article4: Drill Makes Skill
 
 ---
 
 ## Total Blog Content
 
-**10 Series**: 47 posts organized into progressive learning paths
-**Standalone**: 6+ additional high-value posts
-**Total**: 50+ posts with clear structure and progression
+**10 Series**: 47 articles organized into progressive learning paths
+**Standalone**: 6+ additional high-value articles
+**Total**: 50+ articles with clear structure and progression
 
-**Time Estimate**: At 1 post per week = 1 year of content. At 2 posts per week = 6 months.
+**Time Estimate**: At 1 post per week = 1 year of content. At 2 articles per week = 6 months.
 
 ---
 
-*Update this file as you complete posts. Check off completed items. Add new series as concepts emerge.*
+*Update this file as you complete articles. Check off completed items. Add new series as concepts emerge.*
