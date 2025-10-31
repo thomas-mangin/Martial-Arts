@@ -21,10 +21,11 @@ Quick reference to research files. Load specific files only when needed.
 
 ## Technical References
 
-**research/biomechanical-principles.md** - 23+ core biomechanical principles
+**research/biomechanics/** - 32 biomechanical principles across 7 categories
 - **When to read**: Writing technique posts or explaining "how things work"
-- **Contains**: Foundation mechanics, application mechanics, aikido applications, 60+ blog ideas
+- **Contains**: Physics fundamentals, balance mechanics, structure, power generation, targeting, timing (90+ blog ideas)
 - **Purpose**: Technical accuracy and blog topic generation
+- **Start with**: biomechanics/INDEX.md for overview and navigation
 
 **research/contextual-design-framework.md** - Context principle (weapons, time, environment)
 - **When to read**: Discussing kata, application, or training scenarios
@@ -65,7 +66,7 @@ Quick reference to research files. Load specific files only when needed.
 | core-values.md | Authenticity check | Your beliefs & positions |
 | divisive-topics.md | Controversial topics | Debate frameworks |
 | learning-journey.md | Learning/progression posts | Knowing vs. Embodied |
-| biomechanical-principles.md | Technique posts | 23+ principles, 60+ ideas |
+| biomechanics/ | Technique posts | 32 principles, 90+ ideas |
 | contextual-design-framework.md | Kata/application posts | Context principle |
 | weapons-training-framework.md | Weapons posts | Ken/jo benefits |
 | stance-principles.md | Kamae/footwork posts | Stance functions |
