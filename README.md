@@ -1,15 +1,17 @@
-# Aikido Blog Writing System
+# Aikido Educational Article Series System
 
-A comprehensive workflow system for writing, reviewing, and managing Aikido blog posts as part of an MA thesis project.
+A comprehensive workflow system for writing, reviewing, and managing educational Aikido articles for book publication.
 
 ## Overview
 
-This project provides a complete session continuity system designed to maintain context between work sessions, ensuring consistent progress on MA-level Aikido blog content. The system uses Claude Code with custom slash commands to manage the writing workflow, maintain quality standards, and track progress over time.
+This project provides a complete session continuity system designed to maintain context between work sessions, ensuring consistent progress on MSc-level Aikido educational content. The system uses Claude Code with custom slash commands to manage the writing workflow, maintain quality standards, and track progress over time.
+
+**Author**: Thomas Mangin (MSc Computer Science, Shodan in Aikido, 13 years teaching experience in Jitsu)
 
 ## Features
 
 - **Session Continuity**: Seamless resumption of work between sessions with `/resume` and `/checkpoint` commands
-- **Critical Review System**: MA-level quality standards with collaborative, iterative improvement
+- **Critical Review System**: MSc-level quality standards with collaborative, iterative improvement
 - **Historical Tracking**: Timestamped session summaries for progress review
 - **Blog Templates**: Structured templates and comprehensive writing guidelines
 - **Decision Logging**: Track important choices and their rationale

@@ -1,12 +1,17 @@
 # Instance Registry
 
-**Last Updated**: [Auto-generated on each update]
+**Last Updated**: 2025-10-31 17:41
 
 ---
 
-## Active Instances (0)
+## Active Instances (1)
 
-*No active instances. Run `/resume` to start a new instance.*
+### 2025-10-31-1736
+- **Status**: Idle
+- **Created**: 2025-10-31 17:36
+- **Last Heartbeat**: 2025-10-31 17:52
+- **Working On**: Created user profile and corrected documentation (Session ended)
+- **Location**: `.claude/state/instances/2025-10-31-1736/`
 
 ---
 
@@ -18,8 +23,8 @@
 
 ## Statistics
 
-- **Total instances**: 0
-- **Active**: 0
+- **Total instances**: 1
+- **Active**: 1
 - **Stale (>24h)**: 0
 - **Archived**: 0
 

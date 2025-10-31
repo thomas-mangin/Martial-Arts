@@ -19,8 +19,9 @@ The review-aikido agent will:
 4. Evaluate structure and organization
 5. Check audience appropriateness
 6. Verify core values alignment and authenticity
-7. Provide critical, actionable feedback
-8. Offer to iterate and improve together
+7. **Verify AI attribution section present** ("About This Article" with author and AI assistance disclosure)
+8. Provide critical, actionable feedback
+9. Offer to iterate and improve together
 
 ## Result
 

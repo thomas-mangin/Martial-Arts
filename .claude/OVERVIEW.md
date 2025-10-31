@@ -1,7 +1,7 @@
 # Aikido Educational Article Series - Quick Reference
 
 ## Project Purpose
-Master's thesis project for writing educational Aikido article series (designed for book publication) with session continuity between Claude Code sessions.
+Personal project for writing educational Aikido article series (designed for book publication) with session continuity between Claude Code sessions. MSc-level quality standards applied (author has MSc in Computer Science).
 
 ## 🔄 Interaction Protocol
 

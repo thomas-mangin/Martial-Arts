@@ -126,6 +126,14 @@
 
 ---
 
+## About This Article
+
+**Author**: Thomas Mangin
+
+**AI Assistance**: Research, drafting, and revision conducted in collaboration with Claude AI (Anthropic). All technical content, personal experiences, and perspectives reflect the author's knowledge and understanding developed through training and practice.
+
+---
+
 ## Glossary (if using 5+ Japanese terms)
 
 - **Term 1** (romanization): English translation - Brief definition
@@ -139,3 +147,4 @@
 *- Ensure consistency with earlier articles in series - use same terminology and frameworks*
 *- Review with `/review-aikido` for educational depth, completeness, and series consistency*
 *- Articles should be comprehensive enough that readers don't need to seek other sources*
+*- **REQUIRED**: Include "About This Article" section with AI attribution (see template)*

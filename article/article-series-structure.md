@@ -495,4 +495,56 @@ Choose one series and complete it. Builds writing momentum, creates clear value 
 
 ---
 
+## Article Quality Requirements
+
+All published articles must meet these standards:
+
+### Required Sections
+1. **Clear metadata**: Title, date, author, series, audiences, prerequisites
+2. **Learning objectives**: What readers will understand after reading
+3. **Comprehensive content**: 3-8+ major sections with depth
+4. **Practical applications**: Tiered by experience level (beginners, intermediate/advanced, instructors)
+5. **Conclusion**: Synthesis of key takeaways and next steps
+6. **AI Attribution**: "About This Article" section (see below)
+
+### Mandatory AI Attribution
+**Every published article MUST include**:
+
+```markdown
+## About This Article
+
+**Author**: Thomas Mangin
+
+**AI Assistance**: Research, drafting, and revision conducted in
+collaboration with Claude AI (Anthropic). All technical content,
+personal experiences, and perspectives reflect the author's knowledge
+and understanding developed through training and practice.
+```
+
+**Why This Matters**:
+- Ethical transparency in AI-assisted content creation
+- Maintains reader trust and academic integrity
+- Demonstrates responsible AI use
+- Author remains primary creator with AI as collaborative tool
+
+**Verification**:
+- Use `/review-aikido` to verify attribution present before finalizing
+- Template includes this section by default
+- Decision documented in `decisions.md` (Writing Style section)
+
+### Cross-Series Consistency
+- Use consistent terminology across all articles in same series
+- Reference earlier articles when building on concepts
+- Maintain same frameworks and principles throughout
+- Self-consistency verified by `/review-aikido`
+
+### Educational Depth
+- MSc-level quality (rigorous, comprehensive, well-researched)
+- Comprehensive coverage without significant gaps
+- Multi-source evidence when available
+- Technical accuracy verified against syllabus
+- Serve 3-5 audience profiles per article through layered content
+
+---
+
 *Update this file as you complete articles. Check off completed items. Add new series as concepts emerge.*

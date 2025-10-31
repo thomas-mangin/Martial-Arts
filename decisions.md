@@ -154,6 +154,45 @@ This document contains only **active decisions** that affect how Claude should t
 
 **Why**: Intellectual humility. First dan means still learning - frameworks reflect current understanding, not final truth.
 
+### Ethical AI Disclosure in Published Articles
+**Decision**: All published articles must include transparent disclosure of AI assistance
+**Date**: 2025-10-31
+
+**How this affects thinking**:
+- Every published article includes "About This Article" section with AI attribution
+- Clear statement: "Research, drafting, and revision conducted in collaboration with Claude AI (Anthropic)"
+- Emphasize author as primary creator with AI as collaborative tool
+- Author retains ownership of all technical content, personal experiences, and perspectives
+- `/review-aikido` verifies attribution section is present before finalization
+- Article template includes mandatory attribution section
+
+**Attribution Format**:
+```
+## About This Article
+
+**Author**: Thomas Mangin
+
+**AI Assistance**: Research, drafting, and revision conducted in
+collaboration with Claude AI (Anthropic). All technical content,
+personal experiences, and perspectives reflect the author's knowledge
+and understanding developed through training and practice.
+```
+
+**What this acknowledges**:
+- AI assists with research synthesis, articulation, and structure
+- Author provides all martial arts knowledge, experience, and judgment
+- Collaborative process produces educational content at MA-level quality
+- Transparency builds reader trust and maintains academic integrity
+
+**Why**:
+- Ethical responsibility to disclose AI involvement in content creation
+- Maintains authenticity and reader trust
+- Sets honest standard in era of AI-assisted writing
+- Acknowledges AI as tool while preserving author's voice and expertise
+- Demonstrates that AI assistance doesn't diminish quality or authenticity when used responsibly
+
+**Reference**: `article/article-template.md` for standard format
+
 ---
 
 ## Content Strategy
