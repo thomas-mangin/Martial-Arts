@@ -1,0 +1,4775 @@
+1
+00:00:00,659 --> 00:00:04,550
+
+all right so we had a question
+
+2
+00:00:04,550 --> 00:00:04,560
+all right so we had a question
+ 
+
+3
+00:00:04,560 --> 00:00:05,210
+all right so we had a question
+um
+
+4
+00:00:05,210 --> 00:00:05,220
+um
+ 
+
+5
+00:00:05,220 --> 00:00:08,390
+um
+and I think is important again I don't I
+
+6
+00:00:08,390 --> 00:00:08,400
+and I think is important again I don't I
+ 
+
+7
+00:00:08,400 --> 00:00:09,710
+and I think is important again I don't I
+don't think you guys understand it
+
+8
+00:00:09,710 --> 00:00:09,720
+don't think you guys understand it
+ 
+
+9
+00:00:09,720 --> 00:00:13,310
+don't think you guys understand it
+enough for the Core Concepts so it seems
+
+10
+00:00:13,310 --> 00:00:13,320
+enough for the Core Concepts so it seems
+ 
+
+11
+00:00:13,320 --> 00:00:16,250
+enough for the Core Concepts so it seems
+basic but it's it's really
+
+12
+00:00:16,250 --> 00:00:16,260
+basic but it's it's really
+ 
+
+13
+00:00:16,260 --> 00:00:18,410
+basic but it's it's really
+something you need to know beforehand
+
+14
+00:00:18,410 --> 00:00:18,420
+something you need to know beforehand
+ 
+
+15
+00:00:18,420 --> 00:00:19,790
+something you need to know beforehand
+okay
+
+16
+00:00:19,790 --> 00:00:19,800
+okay
+ 
+
+17
+00:00:19,800 --> 00:00:22,070
+okay
+so you're looking
+
+18
+00:00:22,070 --> 00:00:22,080
+so you're looking
+ 
+
+19
+00:00:22,080 --> 00:00:26,470
+so you're looking
+at Jiu Jitsu Tactical architectures
+
+20
+00:00:26,470 --> 00:00:26,480
+at Jiu Jitsu Tactical architectures
+ 
+
+21
+00:00:26,480 --> 00:00:29,330
+at Jiu Jitsu Tactical architectures
+and based on
+
+22
+00:00:29,330 --> 00:00:29,340
+and based on
+ 
+
+23
+00:00:29,340 --> 00:00:32,510
+and based on
+prior Silk Road culture you know you
+
+24
+00:00:32,510 --> 00:00:32,520
+prior Silk Road culture you know you
+ 
+
+25
+00:00:32,520 --> 00:00:35,270
+prior Silk Road culture you know you
+have yin yang Theory and if you study
+
+26
+00:00:35,270 --> 00:00:35,280
+have yin yang Theory and if you study
+ 
+
+27
+00:00:35,280 --> 00:00:38,630
+have yin yang Theory and if you study
+the discourses that developed yin yang
+
+28
+00:00:38,630 --> 00:00:38,640
+the discourses that developed yin yang
+ 
+
+29
+00:00:38,640 --> 00:00:41,569
+the discourses that developed yin yang
+Theory you have a concept that soft
+
+30
+00:00:41,569 --> 00:00:41,579
+Theory you have a concept that soft
+ 
+
+31
+00:00:41,579 --> 00:00:45,590
+Theory you have a concept that soft
+overcomes hard and so uh you're going to
+
+32
+00:00:45,590 --> 00:00:45,600
+overcomes hard and so uh you're going to
+ 
+
+33
+00:00:45,600 --> 00:00:49,670
+overcomes hard and so uh you're going to
+constantly see uh in all from all of the
+
+34
+00:00:49,670 --> 00:00:49,680
+constantly see uh in all from all of the
+ 
+
+35
+00:00:49,680 --> 00:00:54,049
+constantly see uh in all from all of the
+Masters down to osensei including uh
+
+36
+00:00:54,049 --> 00:00:54,059
+Masters down to osensei including uh
+ 
+
+37
+00:00:54,059 --> 00:00:56,750
+Masters down to osensei including uh
+generals tacticians such as Sun Tzu
+
+38
+00:00:56,750 --> 00:00:56,760
+generals tacticians such as Sun Tzu
+ 
+
+39
+00:00:56,760 --> 00:00:59,630
+generals tacticians such as Sun Tzu
+you're going to see the notion that you
+
+40
+00:00:59,630 --> 00:00:59,640
+you're going to see the notion that you
+ 
+
+41
+00:00:59,640 --> 00:01:02,470
+you're going to see the notion that you
+yield you yield to that okay
+
+42
+00:01:02,470 --> 00:01:02,480
+yield you yield to that okay
+ 
+
+43
+00:01:02,480 --> 00:01:05,690
+yield you yield to that okay
+till you start having all the Arts they
+
+44
+00:01:05,690 --> 00:01:05,700
+till you start having all the Arts they
+ 
+
+45
+00:01:05,700 --> 00:01:08,630
+till you start having all the Arts they
+have a yielding concept that they
+
+46
+00:01:08,630 --> 00:01:08,640
+have a yielding concept that they
+ 
+
+47
+00:01:08,640 --> 00:01:11,510
+have a yielding concept that they
+utilize because the truth that these
+
+48
+00:01:11,510 --> 00:01:11,520
+utilize because the truth that these
+ 
+
+49
+00:01:11,520 --> 00:01:13,310
+utilize because the truth that these
+people figured out is that soft
+
+50
+00:01:13,310 --> 00:01:13,320
+people figured out is that soft
+ 
+
+51
+00:01:13,320 --> 00:01:16,370
+people figured out is that soft
+overcomes hard no one is going to invent
+
+52
+00:01:16,370 --> 00:01:16,380
+overcomes hard no one is going to invent
+ 
+
+53
+00:01:16,380 --> 00:01:19,070
+overcomes hard no one is going to invent
+an art in light of that truth whereas if
+
+54
+00:01:19,070 --> 00:01:19,080
+an art in light of that truth whereas if
+ 
+
+55
+00:01:19,080 --> 00:01:21,710
+an art in light of that truth whereas if
+someone goes no no no heart overcomes
+
+56
+00:01:21,710 --> 00:01:21,720
+someone goes no no no heart overcomes
+ 
+
+57
+00:01:21,720 --> 00:01:24,469
+someone goes no no no heart overcomes
+soft that's not how they do it okay so
+
+58
+00:01:24,469 --> 00:01:24,479
+soft that's not how they do it okay so
+ 
+
+59
+00:01:24,479 --> 00:01:27,109
+soft that's not how they do it okay so
+by the time you get to Japanese martial
+
+60
+00:01:27,109 --> 00:01:27,119
+by the time you get to Japanese martial
+ 
+
+61
+00:01:27,119 --> 00:01:30,410
+by the time you get to Japanese martial
+arts you have this you Building Concept
+
+62
+00:01:30,410 --> 00:01:30,420
+arts you have this you Building Concept
+ 
+
+63
+00:01:30,420 --> 00:01:33,950
+arts you have this you Building Concept
+in as we would say in modern times the
+
+64
+00:01:33,950 --> 00:01:33,960
+in as we would say in modern times the
+ 
+
+65
+00:01:33,960 --> 00:01:36,050
+in as we would say in modern times the
+in all of the Jiu Jitsu which would
+
+66
+00:01:36,050 --> 00:01:36,060
+in all of the Jiu Jitsu which would
+ 
+
+67
+00:01:36,060 --> 00:01:39,770
+in all of the Jiu Jitsu which would
+include Aikido as well okay
+
+68
+00:01:39,770 --> 00:01:39,780
+include Aikido as well okay
+ 
+
+69
+00:01:39,780 --> 00:01:41,929
+include Aikido as well okay
+um there's a yielding so if you reverse
+
+70
+00:01:41,929 --> 00:01:41,939
+um there's a yielding so if you reverse
+ 
+
+71
+00:01:41,939 --> 00:01:47,630
+um there's a yielding so if you reverse
+engineer that means the attacker is uh
+
+72
+00:01:47,630 --> 00:01:47,640
+engineer that means the attacker is uh
+ 
+
+73
+00:01:47,640 --> 00:01:50,330
+engineer that means the attacker is uh
+doing some energy that requires the
+
+74
+00:01:50,330 --> 00:01:50,340
+doing some energy that requires the
+ 
+
+75
+00:01:50,340 --> 00:01:53,330
+doing some energy that requires the
+yielding so the attacker has to have
+
+76
+00:01:53,330 --> 00:01:53,340
+yielding so the attacker has to have
+ 
+
+77
+00:01:53,340 --> 00:01:57,109
+yielding so the attacker has to have
+some degree of penetration in which you
+
+78
+00:01:57,109 --> 00:01:57,119
+some degree of penetration in which you
+ 
+
+79
+00:01:57,119 --> 00:02:00,350
+some degree of penetration in which you
+would yield to that or turn right that
+
+80
+00:02:00,350 --> 00:02:00,360
+would yield to that or turn right that
+ 
+
+81
+00:02:00,360 --> 00:02:03,109
+would yield to that or turn right that
+kind of stuff so
+
+82
+00:02:03,109 --> 00:02:03,119
+kind of stuff so
+ 
+
+83
+00:02:03,119 --> 00:02:05,690
+kind of stuff so
+um we call that in English we call that
+
+84
+00:02:05,690 --> 00:02:05,700
+um we call that in English we call that
+ 
+
+85
+00:02:05,700 --> 00:02:09,050
+um we call that in English we call that
+spinal displacement okay
+
+86
+00:02:09,050 --> 00:02:09,060
+spinal displacement okay
+ 
+
+87
+00:02:09,060 --> 00:02:13,550
+spinal displacement okay
+um so if Tristan comes up
+
+88
+00:02:13,550 --> 00:02:13,560
+
+ 
+
+89
+00:02:13,560 --> 00:02:15,670
+
+spinal displacement
+
+90
+00:02:15,670 --> 00:02:15,680
+spinal displacement
+ 
+
+91
+00:02:15,680 --> 00:02:19,490
+spinal displacement
+is a human behavior
+
+92
+00:02:19,490 --> 00:02:19,500
+is a human behavior
+ 
+
+93
+00:02:19,500 --> 00:02:23,330
+is a human behavior
+that stems from territoriality okay so
+
+94
+00:02:23,330 --> 00:02:23,340
+that stems from territoriality okay so
+ 
+
+95
+00:02:23,340 --> 00:02:26,330
+that stems from territoriality okay so
+if this is somebody that I'm trying to
+
+96
+00:02:26,330 --> 00:02:26,340
+if this is somebody that I'm trying to
+ 
+
+97
+00:02:26,340 --> 00:02:27,830
+if this is somebody that I'm trying to
+intimidate
+
+98
+00:02:27,830 --> 00:02:27,840
+intimidate
+ 
+
+99
+00:02:27,840 --> 00:02:31,550
+intimidate
+I will practice territoriality on him so
+
+100
+00:02:31,550 --> 00:02:31,560
+I will practice territoriality on him so
+ 
+
+101
+00:02:31,560 --> 00:02:34,490
+I will practice territoriality on him so
+right now where his spine is standing in
+
+102
+00:02:34,490 --> 00:02:34,500
+right now where his spine is standing in
+ 
+
+103
+00:02:34,500 --> 00:02:35,690
+right now where his spine is standing in
+space
+
+104
+00:02:35,690 --> 00:02:35,700
+space
+ 
+
+105
+00:02:35,700 --> 00:02:38,930
+space
+in order for me to intimidate him I
+
+106
+00:02:38,930 --> 00:02:38,940
+in order for me to intimidate him I
+ 
+
+107
+00:02:38,940 --> 00:02:41,869
+in order for me to intimidate him I
+would attempt to occupy that space long
+
+108
+00:02:41,869 --> 00:02:41,879
+would attempt to occupy that space long
+ 
+
+109
+00:02:41,879 --> 00:02:44,030
+would attempt to occupy that space long
+before I did any kind of violent stuff
+
+110
+00:02:44,030 --> 00:02:44,040
+before I did any kind of violent stuff
+ 
+
+111
+00:02:44,040 --> 00:02:47,150
+before I did any kind of violent stuff
+okay so this is what colloquially we say
+
+112
+00:02:47,150 --> 00:02:47,160
+okay so this is what colloquially we say
+ 
+
+113
+00:02:47,160 --> 00:02:50,150
+okay so this is what colloquially we say
+so they got in my space you see if I may
+
+114
+00:02:50,150 --> 00:02:50,160
+so they got in my space you see if I may
+ 
+
+115
+00:02:50,160 --> 00:02:53,150
+so they got in my space you see if I may
+never go hey hey you it does it's
+
+116
+00:02:53,150 --> 00:02:53,160
+never go hey hey you it does it's
+ 
+
+117
+00:02:53,160 --> 00:02:54,830
+never go hey hey you it does it's
+not going to be intimidating especially
+
+118
+00:02:54,830 --> 00:02:54,840
+not going to be intimidating especially
+ 
+
+119
+00:02:54,840 --> 00:02:57,229
+not going to be intimidating especially
+if I'm walking backwards do you see it's
+
+120
+00:02:57,229 --> 00:02:57,239
+if I'm walking backwards do you see it's
+ 
+
+121
+00:02:57,239 --> 00:02:59,330
+if I'm walking backwards do you see it's
+not going to do it but if I'm walking
+
+122
+00:02:59,330 --> 00:02:59,340
+not going to do it but if I'm walking
+ 
+
+123
+00:02:59,340 --> 00:03:02,330
+not going to do it but if I'm walking
+into his face you can see he smiled he
+
+124
+00:03:02,330 --> 00:03:02,340
+into his face you can see he smiled he
+ 
+
+125
+00:03:02,340 --> 00:03:04,369
+into his face you can see he smiled he
+inhaled all that stuff because he
+
+126
+00:03:04,369 --> 00:03:04,379
+inhaled all that stuff because he
+ 
+
+127
+00:03:04,379 --> 00:03:06,470
+inhaled all that stuff because he
+thought I'm going to push through that
+
+128
+00:03:06,470 --> 00:03:06,480
+thought I'm going to push through that
+ 
+
+129
+00:03:06,480 --> 00:03:09,110
+thought I'm going to push through that
+space do you see that okay so just
+
+130
+00:03:09,110 --> 00:03:09,120
+space do you see that okay so just
+ 
+
+131
+00:03:09,120 --> 00:03:11,570
+space do you see that okay so just
+psychologically human beings that want
+
+132
+00:03:11,570 --> 00:03:11,580
+psychologically human beings that want
+ 
+
+133
+00:03:11,580 --> 00:03:14,270
+psychologically human beings that want
+to intimidate another human being will
+
+134
+00:03:14,270 --> 00:03:14,280
+to intimidate another human being will
+ 
+
+135
+00:03:14,280 --> 00:03:17,390
+to intimidate another human being will
+practice territoriality if you're
+
+136
+00:03:17,390 --> 00:03:17,400
+practice territoriality if you're
+ 
+
+137
+00:03:17,400 --> 00:03:20,330
+practice territoriality if you're
+unfamiliar with this you probably do it
+
+138
+00:03:20,330 --> 00:03:20,340
+unfamiliar with this you probably do it
+ 
+
+139
+00:03:20,340 --> 00:03:22,309
+unfamiliar with this you probably do it
+if you have a child or you have a pet
+
+140
+00:03:22,309 --> 00:03:22,319
+if you have a child or you have a pet
+ 
+
+141
+00:03:22,319 --> 00:03:24,949
+if you have a child or you have a pet
+when it's time to discipline your child
+
+142
+00:03:24,949 --> 00:03:24,959
+when it's time to discipline your child
+ 
+
+143
+00:03:24,959 --> 00:03:28,970
+when it's time to discipline your child
+or pet you never walk away from them get
+
+144
+00:03:28,970 --> 00:03:28,980
+or pet you never walk away from them get
+ 
+
+145
+00:03:28,980 --> 00:03:31,309
+or pet you never walk away from them get
+off the couch get off your couch your
+
+146
+00:03:31,309 --> 00:03:31,319
+off the couch get off your couch your
+ 
+
+147
+00:03:31,319 --> 00:03:33,770
+off the couch get off your couch your
+dog knows that he doesn't really mean it
+
+148
+00:03:33,770 --> 00:03:33,780
+dog knows that he doesn't really mean it
+ 
+
+149
+00:03:33,780 --> 00:03:35,690
+dog knows that he doesn't really mean it
+but you start walking
+
+150
+00:03:35,690 --> 00:03:35,700
+but you start walking
+ 
+
+151
+00:03:35,700 --> 00:03:38,990
+but you start walking
+the dog goes whoa and the dog get out of
+
+152
+00:03:38,990 --> 00:03:39,000
+the dog goes whoa and the dog get out of
+ 
+
+153
+00:03:39,000 --> 00:03:42,110
+the dog goes whoa and the dog get out of
+there okay human beings are no different
+
+154
+00:03:42,110 --> 00:03:42,120
+there okay human beings are no different
+ 
+
+155
+00:03:42,120 --> 00:03:46,910
+there okay human beings are no different
+so it's a type of territoriality uh it
+
+156
+00:03:46,910 --> 00:03:46,920
+so it's a type of territoriality uh it
+ 
+
+157
+00:03:46,920 --> 00:03:49,250
+so it's a type of territoriality uh it
+it is such though
+
+158
+00:03:49,250 --> 00:03:49,260
+it is such though
+ 
+
+159
+00:03:49,260 --> 00:03:53,930
+it is such though
+that there is uh a sociological tie to a
+
+160
+00:03:53,930 --> 00:03:53,940
+that there is uh a sociological tie to a
+ 
+
+161
+00:03:53,940 --> 00:03:57,350
+that there is uh a sociological tie to a
+social violence because it also
+
+162
+00:03:57,350 --> 00:03:57,360
+social violence because it also
+ 
+
+163
+00:03:57,360 --> 00:04:01,009
+social violence because it also
+tactically allows for two major
+
+164
+00:04:01,009 --> 00:04:01,019
+tactically allows for two major
+ 
+
+165
+00:04:01,019 --> 00:04:05,930
+tactically allows for two major
+strategic objectives one is take his
+
+166
+00:04:05,930 --> 00:04:05,940
+strategic objectives one is take his
+ 
+
+167
+00:04:05,940 --> 00:04:09,589
+strategic objectives one is take his
+base compromise his base and support get
+
+168
+00:04:09,589 --> 00:04:09,599
+base compromise his base and support get
+ 
+
+169
+00:04:09,599 --> 00:04:12,710
+base compromise his base and support get
+him get his balance and his posture to
+
+170
+00:04:12,710 --> 00:04:12,720
+him get his balance and his posture to
+ 
+
+171
+00:04:12,720 --> 00:04:16,189
+him get his balance and his posture to
+be compromised okay so for example if
+
+172
+00:04:16,189 --> 00:04:16,199
+be compromised okay so for example if
+ 
+
+173
+00:04:16,199 --> 00:04:18,949
+be compromised okay so for example if
+I'm here and I'm just kissing the
+
+174
+00:04:18,949 --> 00:04:18,959
+I'm here and I'm just kissing the
+ 
+
+175
+00:04:18,959 --> 00:04:21,590
+I'm here and I'm just kissing the
+surface of this his posture is not
+
+176
+00:04:21,590 --> 00:04:21,600
+surface of this his posture is not
+ 
+
+177
+00:04:21,600 --> 00:04:25,850
+surface of this his posture is not
+affected at all but if I go and I take
+
+178
+00:04:25,850 --> 00:04:25,860
+affected at all but if I go and I take
+ 
+
+179
+00:04:25,860 --> 00:04:29,330
+affected at all but if I go and I take
+this spine in space and occupy it with
+
+180
+00:04:29,330 --> 00:04:29,340
+this spine in space and occupy it with
+ 
+
+181
+00:04:29,340 --> 00:04:32,930
+this spine in space and occupy it with
+my jam boom you can see that it gets him
+
+182
+00:04:32,930 --> 00:04:32,940
+my jam boom you can see that it gets him
+ 
+
+183
+00:04:32,940 --> 00:04:36,409
+my jam boom you can see that it gets him
+on his heels and going backwards it's
+
+184
+00:04:36,409 --> 00:04:36,419
+on his heels and going backwards it's
+ 
+
+185
+00:04:36,419 --> 00:04:38,390
+on his heels and going backwards it's
+hard to change directions when you're
+
+186
+00:04:38,390 --> 00:04:38,400
+hard to change directions when you're
+ 
+
+187
+00:04:38,400 --> 00:04:42,409
+hard to change directions when you're
+going One Direction and it's hard to uh
+
+188
+00:04:42,409 --> 00:04:42,419
+going One Direction and it's hard to uh
+ 
+
+189
+00:04:42,419 --> 00:04:44,450
+going One Direction and it's hard to uh
+get a counter attack going when you're
+
+190
+00:04:44,450 --> 00:04:44,460
+get a counter attack going when you're
+ 
+
+191
+00:04:44,460 --> 00:04:48,110
+get a counter attack going when you're
+on your heels so it leads to that and we
+
+192
+00:04:48,110 --> 00:04:48,120
+on your heels so it leads to that and we
+ 
+
+193
+00:04:48,120 --> 00:04:50,450
+on your heels so it leads to that and we
+call this in modern time times a
+
+194
+00:04:50,450 --> 00:04:50,460
+call this in modern time times a
+ 
+
+195
+00:04:50,460 --> 00:04:53,450
+call this in modern time times a
+violence of action so you see a lot of
+
+196
+00:04:53,450 --> 00:04:53,460
+violence of action so you see a lot of
+ 
+
+197
+00:04:53,460 --> 00:04:56,570
+violence of action so you see a lot of
+people that assault human beings they
+
+198
+00:04:56,570 --> 00:04:56,580
+people that assault human beings they
+ 
+
+199
+00:04:56,580 --> 00:04:59,090
+people that assault human beings they
+intuitively just use violence of action
+
+200
+00:04:59,090 --> 00:04:59,100
+intuitively just use violence of action
+ 
+
+201
+00:04:59,100 --> 00:05:02,629
+intuitively just use violence of action
+but you also see it in certain military
+
+202
+00:05:02,629 --> 00:05:02,639
+but you also see it in certain military
+ 
+
+203
+00:05:02,639 --> 00:05:05,270
+but you also see it in certain military
+strategy or law enforcement strategy
+
+204
+00:05:05,270 --> 00:05:05,280
+strategy or law enforcement strategy
+ 
+
+205
+00:05:05,280 --> 00:05:07,909
+strategy or law enforcement strategy
+where it's all let's go go go go go and
+
+206
+00:05:07,909 --> 00:05:07,919
+where it's all let's go go go go go and
+ 
+
+207
+00:05:07,919 --> 00:05:10,610
+where it's all let's go go go go go and
+you get as much Firepower in to where
+
+208
+00:05:10,610 --> 00:05:10,620
+you get as much Firepower in to where
+ 
+
+209
+00:05:10,620 --> 00:05:13,370
+you get as much Firepower in to where
+you need it as fast as possible you
+
+210
+00:05:13,370 --> 00:05:13,380
+you need it as fast as possible you
+ 
+
+211
+00:05:13,380 --> 00:05:17,270
+you need it as fast as possible you
+catch the person uh off guard unable to
+
+212
+00:05:17,270 --> 00:05:17,280
+catch the person uh off guard unable to
+ 
+
+213
+00:05:17,280 --> 00:05:19,909
+catch the person uh off guard unable to
+launch a counter-offensive okay
+
+214
+00:05:19,909 --> 00:05:19,919
+launch a counter-offensive okay
+ 
+
+215
+00:05:19,919 --> 00:05:25,550
+launch a counter-offensive okay
+so I'm trying to intimidate displace and
+
+216
+00:05:25,550 --> 00:05:25,560
+so I'm trying to intimidate displace and
+ 
+
+217
+00:05:25,560 --> 00:05:27,650
+so I'm trying to intimidate displace and
+get my violence of action going by
+
+218
+00:05:27,650 --> 00:05:27,660
+get my violence of action going by
+ 
+
+219
+00:05:27,660 --> 00:05:30,830
+get my violence of action going by
+compromising his posture okay and I
+
+220
+00:05:30,830 --> 00:05:30,840
+compromising his posture okay and I
+ 
+
+221
+00:05:30,840 --> 00:05:32,510
+compromising his posture okay and I
+cannot do that
+
+222
+00:05:32,510 --> 00:05:32,520
+cannot do that
+ 
+
+223
+00:05:32,520 --> 00:05:35,210
+cannot do that
+when I'm out here I cannot do it I
+
+224
+00:05:35,210 --> 00:05:35,220
+when I'm out here I cannot do it I
+ 
+
+225
+00:05:35,220 --> 00:05:38,210
+when I'm out here I cannot do it I
+cannot do it
+
+226
+00:05:38,210 --> 00:05:38,220
+
+ 
+
+227
+00:05:38,220 --> 00:05:40,310
+
+also
+
+228
+00:05:40,310 --> 00:05:40,320
+also
+ 
+
+229
+00:05:40,320 --> 00:05:43,070
+also
+when he has weapons
+
+230
+00:05:43,070 --> 00:05:43,080
+when he has weapons
+ 
+
+231
+00:05:43,080 --> 00:05:45,770
+when he has weapons
+and I know he has weapons so let's say
+
+232
+00:05:45,770 --> 00:05:45,780
+and I know he has weapons so let's say
+ 
+
+233
+00:05:45,780 --> 00:05:49,330
+and I know he has weapons so let's say
+he's law enforcement and I can see taser
+
+234
+00:05:49,330 --> 00:05:49,340
+he's law enforcement and I can see taser
+ 
+
+235
+00:05:49,340 --> 00:05:53,990
+he's law enforcement and I can see taser
+baton OC handgun
+
+236
+00:05:53,990 --> 00:05:54,000
+baton OC handgun
+ 
+
+237
+00:05:54,000 --> 00:05:56,749
+baton OC handgun
+I'm not going to go out here
+
+238
+00:05:56,749 --> 00:05:56,759
+I'm not going to go out here
+ 
+
+239
+00:05:56,759 --> 00:05:59,450
+I'm not going to go out here
+because he's just going to have time to
+
+240
+00:05:59,450 --> 00:05:59,460
+because he's just going to have time to
+ 
+
+241
+00:05:59,460 --> 00:06:02,390
+because he's just going to have time to
+draw his weapons but if I launch on him
+
+242
+00:06:02,390 --> 00:06:02,400
+draw his weapons but if I launch on him
+ 
+
+243
+00:06:02,400 --> 00:06:04,909
+draw his weapons but if I launch on him
+it's very hard for him to draw those
+
+244
+00:06:04,909 --> 00:06:04,919
+it's very hard for him to draw those
+ 
+
+245
+00:06:04,919 --> 00:06:07,909
+it's very hard for him to draw those
+weapons meaning I am getting close
+
+246
+00:06:07,909 --> 00:06:07,919
+weapons meaning I am getting close
+ 
+
+247
+00:06:07,919 --> 00:06:10,430
+weapons meaning I am getting close
+enough and imply and applying enough
+
+248
+00:06:10,430 --> 00:06:10,440
+enough and imply and applying enough
+ 
+
+249
+00:06:10,440 --> 00:06:12,710
+enough and imply and applying enough
+pressure that he can't bring those
+
+250
+00:06:12,710 --> 00:06:12,720
+pressure that he can't bring those
+ 
+
+251
+00:06:12,720 --> 00:06:15,710
+pressure that he can't bring those
+weapons into the fight so there's a
+
+252
+00:06:15,710 --> 00:06:15,720
+weapons into the fight so there's a
+ 
+
+253
+00:06:15,720 --> 00:06:19,310
+weapons into the fight so there's a
+strategic advantage in regards to that
+
+254
+00:06:19,310 --> 00:06:19,320
+strategic advantage in regards to that
+ 
+
+255
+00:06:19,320 --> 00:06:24,290
+strategic advantage in regards to that
+same thing goes when it comes to his uh
+
+256
+00:06:24,290 --> 00:06:24,300
+same thing goes when it comes to his uh
+ 
+
+257
+00:06:24,300 --> 00:06:26,210
+same thing goes when it comes to his uh
+pugilistic weapons
+
+258
+00:06:26,210 --> 00:06:26,220
+pugilistic weapons
+ 
+
+259
+00:06:26,220 --> 00:06:29,390
+pugilistic weapons
+so for out here again final stance I
+
+260
+00:06:29,390 --> 00:06:29,400
+so for out here again final stance I
+ 
+
+261
+00:06:29,400 --> 00:06:32,150
+so for out here again final stance I
+gotta fight all of this stuff and Bob
+
+262
+00:06:32,150 --> 00:06:32,160
+gotta fight all of this stuff and Bob
+ 
+
+263
+00:06:32,160 --> 00:06:35,150
+gotta fight all of this stuff and Bob
+and weave and yada yada yada even if he
+
+264
+00:06:35,150 --> 00:06:35,160
+and weave and yada yada yada even if he
+ 
+
+265
+00:06:35,160 --> 00:06:38,270
+and weave and yada yada yada even if he
+didn't have time to draw a knife okay
+
+266
+00:06:38,270 --> 00:06:38,280
+didn't have time to draw a knife okay
+ 
+
+267
+00:06:38,280 --> 00:06:41,809
+didn't have time to draw a knife okay
+what people will do is just crash
+
+268
+00:06:41,809 --> 00:06:41,819
+what people will do is just crash
+ 
+
+269
+00:06:41,819 --> 00:06:44,749
+what people will do is just crash
+through all of that okay so he's gonna
+
+270
+00:06:44,749 --> 00:06:44,759
+through all of that okay so he's gonna
+ 
+
+271
+00:06:44,759 --> 00:06:48,050
+through all of that okay so he's gonna
+try to pop me in the face oh no I don't
+
+272
+00:06:48,050 --> 00:06:48,060
+try to pop me in the face oh no I don't
+ 
+
+273
+00:06:48,060 --> 00:06:49,430
+try to pop me in the face oh no I don't
+care I'm not gonna do that I'm just
+
+274
+00:06:49,430 --> 00:06:49,440
+care I'm not gonna do that I'm just
+ 
+
+275
+00:06:49,440 --> 00:06:51,290
+care I'm not gonna do that I'm just
+gonna go in here
+
+276
+00:06:51,290 --> 00:06:51,300
+gonna go in here
+ 
+
+277
+00:06:51,300 --> 00:06:53,990
+gonna go in here
+faction and now I'd start whatever
+
+278
+00:06:53,990 --> 00:06:54,000
+faction and now I'd start whatever
+ 
+
+279
+00:06:54,000 --> 00:06:56,450
+faction and now I'd start whatever
+offense I want to do
+
+280
+00:06:56,450 --> 00:06:56,460
+offense I want to do
+ 
+
+281
+00:06:56,460 --> 00:07:00,710
+offense I want to do
+all that is spinal displacement
+
+282
+00:07:00,710 --> 00:07:00,720
+all that is spinal displacement
+ 
+
+283
+00:07:00,720 --> 00:07:03,469
+all that is spinal displacement
+but if you understand it in terms of Yin
+
+284
+00:07:03,469 --> 00:07:03,479
+but if you understand it in terms of Yin
+ 
+
+285
+00:07:03,479 --> 00:07:04,670
+but if you understand it in terms of Yin
+and John
+
+286
+00:07:04,670 --> 00:07:04,680
+and John
+ 
+
+287
+00:07:04,680 --> 00:07:07,790
+and John
+while it looks pretty cool it looks like
+
+288
+00:07:07,790 --> 00:07:07,800
+while it looks pretty cool it looks like
+ 
+
+289
+00:07:07,800 --> 00:07:12,050
+while it looks pretty cool it looks like
+it'll function it's functioning because
+
+290
+00:07:12,050 --> 00:07:12,060
+it'll function it's functioning because
+ 
+
+291
+00:07:12,060 --> 00:07:14,870
+it'll function it's functioning because
+he stayed still that's why it functions
+
+292
+00:07:14,870 --> 00:07:14,880
+he stayed still that's why it functions
+ 
+
+293
+00:07:14,880 --> 00:07:19,430
+he stayed still that's why it functions
+okay so for example he's charging me as
+
+294
+00:07:19,430 --> 00:07:19,440
+okay so for example he's charging me as
+ 
+
+295
+00:07:19,440 --> 00:07:22,610
+okay so for example he's charging me as
+fast as he can it looks like oh that's
+
+296
+00:07:22,610 --> 00:07:22,620
+fast as he can it looks like oh that's
+ 
+
+297
+00:07:22,620 --> 00:07:24,469
+fast as he can it looks like oh that's
+good he's gonna take that four Aikido
+
+298
+00:07:24,469 --> 00:07:24,479
+good he's gonna take that four Aikido
+ 
+
+299
+00:07:24,479 --> 00:07:25,430
+good he's gonna take that four Aikido
+guy down
+
+300
+00:07:25,430 --> 00:07:25,440
+guy down
+ 
+
+301
+00:07:25,440 --> 00:07:28,790
+guy down
+but if I don't yawn here he goes and
+
+302
+00:07:28,790 --> 00:07:28,800
+but if I don't yawn here he goes and
+ 
+
+303
+00:07:28,800 --> 00:07:31,370
+but if I don't yawn here he goes and
+then
+
+304
+00:07:31,370 --> 00:07:31,380
+
+ 
+
+305
+00:07:31,380 --> 00:07:34,730
+
+you see so that's where your Jiu Jitsu
+
+306
+00:07:34,730 --> 00:07:34,740
+you see so that's where your Jiu Jitsu
+ 
+
+307
+00:07:34,740 --> 00:07:36,950
+you see so that's where your Jiu Jitsu
+comes in don't contest
+
+308
+00:07:36,950 --> 00:07:36,960
+comes in don't contest
+ 
+
+309
+00:07:36,960 --> 00:07:39,350
+comes in don't contest
+that okay
+
+310
+00:07:39,350 --> 00:07:39,360
+that okay
+ 
+
+311
+00:07:39,360 --> 00:07:42,110
+that okay
+it's very common in a social violence
+
+312
+00:07:42,110 --> 00:07:42,120
+it's very common in a social violence
+ 
+
+313
+00:07:42,120 --> 00:07:44,990
+it's very common in a social violence
+which is why people that study only
+
+314
+00:07:44,990 --> 00:07:45,000
+which is why people that study only
+ 
+
+315
+00:07:45,000 --> 00:07:47,029
+which is why people that study only
+Aikido keyhon
+
+316
+00:07:47,029 --> 00:07:47,039
+Aikido keyhon
+ 
+
+317
+00:07:47,039 --> 00:07:50,749
+Aikido keyhon
+will say that kihon works and you go
+
+318
+00:07:50,749 --> 00:07:50,759
+will say that kihon works and you go
+ 
+
+319
+00:07:50,759 --> 00:07:52,309
+will say that kihon works and you go
+well what do you where did it work well
+
+320
+00:07:52,309 --> 00:07:52,319
+well what do you where did it work well
+ 
+
+321
+00:07:52,319 --> 00:07:55,670
+well what do you where did it work well
+oh I work at a psychiatric hospital or I
+
+322
+00:07:55,670 --> 00:07:55,680
+oh I work at a psychiatric hospital or I
+ 
+
+323
+00:07:55,680 --> 00:07:57,589
+oh I work at a psychiatric hospital or I
+work at a prison or something like that
+
+324
+00:07:57,589 --> 00:07:57,599
+work at a prison or something like that
+ 
+
+325
+00:07:57,599 --> 00:07:59,749
+work at a prison or something like that
+or I work in law enforcement because
+
+326
+00:07:59,749 --> 00:07:59,759
+or I work in law enforcement because
+ 
+
+327
+00:07:59,759 --> 00:08:01,550
+or I work in law enforcement because
+that's always going to be a social
+
+328
+00:08:01,550 --> 00:08:01,560
+that's always going to be a social
+ 
+
+329
+00:08:01,560 --> 00:08:03,770
+that's always going to be a social
+violence so people are going to
+
+330
+00:08:03,770 --> 00:08:03,780
+violence so people are going to
+ 
+
+331
+00:08:03,780 --> 00:08:06,890
+violence so people are going to
+penetrate territorially and try to
+
+332
+00:08:06,890 --> 00:08:06,900
+penetrate territorially and try to
+ 
+
+333
+00:08:06,900 --> 00:08:10,189
+penetrate territorially and try to
+displace my spine and your kihon is all
+
+334
+00:08:10,189 --> 00:08:10,199
+displace my spine and your kihon is all
+ 
+
+335
+00:08:10,199 --> 00:08:14,529
+displace my spine and your kihon is all
+geared towards that kind of attack okay
+
+336
+00:08:14,529 --> 00:08:14,539
+geared towards that kind of attack okay
+ 
+
+337
+00:08:14,539 --> 00:08:18,650
+geared towards that kind of attack okay
+inversely if he's throwing Jabs to my
+
+338
+00:08:18,650 --> 00:08:18,660
+inversely if he's throwing Jabs to my
+ 
+
+339
+00:08:18,660 --> 00:08:22,610
+inversely if he's throwing Jabs to my
+face without any commitment right back
+
+340
+00:08:22,610 --> 00:08:22,620
+face without any commitment right back
+ 
+
+341
+00:08:22,620 --> 00:08:24,650
+face without any commitment right back
+in and out and I'm going to try to do
+
+342
+00:08:24,650 --> 00:08:24,660
+in and out and I'm going to try to do
+ 
+
+343
+00:08:24,660 --> 00:08:29,210
+in and out and I'm going to try to do
+coachage no no you're not because I did
+
+344
+00:08:29,210 --> 00:08:29,220
+coachage no no you're not because I did
+ 
+
+345
+00:08:29,220 --> 00:08:30,830
+coachage no no you're not because I did
+a turning move
+
+346
+00:08:30,830 --> 00:08:30,840
+a turning move
+ 
+
+347
+00:08:30,840 --> 00:08:33,709
+a turning move
+a Yin move he did not do a young move
+
+348
+00:08:33,709 --> 00:08:33,719
+a Yin move he did not do a young move
+ 
+
+349
+00:08:33,719 --> 00:08:35,930
+a Yin move he did not do a young move
+that's incorrect that does not work okay
+
+350
+00:08:35,930 --> 00:08:35,940
+that's incorrect that does not work okay
+ 
+
+351
+00:08:35,940 --> 00:08:38,990
+that's incorrect that does not work okay
+so you'll see people he's jabbing
+
+352
+00:08:38,990 --> 00:08:39,000
+so you'll see people he's jabbing
+ 
+
+353
+00:08:39,000 --> 00:08:40,310
+so you'll see people he's jabbing
+jabbing and they're like oh I'm gonna
+
+354
+00:08:40,310 --> 00:08:40,320
+jabbing and they're like oh I'm gonna
+ 
+
+355
+00:08:40,320 --> 00:08:47,230
+jabbing and they're like oh I'm gonna
+follow it in this is stupid
+
+356
+00:08:47,230 --> 00:08:47,240
+
+ 
+
+357
+00:08:47,240 --> 00:08:49,670
+
+that did everything that I might have
+
+358
+00:08:49,670 --> 00:08:49,680
+that did everything that I might have
+ 
+
+359
+00:08:49,680 --> 00:08:53,269
+that did everything that I might have
+wanted to do by making a fetish out of
+
+360
+00:08:53,269 --> 00:08:53,279
+wanted to do by making a fetish out of
+ 
+
+361
+00:08:53,279 --> 00:08:56,870
+wanted to do by making a fetish out of
+gas do you see that so he didn't have a
+
+362
+00:08:56,870 --> 00:08:56,880
+gas do you see that so he didn't have a
+ 
+
+363
+00:08:56,880 --> 00:09:00,170
+gas do you see that so he didn't have a
+spinal displacement and that jab is
+
+364
+00:09:00,170 --> 00:09:00,180
+spinal displacement and that jab is
+ 
+
+365
+00:09:00,180 --> 00:09:03,530
+spinal displacement and that jab is
+gonna work that job will work use the
+
+366
+00:09:03,530 --> 00:09:03,540
+gonna work that job will work use the
+ 
+
+367
+00:09:03,540 --> 00:09:05,990
+gonna work that job will work use the
+jab okay so I'm going to show you a
+
+368
+00:09:05,990 --> 00:09:06,000
+jab okay so I'm going to show you a
+ 
+
+369
+00:09:06,000 --> 00:09:07,910
+jab okay so I'm going to show you a
+couple things
+
+370
+00:09:07,910 --> 00:09:07,920
+couple things
+ 
+
+371
+00:09:07,920 --> 00:09:08,750
+couple things
+um
+
+372
+00:09:08,750 --> 00:09:08,760
+um
+ 
+
+373
+00:09:08,760 --> 00:09:11,949
+um
+let's get in a stance that you want okay
+
+374
+00:09:11,949 --> 00:09:11,959
+let's get in a stance that you want okay
+ 
+
+375
+00:09:11,959 --> 00:09:16,610
+let's get in a stance that you want okay
+and uh you'll throw a rear cross just on
+
+376
+00:09:16,610 --> 00:09:16,620
+and uh you'll throw a rear cross just on
+ 
+
+377
+00:09:16,620 --> 00:09:17,389
+and uh you'll throw a rear cross just on
+my
+
+378
+00:09:17,389 --> 00:09:17,399
+my
+ 
+
+379
+00:09:17,399 --> 00:09:19,610
+my
+body okay
+
+380
+00:09:19,610 --> 00:09:19,620
+body okay
+ 
+
+381
+00:09:19,620 --> 00:09:22,130
+body okay
+so here I am not with spinal
+
+382
+00:09:22,130 --> 00:09:22,140
+so here I am not with spinal
+ 
+
+383
+00:09:22,140 --> 00:09:24,470
+so here I am not with spinal
+displacement and he goes you're gonna
+
+384
+00:09:24,470 --> 00:09:24,480
+displacement and he goes you're gonna
+ 
+
+385
+00:09:24,480 --> 00:09:26,570
+displacement and he goes you're gonna
+hit me when I get in the range of that
+
+386
+00:09:26,570 --> 00:09:26,580
+hit me when I get in the range of that
+ 
+
+387
+00:09:26,580 --> 00:09:30,050
+hit me when I get in the range of that
+cross oh man that's a heavy hand okay
+
+388
+00:09:30,050 --> 00:09:30,060
+cross oh man that's a heavy hand okay
+ 
+
+389
+00:09:30,060 --> 00:09:33,410
+cross oh man that's a heavy hand okay
+now without even going fast I just keep
+
+390
+00:09:33,410 --> 00:09:33,420
+now without even going fast I just keep
+ 
+
+391
+00:09:33,420 --> 00:09:36,710
+now without even going fast I just keep
+moving throw it like you mean it I just
+
+392
+00:09:36,710 --> 00:09:36,720
+moving throw it like you mean it I just
+ 
+
+393
+00:09:36,720 --> 00:09:38,810
+moving throw it like you mean it I just
+keep moving
+
+394
+00:09:38,810 --> 00:09:38,820
+keep moving
+ 
+
+395
+00:09:38,820 --> 00:09:41,630
+keep moving
+the strike is smoother the timing gets
+
+396
+00:09:41,630 --> 00:09:41,640
+the strike is smoother the timing gets
+ 
+
+397
+00:09:41,640 --> 00:09:44,030
+the strike is smoother the timing gets
+off it goes into his wrist
+
+398
+00:09:44,030 --> 00:09:44,040
+off it goes into his wrist
+ 
+
+399
+00:09:44,040 --> 00:09:47,509
+off it goes into his wrist
+Etc that's why people that are asocially
+
+400
+00:09:47,509 --> 00:09:47,519
+Etc that's why people that are asocially
+ 
+
+401
+00:09:47,519 --> 00:09:50,870
+Etc that's why people that are asocially
+attacking someone they just run in or
+
+402
+00:09:50,870 --> 00:09:50,880
+attacking someone they just run in or
+ 
+
+403
+00:09:50,880 --> 00:09:53,389
+attacking someone they just run in or
+like we saw the gray season in the 80s
+
+404
+00:09:53,389 --> 00:09:53,399
+like we saw the gray season in the 80s
+ 
+
+405
+00:09:53,399 --> 00:09:57,470
+like we saw the gray season in the 80s
+and 90s they smothered people took away
+
+406
+00:09:57,470 --> 00:09:57,480
+and 90s they smothered people took away
+ 
+
+407
+00:09:57,480 --> 00:10:00,290
+and 90s they smothered people took away
+their ballistic options and those people
+
+408
+00:10:00,290 --> 00:10:00,300
+their ballistic options and those people
+ 
+
+409
+00:10:00,300 --> 00:10:02,810
+their ballistic options and those people
+had no idea what to do after they got
+
+410
+00:10:02,810 --> 00:10:02,820
+had no idea what to do after they got
+ 
+
+411
+00:10:02,820 --> 00:10:06,590
+had no idea what to do after they got
+the Gap closed on okay
+
+412
+00:10:06,590 --> 00:10:06,600
+the Gap closed on okay
+ 
+
+413
+00:10:06,600 --> 00:10:08,750
+the Gap closed on okay
+um let's say
+
+414
+00:10:08,750 --> 00:10:08,760
+um let's say
+ 
+
+415
+00:10:08,760 --> 00:10:12,710
+um let's say
+he's trying to do his his uh
+
+416
+00:10:12,710 --> 00:10:12,720
+he's trying to do his his uh
+ 
+
+417
+00:10:12,720 --> 00:10:14,449
+he's trying to do his his uh
+you come in
+
+418
+00:10:14,449 --> 00:10:14,459
+you come in
+ 
+
+419
+00:10:14,459 --> 00:10:17,389
+you come in
+right like he's doing his slow grabbing
+
+420
+00:10:17,389 --> 00:10:17,399
+right like he's doing his slow grabbing
+ 
+
+421
+00:10:17,399 --> 00:10:19,490
+right like he's doing his slow grabbing
+and he's going to come in and grab me
+
+422
+00:10:19,490 --> 00:10:19,500
+and he's going to come in and grab me
+ 
+
+423
+00:10:19,500 --> 00:10:21,290
+and he's going to come in and grab me
+well here's where I just throw those
+
+424
+00:10:21,290 --> 00:10:21,300
+well here's where I just throw those
+ 
+
+425
+00:10:21,300 --> 00:10:24,769
+well here's where I just throw those
+stripes at him okay I don't have to spy
+
+426
+00:10:24,769 --> 00:10:24,779
+stripes at him okay I don't have to spy
+ 
+
+427
+00:10:24,779 --> 00:10:26,870
+stripes at him okay I don't have to spy
+with this place either I just keep
+
+428
+00:10:26,870 --> 00:10:26,880
+with this place either I just keep
+ 
+
+429
+00:10:26,880 --> 00:10:30,530
+with this place either I just keep
+moving he moves boom
+
+430
+00:10:30,530 --> 00:10:30,540
+moving he moves boom
+ 
+
+431
+00:10:30,540 --> 00:10:33,470
+moving he moves boom
+but if he runs at me and I try my
+
+432
+00:10:33,470 --> 00:10:33,480
+but if he runs at me and I try my
+ 
+
+433
+00:10:33,480 --> 00:10:36,410
+but if he runs at me and I try my
+strikes it's not gonna work
+
+434
+00:10:36,410 --> 00:10:36,420
+strikes it's not gonna work
+ 
+
+435
+00:10:36,420 --> 00:10:38,509
+strikes it's not gonna work
+so strikes
+
+436
+00:10:38,509 --> 00:10:38,519
+so strikes
+ 
+
+437
+00:10:38,519 --> 00:10:41,389
+so strikes
+and your nagiwaza
+
+438
+00:10:41,389 --> 00:10:41,399
+and your nagiwaza
+ 
+
+439
+00:10:41,399 --> 00:10:43,269
+and your nagiwaza
+are not
+
+440
+00:10:43,269 --> 00:10:43,279
+are not
+ 
+
+441
+00:10:43,279 --> 00:10:46,250
+are not
+substitutionary you they don't work in
+
+442
+00:10:46,250 --> 00:10:46,260
+substitutionary you they don't work in
+ 
+
+443
+00:10:46,260 --> 00:10:49,850
+substitutionary you they don't work in
+the same place okay which is why when he
+
+444
+00:10:49,850 --> 00:10:49,860
+the same place okay which is why when he
+ 
+
+445
+00:10:49,860 --> 00:10:52,550
+the same place okay which is why when he
+throws his jab I don't follow this back
+
+446
+00:10:52,550 --> 00:10:52,560
+throws his jab I don't follow this back
+ 
+
+447
+00:10:52,560 --> 00:10:55,730
+throws his jab I don't follow this back
+in so I can do good lagash this is done
+
+448
+00:10:55,730 --> 00:10:55,740
+in so I can do good lagash this is done
+ 
+
+449
+00:10:55,740 --> 00:11:00,290
+in so I can do good lagash this is done
+this is not yin yang okay likewise
+
+450
+00:11:00,290 --> 00:11:00,300
+this is not yin yang okay likewise
+ 
+
+451
+00:11:00,300 --> 00:11:03,290
+this is not yin yang okay likewise
+he throws his jab I don't go like this
+
+452
+00:11:03,290 --> 00:11:03,300
+he throws his jab I don't go like this
+ 
+
+453
+00:11:03,300 --> 00:11:06,110
+he throws his jab I don't go like this
+for any other that is also done that's
+
+454
+00:11:06,110 --> 00:11:06,120
+for any other that is also done that's
+ 
+
+455
+00:11:06,120 --> 00:11:09,829
+for any other that is also done that's
+not where the technique fits okay
+
+456
+00:11:09,829 --> 00:11:09,839
+not where the technique fits okay
+ 
+
+457
+00:11:09,839 --> 00:11:12,889
+not where the technique fits okay
+um so what I want you to do in this
+
+458
+00:11:12,889 --> 00:11:12,899
+um so what I want you to do in this
+ 
+
+459
+00:11:12,899 --> 00:11:15,410
+um so what I want you to do in this
+drill is you're just going to charge
+
+460
+00:11:15,410 --> 00:11:15,420
+drill is you're just going to charge
+ 
+
+461
+00:11:15,420 --> 00:11:20,990
+drill is you're just going to charge
+lead okay and on one person I won't move
+
+462
+00:11:20,990 --> 00:11:21,000
+lead okay and on one person I won't move
+ 
+
+463
+00:11:21,000 --> 00:11:26,630
+lead okay and on one person I won't move
+go as fast as you can athletic boom okay
+
+464
+00:11:26,630 --> 00:11:26,640
+
+ 
+
+465
+00:11:26,640 --> 00:11:29,269
+
+and then on the next rep
+
+466
+00:11:29,269 --> 00:11:29,279
+and then on the next rep
+ 
+
+467
+00:11:29,279 --> 00:11:31,910
+and then on the next rep
+he goes
+
+468
+00:11:31,910 --> 00:11:31,920
+he goes
+ 
+
+469
+00:11:31,920 --> 00:11:34,190
+he goes
+okay we're gonna yield we're gonna get
+
+470
+00:11:34,190 --> 00:11:34,200
+okay we're gonna yield we're gonna get
+ 
+
+471
+00:11:34,200 --> 00:11:36,889
+okay we're gonna yield we're gonna get
+out of the way okay let's try so you can
+
+472
+00:11:36,889 --> 00:11:36,899
+out of the way okay let's try so you can
+ 
+
+473
+00:11:36,899 --> 00:11:40,069
+out of the way okay let's try so you can
+feel when it works and when it knocks so
+
+474
+00:11:40,069 --> 00:11:40,079
+feel when it works and when it knocks so
+ 
+
+475
+00:11:40,079 --> 00:11:43,190
+feel when it works and when it knocks so
+let me give you the third one okay on
+
+476
+00:11:43,190 --> 00:11:43,200
+let me give you the third one okay on
+ 
+
+477
+00:11:43,200 --> 00:11:46,550
+let me give you the third one okay on
+your third wide
+
+478
+00:11:46,550 --> 00:11:46,560
+
+ 
+
+479
+00:11:46,560 --> 00:11:48,290
+
+you're gonna run in here when he's
+
+480
+00:11:48,290 --> 00:11:48,300
+you're gonna run in here when he's
+ 
+
+481
+00:11:48,300 --> 00:11:49,910
+you're gonna run in here when he's
+running at you
+
+482
+00:11:49,910 --> 00:11:49,920
+running at you
+ 
+
+483
+00:11:49,920 --> 00:11:52,550
+running at you
+you run the heart at me maybe you're
+
+484
+00:11:52,550 --> 00:11:52,560
+you run the heart at me maybe you're
+ 
+
+485
+00:11:52,560 --> 00:11:54,410
+you run the heart at me maybe you're
+gonna feel all young you've got even
+
+486
+00:11:54,410 --> 00:11:54,420
+gonna feel all young you've got even
+ 
+
+487
+00:11:54,420 --> 00:11:59,210
+gonna feel all young you've got even
+stronger okay all right let's try it
+
+488
+00:11:59,210 --> 00:11:59,220
+
+ 
+
+489
+00:11:59,220 --> 00:12:01,910
+
+okay now now you're going to do the same
+
+490
+00:12:01,910 --> 00:12:01,920
+okay now now you're going to do the same
+ 
+
+491
+00:12:01,920 --> 00:12:02,990
+okay now now you're going to do the same
+thing
+
+492
+00:12:02,990 --> 00:12:03,000
+thing
+ 
+
+493
+00:12:03,000 --> 00:12:06,590
+thing
+so what are we tuning one meter one
+
+494
+00:12:06,590 --> 00:12:06,600
+so what are we tuning one meter one
+ 
+
+495
+00:12:06,600 --> 00:12:08,449
+so what are we tuning one meter one
+meter okay
+
+496
+00:12:08,449 --> 00:12:08,459
+meter okay
+ 
+
+497
+00:12:08,459 --> 00:12:11,030
+meter okay
+you can even get ready if you want okay
+
+498
+00:12:11,030 --> 00:12:11,040
+you can even get ready if you want okay
+ 
+
+499
+00:12:11,040 --> 00:12:13,850
+you can even get ready if you want okay
+and he's gonna run at me as hard as you
+
+500
+00:12:13,850 --> 00:12:13,860
+and he's gonna run at me as hard as you
+ 
+
+501
+00:12:13,860 --> 00:12:16,610
+and he's gonna run at me as hard as you
+can nope I need you to be more hardcore
+
+502
+00:12:16,610 --> 00:12:16,620
+can nope I need you to be more hardcore
+ 
+
+503
+00:12:16,620 --> 00:12:19,009
+can nope I need you to be more hardcore
+today
+
+504
+00:12:19,009 --> 00:12:19,019
+
+ 
+
+505
+00:12:19,019 --> 00:12:23,930
+
+okay
+
+506
+00:12:23,930 --> 00:12:23,940
+
+ 
+
+507
+00:12:23,940 --> 00:12:25,970
+
+get on one meter
+
+508
+00:12:25,970 --> 00:12:25,980
+get on one meter
+ 
+
+509
+00:12:25,980 --> 00:12:27,370
+get on one meter
+go
+
+510
+00:12:27,370 --> 00:12:27,380
+go
+ 
+
+511
+00:12:27,380 --> 00:12:30,530
+go
+[Music]
+
+512
+00:12:30,530 --> 00:12:30,540
+[Music]
+ 
+
+513
+00:12:30,540 --> 00:12:33,949
+[Music]
+then
+
+514
+00:12:33,949 --> 00:12:33,959
+
+ 
+
+515
+00:12:33,959 --> 00:12:38,329
+
+half a meter
+
+516
+00:12:38,329 --> 00:12:38,339
+
+ 
+
+517
+00:12:38,339 --> 00:12:41,090
+
+okay
+
+518
+00:12:41,090 --> 00:12:41,100
+
+ 
+
+519
+00:12:41,100 --> 00:12:45,829
+
+okay try it okay
+
+520
+00:12:45,829 --> 00:12:45,839
+
+ 
+
+521
+00:12:45,839 --> 00:12:48,050
+
+now at one meter
+
+522
+00:12:48,050 --> 00:12:48,060
+now at one meter
+ 
+
+523
+00:12:48,060 --> 00:12:50,389
+now at one meter
+get on the line
+
+524
+00:12:50,389 --> 00:12:50,399
+get on the line
+ 
+
+525
+00:12:50,399 --> 00:12:54,110
+get on the line
+I want you not to displace my spine
+
+526
+00:12:54,110 --> 00:12:54,120
+I want you not to displace my spine
+ 
+
+527
+00:12:54,120 --> 00:12:56,389
+I want you not to displace my spine
+do you understand so go slow so I make
+
+528
+00:12:56,389 --> 00:12:56,399
+do you understand so go slow so I make
+ 
+
+529
+00:12:56,399 --> 00:12:57,470
+do you understand so go slow so I make
+sure you understand what I'm what I'm
+
+530
+00:12:57,470 --> 00:12:57,480
+sure you understand what I'm what I'm
+ 
+
+531
+00:12:57,480 --> 00:12:58,670
+sure you understand what I'm what I'm
+saying
+
+532
+00:12:58,670 --> 00:12:58,680
+saying
+ 
+
+533
+00:12:58,680 --> 00:13:01,490
+saying
+I'm saying good so you pulled me in okay
+
+534
+00:13:01,490 --> 00:13:01,500
+I'm saying good so you pulled me in okay
+ 
+
+535
+00:13:01,500 --> 00:13:03,170
+I'm saying good so you pulled me in okay
+so now you're going to do that as fast
+
+536
+00:13:03,170 --> 00:13:03,180
+so now you're going to do that as fast
+ 
+
+537
+00:13:03,180 --> 00:13:04,880
+so now you're going to do that as fast
+as you can
+
+538
+00:13:04,880 --> 00:13:04,890
+as you can
+ 
+
+539
+00:13:04,890 --> 00:13:06,110
+as you can
+[Music]
+
+540
+00:13:06,110 --> 00:13:06,120
+[Music]
+ 
+
+541
+00:13:06,120 --> 00:13:07,730
+[Music]
+I'm trying to get
+
+542
+00:13:07,730 --> 00:13:07,740
+I'm trying to get
+ 
+
+543
+00:13:07,740 --> 00:13:09,769
+I'm trying to get
+I'm trying to yield that's his same
+
+544
+00:13:09,769 --> 00:13:09,779
+I'm trying to yield that's his same
+ 
+
+545
+00:13:09,779 --> 00:13:11,930
+I'm trying to yield that's his same
+little tank on that worked magically
+
+546
+00:13:11,930 --> 00:13:11,940
+little tank on that worked magically
+ 
+
+547
+00:13:11,940 --> 00:13:12,949
+little tank on that worked magically
+before
+
+548
+00:13:12,949 --> 00:13:12,959
+before
+ 
+
+549
+00:13:12,959 --> 00:13:15,530
+before
+now we'll go to half a meter
+
+550
+00:13:15,530 --> 00:13:15,540
+now we'll go to half a meter
+ 
+
+551
+00:13:15,540 --> 00:13:19,069
+now we'll go to half a meter
+okay and if it's as fast you can without
+
+552
+00:13:19,069 --> 00:13:19,079
+okay and if it's as fast you can without
+ 
+
+553
+00:13:19,079 --> 00:13:21,470
+okay and if it's as fast you can without
+penetrating my spine go
+
+554
+00:13:21,470 --> 00:13:21,480
+penetrating my spine go
+ 
+
+555
+00:13:21,480 --> 00:13:23,629
+penetrating my spine go
+and same thing you can see we start
+
+556
+00:13:23,629 --> 00:13:23,639
+and same thing you can see we start
+ 
+
+557
+00:13:23,639 --> 00:13:26,389
+and same thing you can see we start
+contesting okay
+
+558
+00:13:26,389 --> 00:13:26,399
+contesting okay
+ 
+
+559
+00:13:26,399 --> 00:13:27,710
+contesting okay
+um
+
+560
+00:13:27,710 --> 00:13:27,720
+um
+ 
+
+561
+00:13:27,720 --> 00:13:31,910
+um
+now go back to a meter
+
+562
+00:13:31,910 --> 00:13:31,920
+now go back to a meter
+ 
+
+563
+00:13:31,920 --> 00:13:34,030
+now go back to a meter
+and without
+
+564
+00:13:34,030 --> 00:13:34,040
+and without
+ 
+
+565
+00:13:34,040 --> 00:13:36,470
+and without
+displacing my spine just like the first
+
+566
+00:13:36,470 --> 00:13:36,480
+displacing my spine just like the first
+ 
+
+567
+00:13:36,480 --> 00:13:39,650
+displacing my spine just like the first
+one go
+
+568
+00:13:39,650 --> 00:13:39,660
+
+ 
+
+569
+00:13:39,660 --> 00:13:42,949
+
+the strikes open up you see
+
+570
+00:13:42,949 --> 00:13:42,959
+the strikes open up you see
+ 
+
+571
+00:13:42,959 --> 00:13:44,629
+the strikes open up you see
+same thing
+
+572
+00:13:44,629 --> 00:13:44,639
+same thing
+ 
+
+573
+00:13:44,639 --> 00:13:50,329
+same thing
+half a meter don't displace he goes
+
+574
+00:13:50,329 --> 00:13:50,339
+
+ 
+
+575
+00:13:50,339 --> 00:13:53,210
+
+let's see are you here
+
+576
+00:13:53,210 --> 00:13:53,220
+let's see are you here
+ 
+
+577
+00:13:53,220 --> 00:13:56,150
+let's see are you here
+okay that's where you use them so if
+
+578
+00:13:56,150 --> 00:13:56,160
+okay that's where you use them so if
+ 
+
+579
+00:13:56,160 --> 00:13:58,670
+okay that's where you use them so if
+there's no spinal displacement your
+
+580
+00:13:58,670 --> 00:13:58,680
+there's no spinal displacement your
+ 
+
+581
+00:13:58,680 --> 00:14:00,590
+there's no spinal displacement your
+strikes are going to be there
+
+582
+00:14:00,590 --> 00:14:00,600
+strikes are going to be there
+ 
+
+583
+00:14:00,600 --> 00:14:03,590
+strikes are going to be there
+he's basically mimicking the heavy bag
+
+584
+00:14:03,590 --> 00:14:03,600
+he's basically mimicking the heavy bag
+ 
+
+585
+00:14:03,600 --> 00:14:06,050
+he's basically mimicking the heavy bag
+the heavy bag never displaces your spine
+
+586
+00:14:06,050 --> 00:14:06,060
+the heavy bag never displaces your spine
+ 
+
+587
+00:14:06,060 --> 00:14:09,650
+the heavy bag never displaces your spine
+okay if if we invented a heavy bag that
+
+588
+00:14:09,650 --> 00:14:09,660
+okay if if we invented a heavy bag that
+ 
+
+589
+00:14:09,660 --> 00:14:11,810
+okay if if we invented a heavy bag that
+would continually displace your spine it
+
+590
+00:14:11,810 --> 00:14:11,820
+would continually displace your spine it
+ 
+
+591
+00:14:11,820 --> 00:14:13,790
+would continually displace your spine it
+wouldn't that wouldn't work okay it has
+
+592
+00:14:13,790 --> 00:14:13,800
+wouldn't that wouldn't work okay it has
+ 
+
+593
+00:14:13,800 --> 00:14:15,170
+wouldn't that wouldn't work okay it has
+to not displace
+
+594
+00:14:15,170 --> 00:14:15,180
+to not displace
+ 
+
+595
+00:14:15,180 --> 00:14:18,769
+to not displace
+so you can see where it works so in this
+
+596
+00:14:18,769 --> 00:14:18,779
+so you can see where it works so in this
+ 
+
+597
+00:14:18,779 --> 00:14:21,350
+so you can see where it works so in this
+drill that's what he's going to do one
+
+598
+00:14:21,350 --> 00:14:21,360
+drill that's what he's going to do one
+ 
+
+599
+00:14:21,360 --> 00:14:24,290
+drill that's what he's going to do one
+meter without spinal displacement half a
+
+600
+00:14:24,290 --> 00:14:24,300
+meter without spinal displacement half a
+ 
+
+601
+00:14:24,300 --> 00:14:26,629
+meter without spinal displacement half a
+meter without spinal displacement you'll
+
+602
+00:14:26,629 --> 00:14:26,639
+meter without spinal displacement you'll
+ 
+
+603
+00:14:26,639 --> 00:14:30,710
+meter without spinal displacement you'll
+try your Yin moves okay go
+
+604
+00:14:30,710 --> 00:14:30,720
+try your Yin moves okay go
+ 
+
+605
+00:14:30,720 --> 00:14:33,110
+try your Yin moves okay go
+okay he says the true attacker the true
+
+606
+00:14:33,110 --> 00:14:33,120
+okay he says the true attacker the true
+ 
+
+607
+00:14:33,120 --> 00:14:35,870
+okay he says the true attacker the true
+Asus a social Salter the rapist the
+
+608
+00:14:35,870 --> 00:14:35,880
+Asus a social Salter the rapist the
+ 
+
+609
+00:14:35,880 --> 00:14:39,110
+Asus a social Salter the rapist the
+domestic violent half uh the murderer
+
+610
+00:14:39,110 --> 00:14:39,120
+domestic violent half uh the murderer
+ 
+
+611
+00:14:39,120 --> 00:14:42,110
+domestic violent half uh the murderer
+the The Knockout game person those
+
+612
+00:14:42,110 --> 00:14:42,120
+the The Knockout game person those
+ 
+
+613
+00:14:42,120 --> 00:14:44,269
+the The Knockout game person those
+people are doing asocial violence they
+
+614
+00:14:44,269 --> 00:14:44,279
+people are doing asocial violence they
+ 
+
+615
+00:14:44,279 --> 00:14:46,970
+people are doing asocial violence they
+will practice that territoriality and
+
+616
+00:14:46,970 --> 00:14:46,980
+will practice that territoriality and
+ 
+
+617
+00:14:46,980 --> 00:14:50,150
+will practice that territoriality and
+they will finally displace okay the
+
+618
+00:14:50,150 --> 00:14:50,160
+they will finally displace okay the
+ 
+
+619
+00:14:50,160 --> 00:14:52,670
+they will finally displace okay the
+other one is the street smart tactician
+
+620
+00:14:52,670 --> 00:14:52,680
+other one is the street smart tactician
+ 
+
+621
+00:14:52,680 --> 00:14:55,189
+other one is the street smart tactician
+they are going to try to do violence of
+
+622
+00:14:55,189 --> 00:14:55,199
+they are going to try to do violence of
+ 
+
+623
+00:14:55,199 --> 00:14:56,990
+they are going to try to do violence of
+actions so they're going to try to do
+
+624
+00:14:56,990 --> 00:14:57,000
+actions so they're going to try to do
+ 
+
+625
+00:14:57,000 --> 00:14:59,509
+actions so they're going to try to do
+that displacement to get you on your
+
+626
+00:14:59,509 --> 00:14:59,519
+that displacement to get you on your
+ 
+
+627
+00:14:59,519 --> 00:15:01,970
+that displacement to get you on your
+heels compromise your posture and make
+
+628
+00:15:01,970 --> 00:15:01,980
+heels compromise your posture and make
+ 
+
+629
+00:15:01,980 --> 00:15:04,310
+heels compromise your posture and make
+you have to defend yourself
+
+630
+00:15:04,310 --> 00:15:04,320
+you have to defend yourself
+ 
+
+631
+00:15:04,320 --> 00:15:08,689
+you have to defend yourself
+um or the uh hire a tactician knows I
+
+632
+00:15:08,689 --> 00:15:08,699
+um or the uh hire a tactician knows I
+ 
+
+633
+00:15:08,699 --> 00:15:10,550
+um or the uh hire a tactician knows I
+don't want that dude drawing a weapon so
+
+634
+00:15:10,550 --> 00:15:10,560
+don't want that dude drawing a weapon so
+ 
+
+635
+00:15:10,560 --> 00:15:12,250
+don't want that dude drawing a weapon so
+they're going to close that fast okay
+
+636
+00:15:12,250 --> 00:15:12,260
+they're going to close that fast okay
+ 
+
+637
+00:15:12,260 --> 00:15:18,829
+they're going to close that fast okay
+now uh the person that is dueling in the
+
+638
+00:15:18,829 --> 00:15:18,839
+now uh the person that is dueling in the
+ 
+
+639
+00:15:18,839 --> 00:15:19,790
+now uh the person that is dueling in the
+bar
+
+640
+00:15:19,790 --> 00:15:19,800
+bar
+ 
+
+641
+00:15:19,800 --> 00:15:21,590
+bar
+probably won't
+
+642
+00:15:21,590 --> 00:15:21,600
+probably won't
+ 
+
+643
+00:15:21,600 --> 00:15:23,449
+probably won't
+probably it's very common that they're
+
+644
+00:15:23,449 --> 00:15:23,459
+probably it's very common that they're
+ 
+
+645
+00:15:23,459 --> 00:15:25,370
+probably it's very common that they're
+not going to do that that's where you
+
+646
+00:15:25,370 --> 00:15:25,380
+not going to do that that's where you
+ 
+
+647
+00:15:25,380 --> 00:15:27,410
+not going to do that that's where you
+start seeing the doing tactics of like
+
+648
+00:15:27,410 --> 00:15:27,420
+start seeing the doing tactics of like
+ 
+
+649
+00:15:27,420 --> 00:15:29,990
+start seeing the doing tactics of like
+sport competition right so I don't
+
+650
+00:15:29,990 --> 00:15:30,000
+sport competition right so I don't
+ 
+
+651
+00:15:30,000 --> 00:15:32,210
+sport competition right so I don't
+really want to kill him or anything and
+
+652
+00:15:32,210 --> 00:15:32,220
+really want to kill him or anything and
+ 
+
+653
+00:15:32,220 --> 00:15:33,710
+really want to kill him or anything and
+more importantly I just don't want to
+
+654
+00:15:33,710 --> 00:15:33,720
+more importantly I just don't want to
+ 
+
+655
+00:15:33,720 --> 00:15:34,550
+more importantly I just don't want to
+lose
+
+656
+00:15:34,550 --> 00:15:34,560
+lose
+ 
+
+657
+00:15:34,560 --> 00:15:36,230
+lose
+it generates a whole different
+
+658
+00:15:36,230 --> 00:15:36,240
+it generates a whole different
+ 
+
+659
+00:15:36,240 --> 00:15:38,389
+it generates a whole different
+psychology where you have a lot of
+
+660
+00:15:38,389 --> 00:15:38,399
+psychology where you have a lot of
+ 
+
+661
+00:15:38,399 --> 00:15:41,150
+psychology where you have a lot of
+self-detection in there uh so much so
+
+662
+00:15:41,150 --> 00:15:41,160
+self-detection in there uh so much so
+ 
+
+663
+00:15:41,160 --> 00:15:42,949
+self-detection in there uh so much so
+that you don't understand violence of
+
+664
+00:15:42,949 --> 00:15:42,959
+that you don't understand violence of
+ 
+
+665
+00:15:42,959 --> 00:15:44,150
+that you don't understand violence of
+action where you're just going to go
+
+666
+00:15:44,150 --> 00:15:44,160
+action where you're just going to go
+ 
+
+667
+00:15:44,160 --> 00:15:45,710
+action where you're just going to go
+balls to the wall and get that guy on
+
+668
+00:15:45,710 --> 00:15:45,720
+balls to the wall and get that guy on
+ 
+
+669
+00:15:45,720 --> 00:15:50,210
+balls to the wall and get that guy on
+his heels okay so if I'm dueling or as
+
+670
+00:15:50,210 --> 00:15:50,220
+his heels okay so if I'm dueling or as
+ 
+
+671
+00:15:50,220 --> 00:15:52,790
+his heels okay so if I'm dueling or as
+far even when you know a sparring you're
+
+672
+00:15:52,790 --> 00:15:52,800
+far even when you know a sparring you're
+ 
+
+673
+00:15:52,800 --> 00:15:55,189
+far even when you know a sparring you're
+not going to get any of your keyhonawaza
+
+674
+00:15:55,189 --> 00:15:55,199
+not going to get any of your keyhonawaza
+ 
+
+675
+00:15:55,199 --> 00:15:57,290
+not going to get any of your keyhonawaza
+architectures there they're that's not
+
+676
+00:15:57,290 --> 00:15:57,300
+architectures there they're that's not
+ 
+
+677
+00:15:57,300 --> 00:15:59,449
+architectures there they're that's not
+where they go okay but that's where all
+
+678
+00:15:59,449 --> 00:15:59,459
+where they go okay but that's where all
+ 
+
+679
+00:15:59,459 --> 00:16:01,550
+where they go okay but that's where all
+your strikes go and stuff like that or
+
+680
+00:16:01,550 --> 00:16:01,560
+your strikes go and stuff like that or
+ 
+
+681
+00:16:01,560 --> 00:16:03,889
+your strikes go and stuff like that or
+that's where all your weapon draws go
+
+682
+00:16:03,889 --> 00:16:03,899
+that's where all your weapon draws go
+ 
+
+683
+00:16:03,899 --> 00:16:06,230
+that's where all your weapon draws go
+do you get it says he he didn't close on
+
+684
+00:16:06,230 --> 00:16:06,240
+do you get it says he he didn't close on
+ 
+
+685
+00:16:06,240 --> 00:16:08,990
+do you get it says he he didn't close on
+me now I'm drawing my knife I'm drawing
+
+686
+00:16:08,990 --> 00:16:09,000
+me now I'm drawing my knife I'm drawing
+ 
+
+687
+00:16:09,000 --> 00:16:11,150
+me now I'm drawing my knife I'm drawing
+my hand again you see that's where that
+
+688
+00:16:11,150 --> 00:16:11,160
+my hand again you see that's where that
+ 
+
+689
+00:16:11,160 --> 00:16:14,629
+my hand again you see that's where that
+falls into play okay
+
+690
+00:16:14,629 --> 00:16:14,639
+
+ 
+
+691
+00:16:14,639 --> 00:16:17,290
+
+that's exhibit a
+
+692
+00:16:17,290 --> 00:16:17,300
+that's exhibit a
+ 
+
+693
+00:16:17,300 --> 00:16:19,550
+that's exhibit a
+exhibit B
+
+694
+00:16:19,550 --> 00:16:19,560
+exhibit B
+ 
+
+695
+00:16:19,560 --> 00:16:21,410
+exhibit B
+is
+
+696
+00:16:21,410 --> 00:16:21,420
+is
+ 
+
+697
+00:16:21,420 --> 00:16:25,069
+is
+I don't want to ever be in these little
+
+698
+00:16:25,069 --> 00:16:25,079
+I don't want to ever be in these little
+ 
+
+699
+00:16:25,079 --> 00:16:28,970
+I don't want to ever be in these little
+hypothetical half a meter thing okay I
+
+700
+00:16:28,970 --> 00:16:28,980
+hypothetical half a meter thing okay I
+ 
+
+701
+00:16:28,980 --> 00:16:31,009
+hypothetical half a meter thing okay I
+don't want to do that
+
+702
+00:16:31,009 --> 00:16:31,019
+don't want to do that
+ 
+
+703
+00:16:31,019 --> 00:16:32,990
+don't want to do that
+so you're in your
+
+704
+00:16:32,990 --> 00:16:33,000
+so you're in your
+ 
+
+705
+00:16:33,000 --> 00:16:36,230
+so you're in your
+whatever and he's trying to hit me then
+
+706
+00:16:36,230 --> 00:16:36,240
+whatever and he's trying to hit me then
+ 
+
+707
+00:16:36,240 --> 00:16:38,449
+whatever and he's trying to hit me then
+we're in I'm in a half meter again do
+
+708
+00:16:38,449 --> 00:16:38,459
+we're in I'm in a half meter again do
+ 
+
+709
+00:16:38,459 --> 00:16:41,030
+we're in I'm in a half meter again do
+you see that that's wrong so let's say
+
+710
+00:16:41,030 --> 00:16:41,040
+you see that that's wrong so let's say
+ 
+
+711
+00:16:41,040 --> 00:16:43,610
+you see that that's wrong so let's say
+he's gonna do Sho manucci okay so he's
+
+712
+00:16:43,610 --> 00:16:43,620
+he's gonna do Sho manucci okay so he's
+ 
+
+713
+00:16:43,620 --> 00:16:45,230
+he's gonna do Sho manucci okay so he's
+gonna step through and cut down my head
+
+714
+00:16:45,230 --> 00:16:45,240
+gonna step through and cut down my head
+ 
+
+715
+00:16:45,240 --> 00:16:47,389
+gonna step through and cut down my head
+see go back
+
+716
+00:16:47,389 --> 00:16:47,399
+see go back
+ 
+
+717
+00:16:47,399 --> 00:16:50,269
+see go back
+so here I am he goes and I'm at a half
+
+718
+00:16:50,269 --> 00:16:50,279
+so here I am he goes and I'm at a half
+ 
+
+719
+00:16:50,279 --> 00:16:53,829
+so here I am he goes and I'm at a half
+meter but that's La La Land
+
+720
+00:16:53,829 --> 00:16:53,839
+meter but that's La La Land
+ 
+
+721
+00:16:53,839 --> 00:16:57,170
+meter but that's La La Land
+as he so let's go back to half meter go
+
+722
+00:16:57,170 --> 00:16:57,180
+as he so let's go back to half meter go
+ 
+
+723
+00:16:57,180 --> 00:16:59,829
+as he so let's go back to half meter go
+back to half meter okay
+
+724
+00:16:59,829 --> 00:16:59,839
+back to half meter okay
+ 
+
+725
+00:16:59,839 --> 00:17:04,130
+back to half meter okay
+uh I'm reading his body that's how I'm
+
+726
+00:17:04,130 --> 00:17:04,140
+uh I'm reading his body that's how I'm
+ 
+
+727
+00:17:04,140 --> 00:17:05,689
+uh I'm reading his body that's how I'm
+gonna get out of the way of this thing
+
+728
+00:17:05,689 --> 00:17:05,699
+gonna get out of the way of this thing
+ 
+
+729
+00:17:05,699 --> 00:17:08,049
+gonna get out of the way of this thing
+or how I'm gonna get those strikes okay
+
+730
+00:17:08,049 --> 00:17:08,059
+or how I'm gonna get those strikes okay
+ 
+
+731
+00:17:08,059 --> 00:17:10,909
+or how I'm gonna get those strikes okay
+so uh you're gonna go as fast as you can
+
+732
+00:17:10,909 --> 00:17:10,919
+so uh you're gonna go as fast as you can
+ 
+
+733
+00:17:10,919 --> 00:17:13,189
+so uh you're gonna go as fast as you can
+there he goes you can do whatever attack
+
+734
+00:17:13,189 --> 00:17:13,199
+there he goes you can do whatever attack
+ 
+
+735
+00:17:13,199 --> 00:17:16,850
+there he goes you can do whatever attack
+you want I don't care but okay so when I
+
+736
+00:17:16,850 --> 00:17:16,860
+you want I don't care but okay so when I
+ 
+
+737
+00:17:16,860 --> 00:17:20,630
+you want I don't care but okay so when I
+read his body he goes and that is where
+
+738
+00:17:20,630 --> 00:17:20,640
+read his body he goes and that is where
+ 
+
+739
+00:17:20,640 --> 00:17:24,470
+read his body he goes and that is where
+I can attack him uh as fast as he's
+
+740
+00:17:24,470 --> 00:17:24,480
+I can attack him uh as fast as he's
+ 
+
+741
+00:17:24,480 --> 00:17:27,010
+I can attack him uh as fast as he's
+attacking me if I can't read his body
+
+742
+00:17:27,010 --> 00:17:27,020
+attacking me if I can't read his body
+ 
+
+743
+00:17:27,020 --> 00:17:30,110
+attacking me if I can't read his body
+then I'm gonna get my strikes smothered
+
+744
+00:17:30,110 --> 00:17:30,120
+then I'm gonna get my strikes smothered
+ 
+
+745
+00:17:30,120 --> 00:17:33,169
+then I'm gonna get my strikes smothered
+etc etc okay so same thing here when
+
+746
+00:17:33,169 --> 00:17:33,179
+etc etc okay so same thing here when
+ 
+
+747
+00:17:33,179 --> 00:17:35,870
+etc etc okay so same thing here when
+we're doing striking I'm never going to
+
+748
+00:17:35,870 --> 00:17:35,880
+we're doing striking I'm never going to
+ 
+
+749
+00:17:35,880 --> 00:17:39,409
+we're doing striking I'm never going to
+sit here and he's going to get he's like
+
+750
+00:17:39,409 --> 00:17:39,419
+sit here and he's going to get he's like
+ 
+
+751
+00:17:39,419 --> 00:17:41,870
+sit here and he's going to get he's like
+one meter away he's gonna get a half a
+
+752
+00:17:41,870 --> 00:17:41,880
+one meter away he's gonna get a half a
+ 
+
+753
+00:17:41,880 --> 00:17:43,730
+one meter away he's gonna get a half a
+meter before I move that's not going to
+
+754
+00:17:43,730 --> 00:17:43,740
+meter before I move that's not going to
+ 
+
+755
+00:17:43,740 --> 00:17:45,950
+meter before I move that's not going to
+happen Okay so you can do whatever
+
+756
+00:17:45,950 --> 00:17:45,960
+happen Okay so you can do whatever
+ 
+
+757
+00:17:45,960 --> 00:17:48,110
+happen Okay so you can do whatever
+strike you want and you're gonna see
+
+758
+00:17:48,110 --> 00:17:48,120
+strike you want and you're gonna see
+ 
+
+759
+00:17:48,120 --> 00:17:51,230
+strike you want and you're gonna see
+that when he gets a beat on me I'm
+
+760
+00:17:51,230 --> 00:17:51,240
+that when he gets a beat on me I'm
+ 
+
+761
+00:17:51,240 --> 00:17:54,409
+that when he gets a beat on me I'm
+already moving I'm not going to pretend
+
+762
+00:17:54,409 --> 00:17:54,419
+already moving I'm not going to pretend
+ 
+
+763
+00:17:54,419 --> 00:17:58,310
+already moving I'm not going to pretend
+that people attack from way out there
+
+764
+00:17:58,310 --> 00:17:58,320
+that people attack from way out there
+ 
+
+765
+00:17:58,320 --> 00:18:01,010
+that people attack from way out there
+but you'll see that I get him way out
+
+766
+00:18:01,010 --> 00:18:01,020
+but you'll see that I get him way out
+ 
+
+767
+00:18:01,020 --> 00:18:03,409
+but you'll see that I get him way out
+there because when he gets a beat I'm
+
+768
+00:18:03,409 --> 00:18:03,419
+there because when he gets a beat I'm
+ 
+
+769
+00:18:03,419 --> 00:18:05,870
+there because when he gets a beat I'm
+already moving
+
+770
+00:18:05,870 --> 00:18:05,880
+already moving
+ 
+
+771
+00:18:05,880 --> 00:18:09,590
+already moving
+[Music]
+
+772
+00:18:09,590 --> 00:18:09,600
+[Music]
+ 
+
+773
+00:18:09,600 --> 00:18:18,350
+[Music]
+foreign
+
+774
+00:18:18,350 --> 00:18:18,360
+
+ 
+
+775
+00:18:18,360 --> 00:18:20,450
+
+and that's what will happen
+
+776
+00:18:20,450 --> 00:18:20,460
+and that's what will happen
+ 
+
+777
+00:18:20,460 --> 00:18:23,330
+and that's what will happen
+they'll throw things out of range
+
+778
+00:18:23,330 --> 00:18:23,340
+they'll throw things out of range
+ 
+
+779
+00:18:23,340 --> 00:18:27,529
+they'll throw things out of range
+or the Duelist will start trying to get
+
+780
+00:18:27,529 --> 00:18:27,539
+or the Duelist will start trying to get
+ 
+
+781
+00:18:27,539 --> 00:18:28,730
+or the Duelist will start trying to get
+closer
+
+782
+00:18:28,730 --> 00:18:28,740
+closer
+ 
+
+783
+00:18:28,740 --> 00:18:31,490
+closer
+and run at you because they can't hit
+
+784
+00:18:31,490 --> 00:18:31,500
+and run at you because they can't hit
+ 
+
+785
+00:18:31,500 --> 00:18:34,850
+and run at you because they can't hit
+you okay so let's say
+
+786
+00:18:34,850 --> 00:18:34,860
+you okay so let's say
+ 
+
+787
+00:18:34,860 --> 00:18:37,490
+you okay so let's say
+we're doing the Aikido
+
+788
+00:18:37,490 --> 00:18:37,500
+we're doing the Aikido
+ 
+
+789
+00:18:37,500 --> 00:18:38,810
+we're doing the Aikido
+strikes
+
+790
+00:18:38,810 --> 00:18:38,820
+strikes
+ 
+
+791
+00:18:38,820 --> 00:18:42,470
+strikes
+we'll stick with show manucci right as
+
+792
+00:18:42,470 --> 00:18:42,480
+we'll stick with show manucci right as
+ 
+
+793
+00:18:42,480 --> 00:18:44,029
+we'll stick with show manucci right as
+soon as he has his beat I'm already
+
+794
+00:18:44,029 --> 00:18:44,039
+soon as he has his beat I'm already
+ 
+
+795
+00:18:44,039 --> 00:18:46,549
+soon as he has his beat I'm already
+moving
+
+796
+00:18:46,549 --> 00:18:46,559
+
+ 
+
+797
+00:18:46,559 --> 00:18:49,490
+
+if he throws it out of range
+
+798
+00:18:49,490 --> 00:18:49,500
+if he throws it out of range
+ 
+
+799
+00:18:49,500 --> 00:18:53,150
+if he throws it out of range
+to me trying to hit me
+
+800
+00:18:53,150 --> 00:18:53,160
+
+ 
+
+801
+00:18:53,160 --> 00:18:54,470
+
+here
+
+802
+00:18:54,470 --> 00:18:54,480
+here
+ 
+
+803
+00:18:54,480 --> 00:18:57,950
+here
+follow your target I'll do it
+
+804
+00:18:57,950 --> 00:18:57,960
+follow your target I'll do it
+ 
+
+805
+00:18:57,960 --> 00:19:02,690
+follow your target I'll do it
+you see
+
+806
+00:19:02,690 --> 00:19:02,700
+
+ 
+
+807
+00:19:02,700 --> 00:19:04,310
+
+here goes
+
+808
+00:19:04,310 --> 00:19:04,320
+here goes
+ 
+
+809
+00:19:04,320 --> 00:19:05,510
+here goes
+there it is
+
+810
+00:19:05,510 --> 00:19:05,520
+there it is
+ 
+
+811
+00:19:05,520 --> 00:19:08,390
+there it is
+we'll go again
+
+812
+00:19:08,390 --> 00:19:08,400
+
+ 
+
+813
+00:19:08,400 --> 00:19:10,909
+
+good and again
+
+814
+00:19:10,909 --> 00:19:10,919
+good and again
+ 
+
+815
+00:19:10,919 --> 00:19:14,690
+good and again
+good and again so notice how he's now
+
+816
+00:19:14,690 --> 00:19:14,700
+good and again so notice how he's now
+ 
+
+817
+00:19:14,700 --> 00:19:18,110
+good and again so notice how he's now
+spinal displacing he's overshooting me
+
+818
+00:19:18,110 --> 00:19:18,120
+spinal displacing he's overshooting me
+ 
+
+819
+00:19:18,120 --> 00:19:19,970
+spinal displacing he's overshooting me
+can you see it
+
+820
+00:19:19,970 --> 00:19:19,980
+can you see it
+ 
+
+821
+00:19:19,980 --> 00:19:22,430
+can you see it
+he died he's not stopping here
+
+822
+00:19:22,430 --> 00:19:22,440
+he died he's not stopping here
+ 
+
+823
+00:19:22,440 --> 00:19:28,190
+he died he's not stopping here
+he's passing me as he's trying to hit me
+
+824
+00:19:28,190 --> 00:19:28,200
+
+ 
+
+825
+00:19:28,200 --> 00:19:36,350
+
+don't you get off in space
+
+826
+00:19:36,350 --> 00:19:36,360
+
+ 
+
+827
+00:19:36,360 --> 00:19:38,029
+
+do you end up
+
+828
+00:19:38,029 --> 00:19:38,039
+do you end up
+ 
+
+829
+00:19:38,039 --> 00:19:43,909
+do you end up
+in Eagle but let's do that again
+
+830
+00:19:43,909 --> 00:19:43,919
+
+ 
+
+831
+00:19:43,919 --> 00:19:46,610
+
+he's a little off balance
+
+832
+00:19:46,610 --> 00:19:46,620
+he's a little off balance
+ 
+
+833
+00:19:46,620 --> 00:19:48,890
+he's a little off balance
+going this way
+
+834
+00:19:48,890 --> 00:19:48,900
+going this way
+ 
+
+835
+00:19:48,900 --> 00:19:53,270
+going this way
+he touches
+
+836
+00:19:53,270 --> 00:19:53,280
+
+ 
+
+837
+00:19:53,280 --> 00:19:57,350
+
+there it is
+
+838
+00:19:57,350 --> 00:19:57,360
+
+ 
+
+839
+00:19:57,360 --> 00:19:59,690
+
+not like this
+
+840
+00:19:59,690 --> 00:19:59,700
+not like this
+ 
+
+841
+00:19:59,700 --> 00:20:06,289
+not like this
+hello
+
+842
+00:20:06,289 --> 00:20:06,299
+
+ 
+
+843
+00:20:06,299 --> 00:20:08,690
+
+nor with that little reach to my head
+
+844
+00:20:08,690 --> 00:20:08,700
+nor with that little reach to my head
+ 
+
+845
+00:20:08,700 --> 00:20:10,789
+nor with that little reach to my head
+just reach my head
+
+846
+00:20:10,789 --> 00:20:10,799
+just reach my head
+ 
+
+847
+00:20:10,799 --> 00:20:12,770
+just reach my head
+now
+
+848
+00:20:12,770 --> 00:20:12,780
+now
+ 
+
+849
+00:20:12,780 --> 00:20:14,930
+now
+you make him mess up
+
+850
+00:20:14,930 --> 00:20:14,940
+you make him mess up
+ 
+
+851
+00:20:14,940 --> 00:20:19,970
+you make him mess up
+boom there it is
+
+852
+00:20:19,970 --> 00:20:19,980
+
+ 
+
+853
+00:20:19,980 --> 00:20:22,430
+
+look where he struck
+
+854
+00:20:22,430 --> 00:20:22,440
+look where he struck
+ 
+
+855
+00:20:22,440 --> 00:20:25,010
+look where he struck
+where's his balance here
+
+856
+00:20:25,010 --> 00:20:25,020
+where's his balance here
+ 
+
+857
+00:20:25,020 --> 00:20:29,210
+where's his balance here
+here it's not yield there it is
+
+858
+00:20:29,210 --> 00:20:29,220
+here it's not yield there it is
+ 
+
+859
+00:20:29,220 --> 00:20:31,669
+here it's not yield there it is
+alright so you're gonna get out of the
+
+860
+00:20:31,669 --> 00:20:31,679
+alright so you're gonna get out of the
+ 
+
+861
+00:20:31,679 --> 00:20:32,510
+alright so you're gonna get out of the
+way
+
+862
+00:20:32,510 --> 00:20:32,520
+way
+ 
+
+863
+00:20:32,520 --> 00:20:34,190
+way
+and you're going to try to keep getting
+
+864
+00:20:34,190 --> 00:20:34,200
+and you're going to try to keep getting
+ 
+
+865
+00:20:34,200 --> 00:20:36,169
+and you're going to try to keep getting
+them let's go
+
+866
+00:20:36,169 --> 00:20:36,179
+them let's go
+ 
+
+867
+00:20:36,179 --> 00:20:38,210
+them let's go
+okay I can't remember if I said or not
+
+868
+00:20:38,210 --> 00:20:38,220
+okay I can't remember if I said or not
+ 
+
+869
+00:20:38,220 --> 00:20:41,510
+okay I can't remember if I said or not
+but that last drill is I can make a do
+
+870
+00:20:41,510 --> 00:20:41,520
+but that last drill is I can make a do
+ 
+
+871
+00:20:41,520 --> 00:20:44,990
+but that last drill is I can make a do
+list finally displaced see by how I'm
+
+872
+00:20:44,990 --> 00:20:45,000
+list finally displaced see by how I'm
+ 
+
+873
+00:20:45,000 --> 00:20:45,950
+list finally displaced see by how I'm
+moving
+
+874
+00:20:45,950 --> 00:20:45,960
+moving
+ 
+
+875
+00:20:45,960 --> 00:20:48,049
+moving
+how do you move
+
+876
+00:20:48,049 --> 00:20:48,059
+how do you move
+ 
+
+877
+00:20:48,059 --> 00:20:51,110
+how do you move
+don't let him don't wait until he's
+
+878
+00:20:51,110 --> 00:20:51,120
+don't let him don't wait until he's
+ 
+
+879
+00:20:51,120 --> 00:20:52,730
+don't let him don't wait until he's
+throwing the strike
+
+880
+00:20:52,730 --> 00:20:52,740
+throwing the strike
+ 
+
+881
+00:20:52,740 --> 00:20:55,610
+throwing the strike
+you already are moving when he has the
+
+882
+00:20:55,610 --> 00:20:55,620
+you already are moving when he has the
+ 
+
+883
+00:20:55,620 --> 00:20:57,169
+you already are moving when he has the
+intention
+
+884
+00:20:57,169 --> 00:20:57,179
+intention
+ 
+
+885
+00:20:57,179 --> 00:20:58,909
+intention
+when he has the attention you're already
+
+886
+00:20:58,909 --> 00:20:58,919
+when he has the attention you're already
+ 
+
+887
+00:20:58,919 --> 00:21:01,850
+when he has the attention you're already
+moving that makes him move
+
+888
+00:21:01,850 --> 00:21:01,860
+moving that makes him move
+ 
+
+889
+00:21:01,860 --> 00:21:05,750
+moving that makes him move
+when I move to his intention I always
+
+890
+00:21:05,750 --> 00:21:05,760
+when I move to his intention I always
+ 
+
+891
+00:21:05,760 --> 00:21:07,010
+when I move to his intention I always
+move
+
+892
+00:21:07,010 --> 00:21:07,020
+move
+ 
+
+893
+00:21:07,020 --> 00:21:09,950
+move
+to start the fight rotating
+
+894
+00:21:09,950 --> 00:21:09,960
+to start the fight rotating
+ 
+
+895
+00:21:09,960 --> 00:21:14,690
+to start the fight rotating
+so I can only move at this corner
+
+896
+00:21:14,690 --> 00:21:14,700
+so I can only move at this corner
+ 
+
+897
+00:21:14,700 --> 00:21:16,850
+so I can only move at this corner
+this corner
+
+898
+00:21:16,850 --> 00:21:16,860
+this corner
+ 
+
+899
+00:21:16,860 --> 00:21:18,650
+this corner
+this corner
+
+900
+00:21:18,650 --> 00:21:18,660
+this corner
+ 
+
+901
+00:21:18,660 --> 00:21:20,390
+this corner
+this corner
+
+902
+00:21:20,390 --> 00:21:20,400
+this corner
+ 
+
+903
+00:21:20,400 --> 00:21:22,669
+this corner
+back isn't going to do anything for me
+
+904
+00:21:22,669 --> 00:21:22,679
+back isn't going to do anything for me
+ 
+
+905
+00:21:22,679 --> 00:21:25,909
+back isn't going to do anything for me
+okay so as he gets to B I'm already
+
+906
+00:21:25,909 --> 00:21:25,919
+okay so as he gets to B I'm already
+ 
+
+907
+00:21:25,919 --> 00:21:28,250
+okay so as he gets to B I'm already
+moving
+
+908
+00:21:28,250 --> 00:21:28,260
+moving
+ 
+
+909
+00:21:28,260 --> 00:21:30,950
+moving
+another way you can frustrate the
+
+910
+00:21:30,950 --> 00:21:30,960
+another way you can frustrate the
+ 
+
+911
+00:21:30,960 --> 00:21:35,990
+another way you can frustrate the
+Duelist into spinal displacement ish you
+
+912
+00:21:35,990 --> 00:21:36,000
+Duelist into spinal displacement ish you
+ 
+
+913
+00:21:36,000 --> 00:21:38,750
+Duelist into spinal displacement ish you
+make him pay for Bridging the Gap too
+
+914
+00:21:38,750 --> 00:21:38,760
+make him pay for Bridging the Gap too
+ 
+
+915
+00:21:38,760 --> 00:21:42,350
+make him pay for Bridging the Gap too
+slowly okay so you might have for
+
+916
+00:21:42,350 --> 00:21:42,360
+slowly okay so you might have for
+ 
+
+917
+00:21:42,360 --> 00:21:43,850
+slowly okay so you might have for
+example I'll do it
+
+918
+00:21:43,850 --> 00:21:43,860
+example I'll do it
+ 
+
+919
+00:21:43,860 --> 00:21:46,430
+example I'll do it
+okay I'm doing my attack I'm gonna wait
+
+920
+00:21:46,430 --> 00:21:46,440
+okay I'm doing my attack I'm gonna wait
+ 
+
+921
+00:21:46,440 --> 00:21:48,950
+okay I'm doing my attack I'm gonna wait
+until I get close enough
+
+922
+00:21:48,950 --> 00:21:48,960
+until I get close enough
+ 
+
+923
+00:21:48,960 --> 00:21:52,190
+until I get close enough
+you see but that's where oh I'm not
+
+924
+00:21:52,190 --> 00:21:52,200
+you see but that's where oh I'm not
+ 
+
+925
+00:21:52,200 --> 00:21:54,289
+you see but that's where oh I'm not
+spinal displacing that's where the
+
+926
+00:21:54,289 --> 00:21:54,299
+spinal displacing that's where the
+ 
+
+927
+00:21:54,299 --> 00:21:55,549
+spinal displacing that's where the
+strikes come in
+
+928
+00:21:55,549 --> 00:21:55,559
+strikes come in
+ 
+
+929
+00:21:55,559 --> 00:21:58,850
+strikes come in
+so he's trying to get close boom and
+
+930
+00:21:58,850 --> 00:21:58,860
+so he's trying to get close boom and
+ 
+
+931
+00:21:58,860 --> 00:22:01,490
+so he's trying to get close boom and
+I'll keep him out
+
+932
+00:22:01,490 --> 00:22:01,500
+I'll keep him out
+ 
+
+933
+00:22:01,500 --> 00:22:04,789
+I'll keep him out
+combine that with my movement
+
+934
+00:22:04,789 --> 00:22:04,799
+combine that with my movement
+ 
+
+935
+00:22:04,799 --> 00:22:06,950
+combine that with my movement
+you're gonna get a guy to get very
+
+936
+00:22:06,950 --> 00:22:06,960
+you're gonna get a guy to get very
+ 
+
+937
+00:22:06,960 --> 00:22:14,930
+you're gonna get a guy to get very
+frustrated but
+
+938
+00:22:14,930 --> 00:22:14,940
+
+ 
+
+939
+00:22:14,940 --> 00:22:17,930
+
+okay so now we'll combine
+
+940
+00:22:17,930 --> 00:22:17,940
+okay so now we'll combine
+ 
+
+941
+00:22:17,940 --> 00:22:20,630
+okay so now we'll combine
+where the only way he's getting in there
+
+942
+00:22:20,630 --> 00:22:20,640
+where the only way he's getting in there
+ 
+
+943
+00:22:20,640 --> 00:22:24,169
+where the only way he's getting in there
+is he's got to go for it okay but I'm
+
+944
+00:22:24,169 --> 00:22:24,179
+is he's got to go for it okay but I'm
+ 
+
+945
+00:22:24,179 --> 00:22:26,810
+is he's got to go for it okay but I'm
+never aware he needs me to be where he
+
+946
+00:22:26,810 --> 00:22:26,820
+never aware he needs me to be where he
+ 
+
+947
+00:22:26,820 --> 00:22:30,169
+never aware he needs me to be where he
+goes for it making this very common
+
+948
+00:22:30,169 --> 00:22:30,179
+goes for it making this very common
+ 
+
+949
+00:22:30,179 --> 00:22:34,130
+goes for it making this very common
+striking response in Aikido
+
+950
+00:22:34,130 --> 00:22:34,140
+striking response in Aikido
+ 
+
+951
+00:22:34,140 --> 00:22:38,630
+striking response in Aikido
+incorrect you see how different that is
+
+952
+00:22:38,630 --> 00:22:38,640
+
+ 
+
+953
+00:22:38,640 --> 00:22:39,770
+
+okay
+
+954
+00:22:39,770 --> 00:22:39,780
+okay
+ 
+
+955
+00:22:39,780 --> 00:22:42,140
+okay
+try
+

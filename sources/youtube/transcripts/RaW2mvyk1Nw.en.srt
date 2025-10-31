@@ -1,0 +1,2065 @@
+1
+00:00:00,240 --> 00:00:01,829
+
+we're going to come down the level in
+
+2
+00:00:01,829 --> 00:00:01,839
+we're going to come down the level in
+ 
+
+3
+00:00:01,839 --> 00:00:03,429
+we're going to come down the level in
+our live training environment we're
+
+4
+00:00:03,429 --> 00:00:03,439
+our live training environment we're
+ 
+
+5
+00:00:03,439 --> 00:00:03,990
+our live training environment we're
+going to
+
+6
+00:00:03,990 --> 00:00:04,000
+going to
+ 
+
+7
+00:00:04,000 --> 00:00:06,470
+going to
+put more controls in so that we have a
+
+8
+00:00:06,470 --> 00:00:06,480
+put more controls in so that we have a
+ 
+
+9
+00:00:06,480 --> 00:00:08,549
+put more controls in so that we have a
+higher chance of actually cultivating
+
+10
+00:00:08,549 --> 00:00:08,559
+higher chance of actually cultivating
+ 
+
+11
+00:00:08,559 --> 00:00:09,750
+higher chance of actually cultivating
+something okay
+
+12
+00:00:09,750 --> 00:00:09,760
+something okay
+ 
+
+13
+00:00:09,760 --> 00:00:11,910
+something okay
+so rather than true gu where he does
+
+14
+00:00:11,910 --> 00:00:11,920
+so rather than true gu where he does
+ 
+
+15
+00:00:11,920 --> 00:00:14,070
+so rather than true gu where he does
+whatever i do whatever he counters all
+
+16
+00:00:14,070 --> 00:00:14,080
+whatever i do whatever he counters all
+ 
+
+17
+00:00:14,080 --> 00:00:15,110
+whatever i do whatever he counters all
+the way and i
+
+18
+00:00:15,110 --> 00:00:15,120
+the way and i
+ 
+
+19
+00:00:15,120 --> 00:00:18,390
+the way and i
+address all his campaigns etc um
+
+20
+00:00:18,390 --> 00:00:18,400
+address all his campaigns etc um
+ 
+
+21
+00:00:18,400 --> 00:00:20,950
+address all his campaigns etc um
+we're now going to add some control so
+
+22
+00:00:20,950 --> 00:00:20,960
+we're now going to add some control so
+ 
+
+23
+00:00:20,960 --> 00:00:22,310
+we're now going to add some control so
+the first control
+
+24
+00:00:22,310 --> 00:00:22,320
+the first control
+ 
+
+25
+00:00:22,320 --> 00:00:24,150
+the first control
+is you're not going to require the
+
+26
+00:00:24,150 --> 00:00:24,160
+is you're not going to require the
+ 
+
+27
+00:00:24,160 --> 00:00:25,670
+is you're not going to require the
+immaterial connection because we're
+
+28
+00:00:25,670 --> 00:00:25,680
+immaterial connection because we're
+ 
+
+29
+00:00:25,680 --> 00:00:27,109
+immaterial connection because we're
+going to start from the tactile
+
+30
+00:00:27,109 --> 00:00:27,119
+going to start from the tactile
+ 
+
+31
+00:00:27,119 --> 00:00:27,990
+going to start from the tactile
+connection
+
+32
+00:00:27,990 --> 00:00:28,000
+connection
+ 
+
+33
+00:00:28,000 --> 00:00:32,950
+connection
+okay um and then i'm going to focus in
+
+34
+00:00:32,950 --> 00:00:32,960
+okay um and then i'm going to focus in
+ 
+
+35
+00:00:32,960 --> 00:00:38,030
+okay um and then i'm going to focus in
+on reconciling yin and yang
+
+36
+00:00:38,030 --> 00:00:38,040
+on reconciling yin and yang
+ 
+
+37
+00:00:38,040 --> 00:00:40,470
+on reconciling yin and yang
+non-contestation of course work on your
+
+38
+00:00:40,470 --> 00:00:40,480
+non-contestation of course work on your
+ 
+
+39
+00:00:40,480 --> 00:00:43,110
+non-contestation of course work on your
+ip and coke you
+
+40
+00:00:43,110 --> 00:00:43,120
+ip and coke you
+ 
+
+41
+00:00:43,120 --> 00:00:47,029
+ip and coke you
+and so it's not very easy to figure out
+
+42
+00:00:47,029 --> 00:00:47,039
+and so it's not very easy to figure out
+ 
+
+43
+00:00:47,039 --> 00:00:50,069
+and so it's not very easy to figure out
+how to do this kind of drill with these
+
+44
+00:00:50,069 --> 00:00:50,079
+how to do this kind of drill with these
+ 
+
+45
+00:00:50,079 --> 00:00:51,750
+how to do this kind of drill with these
+control devices
+
+46
+00:00:51,750 --> 00:00:51,760
+control devices
+ 
+
+47
+00:00:51,760 --> 00:00:54,869
+control devices
+such that i could actually do that full
+
+48
+00:00:54,869 --> 00:00:54,879
+such that i could actually do that full
+ 
+
+49
+00:00:54,879 --> 00:00:56,869
+such that i could actually do that full
+live training environment of the other
+
+50
+00:00:56,869 --> 00:00:56,879
+live training environment of the other
+ 
+
+51
+00:00:56,879 --> 00:00:58,470
+live training environment of the other
+day all right so
+
+52
+00:00:58,470 --> 00:00:58,480
+day all right so
+ 
+
+53
+00:00:58,480 --> 00:01:00,709
+day all right so
+we start from the tactile thing and he
+
+54
+00:01:00,709 --> 00:01:00,719
+we start from the tactile thing and he
+ 
+
+55
+00:01:00,719 --> 00:01:03,349
+we start from the tactile thing and he
+has a push you see
+
+56
+00:01:03,349 --> 00:01:03,359
+has a push you see
+ 
+
+57
+00:01:03,359 --> 00:01:06,230
+has a push you see
+the way that he came in he had the push
+
+58
+00:01:06,230 --> 00:01:06,240
+the way that he came in he had the push
+ 
+
+59
+00:01:06,240 --> 00:01:08,469
+the way that he came in he had the push
+so that's the thing i reconciled
+
+60
+00:01:08,469 --> 00:01:08,479
+so that's the thing i reconciled
+ 
+
+61
+00:01:08,479 --> 00:01:11,030
+so that's the thing i reconciled
+there's there's his weight right there
+
+62
+00:01:11,030 --> 00:01:11,040
+there's there's his weight right there
+ 
+
+63
+00:01:11,040 --> 00:01:11,990
+there's there's his weight right there
+you see
+
+64
+00:01:11,990 --> 00:01:12,000
+you see
+ 
+
+65
+00:01:12,000 --> 00:01:13,830
+you see
+the way i did this this is where he
+
+66
+00:01:13,830 --> 00:01:13,840
+the way i did this this is where he
+ 
+
+67
+00:01:13,840 --> 00:01:16,070
+the way i did this this is where he
+wants to fall so that's where i
+
+68
+00:01:16,070 --> 00:01:16,080
+wants to fall so that's where i
+ 
+
+69
+00:01:16,080 --> 00:01:19,590
+wants to fall so that's where i
+play so we'll do the same thing it'll be
+
+70
+00:01:19,590 --> 00:01:19,600
+play so we'll do the same thing it'll be
+ 
+
+71
+00:01:19,600 --> 00:01:22,470
+play so we'll do the same thing it'll be
+a little quicker
+
+72
+00:01:22,470 --> 00:01:22,480
+
+ 
+
+73
+00:01:22,480 --> 00:01:24,149
+
+[Music]
+
+74
+00:01:24,149 --> 00:01:24,159
+[Music]
+ 
+
+75
+00:01:24,159 --> 00:01:26,789
+[Music]
+and you'll see everything is still a
+
+76
+00:01:26,789 --> 00:01:26,799
+and you'll see everything is still a
+ 
+
+77
+00:01:26,799 --> 00:01:29,749
+and you'll see everything is still a
+matter of deconstructing so i'm not
+
+78
+00:01:29,749 --> 00:01:29,759
+matter of deconstructing so i'm not
+ 
+
+79
+00:01:29,759 --> 00:01:33,270
+matter of deconstructing so i'm not
+making him bend over i'm just going to
+
+80
+00:01:33,270 --> 00:01:33,280
+making him bend over i'm just going to
+ 
+
+81
+00:01:33,280 --> 00:01:34,310
+making him bend over i'm just going to
+tilt him
+
+82
+00:01:34,310 --> 00:01:34,320
+tilt him
+ 
+
+83
+00:01:34,320 --> 00:01:38,230
+tilt him
+take out his face
+
+84
+00:01:38,230 --> 00:01:38,240
+
+ 
+
+85
+00:01:38,240 --> 00:01:43,670
+
+so uh tristan you guys will go
+
+86
+00:01:43,670 --> 00:01:43,680
+
+ 
+
+87
+00:01:43,680 --> 00:01:46,710
+
+in anywhere i don't reconcile you
+
+88
+00:01:46,710 --> 00:01:46,720
+in anywhere i don't reconcile you
+ 
+
+89
+00:01:46,720 --> 00:01:50,230
+in anywhere i don't reconcile you
+anywhere i can test anywhere i'm doing
+
+90
+00:01:50,230 --> 00:01:50,240
+anywhere i can test anywhere i'm doing
+ 
+
+91
+00:01:50,240 --> 00:01:51,590
+anywhere i can test anywhere i'm doing
+something that will not
+
+92
+00:01:51,590 --> 00:01:51,600
+something that will not
+ 
+
+93
+00:01:51,600 --> 00:01:54,710
+something that will not
+translate into yesterday's drill
+
+94
+00:01:54,710 --> 00:01:54,720
+translate into yesterday's drill
+ 
+
+95
+00:01:54,720 --> 00:01:57,270
+translate into yesterday's drill
+where it's not partially sound this is
+
+96
+00:01:57,270 --> 00:01:57,280
+where it's not partially sound this is
+ 
+
+97
+00:01:57,280 --> 00:01:58,230
+where it's not partially sound this is
+now
+
+98
+00:01:58,230 --> 00:01:58,240
+now
+ 
+
+99
+00:01:58,240 --> 00:02:00,550
+now
+the drill's not working okay so here we
+
+100
+00:02:00,550 --> 00:02:00,560
+the drill's not working okay so here we
+ 
+
+101
+00:02:00,560 --> 00:02:03,749
+the drill's not working okay so here we
+go
+
+102
+00:02:03,749 --> 00:02:03,759
+
+ 
+
+103
+00:02:03,759 --> 00:02:06,950
+
+okay so you pick that ahead of time and
+
+104
+00:02:06,950 --> 00:02:06,960
+okay so you pick that ahead of time and
+ 
+
+105
+00:02:06,960 --> 00:02:08,790
+okay so you pick that ahead of time and
+you can't pick ahead of time
+
+106
+00:02:08,790 --> 00:02:08,800
+you can't pick ahead of time
+ 
+
+107
+00:02:08,800 --> 00:02:10,710
+you can't pick ahead of time
+okay so i'll show you show you what you
+
+108
+00:02:10,710 --> 00:02:10,720
+okay so i'll show you show you what you
+ 
+
+109
+00:02:10,720 --> 00:02:13,190
+okay so i'll show you show you what you
+did the guy came in and you're already
+
+110
+00:02:13,190 --> 00:02:13,200
+did the guy came in and you're already
+ 
+
+111
+00:02:13,200 --> 00:02:14,790
+did the guy came in and you're already
+how do i how do i know you ditch out
+
+112
+00:02:14,790 --> 00:02:14,800
+how do i how do i know you ditch out
+ 
+
+113
+00:02:14,800 --> 00:02:17,110
+how do i how do i know you ditch out
+wash my hands watch my hands you see how
+
+114
+00:02:17,110 --> 00:02:17,120
+wash my hands watch my hands you see how
+ 
+
+115
+00:02:17,120 --> 00:02:19,110
+wash my hands watch my hands you see how
+they moved already
+
+116
+00:02:19,110 --> 00:02:19,120
+they moved already
+ 
+
+117
+00:02:19,120 --> 00:02:24,070
+they moved already
+can't work i need to use his energy
+
+118
+00:02:24,070 --> 00:02:24,080
+can't work i need to use his energy
+ 
+
+119
+00:02:24,080 --> 00:02:26,390
+can't work i need to use his energy
+it's his energy he's pushing you see how
+
+120
+00:02:26,390 --> 00:02:26,400
+it's his energy he's pushing you see how
+ 
+
+121
+00:02:26,400 --> 00:02:28,550
+it's his energy he's pushing you see how
+he pushes he's pushing down
+
+122
+00:02:28,550 --> 00:02:28,560
+he pushes he's pushing down
+ 
+
+123
+00:02:28,560 --> 00:02:32,150
+he pushes he's pushing down
+so i used to push down you push then
+
+124
+00:02:32,150 --> 00:02:32,160
+so i used to push down you push then
+ 
+
+125
+00:02:32,160 --> 00:02:36,630
+so i used to push down you push then
+get him done not here this is predicting
+
+126
+00:02:36,630 --> 00:02:36,640
+get him done not here this is predicting
+ 
+
+127
+00:02:36,640 --> 00:02:39,350
+get him done not here this is predicting
+and i can't predict into you wasn't
+
+128
+00:02:39,350 --> 00:02:39,360
+and i can't predict into you wasn't
+ 
+
+129
+00:02:39,360 --> 00:02:48,150
+and i can't predict into you wasn't
+try it again
+
+130
+00:02:48,150 --> 00:02:48,160
+
+ 
+
+131
+00:02:48,160 --> 00:02:50,309
+
+okay so mechanically yes but you're
+
+132
+00:02:50,309 --> 00:02:50,319
+okay so mechanically yes but you're
+ 
+
+133
+00:02:50,319 --> 00:02:52,150
+okay so mechanically yes but you're
+still choosing that technique
+
+134
+00:02:52,150 --> 00:02:52,160
+still choosing that technique
+ 
+
+135
+00:02:52,160 --> 00:02:56,949
+still choosing that technique
+let his energy decide go
+
+136
+00:02:56,949 --> 00:02:56,959
+
+ 
+
+137
+00:02:56,959 --> 00:03:00,070
+
+good a little behind you i'm not sure
+
+138
+00:03:00,070 --> 00:03:00,080
+good a little behind you i'm not sure
+ 
+
+139
+00:03:00,080 --> 00:03:01,670
+good a little behind you i'm not sure
+that would have worked
+
+140
+00:03:01,670 --> 00:03:01,680
+that would have worked
+ 
+
+141
+00:03:01,680 --> 00:03:04,949
+that would have worked
+so watch the uh other one
+
+142
+00:03:04,949 --> 00:03:04,959
+so watch the uh other one
+ 
+
+143
+00:03:04,959 --> 00:03:07,750
+so watch the uh other one
+he's going to get behind me dizzy go
+
+144
+00:03:07,750 --> 00:03:07,760
+he's going to get behind me dizzy go
+ 
+
+145
+00:03:07,760 --> 00:03:09,509
+he's going to get behind me dizzy go
+back
+
+146
+00:03:09,509 --> 00:03:09,519
+back
+ 
+
+147
+00:03:09,519 --> 00:03:11,110
+back
+so i have a couple choices he gets
+
+148
+00:03:11,110 --> 00:03:11,120
+so i have a couple choices he gets
+ 
+
+149
+00:03:11,120 --> 00:03:12,949
+so i have a couple choices he gets
+behind me up
+
+150
+00:03:12,949 --> 00:03:12,959
+behind me up
+ 
+
+151
+00:03:12,959 --> 00:03:16,470
+behind me up
+you see i went up or
+
+152
+00:03:16,470 --> 00:03:16,480
+you see i went up or
+ 
+
+153
+00:03:16,480 --> 00:03:18,149
+you see i went up or
+he got behind me only because i stayed
+
+154
+00:03:18,149 --> 00:03:18,159
+he got behind me only because i stayed
+ 
+
+155
+00:03:18,159 --> 00:03:20,309
+he got behind me only because i stayed
+there
+
+156
+00:03:20,309 --> 00:03:20,319
+there
+ 
+
+157
+00:03:20,319 --> 00:03:23,110
+there
+you see that it's only because i stayed
+
+158
+00:03:23,110 --> 00:03:23,120
+you see that it's only because i stayed
+ 
+
+159
+00:03:23,120 --> 00:03:26,550
+you see that it's only because i stayed
+come back
+
+160
+00:03:26,550 --> 00:03:26,560
+
+ 
+
+161
+00:03:26,560 --> 00:03:28,630
+
+so let's say i'm gonna predict i'm gonna
+
+162
+00:03:28,630 --> 00:03:28,640
+so let's say i'm gonna predict i'm gonna
+ 
+
+163
+00:03:28,640 --> 00:03:30,070
+so let's say i'm gonna predict i'm gonna
+do that technique you'll see that it
+
+164
+00:03:30,070 --> 00:03:30,080
+do that technique you'll see that it
+ 
+
+165
+00:03:30,080 --> 00:03:31,589
+do that technique you'll see that it
+doesn't look like he got behind me at
+
+166
+00:03:31,589 --> 00:03:31,599
+doesn't look like he got behind me at
+ 
+
+167
+00:03:31,599 --> 00:03:35,990
+doesn't look like he got behind me at
+all
+
+168
+00:03:35,990 --> 00:03:36,000
+
+ 
+
+169
+00:03:36,000 --> 00:03:38,630
+
+so it's only behind because you stopped
+
+170
+00:03:38,630 --> 00:03:38,640
+so it's only behind because you stopped
+ 
+
+171
+00:03:38,640 --> 00:03:40,229
+so it's only behind because you stopped
+and because you wanted to do that other
+
+172
+00:03:40,229 --> 00:03:40,239
+and because you wanted to do that other
+ 
+
+173
+00:03:40,239 --> 00:03:42,229
+and because you wanted to do that other
+technique
+
+174
+00:03:42,229 --> 00:03:42,239
+technique
+ 
+
+175
+00:03:42,239 --> 00:03:43,830
+technique
+instead just keep working with the
+
+176
+00:03:43,830 --> 00:03:43,840
+instead just keep working with the
+ 
+
+177
+00:03:43,840 --> 00:03:47,670
+instead just keep working with the
+energy pull
+
+178
+00:03:47,670 --> 00:03:47,680
+energy pull
+ 
+
+179
+00:03:47,680 --> 00:03:52,789
+energy pull
+okay try it again
+
+180
+00:03:52,789 --> 00:03:52,799
+
+ 
+
+181
+00:03:52,799 --> 00:03:55,589
+
+so i can't predict and i can't be
+
+182
+00:03:55,589 --> 00:03:55,599
+so i can't predict and i can't be
+ 
+
+183
+00:03:55,599 --> 00:04:01,570
+so i can't predict and i can't be
+attached to the technique okay
+
+184
+00:04:01,570 --> 00:04:01,580
+attached to the technique okay
+ 
+
+185
+00:04:01,580 --> 00:04:05,030
+attached to the technique okay
+[Music]
+
+186
+00:04:05,030 --> 00:04:05,040
+
+ 
+
+187
+00:04:05,040 --> 00:04:06,869
+
+that was good you had to let go of the
+
+188
+00:04:06,869 --> 00:04:06,879
+that was good you had to let go of the
+ 
+
+189
+00:04:06,879 --> 00:04:08,470
+that was good you had to let go of the
+first one right did you feel that
+
+190
+00:04:08,470 --> 00:04:08,480
+first one right did you feel that
+ 
+
+191
+00:04:08,480 --> 00:04:10,550
+first one right did you feel that
+my mind got there knew it wasn't gonna
+
+192
+00:04:10,550 --> 00:04:10,560
+my mind got there knew it wasn't gonna
+ 
+
+193
+00:04:10,560 --> 00:04:12,550
+my mind got there knew it wasn't gonna
+work can i let go right when you let go
+
+194
+00:04:12,550 --> 00:04:12,560
+work can i let go right when you let go
+ 
+
+195
+00:04:12,560 --> 00:04:14,229
+work can i let go right when you let go
+that's the part we're training for
+
+196
+00:04:14,229 --> 00:04:14,239
+that's the part we're training for
+ 
+
+197
+00:04:14,239 --> 00:04:40,830
+that's the part we're training for
+switch roles
+
+198
+00:04:40,830 --> 00:04:40,840
+
+ 
+
+199
+00:04:40,840 --> 00:04:45,909
+
+so
+
+200
+00:04:45,909 --> 00:04:45,919
+
+ 
+
+201
+00:04:45,919 --> 00:04:51,830
+
+get your arch up hey come in like this
+
+202
+00:04:51,830 --> 00:04:51,840
+
+ 
+
+203
+00:04:51,840 --> 00:05:02,070
+
+no you off your head straight
+
+204
+00:05:02,070 --> 00:05:02,080
+
+ 
+
+205
+00:05:02,080 --> 00:05:05,189
+
+you see you're predicting okay
+
+206
+00:05:05,189 --> 00:05:05,199
+you see you're predicting okay
+ 
+
+207
+00:05:05,199 --> 00:05:07,909
+you see you're predicting okay
+so come in like that someone like that i
+
+208
+00:05:07,909 --> 00:05:07,919
+so come in like that someone like that i
+ 
+
+209
+00:05:07,919 --> 00:05:09,430
+so come in like that someone like that i
+i'm just feeling it
+
+210
+00:05:09,430 --> 00:05:09,440
+i'm just feeling it
+ 
+
+211
+00:05:09,440 --> 00:05:13,510
+i'm just feeling it
+feeling it it doesn't doesn't matter
+
+212
+00:05:13,510 --> 00:05:13,520
+feeling it it doesn't doesn't matter
+ 
+
+213
+00:05:13,520 --> 00:05:14,550
+feeling it it doesn't doesn't matter
+what you're doing
+
+214
+00:05:14,550 --> 00:05:14,560
+what you're doing
+ 
+
+215
+00:05:14,560 --> 00:05:27,670
+what you're doing
+doesn't matter what you're doing
+
+216
+00:05:27,670 --> 00:05:27,680
+
+ 
+
+217
+00:05:27,680 --> 00:05:30,469
+
+so coming straight there you go i know
+
+218
+00:05:30,469 --> 00:05:30,479
+so coming straight there you go i know
+ 
+
+219
+00:05:30,479 --> 00:05:32,070
+so coming straight there you go i know
+i'm not picking techniques
+
+220
+00:05:32,070 --> 00:05:32,080
+i'm not picking techniques
+ 
+
+221
+00:05:32,080 --> 00:05:34,150
+i'm not picking techniques
+even perfect blend techniques even
+
+222
+00:05:34,150 --> 00:05:34,160
+even perfect blend techniques even
+ 
+
+223
+00:05:34,160 --> 00:05:36,390
+even perfect blend techniques even
+perfect blending so i'm not picking
+
+224
+00:05:36,390 --> 00:05:36,400
+perfect blending so i'm not picking
+ 
+
+225
+00:05:36,400 --> 00:05:41,510
+perfect blending so i'm not picking
+not picking that's not what we're doing
+
+226
+00:05:41,510 --> 00:05:41,520
+
+ 
+
+227
+00:05:41,520 --> 00:05:44,790
+
+you push together that hands go on there
+
+228
+00:05:44,790 --> 00:05:44,800
+you push together that hands go on there
+ 
+
+229
+00:05:44,800 --> 00:05:46,870
+you push together that hands go on there
+that's what i'm feeling that's telling
+
+230
+00:05:46,870 --> 00:05:46,880
+that's what i'm feeling that's telling
+ 
+
+231
+00:05:46,880 --> 00:05:49,670
+that's what i'm feeling that's telling
+me what to do
+
+232
+00:05:49,670 --> 00:05:49,680
+
+ 
+
+233
+00:05:49,680 --> 00:06:01,670
+
+okay
+
+234
+00:06:01,670 --> 00:06:01,680
+
+ 
+
+235
+00:06:01,680 --> 00:06:04,390
+
+you had that little hiccup right you can
+
+236
+00:06:04,390 --> 00:06:04,400
+you had that little hiccup right you can
+ 
+
+237
+00:06:04,400 --> 00:06:06,790
+you had that little hiccup right you can
+tell oh that's going to be
+
+238
+00:06:06,790 --> 00:06:06,800
+tell oh that's going to be
+ 
+
+239
+00:06:06,800 --> 00:06:09,270
+tell oh that's going to be
+and then and then you yield right but
+
+240
+00:06:09,270 --> 00:06:09,280
+and then and then you yield right but
+ 
+
+241
+00:06:09,280 --> 00:06:10,230
+and then and then you yield right but
+there was a
+
+242
+00:06:10,230 --> 00:06:10,240
+there was a
+ 
+
+243
+00:06:10,240 --> 00:06:13,510
+there was a
+micro moment where you had to process
+
+244
+00:06:13,510 --> 00:06:13,520
+micro moment where you had to process
+ 
+
+245
+00:06:13,520 --> 00:06:14,150
+micro moment where you had to process
+that
+
+246
+00:06:14,150 --> 00:06:14,160
+that
+ 
+
+247
+00:06:14,160 --> 00:06:16,870
+that
+and in that micro moment that guy won't
+
+248
+00:06:16,870 --> 00:06:16,880
+and in that micro moment that guy won't
+ 
+
+249
+00:06:16,880 --> 00:06:19,270
+and in that micro moment that guy won't
+be there in a full live environment
+
+250
+00:06:19,270 --> 00:06:19,280
+be there in a full live environment
+ 
+
+251
+00:06:19,280 --> 00:06:22,070
+be there in a full live environment
+okay so it's a good it's a good step
+
+252
+00:06:22,070 --> 00:06:22,080
+okay so it's a good it's a good step
+ 
+
+253
+00:06:22,080 --> 00:06:22,550
+okay so it's a good it's a good step
+because
+
+254
+00:06:22,550 --> 00:06:22,560
+because
+ 
+
+255
+00:06:22,560 --> 00:06:26,150
+because
+this would be wrong but you went you did
+
+256
+00:06:26,150 --> 00:06:26,160
+this would be wrong but you went you did
+ 
+
+257
+00:06:26,160 --> 00:06:28,230
+this would be wrong but you went you did
+go for it at first you see and then you
+
+258
+00:06:28,230 --> 00:06:28,240
+go for it at first you see and then you
+ 
+
+259
+00:06:28,240 --> 00:06:29,909
+go for it at first you see and then you
+go okay that's not right
+
+260
+00:06:29,909 --> 00:06:29,919
+go okay that's not right
+ 
+
+261
+00:06:29,919 --> 00:06:33,510
+go okay that's not right
+but that won't translate it's got to be
+
+262
+00:06:33,510 --> 00:06:33,520
+but that won't translate it's got to be
+ 
+
+263
+00:06:33,520 --> 00:06:35,749
+but that won't translate it's got to be
+more that he's pushing he's pushing my
+
+264
+00:06:35,749 --> 00:06:35,759
+more that he's pushing he's pushing my
+ 
+
+265
+00:06:35,759 --> 00:06:38,550
+more that he's pushing he's pushing my
+arm
+
+266
+00:06:38,550 --> 00:06:38,560
+
+ 
+
+267
+00:06:38,560 --> 00:06:41,430
+
+you see because i don't have no
+
+268
+00:06:41,430 --> 00:06:41,440
+you see because i don't have no
+ 
+
+269
+00:06:41,440 --> 00:06:43,590
+you see because i don't have no
+intention
+
+270
+00:06:43,590 --> 00:06:43,600
+intention
+ 
+
+271
+00:06:43,600 --> 00:06:45,990
+intention
+with my arm there's no intention in my
+
+272
+00:06:45,990 --> 00:06:46,000
+with my arm there's no intention in my
+ 
+
+273
+00:06:46,000 --> 00:06:46,629
+with my arm there's no intention in my
+arm
+
+274
+00:06:46,629 --> 00:06:46,639
+arm
+ 
+
+275
+00:06:46,639 --> 00:06:48,710
+arm
+my arms are always just going to in
+
+276
+00:06:48,710 --> 00:06:48,720
+my arms are always just going to in
+ 
+
+277
+00:06:48,720 --> 00:06:51,029
+my arms are always just going to in
+space
+
+278
+00:06:51,029 --> 00:06:51,039
+space
+ 
+
+279
+00:06:51,039 --> 00:06:54,469
+space
+always just going to yank space okay
+
+280
+00:06:54,469 --> 00:06:54,479
+always just going to yank space okay
+ 
+
+281
+00:06:54,479 --> 00:06:59,670
+always just going to yank space okay
+keep going
+
+282
+00:06:59,670 --> 00:06:59,680
+
+ 
+
+283
+00:06:59,680 --> 00:07:03,430
+
+good better control the headband that's
+
+284
+00:07:03,430 --> 00:07:03,440
+good better control the headband that's
+ 
+
+285
+00:07:03,440 --> 00:07:04,390
+good better control the headband that's
+not partial
+
+286
+00:07:04,390 --> 00:07:04,400
+not partial
+ 
+
+287
+00:07:04,400 --> 00:07:07,990
+not partial
+so i'm here here i wanted your head
+
+288
+00:07:07,990 --> 00:07:08,000
+so i'm here here i wanted your head
+ 
+
+289
+00:07:08,000 --> 00:07:11,430
+so i'm here here i wanted your head
+your head stand up stand up do you see
+
+290
+00:07:11,430 --> 00:07:11,440
+your head stand up stand up do you see
+ 
+
+291
+00:07:11,440 --> 00:07:14,550
+your head stand up stand up do you see
+stand up do you see here's where you
+
+292
+00:07:14,550 --> 00:07:14,560
+stand up do you see here's where you
+ 
+
+293
+00:07:14,560 --> 00:07:16,469
+stand up do you see here's where you
+control the head marshally okay
+
+294
+00:07:16,469 --> 00:07:16,479
+control the head marshally okay
+ 
+
+295
+00:07:16,479 --> 00:07:18,950
+control the head marshally okay
+this is where your strikes okay
+
+296
+00:07:18,950 --> 00:07:18,960
+this is where your strikes okay
+ 
+
+297
+00:07:18,960 --> 00:07:20,230
+this is where your strikes okay
+everything is here
+
+298
+00:07:20,230 --> 00:07:20,240
+everything is here
+ 
+
+299
+00:07:20,240 --> 00:07:24,070
+everything is here
+stand up and so is kites and noggin
+
+300
+00:07:24,070 --> 00:07:24,080
+stand up and so is kites and noggin
+ 
+
+301
+00:07:24,080 --> 00:07:26,230
+stand up and so is kites and noggin
+okay so keep your technique in the midst
+
+302
+00:07:26,230 --> 00:07:26,240
+okay so keep your technique in the midst
+ 
+
+303
+00:07:26,240 --> 00:07:34,790
+okay so keep your technique in the midst
+of motion try it again
+
+304
+00:07:34,790 --> 00:07:34,800
+
+ 
+
+305
+00:07:34,800 --> 00:07:36,390
+
+your mind got off and your weight
+
+306
+00:07:36,390 --> 00:07:36,400
+your mind got off and your weight
+ 
+
+307
+00:07:36,400 --> 00:07:37,830
+your mind got off and your weight
+shifted to the heels
+
+308
+00:07:37,830 --> 00:07:37,840
+shifted to the heels
+ 
+
+309
+00:07:37,840 --> 00:07:47,189
+shifted to the heels
+okay not marshall again
+
+310
+00:07:47,189 --> 00:07:47,199
+
+ 
+
+311
+00:07:47,199 --> 00:07:54,869
+
+okay
+
+312
+00:07:54,869 --> 00:07:54,879
+
+ 
+
+313
+00:07:54,879 --> 00:07:57,430
+
+okay so picking the technique is wrong
+
+314
+00:07:57,430 --> 00:07:57,440
+okay so picking the technique is wrong
+ 
+
+315
+00:07:57,440 --> 00:07:59,189
+okay so picking the technique is wrong
+and unpicking the technique is
+
+316
+00:07:59,189 --> 00:07:59,199
+and unpicking the technique is
+ 
+
+317
+00:07:59,199 --> 00:08:01,029
+and unpicking the technique is
+picking a technique so i'm picking a
+
+318
+00:08:01,029 --> 00:08:01,039
+picking a technique so i'm picking a
+ 
+
+319
+00:08:01,039 --> 00:08:02,629
+picking a technique so i'm picking a
+technique is wrong too
+
+320
+00:08:02,629 --> 00:08:02,639
+technique is wrong too
+ 
+
+321
+00:08:02,639 --> 00:08:04,869
+technique is wrong too
+okay come on out when priscilla you're
+
+322
+00:08:04,869 --> 00:08:04,879
+okay come on out when priscilla you're
+ 
+
+323
+00:08:04,879 --> 00:08:07,589
+okay come on out when priscilla you're
+up
+
+324
+00:08:07,589 --> 00:08:07,599
+
+ 
+
+325
+00:08:07,599 --> 00:08:10,830
+
+okay you are creepy it is going to be
+
+326
+00:08:10,830 --> 00:08:10,840
+okay you are creepy it is going to be
+ 
+
+327
+00:08:10,840 --> 00:08:15,270
+okay you are creepy it is going to be
+tough
+
+328
+00:08:15,270 --> 00:08:15,280
+
+ 
+
+329
+00:08:15,280 --> 00:08:18,390
+
+oh
+
+330
+00:08:18,390 --> 00:08:18,400
+
+ 
+
+331
+00:08:18,400 --> 00:08:19,749
+
+don't keep your back if you're ready to
+
+332
+00:08:19,749 --> 00:08:19,759
+don't keep your back if you're ready to
+ 
+
+333
+00:08:19,759 --> 00:08:32,230
+don't keep your back if you're ready to
+do that get back to side control
+
+334
+00:08:32,230 --> 00:08:32,240
+
+ 
+
+335
+00:08:32,240 --> 00:08:40,790
+
+you're picking that ahead of time
+
+336
+00:08:40,790 --> 00:08:40,800
+you're picking that ahead of time
+ 
+
+337
+00:08:40,800 --> 00:08:54,630
+you're picking that ahead of time
+if the hand is your shoulders
+
+338
+00:08:54,630 --> 00:08:54,640
+if the hand is your shoulders
+ 
+
+339
+00:08:54,640 --> 00:08:57,509
+if the hand is your shoulders
+you're gonna need to tilt her okay you
+
+340
+00:08:57,509 --> 00:08:57,519
+you're gonna need to tilt her okay you
+ 
+
+341
+00:08:57,519 --> 00:09:13,190
+you're gonna need to tilt her okay you
+can't bend people backwards
+
+342
+00:09:13,190 --> 00:09:13,200
+
+ 
+
+343
+00:09:13,200 --> 00:09:15,509
+
+she decides the line not you you don't
+
+344
+00:09:15,509 --> 00:09:15,519
+she decides the line not you you don't
+ 
+
+345
+00:09:15,519 --> 00:09:33,990
+she decides the line not you you don't
+decide the mind
+
+346
+00:09:33,990 --> 00:09:34,000
+
+ 
+
+347
+00:09:34,000 --> 00:09:37,430
+
+is telling me where my foot goes okay
+
+348
+00:09:37,430 --> 00:09:37,440
+is telling me where my foot goes okay
+ 
+
+349
+00:09:37,440 --> 00:09:40,550
+is telling me where my foot goes okay
+so i don't ever go here here and i go
+
+350
+00:09:40,550 --> 00:09:40,560
+so i don't ever go here here and i go
+ 
+
+351
+00:09:40,560 --> 00:09:41,910
+so i don't ever go here here and i go
+this is where i go
+
+352
+00:09:41,910 --> 00:09:41,920
+this is where i go
+ 
+
+353
+00:09:41,920 --> 00:09:47,110
+this is where i go
+that's not gonna work
+
+354
+00:09:47,110 --> 00:09:47,120
+
+ 
+
+355
+00:09:47,120 --> 00:09:48,949
+
+there's your head and that's telling me
+
+356
+00:09:48,949 --> 00:09:48,959
+there's your head and that's telling me
+ 
+
+357
+00:09:48,959 --> 00:09:50,630
+there's your head and that's telling me
+to go you got it
+
+358
+00:09:50,630 --> 00:09:50,640
+to go you got it
+ 
+
+359
+00:09:50,640 --> 00:09:59,750
+to go you got it
+it's on this ham okay try it again
+
+360
+00:09:59,750 --> 00:09:59,760
+
+ 
+
+361
+00:09:59,760 --> 00:10:03,950
+
+oh final i'm 15
+
+362
+00:10:03,950 --> 00:10:03,960
+oh final i'm 15
+ 
+
+363
+00:10:03,960 --> 00:10:09,509
+oh final i'm 15
+[Music]
+
+364
+00:10:09,509 --> 00:10:09,519
+
+ 
+
+365
+00:10:09,519 --> 00:10:14,389
+
+oh you're wasted okay yo
+
+366
+00:10:14,389 --> 00:10:14,399
+
+ 
+
+367
+00:10:14,399 --> 00:10:32,870
+
+you're okay now you're okay
+
+368
+00:10:32,870 --> 00:10:32,880
+
+ 
+
+369
+00:10:32,880 --> 00:10:41,110
+
+tilt
+
+370
+00:10:41,110 --> 00:10:41,120
+
+ 
+
+371
+00:10:41,120 --> 00:10:42,790
+
+you watch your heel weight you can't go
+
+372
+00:10:42,790 --> 00:10:42,800
+you watch your heel weight you can't go
+ 
+
+373
+00:10:42,800 --> 00:10:44,790
+you watch your heel weight you can't go
+to your heels okay
+
+374
+00:10:44,790 --> 00:10:44,800
+to your heels okay
+ 
+
+375
+00:10:44,800 --> 00:10:46,230
+to your heels okay
+oh you're going to your heels because
+
+376
+00:10:46,230 --> 00:10:46,240
+oh you're going to your heels because
+ 
+
+377
+00:10:46,240 --> 00:10:48,150
+oh you're going to your heels because
+he's pushing on you and he's only
+
+378
+00:10:48,150 --> 00:10:48,160
+he's pushing on you and he's only
+ 
+
+379
+00:10:48,160 --> 00:10:49,829
+he's pushing on you and he's only
+pushing on you because you're pushing on
+
+380
+00:10:49,829 --> 00:10:49,839
+pushing on you because you're pushing on
+ 
+
+381
+00:10:49,839 --> 00:10:50,630
+pushing on you because you're pushing on
+him
+
+382
+00:10:50,630 --> 00:10:50,640
+him
+ 
+
+383
+00:10:50,640 --> 00:10:53,430
+him
+okay so he's going i want that technique
+
+384
+00:10:53,430 --> 00:10:53,440
+okay so he's going i want that technique
+ 
+
+385
+00:10:53,440 --> 00:10:53,670
+okay so he's going i want that technique
+and
+
+386
+00:10:53,670 --> 00:10:53,680
+and
+ 
+
+387
+00:10:53,680 --> 00:11:12,829
+and
+i don't want to push
+
+388
+00:11:12,829 --> 00:11:12,839
+
+ 
+
+389
+00:11:12,839 --> 00:11:17,590
+
+so
+
+390
+00:11:17,590 --> 00:11:17,600
+
+ 
+
+391
+00:11:17,600 --> 00:11:26,829
+
+come on
+
+392
+00:11:26,829 --> 00:11:26,839
+
+ 
+
+393
+00:11:26,839 --> 00:11:39,990
+
+okay
+
+394
+00:11:39,990 --> 00:11:40,000
+
+ 
+
+395
+00:11:40,000 --> 00:11:43,829
+
+you've got to get the first line lower
+
+396
+00:11:43,829 --> 00:11:43,839
+you've got to get the first line lower
+ 
+
+397
+00:11:43,839 --> 00:11:48,710
+you've got to get the first line lower
+than the second line higher
+
+398
+00:11:48,710 --> 00:11:48,720
+
+ 
+
+399
+00:11:48,720 --> 00:11:50,949
+
+i can't keep this high and then expect
+
+400
+00:11:50,949 --> 00:11:50,959
+i can't keep this high and then expect
+ 
+
+401
+00:11:50,959 --> 00:11:53,350
+i can't keep this high and then expect
+to get that over
+
+402
+00:11:53,350 --> 00:11:53,360
+to get that over
+ 
+
+403
+00:11:53,360 --> 00:11:56,150
+to get that over
+so boom heal low then this happens
+
+404
+00:11:56,150 --> 00:11:56,160
+so boom heal low then this happens
+ 
+
+405
+00:11:56,160 --> 00:11:57,030
+so boom heal low then this happens
+higher than that
+
+406
+00:11:57,030 --> 00:11:57,040
+higher than that
+ 
+
+407
+00:11:57,040 --> 00:11:58,790
+higher than that
+try it again okay there's still a
+
+408
+00:11:58,790 --> 00:11:58,800
+try it again okay there's still a
+ 
+
+409
+00:11:58,800 --> 00:12:08,829
+try it again okay there's still a
+tactical promoting
+
+410
+00:12:08,829 --> 00:12:08,839
+
+ 
+
+411
+00:12:08,839 --> 00:12:11,829
+
+again
+
+412
+00:12:11,829 --> 00:12:11,839
+again
+ 
+
+413
+00:12:11,839 --> 00:12:17,680
+again
+okay let's go
+
