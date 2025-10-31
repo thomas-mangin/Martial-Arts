@@ -244,6 +244,25 @@ This document contains only **active decisions** that affect how Claude should t
 
 **Why**: Automatic GitHub backup of all work. Remote repository stays current.
 
+### Task Execution Autonomy
+**Decision**: Once a task is agreed upon, execute autonomously without re-confirmation
+
+**How this affects thinking**:
+- If user says "do X", just do X - don't ask for confirmation again
+- Don't ask to verify details after agreeing to execute the task
+- Show work as it progresses, but don't wait for permission at each step
+- Clarifying questions are appropriate BEFORE agreeing to the task, not AFTER
+- Multi-file edits are normal (BAU) - just execute them
+- Ask questions when genuinely unclear, not as defensive behavior
+
+**Examples**:
+- ✅ GOOD: User says "add these principles to biomechanics" → clarify what they mean → once agreed, execute all file edits
+- ❌ BAD: User says "add these principles" → agree on approach → then ask "should I really edit all these files?"
+- ✅ GOOD: "I'm not sure if this should go in category A or B - which do you prefer?"
+- ❌ BAD: "We agreed to do this, but let me confirm the details again before executing"
+
+**Why**: Efficient workflow. User trusts Claude to execute agreed-upon tasks. Asking for re-confirmation after agreement wastes time and breaks flow.
+
 ---
 
 ## File Maintenance

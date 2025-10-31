@@ -400,4 +400,223 @@ Tai sabaki works because you're moving your body mass (via hip rotation and weig
 
 ---
 
+## 38. Two Types of Rotation - Contraction vs Extension
+
+**Principle**: Rotation can be executed in two fundamentally different ways depending on purpose: contracting limbs toward center for rotational speed (angular velocity), or extending limbs outward to generate force when connected to an opponent.
+
+**The Physics**:
+- **Conservation of Angular Momentum**: L = I × ω (angular momentum = moment of inertia × angular velocity)
+- When moment of inertia (I) decreases → angular velocity (ω) increases
+- When moment of inertia (I) increases → torque/force generation increases
+- Same rotational energy, different applications
+
+**Type A - "Skater Contraction" (Speed Rotation)**:
+- **Method**: Pull limbs close to center of gravity
+- **Effect**: Decreased moment of inertia → increased rotational speed
+- **Physics**: Conservation of angular momentum
+- **Result**: Very fast rotation
+- **When to use**: Quick pivots, evasive turns, repositioning
+- **Example**: Figure skater pulling arms in during spin
+
+**Type B - "Extended Force Generation" (Power Rotation)**:
+- **Method**: Extend limbs outward from center
+- **Effect**: Increased moment of inertia → increased force generation
+- **Physics**: Larger radius = higher linear velocity at endpoint when connected
+- **Result**: Generate force through rotation when connected to opponent
+- **When to use**: Throws, techniques where rotation creates force on uke
+- **Example**: Hammer throw athlete spinning with extended arms
+
+**Key Difference**:
+- **NOT about impact power** (both can generate force)
+- **About application context**:
+  - Type A: Speed of rotation itself (getting somewhere fast)
+  - Type B: Force generation while connected (moving someone else via rotation)
+
+**Aikido Applications**:
+
+**Type A - Contraction for Speed**:
+- Quick irimi-tenkan when you need rapid repositioning
+- Evasive pivots to get behind uke quickly
+- Tight, fast turns in confined space
+- Pulling elbows in during fast body rotation
+- Getting off line rapidly
+
+**Type B - Extension for Force**:
+- Throwing techniques where you rotate with extended arms
+- Kokyu-nage variations using rotational force
+- Maintaining extension during hip rotation to affect uke's structure
+- Kaiten-nage (rotary throw) with extended connection
+- Any technique where your rotation moves uke
+
+**The Strategic Choice**:
+- **Before contact or when evading**: Use Type A (speed)
+- **When connected to uke during throw**: Use Type B (force)
+- **Can transition**: Contract for speed entry, extend for force application
+- **Body awareness**: Knowing which rotation type you need
+
+**Connection to Other Principles**:
+- **#25 Hip Rotation & Tai Sabaki**: Can use either type depending on context
+- **#27 Centerline Positioning**: Type A brings hands to center, Type B extends from center
+- **#17 External Foot Rotation**: Enables both rotation types
+- **#8 Grounding and Connection**: Both types require ground connection
+- **#10 Snap Movement**: Type A rotation can be "snapped" for maximum speed
+
+**Teaching Implications**:
+- Explain physics: "Like a figure skater pulling arms in to spin faster"
+- Show difference: tight rotation vs. extended rotation
+- Demonstrate when to use each type
+- Common error: using extended rotation when speed needed (slow turn)
+- Common error: pulling in during throw (losing force generation)
+- Video comparison: skater spin vs. hammer throw
+
+**Why This Matters**:
+- Understanding rotation types makes technique selection conscious
+- Explains why some rotations feel fast but weak (wrong type for context)
+- Shows rotation is not one thing - it's two distinct applications
+- Connects to universal physics (not aikido-specific)
+- Helps students understand what their body should do
+
+**Blog Potential**:
+- "Two Ways to Rotate: The Figure Skater vs. The Hammer Thrower"
+- "Why Fast Rotations and Power Rotations Are Different"
+- "When to Pull In, When to Extend: The Rotation Choice"
+- "Conservation of Angular Momentum in Aikido"
+- "The Physics of Rotation: Speed vs. Force Generation"
+- "Why Your Throw Lacks Power (You're Using the Wrong Rotation Type)"
+
+**Training Methods**:
+- Practice tight rotation (Type A) focusing on speed
+- Practice extended rotation (Type B) with partner resistance
+- Compare power: tight vs. extended during kokyu-nage
+- Shadow practice: transitions from Type A entry to Type B throw
+- Physics demonstration: spin on office chair with arms in/out
+- Video analysis: identifying rotation types in techniques
+
+**Observation Note (First Dan Perspective)**:
+- This distinction wasn't explicit in my training until recently
+- Observing advanced practitioners, they clearly switch between types
+- When I use wrong type, technique feels awkward or weak
+- Type A feels natural for quick movement
+- Type B requires more conscious extension during rotation
+- Still working to choose correctly under pressure
+
+---
+
+## 40. Counter-Rotation for Torque Generation - Shoulders Forward, Hips Back
+
+**Principle**: Creating opposing shifts in the body (shoulders de-axe forward, hips/butt shift backward) generates rotational torque while maintaining perfect balance. These counterbalancing movements create a "wound-up" coiling effect that, when released through rotation on the toes, produces powerful force.
+
+**The Mechanics**:
+- **Shoulders shift forward** (de-axe from centerline)
+- **Hips/butt shift backward** (counter-movement)
+- **Result 1**: These opposing shifts balance each other → you stay centered
+- **Result 2**: Creates torsional tension → stored rotational potential
+- **Release**: Rotate on toes/balls of feet → unleashes stored torque
+
+**Physical Explanation**:
+- Like winding a spring: opposing forces create potential energy
+- Center of gravity stays stable (forward + backward cancel out)
+- Torsional stress in core muscles and fascia
+- Rotation releases stored elastic energy
+- Similar to "coiling" in other martial arts
+
+**Why This Works**:
+- **Balance maintained**: Forward and backward shifts cancel = stable base
+- **Power generated**: Torsional tension stores energy
+- **Explosive release**: Unwinding generates rotational force
+- **Ground connection**: Rotation on toes channels force through ground
+- **Whole-body engagement**: Core, hips, shoulders all involved
+
+**Aikido Applications**:
+
+**Ikkyo Ura (and similar techniques)**:
+1. **Setup**: Shoulders shift forward, hips back (wind up)
+2. **Maintained balance**: Opposing shifts keep you centered
+3. **Rotation**: Rotate on toes, releasing stored torque
+4. **Result**: Powerful rotational force applied to uke's arm/structure
+5. **Key**: Power comes from unwinding, not muscular pushing
+
+**Other Applications**:
+- Any technique requiring strong rotational force
+- Entering movements that need power + balance
+- Transitional movements between techniques
+- Recovery from off-balance positions (counter-shift to rebalance)
+- Generating force in confined space (can't use large hip rotation)
+
+**Connection to Other Principles**:
+- **#25 Hip Rotation & Tai Sabaki**: Counter-rotation enhances hip rotation power
+- **#8 Grounding and Connection**: Rotation on toes grounds the release
+- **#15 Foot Mechanics**: Ball-of-foot rotation enables the unwinding
+- **#32 Core Engagement**: Core tension stores the torsional energy
+- **#9 Body Alignment**: Must maintain alignment during counter-shift
+- **#33 Spinal Alignment**: Spine is the axis of counter-rotation
+
+**The Toes/Feet Component**:
+- **Rotation happens on balls of feet** (not flat-footed)
+- Allows smooth, powerful rotation
+- Ground connection through front of foot
+- Can generate spring-like release
+- Enables quick directional changes
+
+**Teaching Implications**:
+- Demonstrate counter-shift: "Shoulders forward, hips back - feel the tension?"
+- Show balance: "Notice you're still centered despite opposing movements"
+- Practice rotation release: slow motion first, then full speed
+- Common error: shifting without creating true opposition (no stored energy)
+- Common error: rotating flat-footed (loses spring release)
+- Emphasize: balance + power simultaneously (not either/or)
+
+**Common Errors**:
+- Only shifting shoulders OR hips (not both in opposition)
+- Losing balance during counter-shift (not equal opposing forces)
+- Rotating on heels or flat feet (missing ground connection)
+- Not creating enough torsional tension (timid shift)
+- Releasing before fully wound (premature rotation)
+- Muscling the rotation instead of releasing stored energy
+
+**Why This Matters**:
+- Generates powerful rotation while staying balanced
+- Explains how advanced practitioners create force without visible wind-up
+- Shows balance and power aren't opposites - they're complementary
+- Reveals sophisticated body mechanics in "simple" techniques
+- Connects to internal martial arts concepts (coiling, spring energy)
+
+**Cross-Discipline Recognition**:
+- **Taijiquan**: Coiling/winding silk principle
+- **Bagua**: Counter-rotation during circle walking
+- **Systema**: Wave motion through counter-shifts
+- **Boxing**: Weight shifting forward/back before rotation
+- **Universal**: Using opposing forces to create stability + power
+
+**Blog Potential**:
+- "Counter-Rotation: How to Generate Power While Staying Balanced"
+- "Shoulders Forward, Hips Back: The Secret Coiling in Ikkyo Ura"
+- "Why Advanced Practitioners Look Balanced but Hit Hard"
+- "The Torsional Spring: Storing and Releasing Rotational Energy"
+- "Ikkyo Ura Biomechanics: The Counter-Shift Explained"
+- "Balance Through Opposition: The Physics of Counter-Rotation"
+- "How to Rotate on Your Toes for Explosive Power"
+
+**Training Methods**:
+- Slow motion counter-shift practice (feel the opposing forces)
+- Partner feedback: check if you stay centered during shift
+- Balance test: can you hold counter-shift position stably?
+- Rotation release practice: wound up → explosive rotation
+- Video analysis: watching counter-shift in advanced practitioners
+- Ikkyo ura repetitions focusing on counter-rotation
+- Shadow practice: counter-shift → rotation without partner
+
+**Observation Note (First Dan Perspective)**:
+- This explains what I was feeling but couldn't articulate in ikkyo ura
+- When I don't create the counter-shift, technique feels weak and unstable
+- When done correctly, feels simultaneously balanced AND powerful
+- The rotation on toes vs. flat feet makes huge difference
+- Still working to create proper torsional tension consistently
+- Advanced practitioners do this naturally - I still need to think about it
+
+**The Key Insight**:
+Counter-rotation is how you can be perfectly balanced (opposing shifts cancel out) while generating powerful torque (torsional tension stored and released). You're not choosing between balance and power - you're using opposing movements to create both simultaneously.
+
+---
+
 *Part of the Biomechanics Collection - See INDEX.md for complete framework*

@@ -297,4 +297,108 @@
 
 ---
 
+## 39. Distance from Center of Gravity - Object Manipulation Weight
+
+**Principle**: Objects held far from your center of gravity become exponentially harder to manipulate due to increased moment arm (lever length). The same object weight feels dramatically different based on its distance from your center.
+
+**Physical Explanation**:
+- Torque = Force × Distance from pivot
+- Same object weight, different distance from body = different torque requirement
+- Your body is the pivot point
+- Farther from center = exponentially greater muscular effort required
+- This is why carrying groceries close to chest is easy, extended at arm's length is difficult
+
+**The Sword Example**:
+- **Bokken weight**: Approximately 1.2kg
+- **Vertical position**: Sword length aligned with gravity, minimal distance from center
+  - Result: Can balance on ONE FINGER
+  - Moment arm nearly zero
+- **Horizontal position**: Same 1.2kg sword, but now extended far from center
+  - Result: Impossible to hold, feels much heavier
+  - Long moment arm creates massive torque requirement
+- **Key insight**: It's not the weight - it's the distance from center
+
+**Aikido Applications - Empty Hand**:
+- Why keeping hands close to center (#27 Centerline) is biomechanically critical
+- Controlling uke's arm extended from their center creates leverage advantage
+- Why lifting from close to body is easier than extended lifting
+- Understanding why certain grips/positions feel exponentially harder
+
+**Aikido Applications - Ken (Sword)**:
+**First Ken Technique - Proper Execution**:
+1. **Structure**: Keep both arms in slightly different unbendable arm positions (#26)
+   - Creates strong skeletal structure
+   - Prevents muscular strain
+2. **Initial movement**: Use HIP to push forward the lower hand FIRST
+   - Not arms pushing - hips initiating
+   - Ground connection (#8) through hip engagement
+3. **Raising**: Use SHOULDER ROTATION to raise sword vertically
+   - Sword stays vertical = minimal moment arm
+   - Can raise with minimal effort
+   - Maintains structural integrity throughout
+4. **Result**: Strong, efficient movement keeping sword close to optimal distance from center
+
+**Why This Technique Matters**:
+- Demonstrates multiple principles simultaneously
+- If sword drifts horizontal = fight against physics (hard)
+- If sword stays vertical = work with physics (easy)
+- Teaches body to use hips BEFORE shoulders
+- Shows importance of maintaining favorable moment arms
+
+**Connection to Other Principles**:
+- **#1 Leverage**: This IS leverage, applied to object manipulation
+- **#26 Unbendable Arm**: Structure allows efficient movement at various distances
+- **#27 Centerline Positioning**: Keep objects close to center for biomechanical advantage
+- **#8 Grounding and Connection**: Hip initiation connects to ground power
+- **#25 Hip Rotation**: Hips initiate, shoulders follow
+
+**Teaching Implications**:
+- Demonstrate with sword: vertical vs. horizontal holding
+- Show students the one-finger balance when vertical
+- Teach first ken technique with biomechanical explanation
+- Connect to everyday experience: carrying heavy objects
+- Explain why technique feels "impossible" when position is wrong
+
+**Common Errors**:
+- Allowing sword to drift horizontal during raise (fighting physics)
+- Using arm strength instead of hip-then-shoulder sequence
+- Locking arms (losing unbendable arm structure)
+- Not understanding WHY the sequence matters
+- Thinking it's about strength (it's about distance from center)
+
+**Why This Matters**:
+- Universal principle: applies to all object manipulation
+- Explains why certain positions feel impossible (they are - biomechanically)
+- Shows how small changes in distance create large effort differences
+- Foundation for understanding weapon handling
+- Connects ken technique to empty hand principles (same physics)
+
+**Blog Potential**:
+- "Why Your Sword Feels Heavy: The Distance from Center Principle"
+- "The One-Finger Bokken Balance: Understanding Moment Arms"
+- "First Ken Technique Explained: Hip-Shoulder-Vertical Sequence"
+- "Why Carrying Groceries Teaches Aikido Principles"
+- "Physics Made Obvious: Vertical vs. Horizontal Sword Weight"
+- "How to Raise a Sword With One Finger (Seriously)"
+- "The Biomechanics of the First Ken Technique"
+
+**Training Methods**:
+- One-finger vertical sword balance demonstration
+- Attempt horizontal hold (feel the difference)
+- Slow motion first ken technique focusing on sequence
+- Hip initiation practice (lower hand forward via hip, not arm)
+- Shoulder rotation practice (raising without arm muscling)
+- Partner feedback on sequence execution
+- Video analysis of proper vs. improper execution
+
+**Observation Note (First Dan Perspective)**:
+- This explains why first ken technique felt so awkward initially
+- When sequence is right, it feels effortless
+- When wrong (arms instead of hips, or horizontal drift), it feels impossible
+- The one-finger balance demonstration makes the physics undeniable
+- Understanding this principle transformed my ken practice
+- Still working to execute the sequence smoothly under pressure
+
+---
+
 *Part of the Biomechanics Collection - See INDEX.md for complete framework*

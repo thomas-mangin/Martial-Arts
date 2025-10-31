@@ -111,10 +111,10 @@ The mathematics and biomechanics of human instability and balance disruption.
 
 ---
 
-### 3. Static Structure & Alignment (5 principles)
+### 3. Static Structure & Alignment (7 principles)
 **How to position your body for maximum structural strength**
 
-Principles: Grounding & Connection, Body Alignment, Unbendable Arm, Centerline Positioning, Elbow Structure, Spinal Alignment
+Principles: Grounding & Connection, Body Alignment, Unbendable Arm, Centerline Positioning, Elbow Structure, Spinal Alignment, Distance from Center of Gravity
 
 Foundational body positioning that creates resilient structure without movement.
 
@@ -133,10 +133,10 @@ Active body management during movement - the selective engagement that enables b
 
 ---
 
-### 5. Power Generation & Movement (6 principles)
+### 5. Power Generation & Movement (8 principles)
 **How to move and generate force effectively**
 
-Principles: Natural Walking, Foot Mechanics, External Foot Rotation, Hip Rotation Power & Tai Sabaki, Hip-Driven Lateral Movement, Silk-Reeling / Spiral Movement
+Principles: Natural Walking, Foot Mechanics, External Foot Rotation, Hip Rotation Power & Tai Sabaki, Hip-Driven Lateral Movement, Silk-Reeling / Spiral Movement, Two Types of Rotation, Counter-Rotation for Torque
 
 The mechanics of generating and transferring power through body movement.
 
@@ -182,7 +182,7 @@ This progression mirrors the learning journey from fundamental physics through p
 
 ---
 
-## Quick Reference - All 37 Principles
+## Quick Reference - All 40 Principles
 
 **Physics Fundamentals (6)**
 #1 Leverage • #2 Gravity • #7 Newton's 3rd Law • #10 Snap Movement • #11 Surface Area • #24 Weight Transfer Timing
@@ -190,14 +190,14 @@ This progression mirrors the learning journey from fundamental physics through p
 **Balance Mechanics (3)**
 #3 Two-Foot Balance • #4 Taking Balance • #5 Balance on Contact
 
-**Static Structure (6)**
-#8 Grounding & Connection • #9 Body Alignment • #26 Unbendable Arm • #27 Centerline • #29 Elbow Structure • #33 Spinal Alignment
+**Static Structure (7)**
+#8 Grounding & Connection • #9 Body Alignment • #26 Unbendable Arm • #27 Centerline • #29 Elbow Structure • #33 Spinal Alignment • #39 Distance from Center of Gravity
 
 **Dynamic Engagement (5)**
 #18 Tension Disconnects • #28 Vertical Movement • #31 Differential Engagement • #32 Core Pressure • #34 Breathing Integration
 
-**Power Generation (6)**
-#14 Natural Walking • #15 Foot Mechanics • #17 External Foot Rotation • #25 Hip Rotation & Tai Sabaki • #30 Hip-Driven Lateral • #35 Silk-Reeling / Spiral Movement
+**Power Generation (8)**
+#14 Natural Walking • #15 Foot Mechanics • #17 External Foot Rotation • #25 Hip Rotation & Tai Sabaki • #30 Hip-Driven Lateral • #35 Silk-Reeling / Spiral Movement • #38 Two Types of Rotation • #40 Counter-Rotation for Torque
 
 **Targeting & Application (9)**
 #12 Target Selection • #13 Triangle Deflection & Force Redirection • #16 Directional Vulnerability • #19 Upward Redirection • #20 Joint Vulnerability • #21 Deflect Before Lock • #23 Remove Expected Resistance • #36 The Void • #37 Loading the Structure
@@ -230,9 +230,9 @@ This progression mirrors the learning journey from fundamental physics through p
 
 ## Status
 
-**Current Total**: 37 principles documented across 7 categories
+**Current Total**: 40 principles documented across 7 categories
 
-**Blog Ideas Generated**: 120+ posts from these principles
+**Blog Ideas Generated**: 130+ posts from these principles
 
 **Active Collection**: More principles being gathered as training deepens
 
@@ -242,6 +242,9 @@ This progression mirrors the learning journey from fundamental physics through p
 - #35 Silk-Reeling / Spiral Movement - Helical power paths (from research integration)
 - #36 The Void - Attacking where body doesn't react (user insight)
 - #37 Loading the Structure - Preventing counter-movement through weight (user insight)
+- #38 Two Types of Rotation - Contraction for speed vs extension for force (user insight)
+- #39 Distance from Center of Gravity - Object manipulation and first ken technique (user insight)
+- #40 Counter-Rotation for Torque - Shoulders forward/hips back coiling (user insight)
 - Enhanced #13 Triangle Deflection with vertical vs horizontal force redirection (user insight)
 - Added cross-discipline validation throughout
 
@@ -257,7 +260,7 @@ This progression mirrors the learning journey from fundamental physics through p
 
 ## Principle Numbering
 
-Principles maintain their original numbers (#1-#32) for continuity and cross-referencing, even though they're now organized thematically rather than sequentially.
+Principles maintain their original numbers (#1-#40) for continuity and cross-referencing, even though they're now organized thematically rather than sequentially.
 
 **Why**: Existing blog ideas, cross-references, and notes use these numbers. Maintaining them preserves those connections.
 
@@ -266,7 +269,7 @@ Principles maintain their original numbers (#1-#32) for continuity and cross-ref
 ## Adding New Principles
 
 When documenting new principles:
-1. Assign next sequential number (#33, #34, etc.)
+1. Assign next sequential number (#41, #42, etc.)
 2. Determine thematic category
 3. Add to appropriate thematic file
 4. Update this INDEX.md with new principle
