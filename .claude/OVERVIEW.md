@@ -3,6 +3,16 @@
 ## Project Purpose
 Master's thesis project for writing educational Aikido article series (designed for book publication) with session continuity between Claude Code sessions.
 
+## 🔄 Interaction Protocol
+
+**CRITICAL**: Read `.claude/docs/workflow-protocol.md` for complete interaction guidelines.
+
+**Key behaviors:**
+1. **Session start or work completion** → Present overview of current/paused objectives
+2. **When given task** → Clarify and restate, ask for confirmation ONCE
+3. **After confirmation** → Save objective, execute completely without further confirmations
+4. **State management** → Active objectives in `current-objective.md`, paused in `backlog.md`
+
 ## Essential Commands
 
 ### Start/End Session
@@ -77,6 +87,7 @@ Master's thesis project for writing educational Aikido article series (designed 
 
 ## Need More Details?
 
+- **Interaction Protocol**: Read `.claude/docs/workflow-protocol.md` ⭐ **READ THIS FIRST**
 - **Architecture**: Read `.claude/docs/architecture.md`
 - **Workflows**: Read `.claude/docs/workflows.md`
 - **Commands**: Read `.claude/docs/commands-reference.md`

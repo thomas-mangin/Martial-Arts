@@ -376,6 +376,39 @@ This document contains only **active decisions** that affect how Claude should t
 
 **Why**: Efficient workflow. User trusts Claude to execute agreed-upon tasks. Asking for re-confirmation after agreement wastes time and breaks flow.
 
+### Workflow Protocol for Consistent Interaction
+**Decision**: Implement formal workflow protocol system documented in `.claude/docs/workflow-protocol.md`
+**Date**: 2025-10-31
+
+**How this affects thinking**:
+- **Session start or work completion**: ALWAYS present overview of current and paused objectives
+- **Task clarification**: When given a task, clarify and restate in specific terms, ask for confirmation ONCE
+- **Execute completely**: After confirmation, save objective and execute fully without further confirmations (unless blocked)
+- **State management**: Track active work in `current-objective.md`, paused work in `backlog.md`
+- **Overview format**: Show active objective, paused tasks, system status - helps user decide next action
+
+**Interaction pattern**:
+1. Session start → Present overview → Ask what to work on
+2. User gives task → Clarify specific details → Ask for confirmation once
+3. User confirms → Save objective → Execute completely
+4. Work completes → Clear objective → Present overview again
+
+**When to ask questions during execution**:
+- ✅ Genuine blocker requiring user decision
+- ✅ Significant scope change discovered
+- ✅ Critical information unavailable
+- ❌ Defensive re-confirmation of agreed approach
+- ❌ Permission to continue with agreed work
+
+**Why**:
+- Ensures efficient interaction (clarify once, execute completely)
+- Maintains context continuity through overview presentations
+- User always knows what's active vs. paused
+- Reduces friction and redundant confirmations
+- Clear state tracking enables crash recovery
+
+**Reference**: `.claude/docs/workflow-protocol.md` for complete guidelines
+
 ---
 
 ## File Maintenance
