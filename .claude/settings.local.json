@@ -1,13 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:www.leotamaki.com)",
+      "WebSearch",
+      "WebFetch",
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "WebFetch(domain:www.imagin-arts.com)",
-      "WebSearch",
-      "WebFetch(domain:www.lionelfroidure.com)",
       "Bash(chmod:*)",
       "Bash(python scripts/*.py:*)",
       "Bash(git mv:*)",
