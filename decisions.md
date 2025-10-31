@@ -331,6 +331,51 @@ This document contains only **active decisions** that affect how Claude should t
 
 **Why**: Defensive programming ensures continuity. Crashes happen, priorities change, urgent work interrupts. State tracking ensures no context or work is ever lost, building user trust and enabling seamless resumption even after interruptions.
 
+### Multi-Instance Support for Concurrent Sessions
+**Decision**: Enable running multiple Claude Code instances simultaneously on same project without conflicts
+**Date**: 2025-10-31
+
+**How this affects thinking**:
+- Instance-specific state isolated in `.claude/state/instances/[instance-id]/`
+- Each instance gets timestamp-based ID (e.g., `2025-10-31-1945`)
+- Shared files remain shared: `session-context.md`, `topics.md`, `backlog.md`, `decisions.md`
+- Instance-specific files: `current-objective.md`, `session-info.md`
+- `/resume` intelligently detects or creates instances based on arguments and state
+- `/instances` command provides visibility into all active instances
+- `/cleanup-instances` enables user-controlled cleanup of stale instances (>24h)
+- Heartbeat tracking in `session-info.md` with activity logging
+- Master registry in `.claude/state/registry.md` tracks all instances
+- Backward compatible - works with or without instances
+
+**Instance ID Strategy**:
+- Timestamp-based: `YYYY-MM-DD-HHMM` format
+- Self-documenting (know when instance started)
+- Collision-free (unless starting two in same minute)
+- Sorts chronologically automatically
+
+**Smart Detection in /resume**:
+- No args → Auto-detect active instances or create new
+- `[instance-id]` → Resume specific instance explicitly
+- `and work on [task]` → Create new instance for that task
+- Checks git status for uncommitted instance changes
+- Prompts user when multiple instances active
+
+**User-Controlled Cleanup**:
+- No automatic deletion of stale instances
+- User decides when to archive, delete, or keep
+- Prevents accidental data loss
+- Stale = >24 hours since last heartbeat
+
+**Why**:
+- Enables true parallel workflows (e.g., article writing + research)
+- Each instance maintains independent context
+- No conflicts between concurrent sessions
+- User can see what all instances are working on
+- Preserves all benefits of crash recovery per-instance
+- Backward compatible ensures smooth adoption
+
+**Reference**: Command files updated - `/resume`, `/checkpoint`, `/save-objective`, `/pause-task`, `/instances`, `/cleanup-instances`
+
 ---
 
 ## Session Management

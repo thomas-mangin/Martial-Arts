@@ -6,11 +6,23 @@ You are helping the user save their current session state so they can resume wor
 
 ## Steps to Execute
 
-1. **Check Git Status**
+1. **Determine Current Instance**
+   - Check for active instance ID from current session context
+   - If multi-instance system is active, identify which instance this is
+   - If not using instances yet, skip instance-specific updates
+
+2. **Update Instance State** (if using instances)
+   - Update heartbeat in `.claude/state/instances/[instance-id]/session-info.md`
+   - Mark status as "Idle" (session ending)
+   - Add activity log entry: "Checkpoint - session end"
+   - Update registry.md with final status
+   - Instance-specific current-objective.md already saved by `/save-objective` during work
+
+3. **Check Git Status**
    - Run `git status` to see what files have changed
    - Note any untracked or modified files
 
-2. **Commit Changes Automatically**
+4. **Commit Changes Automatically**
    - If there are uncommitted changes:
      - Analyze the changed files to understand what was done
      - Generate a descriptive commit message based on the changes (look at file names, git diff summary)
@@ -18,31 +30,35 @@ You are helping the user save their current session state so they can resume wor
      - Show user what was committed
    - If no changes, note that everything is already committed
 
-3. **Save Critical State** (Crash Recovery)
-   - Check if `.claude/state/current-objective.md` exists and has content
-   - If it has a real objective (not template), preserve it in session summary
+5. **Save Critical State** (Crash Recovery)
+   - **If using instances**:
+     - Check `.claude/state/instances/[instance-id]/current-objective.md`
+     - If has real objective, preserve it in session summary
+   - **If not using instances** (backward compatibility):
+     - Check `.claude/state/current-objective.md`
+     - If has real objective, preserve it in session summary
    - Check if `.claude/state/backlog.md` has active tasks
    - If backlog has tasks, note them in session summary
    - This ensures no work is lost if Claude crashes or restarts
 
-4. **Session Context Already Updated**
+6. **Session Context Already Updated**
    - Assume `session-context.md` was updated during the session
    - Do NOT ask user to update it again
    - Just note that context will be saved in session summary
 
-5. **Topics File**
+7. **Topics File**
    - Assume `topics.md` is current
    - Do NOT ask for updates
    - Will be reflected in session summary if changed
 
-6. **Infer Decisions Automatically**
+8. **Infer Decisions Automatically**
    - Look at conversation history and files changed
    - If major architectural changes, new systems created, or significant choices made:
      - Add decision to `decisions.md` automatically
      - Include date, decision, and rationale based on work done
    - Do NOT ask user if decisions were made - infer from context
 
-7. **Create Session Summary Automatically**
+9. **Create Session Summary Automatically**
    - Generate timestamped session summary in `sessions/` directory
    - Filename: `session-YYYY-MM-DD-HHMM.md` (use current timestamp)
    - **Analyze the session automatically**:
@@ -64,27 +80,37 @@ You are helping the user save their current session state so they can resume wor
      - Notes (any other relevant context)
    - Write summary automatically - no user input needed
 
-8. **Push to GitHub**
+10. **Push to GitHub**
    - Check if git remote is configured: `git remote -v`
    - If remote exists, push to GitHub: `git push origin main`
    - If push succeeds, confirm to user
    - If push fails (e.g., no remote, authentication issues), inform user but don't block checkpoint completion
 
-9. **Summary**
+11. **Summary**
    - Show a brief summary of what was checkpointed
+   - If using instances, show which instance was saved
    - Mention the session summary file that was created
    - Confirm push to GitHub (if successful)
    - Remind them to use `/resume` when starting their next session
+   - If multiple instances active, remind them to checkpoint other instances separately
 
 ## Important Notes
 - **Execute autonomously** - no questions, just do the checkpoint
 - **Infer don't ask** - generate commit messages, identify decisions, create summaries automatically
 - **Analyze the session** - review conversation and file changes to understand what happened
+- **Multi-instance aware**: Handle instance-specific state if using instances
+- **Backward compatible**: Still works if instances not active
 - Commits are made locally and then pushed to GitHub
 - If push fails, inform user but complete checkpoint anyway
 - Be efficient - this should take 30-60 seconds total
 - **Note**: Detailed documentation is in `.claude/docs/` and loaded by agents on-demand
 - session-context.md should only contain current session state, not full documentation
+
+## Multi-Instance Handling
+- Checkpoint saves state for current instance only
+- Other active instances maintain their own state
+- User should checkpoint each instance separately when done with each
+- Instance marked as "Idle" in registry after checkpoint (not removed)
 
 ## Commit Message Generation Guidelines
 - Look at changed files to understand the work

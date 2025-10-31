@@ -15,15 +15,23 @@ This command moves your current work objective to the backlog, preserving all co
 
 **The command will:**
 
-1. **Capture Current State**
-   - Read `.claude/state/current-objective.md`
+1. **Determine Current Instance**
+   - Check if multi-instance system is active
+   - Identify current instance ID from session context
+
+2. **Capture Current State**
+   - **If using instances**:
+     - Read `.claude/state/instances/[instance-id]/current-objective.md`
+   - **If not using instances**:
+     - Read `.claude/state/current-objective.md`
    - Extract all progress, requirements, and context
    - Determine what's completed vs. remaining
 
-2. **Add to Backlog**
-   - Append task to `.claude/state/backlog.md`
+3. **Add to Backlog**
+   - Append task to `.claude/state/backlog.md` (shared across instances)
    - Include:
      - Task name (from objective)
+     - Instance ID (if using instances)
      - Priority (infer from context or ask user)
      - Pause date and reason
      - Objective and requirements
@@ -32,13 +40,19 @@ This command moves your current work objective to the backlog, preserving all co
      - Context files and references
    - Keep backlog organized (active tasks at top)
 
-3. **Clear Current Objective**
-   - Reset `.claude/state/current-objective.md` to template
+4. **Clear Current Objective**
+   - **If using instances**:
+     - Reset `.claude/state/instances/[instance-id]/current-objective.md` to template
+     - Update instance heartbeat
+     - Update registry.md (mark task as cleared)
+   - **If not using instances**:
+     - Reset `.claude/state/current-objective.md` to template
    - Makes way for new task to be tracked
    - Old task is safely preserved in backlog
 
-4. **Confirm Transition**
+5. **Confirm Transition**
    - Show user what was moved to backlog
+   - If using instances, show which instance task was from
    - Confirm ready for new task
    - Show current backlog count
 
@@ -81,19 +95,32 @@ To return to a paused task:
 ## Implementation Notes
 
 **For Claude Code:**
-- Read current-objective.md to get full task context
+- Determine if using multi-instance system
+- Read current-objective.md from appropriate location (instance or legacy)
 - Create well-structured backlog entry with all details
+- Include instance ID if using instances
 - Include timestamp and reason for pause
 - Assign priority (High/Medium/Low) based on context or ask user
 - Preserve all progress information
 - Add clear "Next steps" for easy resumption
 - Clear current-objective.md (reset to template)
+- **If using instances**: Update heartbeat and registry
 - Keep backlog organized (most recent/highest priority first)
 - Show friendly confirmation with task summary
 
 **State Files**:
-- Source: `.claude/state/current-objective.md`
-- Destination: `.claude/state/backlog.md`
+- **Multi-instance source**: `.claude/state/instances/[instance-id]/current-objective.md`
+- **Legacy source**: `.claude/state/current-objective.md`
+- **Destination**: `.claude/state/backlog.md` (shared)
+
+**Backlog Entry Format** (with instance):
+```markdown
+### Task Name [Instance: 2025-10-31-1945]
+**Priority**: Medium
+**Paused Date**: 2025-10-31
+**Reason**: Urgent work
+...
+```
 
 ## Related Commands
 

@@ -23,6 +23,12 @@ Master's thesis project for writing educational Aikido article series (designed 
 - `/save-objective` - Explicitly save current work objective (for crash recovery)
 - `/pause-task [reason]` - Move current task to backlog when switching to urgent work
 
+### Multi-Instance Support (Run Multiple Claude Sessions)
+- `/instances` - View all active Claude instances and their current work
+- `/cleanup-instances` - Archive, delete, or keep stale instances (>24h old)
+- `/resume [instance-id]` - Resume specific instance or auto-detect
+- `/resume and work on [task]` - Create new instance for specific task
+
 ### Content Creation Agents
 - `/discuss [topic]` - Explore topics through conversation → saves to discussions/
 - `/extract [file]` - Transform discussion into article draft → saves to articles/
@@ -44,11 +50,12 @@ Master's thesis project for writing educational Aikido article series (designed 
 ## Core Files (Root Directory)
 
 **Session Management:**
-- `session-context.md` - Current status, recent work, next steps
-- `topics.md` - Article series progress and queue
-- `decisions.md` - Decision log with rationale
-- `.claude/state/current-objective.md` - Active task for crash recovery
-- `.claude/state/backlog.md` - Paused/deferred tasks
+- `session-context.md` - Current status, recent work, next steps (shared)
+- `topics.md` - Article series progress and queue (shared)
+- `decisions.md` - Decision log with rationale (shared)
+- `.claude/state/backlog.md` - Paused/deferred tasks (shared)
+- `.claude/state/registry.md` - Multi-instance coordination
+- `.claude/state/instances/[id]/` - Instance-specific state (isolated per session)
 
 **Content:**
 - `articles/` - Article series drafts and finals (organized by series)
@@ -84,6 +91,21 @@ Master's thesis project for writing educational Aikido article series (designed 
 4. **Use agents for heavy tasks** - They handle details internally
 5. **Reference detailed docs** only when needed - See `.claude/docs/`
 6. **State is preserved** - Current objective and backlog tracked in `.claude/state/` for crash recovery
+7. **Multi-instance ready** - Run multiple Claude sessions without conflicts
+
+## Multi-Instance Usage
+
+**Running concurrent sessions:**
+- Each instance gets timestamp-based ID (e.g., `2025-10-31-1945`)
+- Instance-specific state isolated in `.claude/state/instances/[id]/`
+- Shared files (session-context, topics, backlog) accessible to all
+- Use `/instances` to see what other sessions are working on
+- Each instance should `/checkpoint` separately when done
+
+**Smart instance detection:**
+- `/resume` with no args auto-detects or prompts for instance
+- `/resume and work on article` creates new instance automatically
+- `/resume 2025-10-31-1945` resumes specific instance explicitly
 
 ## Need More Details?
 
