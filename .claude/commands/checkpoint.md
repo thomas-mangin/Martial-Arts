@@ -117,7 +117,7 @@ You are helping the user save their current session state so they can resume wor
 - Use descriptive messages that explain what changed and why
 - Format: "Action: brief description\n\nDetails if needed"
 - Examples:
-  - "Update session context after blog post writing"
+  - "Update session context after article writing"
   - "Add new discussion notes for relaxation topic"
   - "Refactor documentation for better organization"
-  - "Create first blog post draft on irimi principle"
+  - "Create first article draft on irimi principle"

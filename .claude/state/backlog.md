@@ -23,9 +23,14 @@ Tasks that are pending but not currently being worked on.
   - architecture.md: Complete rewrite (blog → article series, added multi-instance architecture)
   - workflows.md: Complete rewrite (article workflows, MSc-level standards, multi-instance)
   - commands-reference.md: Complete rewrite (all commands documented, correct terminology)
+- ✅ **Phase 3 COMPLETE**: Session Management Commands (quick fixes for terminology consistency)
+  - resume.md: Already correct ✅
+  - checkpoint.md: Fixed blog → article terminology in examples
+  - save-objective.md: Clarified instance path priority
+  - pause-task.md: Already correct ✅
+  - CLAUDE.md: Updated git push statement (automatic push documented)
 
 **Next Steps**:
-- Phase 3: Session Management Commands (/resume, /checkpoint, /save-objective, /pause-task)
 - Phase 4: Content Creation Commands (/discuss, /extract, /review-aikido)
 - Phase 5: Source Discovery Commands (/track-source, /scan-sources, /youtube)
 - Phase 6: Multi-Instance Commands (/instances, /cleanup-instances)

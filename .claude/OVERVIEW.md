@@ -86,8 +86,8 @@ Personal project for writing educational Aikido article series (designed for boo
 ## Key Principles
 
 1. **Always start with `/resume`** - Loads where you left off
-2. **Always end with `/checkpoint`** - Saves state and commits locally
-3. **Never push to remote** unless explicitly requested
+2. **Always end with `/checkpoint`** - Saves state, commits locally, and pushes to GitHub
+3. **Automatic GitHub backup** - Each checkpoint pushes to remote automatically
 4. **Use agents for heavy tasks** - They handle details internally
 5. **Reference detailed docs** only when needed - See `.claude/docs/`
 6. **State is preserved** - Current objective and backlog tracked in `.claude/state/` for crash recovery

@@ -8,7 +8,11 @@ Save the current work objective and progress to enable crash recovery and seamle
 
 ## What It Does
 
-This command captures the current state of your work in `.claude/state/current-objective.md` to ensure continuity even if Claude crashes or you need to pause unexpectedly.
+This command captures the current state of your work to ensure continuity even if Claude crashes or you need to pause unexpectedly.
+
+**State is saved to:**
+- **Multi-instance**: `.claude/state/instances/[instance-id]/current-objective.md` (instance-specific)
+- **Legacy**: `.claude/state/current-objective.md` (backward compatible)
 
 **The command will:**
 
