@@ -1,10 +1,17 @@
 # Instance Registry
 
-**Last Updated**: 2025-10-31 17:41
+**Last Updated**: 2025-10-31 19:53
 
 ---
 
-## Active Instances (1)
+## Active Instances (2)
+
+### 2025-10-31-1953
+- **Status**: Idle
+- **Created**: 2025-10-31 19:53
+- **Last Heartbeat**: 2025-10-31 20:15
+- **Working On**: Completed Phase 1 - Workflow Protocol System Review
+- **Location**: `.claude/state/instances/2025-10-31-1953/`
 
 ### 2025-10-31-1736
 - **Status**: Idle
@@ -23,8 +30,8 @@
 
 ## Statistics
 
-- **Total instances**: 1
-- **Active**: 1
+- **Total instances**: 2
+- **Active**: 2
 - **Stale (>24h)**: 0
 - **Archived**: 0
 

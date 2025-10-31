@@ -10,6 +10,39 @@ This protocol ensures you never lose context, work is clearly understood before 
 
 ---
 
+## Multi-Instance Support
+
+The system supports running multiple concurrent Claude Code sessions without conflicts.
+
+### File Scope: Shared vs Instance-Specific
+
+**Shared Files** (accessible to all instances):
+- `session-context.md` - Project-wide status, recent work, next steps
+- `topics.md` - Article series progress and queue
+- `decisions.md` - Decision log with rationale
+- `.claude/state/backlog.md` - Paused/deferred tasks from all instances
+- `.claude/state/registry.md` - Master index of all instances
+
+**Instance-Specific Files** (isolated per session):
+- `.claude/state/instances/[instance-id]/current-objective.md` - Active work for this instance
+- `.claude/state/instances/[instance-id]/session-info.md` - Instance metadata and heartbeat
+
+**Instance ID Format**: Timestamp-based `YYYY-MM-DD-HHMM` (e.g., `2025-10-31-1953`)
+
+### How /resume Handles Instances
+
+**Smart detection logic**:
+1. `/resume` with no args → Auto-detect active instances or create new
+2. `/resume [instance-id]` → Resume specific instance explicitly
+3. `/resume and work on [task]` → Create new instance for that task
+
+**When multiple instances exist**:
+- Checks for uncommitted changes in instance directories
+- Shows active instances and prompts user to select
+- Each instance maintains independent current-objective.md
+
+---
+
 ## Session Start Protocol
 
 ### When User First Interacts (Session Resume)
@@ -33,9 +66,12 @@ This protocol ensures you never lose context, work is clearly understood before 
 
 ### Where to Read State From
 
-1. **Active Work**: `.claude/state/current-objective.md`
-2. **Paused Work**: `.claude/state/backlog.md` (Active Backlog section)
-3. **System Context**: `session-context.md` (Current Status)
+**Note**: The `/resume` command handles instance detection and loads appropriate state automatically.
+
+1. **Active Work**: `.claude/state/instances/[instance-id]/current-objective.md` (instance-specific)
+2. **Paused Work**: `.claude/state/backlog.md` (shared - Active Backlog section)
+3. **System Context**: `session-context.md` (shared - Current Status)
+4. **Other Instances**: `.claude/state/registry.md` (shows what other sessions are working on)
 
 ---
 
@@ -71,7 +107,7 @@ Parse the user's request and restate it in clear, specific terms:
 
 Once user confirms (says "yes", "go", "correct", etc.):
 
-1. **Save objective immediately** to `.claude/state/current-objective.md`:
+1. **Save objective immediately** to `.claude/state/instances/[instance-id]/current-objective.md`:
    ```markdown
    # Current Objective
 
@@ -96,6 +132,8 @@ Once user confirms (says "yes", "go", "correct", etc.):
    ## Context References
    **Files Being Modified**: [list]
    ```
+
+   **Note**: Use `/save-objective` command which automatically saves to the current instance's directory.
 
 2. **Execute work to completion**:
    - Use TodoWrite to track progress
@@ -166,12 +204,14 @@ When user explicitly calls `/pause-task [reason]`:
 
 ## State File Management
 
-### `.claude/state/current-objective.md`
+### `.claude/state/instances/[instance-id]/current-objective.md`
 
-**Purpose**: Track active work for crash recovery
+**Purpose**: Track active work for crash recovery (instance-specific)
+
+**Location**: Each instance has its own isolated current-objective.md
 
 **When to Update**:
-- When task is confirmed (save objective)
+- When task is confirmed (save objective via `/save-objective` command)
 - During work (update progress)
 - When completed (clear to template)
 - When paused (clear to template after moving to backlog)
@@ -181,20 +221,26 @@ When user explicitly calls `/pause-task [reason]`:
 - `Blocked` - Waiting on user/external factor
 - `Complete` - Done (temporary, before clearing)
 
+**Multi-Instance Context**: Multiple instances can each have active objectives simultaneously without conflicts
+
 ---
 
 ### `.claude/state/backlog.md`
 
-**Purpose**: Track paused/deferred tasks
+**Purpose**: Track paused/deferred tasks (shared across all instances)
+
+**Location**: Shared file - all instances can see and access the backlog
 
 **Sections**:
 - **Active Backlog**: Tasks paused but not forgotten
 - **Completed Tasks**: Recent completions for reference
 
 **When to Update**:
-- Add task when pausing current work
+- Add task when pausing current work (via `/pause-task` command)
 - Remove task when resuming it
 - Add to completed section when task finishes from backlog
+
+**Multi-Instance Context**: Tasks from any instance can be paused to backlog and resumed by any instance
 
 ---
 
@@ -202,10 +248,12 @@ When user explicitly calls `/pause-task [reason]`:
 
 If Claude crashes mid-task:
 
-1. Objective is preserved in `current-objective.md`
-2. Next session's `/resume` detects incomplete work
+1. Objective is preserved in `.claude/state/instances/[instance-id]/current-objective.md`
+2. Next session's `/resume` detects incomplete work in instance
 3. Present **CRASH RECOVERY** notice with overview
 4. User can choose to continue or switch tasks
+
+**Multi-Instance Context**: Each instance has independent crash recovery. If one instance crashes, others are unaffected. User can `/resume [instance-id]` to recover specific crashed instance.
 
 ---
 
@@ -242,10 +290,17 @@ Claude: [Presents completion summary + overview for next task]
 
 ## Related Commands
 
-- `/resume` - Load state at session start (includes presenting overview)
-- `/checkpoint` - Save state at session end
-- `/save-objective` - Explicitly save current work progress
-- `/pause-task [reason]` - Move current work to backlog
+**Session Management**:
+- `/resume` - Load state at session start (auto-detects or creates instance, presents overview)
+- `/resume [instance-id]` - Resume specific instance explicitly
+- `/resume and work on [task]` - Create new instance for specific task
+- `/checkpoint` - Save state at session end (instance-specific)
+- `/save-objective` - Explicitly save current work progress (to current instance)
+- `/pause-task [reason]` - Move current work to backlog (shared)
+
+**Multi-Instance Management**:
+- `/instances` - View all active Claude instances and their current work
+- `/cleanup-instances` - Archive, delete, or keep stale instances (>24h old)
 
 ---
 
