@@ -34,13 +34,24 @@
 <!-- Ideas for future blog posts - include potential audiences -->
 <!-- Format: Topic idea (Audience: primary audiences) -->
 
-- [Topic idea] (Audience: [Primary profiles])
-- [Topic idea] (Audience: [Primary profiles])
+### From YouTube Multi-Channel Synthesis (Top Priority)
 
-**Example**:
-- Why Aikido Feels Awkward at First (Audience: Beginners, Parents, Prospective students)
-- The Paradox of Musubi (Audience: Advanced practitioners, Philosophical focus)
-- Solo Training Practices for Busy Schedules (Audience: Intermediate, Young adults)
+- Why Your Aikido Teacher Won't Shut Up About Sword Training (Audience: Beginners, Intermediate, Prospective students)
+- The Complete Home Aikido Training System (Audience: Intermediate, Advanced practitioners)
+- Four Aikido Masters Answer: 'Does Aikido Work?' (Audience: Prospective students, Beginners, Cross-training martial artists)
+
+### From Book Research - Pearlman's "Book of Martial Power"
+
+- Less Is More: Why Aikido Has ~37 Principles, Not 10,000 Techniques (Audience: Intermediate, Advanced practitioners, Instructors)
+- What Makes a Martial Arts Principle 'Universal'? (Audience: Advanced practitioners, Instructors, Philosophical focus)
+- Five Martial Arts Experts Agree: These Physical Principles Are Universal (Audience: All audiences, Cross-training martial artists, Prospective students)
+- The Triangular Guard: Universal Defensive Structure Across All Martial Arts (Audience: Intermediate, Technical focus, Cross-training martial artists)
+- The Void in Martial Arts: Attacking Where the Body Can't React (Audience: Advanced practitioners, Technical focus, Philosophical focus)
+- Spinal Alignment: The Central Power Column (Audience: Beginners, Intermediate, Technical focus)
+- Physics vs. Philosophy in Martial Arts: Finding the Balance (Audience: Philosophical focus, Advanced practitioners, Instructors)
+- Universal Martial Arts Principles: What 40 Years of Cross-Training Reveals (Audience: Advanced practitioners, Cross-training martial artists, Instructors)
+- The Book of Martial Power: An Aikido Practitioner's Review (Audience: Intermediate, Advanced practitioners, Instructors)
+- How Academic Rigor Reveals Universal Martial Arts Truth (Audience: Advanced practitioners, Instructors, Prospective students)
 
 ---
 
