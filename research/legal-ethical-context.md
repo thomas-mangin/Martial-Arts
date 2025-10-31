@@ -19,7 +19,7 @@
 5. [Context-Based Response Levels](#context-based-response-levels)
 6. [Implications for Aikido Training](#implications-for-aikido-training)
 7. [Geographic Variations](#geographic-variations)
-8. [Blog Writing Guidelines](#blog-writing-guidelines)
+8. [Article Writing Guidelines](#article-writing-guidelines)
 
 ---
 
@@ -794,7 +794,7 @@ Survive the encounter + avoid prison + sleep at night
 - Document everything if forced to act
 - Seek legal counsel immediately
 
-### Why This Matters for Blog Writing
+### Why This Matters for Article Writing
 
 **Your Audience is International**:
 - Don't make blanket statements about legality
@@ -811,7 +811,7 @@ Survive the encounter + avoid prison + sleep at night
 
 ---
 
-## Blog Writing Guidelines
+## Article Writing Guidelines
 
 ### How to Address Legal/Ethical Context
 
@@ -891,7 +891,7 @@ When discussing "does it work?":
 
 8. **Training Responsibility**: Technique + decision-making + legal knowledge
 
-9. **Blog Writing**: Always address appropriateness, not just effectiveness
+9. **Article Writing**: Always address appropriateness, not just effectiveness
 
 10. **The Goal**: Survive + legal defense + ethical integrity
 
@@ -905,7 +905,7 @@ When discussing "does it work?":
 - `research/audience-profiles.md` - Different audiences need different emphasis
 - `decisions.md` - Core values (peace through understanding violence, not naivety)
 
-**Blog Post Ideas**:
+**Article Post Ideas**:
 - "Why Aikido Techniques Are Legally Smarter Than Striking Arts"
 - "The Effectiveness vs. Appropriateness Gap in Martial Arts"
 - "What Samurai Could Do That You Can't: Legal Context of Self-Defense"
@@ -916,7 +916,7 @@ When discussing "does it work?":
 ---
 
 **Last Updated**: 2025-10-31
-**Status**: Active framework for blog writing and teaching decisions
+**Status**: Active framework for article writing and teaching decisions
 **Next Review**: When encountering new legal cases or writing posts on self-defense topics
 
 ---

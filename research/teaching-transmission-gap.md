@@ -389,7 +389,7 @@ Tony's "Technical vs Just Knowing" = Your "Knowing vs Embodied"
 - Cross-reference with Saito's documented evolution
 - Comparison with other martial arts (same pattern observed)
 
-### For Your Blog
+### For Your Article
 
 **Major Post Series**: "The Teaching Transmission Gap"
 1. Introduction: Why Iwama Practitioners Stay Rigid

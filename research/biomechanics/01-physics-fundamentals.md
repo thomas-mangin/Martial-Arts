@@ -20,7 +20,7 @@
 - Show students how distance from pivot changes difficulty
 - Connect to physical progression: beginners need closer contact (body), advanced can use distal contact (hand/wrist)
 
-**Blog Potential**:
+**Article Potential**:
 - "The Physics of Joint Locks: Why Distance Matters"
 - "Why Wrist Control Works: Understanding Leverage in Aikido"
 - Integrate into kinetic energy transfer discussions
@@ -42,7 +42,7 @@
 - Demonstrate power difference between muscular effort and gravity-assisted movement
 - Show how tension prevents using gravity effectively
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Relaxation Creates Power: The Role of Gravity in Aikido"
 - "Stop Pushing: How to Let Gravity Do the Work"
 - Connect to Iwama critique: tension prevents gravity use, relaxation allows it
@@ -71,7 +71,7 @@
 - Explain why redirection requires less energy than opposition
 - Use physics language to demystify "not using force"
 
-**Blog Potential**:
+**Article Potential**:
 - "Newton's Third Law in Aikido: Why You Can't Push Without Being Pushed"
 - "The Physics of Redirection: Why Aikido Uses Less Energy"
 - "Force and Counter-Force: Understanding Your Own Resistance"
@@ -106,7 +106,7 @@
 - Proper snap requires relaxation (can't snap when tense)
 - Connect to timing and Stage 3 (flow) progression
 
-**Blog Potential**:
+**Article Potential**:
 - "The Physics of Snap: Why Fast Matters"
 - "Crisp vs. Mushy: Technical Execution Quality"
 - "When to Practice Slow, When to Practice Fast"
@@ -141,7 +141,7 @@
 - Teach appropriate contact for different targets
 - Safety: Small contact area = higher injury risk to striker
 
-**Blog Potential**:
+**Article Potential**:
 - "The Physics of Contact: Why Surface Area Matters"
 - "Fist, Palm, or Fingers: Choosing Your Weapon"
 - "Why Nikyo Uses the Edge of Your Hand"
@@ -196,7 +196,7 @@
 - Reveals timing element in power generation (not just speed or strength)
 - Demonstrates coordination required for effective striking
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Your Punch Lacks Power: The Weight Transfer Timing Problem"
 - "Strike Before You Land: The Timing of Committed Attacks"
 - "Why Stepping, Then Punching Doesn't Work"

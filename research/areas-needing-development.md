@@ -1,19 +1,19 @@
 # Research Topics Needing Development
 
-**Purpose**: Track topics that need deeper exploration through `/discuss` sessions before authoring blog posts. These are high-priority research areas where frameworks don't yet exist or need significant expansion.
+**Purpose**: Track topics that need deeper exploration through `/discuss` sessions before authoring article posts. These are high-priority research areas where frameworks don't yet exist or need significant expansion.
 
 **Last Updated**: 2025-10-30
 
 **Related Files**:
 - `syllabus/BACKLOG.md` - Missing technique/kata documentation
 - `sources/youtube/ANALYSIS-QUEUE.md` - Video analysis work
-- `topics.md` - Blog topics and queue
+- `topics.md` - Article topics and queue
 
 ---
 
 ## Priority Topics for /discuss Sessions
 
-**Note**: Items marked ✅ have frameworks extracted but may need additional /discuss sessions for blog-level content.
+**Note**: Items marked ✅ have frameworks extracted but may need additional /discuss sessions for article-level content.
 
 ### 1. Weapons Training Develops Biomechanics ⭐⭐⭐ HIGHEST PRIORITY
 
@@ -23,7 +23,7 @@
 
 **Ready for**: Multiple /discuss sessions (may need 3 separate sessions given scope)
 
-**Blog Potential**: 15+ posts
+**Article Potential**: 15+ posts
 
 ---
 
@@ -45,7 +45,7 @@
 - What does this cross-style parallel reveal about biomechanics?
 - Are there differences in application despite structural similarity?
 
-**Blog Potential**:
+**Article Potential**:
 - "The Aikido Sword and Wing Chun Hands: Convergent Biomechanics"
 - "Why Different Arts Discover the Same Structures"
 - "Center Line Control: From Sword to Empty Hand"
@@ -74,7 +74,7 @@
 - Are there different types of circles (horizontal, vertical, spiral)?
 - Connection to principle #13 (triangle deflection) and #23 (remove resistance)?
 
-**Blog Potential**:
+**Article Potential**:
 - "Circles in Aikido: What They Really Are"
 - "The Geometry of Deflection: Beyond 'Circular Movement'"
 - "How Circles Take Balance: The Biomechanics"
@@ -102,7 +102,7 @@
 - How do you maintain your balance while taking theirs?
 - Is continuous kuzushi different from initial unbalancing?
 
-**Blog Potential**:
+**Article Potential**:
 - "Reading Balance: The Direction of the Missing Leg"
 - "Continuous Kuzushi: Never Giving Balance Back"
 - "How to Take Balance Without Losing Yours"
@@ -128,7 +128,7 @@
 - What are most common foot position mistakes you see?
 - How does foot work change through the learning stages?
 
-**Blog Potential**:
+**Article Potential**:
 - "The Foundation: Why Foot Mechanics Matter More Than Hand Technique"
 - "External Rotation: The Hidden Key to Hip Power"
 - Movement Mechanics series posts
@@ -155,7 +155,7 @@
 - Why do Iwama practitioners often get stuck in rigidity?
 - What training methods help develop relaxation?
 
-**Blog Potential**:
+**Article Potential**:
 - "Relaxation Isn't Limpness: The Power of Appropriate Tension"
 - "Why Iwama Practitioners Plateau: The Relaxation They Never Learn"
 - "From Rigid to Fluid: Training Methods for Relaxation"
@@ -182,7 +182,7 @@
 - What happens when someone goes for lock too early against knife?
 - How does distance change during deflection phase?
 
-**Blog Potential**:
+**Article Potential**:
 - "Deflect Before Lock: The Sequence That Saves Your Hands"
 - "Why Aikido Keeps Your Hands Far from the Weapon"
 - "Training Deflection-Lock Timing Against Weapons"
@@ -210,7 +210,7 @@
 - How do you train this without teaching aggression?
 - Why does this resolve the peace vs. martial paradox?
 
-**Blog Potential**:
+**Article Potential**:
 - "No Defense, Only Attack on Attack: The Aikido Timing Principle"
 - "Why Aikido Doesn't Defend: The Offensive Nature of Blending"
 - "Resolving Peace vs. Martial: Attacking the Attack Itself"
@@ -228,7 +228,7 @@
 
 **Ready for**: /discuss session
 
-**Blog Potential**: 10+ posts
+**Article Potential**: 10+ posts
 
 ---
 
@@ -242,7 +242,7 @@
 
 **Ready for**: /discuss session to explore solutions and teaching methods that avoid this trap
 
-**Blog Potential**: 9+ posts
+**Article Potential**: 9+ posts
 
 ---
 
@@ -254,9 +254,9 @@
 
 **Key Principle**: "Effective" always means "effective FOR specific context". What works in one context fails in another by design, not weakness. Resolves "my art is better" arguments by reframing the question.
 
-**Ready for**: /discuss session or direct blog writing
+**Ready for**: /discuss session or direct article writing
 
-**Blog Potential**: 25+ posts across core concept, specific contexts, historical/cultural, modern considerations, comparative analysis, and range/strategy
+**Article Potential**: 25+ posts across core concept, specific contexts, historical/cultural, modern considerations, comparative analysis, and range/strategy
 
 ---
 
@@ -278,7 +278,7 @@
 - Can you explain unbendable arm without mysticism?
 - How do you teach ki concepts to skeptical students?
 
-**Blog Potential**:
+**Article Potential**:
 - "Ki Without Mysticism: What's Really Happening"
 - "The Biomechanics of 'Ki Tests'"
 - "Why Unbendable Arm Works (And It's Not Magic)"
@@ -306,7 +306,7 @@
 - When should students resist vs. take ukemi?
 - How does ukemi change for weapons vs empty-hand?
 
-**Blog Potential**:
+**Article Potential**:
 - "Learning to Fall: The Progressive Path of Ukemi"
 - "Why Rolling Works: The Biomechanics of Safe Falls"
 - "When to Fall, When to Stand: The Ukemi Decision"
@@ -333,7 +333,7 @@
 - How does ma-ai change with weapons vs. empty-hand?
 - Is ma-ai purely physical or also psychological?
 
-**Blog Potential**:
+**Article Potential**:
 - "Ma-ai: The Critical Distance in Aikido"
 - "How Distance Dictates Technique Selection"
 - "Training Ma-ai Awareness: From Gross to Subtle"
@@ -360,7 +360,7 @@
 - When do you use atemi in technique?
 - How does atemi connect to the "peace vs. martial" debate?
 
-**Blog Potential**:
+**Article Potential**:
 - "The Role of Atemi in Aikido: More Than You Think"
 - "Distraction vs. Damage: Understanding Aikido Strikes"
 - "Why Aikido Has Strikes: The Martial Reality"
@@ -371,7 +371,7 @@
 ### 16. Cross-Discipline Insights Need Examples
 
 **Current State**:
-- blog-series-structure.md has Series 9: Cross-Discipline Insights (5 posts)
+- article-series-structure.md has Series 9: Cross-Discipline Insights (5 posts)
 - Ideas listed but need actual content from other arts
 
 **What's Missing**:
@@ -387,7 +387,7 @@
 - Are there universal principles you see across all martial arts?
 - What would aikido improve by learning from other styles?
 
-**Blog Potential**:
+**Article Potential**:
 - All 5 posts in Cross-Discipline series need content
 - "What Aikido Can Learn from Karate"
 - "Universal Principles Across Martial Arts"
@@ -398,7 +398,7 @@
 ### 12. Solo Training Beyond Suburis
 
 **Current State**:
-- blog-series-structure.md has Series 10: Solo Training (4 posts)
+- article-series-structure.md has Series 10: Solo Training (4 posts)
 - But no detailed content on what solo training should include
 
 **What's Missing**:
@@ -415,7 +415,7 @@
 - How do you pressure-test solo work?
 - What's a good solo training progression?
 
-**Blog Potential**:
+**Article Potential**:
 - "Solo Training for Aikido: Beyond Sword Suburis"
 - "Body Modification Exercises: Building Aikido Structure"
 - "How to Practice Principles Without a Partner"
@@ -425,7 +425,7 @@
 
 ## Lower Priority (Can Write From Existing Material)
 
-These topics have enough material in current documents to write blog posts:
+These topics have enough material in current documents to write article posts:
 
 ### Ready to Write:
 - Newton's Third Law in Aikido (Principle #7)
@@ -441,7 +441,7 @@ These topics have enough material in current documents to write blog posts:
 
 ## How to Use This File
 
-**Before Writing Any Blog Post**:
+**Before Writing Any Article Post**:
 1. Check if topic is in "Areas Needing Development" section
 2. If yes: Run `/discuss [topic]` first to gather depth
 3. If in "Ready to Write": Sufficient material exists, can draft directly

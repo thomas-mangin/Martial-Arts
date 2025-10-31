@@ -67,7 +67,7 @@
 
 ---
 
-## Blog Post Ideas Generated
+## Article Post Ideas Generated
 
 **Thesis-Level** (⭐⭐⭐):
 1. The Complete Iwama Path: Why Most Practitioners Never Finish Saito's Journey
@@ -83,7 +83,7 @@
 9. The Hidden Curriculum: Tony Sargeant's Teachers Intro Series
 10. Saito Sensei's Evolution: From Brutal Training to Untouchable Blending
 
-**Plus**: 10+ more blog ideas, potential 6-8 post series
+**Plus**: 10+ more article ideas, potential 6-8 post series
 
 ---
 
@@ -120,12 +120,12 @@
 1. ✓ Integrate findings into research documents (DONE)
 2. Update areas-needing-development.md (mark what's addressed)
 3. Update research.md with new file structure
-4. Write "The Complete Iwama Path" blog post (thesis-level content)
+4. Write "The Complete Iwama Path" article post (thesis-level content)
 
 ### HIGH PRIORITY:
 5. Analyze ALL Teachers Intro videos in detail (8+ videos)
 6. Create Phase 2 curriculum outline from Teachers Intro series
-7. Write blog series "Deconstructing Teachers Intro"
+7. Write article series "Deconstructing Teachers Intro"
 
 ### MEDIUM PRIORITY:
 8. Analyze Improving Your Aikido series (6 videos) for methodology

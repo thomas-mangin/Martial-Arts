@@ -26,7 +26,7 @@
 - Explain why certain directions work better for kuzushi (balance breaking)
 - Teach reading uke's weight distribution
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Humans Are Always Off-Balance: The Math of Stability"
 - "Finding the Missing Leg: How to Take Balance"
 - "The Two-Foot Problem: Understanding Human Instability"
@@ -75,7 +75,7 @@ Proper balance-taking has a paradoxical quality - it should be both imperceptibl
 - Demonstrate how uke's counter-movements can be used
 - Timing: act before they complete their recovery adjustment
 
-**Blog Potential**:
+**Article Potential**:
 - "Reading Balance: Finding Your Opponent's Unstable Direction"
 - "How Your Body Naturally Tries to Recover Balance (And How That's Used Against You)"
 - "Hip Rotation and Foot Pivots: The Predictable Counter-Movements"
@@ -103,7 +103,7 @@ Proper balance-taking has a paradoxical quality - it should be both imperceptibl
 - Demonstrate how even brief recovery allows counter
 - From contact to completion should be unbroken line of imbalance
 
-**Blog Potential**:
+**Article Potential**:
 - "Continuous Kuzushi: Why You Can't Give Balance Back"
 - "The Moment You Let Them Recover: Why Techniques Fail"
 - "Balance Breaking Isn't a Step - It's the Whole Technique"

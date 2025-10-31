@@ -273,7 +273,7 @@ This needs comprehensive framework covering stance mechanics, movement flow, and
 - Connect to weapons (jo/ken) to show application
 - Emphasize controlled fall concept (not static position)
 
-**Blog Potential**:
+**Article Potential**:
 - "The Back-Loaded Stance: Why You Need to Sit on an Invisible Chair"
 - "First Ken Cut: The Stance That Stops Forward Pressure"
 - "Hishiro Tsuki: The Controlled Fall That Creates Power"
@@ -290,7 +290,7 @@ This needs comprehensive framework covering stance mechanics, movement flow, and
 
 ---
 
-## Blog Potential (16+ posts)
+## Article Potential (16+ posts)
 
 **General Stance Principles**:
 1. "What Makes a Good Stance: Stability, Power, and Movement"

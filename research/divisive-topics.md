@@ -73,7 +73,7 @@
 - Value both technical skill AND psychological/philosophical development
 - Peace-focused aikido makes most sense after understanding violence, not before
 
-**Blog Opportunities**:
+**Article Opportunities**:
 - "Why Combat Veterans Value Peace: Lessons for Aikido"
 - "Peace Through Strength: Why Effectiveness Enables Non-Violence"
 - "The Gap Between Training and Reality: What Matters Under Pressure"
@@ -106,7 +106,7 @@
 - Strong core is necessary, but relaxation must follow
 - Can't skip to blending without building structure first
 
-**Blog Opportunities**:
+**Article Opportunities**:
 - The two-phase training approach: structure then relaxation
 - Why Iwama practitioners often plateau
 - What "relaxation" actually means (not limpness)
@@ -137,7 +137,7 @@
 - Prefer clear, measurable, reproducible instruction
 - Doesn't mean dismissing all Eastern concepts - but ground them physically
 
-**Blog Opportunities**:
+**Article Opportunities**:
 - Translating "ki" concepts into biomechanics
 - Why mystical teaching fails analytical students
 - What "ki extension" actually means physically
@@ -166,7 +166,7 @@
 
 **Your Stance**: [To be defined in core-values.md]
 
-**Blog Opportunities**:
+**Article Opportunities**:
 - The role of kata in modern training
 - When to introduce resistance and unpredictability
 - What kata teaches vs. what sparring teaches
@@ -193,7 +193,7 @@
 
 **Your Stance**: [To be defined in core-values.md]
 
-**Blog Opportunities**:
+**Article Opportunities**:
 - What to preserve vs. what to update
 - How to respect tradition while evolving
 - When traditional methods fail modern students
@@ -327,7 +327,7 @@ Good Response:
 
 **See Also**: research/legal-ethical-context.md - Competition Safety Paradox (full analysis)
 
-**Blog Opportunities**:
+**Article Opportunities**:
 - "Why Aikido Isn't Good for MMA (And That's OK)"
 - "Context Matters: Sport vs. Self-Defense Training"
 - "What Competition Tests vs. What Aikido Trains For"
@@ -410,7 +410,7 @@ Example: Arm grab defenses
 - Resist cage-fighting-only lens on martial effectiveness
 - Recognize Aikido designed primarily for weapons-based predatory violence
 
-**Blog Opportunities**:
+**Article Opportunities**:
 - "The Four Types of Violence: Why Context Determines What Works"
 - "Why Arm Grab Defenses Matter (And Who They're For)"
 - "What Young Martial Artists Don't Understand About Violence Contexts"
@@ -521,7 +521,7 @@ Laws differ significantly:
 - Know vital points exist, know when justified (deadly threat only)
 - Train decision-making, not just technique
 
-**Blog Writing Responsibility**:
+**Article Writing Responsibility**:
 
 When discussing technique effectiveness:
 1. Explain WHY it works (biomechanics)
@@ -542,7 +542,7 @@ When discussing technique effectiveness:
 - `syllabus/vital-points-reference.md` - Anatomical targets and legal implications
 - Violence context framework (above) - Which violence type
 
-**Blog Opportunities**:
+**Article Opportunities**:
 - "Why Aikido Techniques Are Legally Smarter Than Striking Arts"
 - "The Effectiveness vs. Appropriateness Gap in Martial Arts"
 - "What Samurai Could Do That You Can't: Legal Context of Self-Defense"
@@ -575,7 +575,7 @@ When discussing technique effectiveness:
 
 **Your Stance**: [To be defined - relate to Iwama perspective]
 
-**Blog Opportunities**:
+**Article Opportunities**:
 - Lessons Aikido can learn from hard styles
 - Lessons hard styles can learn from soft styles
 - The progression: hard → soft (your Iwama stance?)
@@ -605,7 +605,7 @@ When discussing technique effectiveness:
 - Not just historical - functional for training body principles
 - Relates to Iwama approach
 
-**Blog Opportunities**:
+**Article Opportunities**:
 - What weapons training teaches beyond weapons
 - Translating ken/jo principles to empty hand
 - Why Iwama emphasizes weapons
@@ -647,7 +647,7 @@ When you encounter new debates in your training, reading, or discussions:
 2. Describe both/all sides fairly
 3. Note common arguments
 4. State your position (or mark as "to be determined")
-5. List blog opportunities
+5. List article opportunities
 6. Update dates
 
 This file grows as you engage more deeply with martial arts discourse.

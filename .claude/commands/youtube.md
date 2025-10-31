@@ -1,6 +1,6 @@
 # YouTube Command
 
-Download and analyze YouTube video or channel transcripts for blog inspiration.
+Download and analyze YouTube video or channel transcripts for article inspiration.
 
 ## Usage
 
@@ -38,7 +38,7 @@ Download and analyze YouTube video or channel transcripts for blog inspiration.
 - Downloads transcript using yt-dlp
 - Extracts metadata (title, channel, duration, date)
 - Analyzes content for themes and concepts
-- Generates 3-5 blog topic ideas
+- Generates 3-5 article topic ideas
 - Creates findings report
 - Updates/creates channel registry
 
@@ -46,7 +46,7 @@ Download and analyze YouTube video or channel transcripts for blog inspiration.
 - Lists all videos in channel
 - Downloads transcripts for videos not yet fetched
 - Analyzes each new video individually
-- Generates blog ideas per video
+- Generates article ideas per video
 - Creates individual findings reports
 - Creates channel summary report with cross-video themes
 - Updates/creates channel registry
@@ -54,7 +54,7 @@ Download and analyze YouTube video or channel transcripts for blog inspiration.
 **Analyze mode:**
 - Reads existing transcript and metadata
 - Performs deep content analysis
-- Extracts additional blog ideas
+- Extracts additional article ideas
 - Updates findings report
 
 ## Files Created
@@ -81,8 +81,8 @@ Download and analyze YouTube video or channel transcripts for blog inspiration.
 
 ## Result
 
-Findings report with blog topic ideas, cross-discipline insights, and discussion prompts.
+Findings report with article topic ideas, cross-discipline insights, and discussion prompts.
 
-**Integration**: Ideas can feed into `/discuss` or direct blog writing.
+**Integration**: Ideas can feed into `/discuss` or direct article writing.
 
 **Note**: Transcripts are for research only. Credit videos if directly inspired.

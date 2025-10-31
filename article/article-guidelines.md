@@ -17,7 +17,7 @@ Your Aikido educational articles should follow a clear, comprehensive structure 
   - ✓ "The Principle of Irimi: Biomechanics and Progressive Training"
   - ✓ "Ukemi: Technical Foundations and Safety Principles"
   - ✓ "Ikkyo: Comprehensive Guide to Variations and Applications"
-- Avoid (Blog/Clickbait Style):
+- Avoid (Article/Clickbait Style):
   - ✗ "Why Your Aikido Teacher Won't Shut Up About Sword Training"
   - ✗ "The One Thing You're Getting Wrong About Ikkyo"
   - ✗ "This Ancient Secret Will Transform Your Practice"
@@ -59,7 +59,7 @@ Your Aikido educational articles should follow a clear, comprehensive structure 
 - "Understanding [concept] requires examining three key elements: [list]..."
 - "This comprehensive guide covers [topic] from foundational principles through advanced applications..."
 
-**Avoid blog-style hooks:**
+**Avoid article-style hooks:**
 - ✗ "Have you ever wondered why..." (too casual)
 - ✗ "What if I told you..." (clickbait pattern)
 - ✗ Provocative questions designed for engagement rather than education
@@ -220,11 +220,11 @@ Example topics: lessons from testing, injury recovery, changing perspectives
 
 ### Why Audience Matters
 
-Your blog serves a diverse community with different experience levels, roles, interests, and needs. Understanding your audiences ensures:
+Your article serves a diverse community with different experience levels, roles, interests, and needs. Understanding your audiences ensures:
 - Every post provides value to multiple reader types
 - Content is accessible while offering depth
 - No audience is systematically overlooked
-- Your blog has broader reach and impact
+- Your article has broader reach and impact
 
 **See `audience-profiles.md` for complete audience definitions** including:
 - Experience-based profiles (Beginners → Advanced → Returning)
@@ -434,7 +434,7 @@ Your blog serves a diverse community with different experience levels, roles, in
 
 ### Why Your Values Matter
 
-Your blog isn't just information—it's your perspective, grounded in your personal experience and beliefs as a martial artist. **Authenticity and consistency of voice come from clarity about what you believe.**
+Your article isn't just information—it's your perspective, grounded in your personal experience and beliefs as a martial artist. **Authenticity and consistency of voice come from clarity about what you believe.**
 
 **Three foundational documents guide your authentic voice:**
 - **`core-values.md`** - Your fundamental beliefs as a martial artist
@@ -446,7 +446,7 @@ Your blog isn't just information—it's your perspective, grounded in your perso
 **Before writing, review `core-values.md` to:**
 1. Ground your perspective on the topic
 2. Ensure consistency with your stated beliefs
-3. Identify potential blog angles aligned with your values
+3. Identify potential article angles aligned with your values
 4. Avoid contradicting your established positions
 
 **Example - Biomechanics vs. Mysticism:**
@@ -500,7 +500,7 @@ What I've found in training is [concrete evidence from your practice].
 3. The "kata as alphabet" concept
 4. Teaching implications of different mastery levels
 
-**Common blog applications:**
+**Common article applications:**
 
 **Topic: Plateau problems**
 - Reference knowing vs. embodiment distinction
@@ -648,7 +648,7 @@ What I've found in training is [concrete evidence from your practice].
 - Honest about challenges and questions
 - Evidence-based and well-referenced
 - **Writing from the journey, not the destination** - You're first dan, still learning
-- More formal than blog posts, but still personal voice
+- More formal than article posts, but still personal voice
 
 ### Your Voice & Perspective
 
@@ -685,7 +685,7 @@ What I've found in training is [concrete evidence from your practice].
 
 ### Expect Rigorous Feedback
 
-When you use `/review-aikido`, expect **high standards and direct, critical feedback**. This is educational article series work that could become a book, not casual blog writing.
+When you use `/review-aikido`, expect **high standards and direct, critical feedback**. This is educational article series work that could become a book, not casual article writing.
 
 **The review will:**
 - Point out weaknesses directly without sugar-coating

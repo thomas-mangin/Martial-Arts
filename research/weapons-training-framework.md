@@ -166,7 +166,7 @@ Which of the 25 principles (from biomechanical-principles.md) are easier/better 
 
 ---
 
-## Blog Potential (15+ posts)
+## Article Potential (15+ posts)
 
 ### General Weapons Principles (4 posts)
 - "Why Aikido Trains with Weapons: The Biomechanical Foundation"
@@ -201,7 +201,7 @@ Which of the 25 principles (from biomechanical-principles.md) are easier/better 
 - Explains why weapons training isn't just "historical" but biomechanically essential
 - Cross-discipline insights (Indian clubs, HEMA, jo) show universal principles
 - Answers "why train weapons in modern self-defense art?" question definitively
-- Potentially multiple blog posts from single comprehensive /discuss session
+- Potentially multiple article posts from single comprehensive /discuss session
 - Missing piece that makes many other principles clearer
 - **Specific kata pedagogy** (31st teaches centerline, 13th develops fluidity) shows intentional teaching progression
 

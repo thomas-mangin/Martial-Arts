@@ -47,28 +47,28 @@
 - Central structural column for force transmission
 - Natural S-curve vs. forced straight
 - Validated across: Pearlman, Starr, Gullette, all martial arts
-- Blog ideas: 5 new topics
+- Article ideas: 5 new topics
 
 **#34 - Breathing Integration** (Dynamic Engagement)
 - Exhale during power, inhale during recovery
 - Manages internal pressure, prevents blood pressure spikes
 - Health safety component for older practitioners
 - Validated across: Starr, Pearlman, Chinese martial arts, all striking arts
-- Blog ideas: 6 new topics
+- Article ideas: 6 new topics
 
 **#35 - Silk-Reeling / Spiral Movement** (Power Generation)
 - Helical power paths vs. straight lines
 - Three-dimensional adaptive movement
 - Rotation + translation = spiral/helical
 - Validated across: Gullette, Chen Taijiquan, Bagua, Aikido
-- Blog ideas: 6 new topics
+- Article ideas: 6 new topics
 
 ### ENRICHMENTS TO EXISTING PRINCIPLES:
 
 **#8 - Grounding and Connection**
 - Added Ken Gullette's "ground path" terminology
 - Cross-discipline validation from Starr, Arus
-- New blog idea: "Ground Path: What Internal Martial Arts Know About Power"
+- New article idea: "Ground Path: What Internal Martial Arts Know About Power"
 
 **Additional Cross-References**:
 - Multiple existing principles now include "Cross-Discipline Recognition" sections
@@ -83,7 +83,7 @@
 ### Statistics:
 - **Before**: 32 principles across 7 categories
 - **After**: 35 principles across 7 categories
-- **Blog Ideas**: Increased from 90+ to 100+
+- **Article Ideas**: Increased from 90+ to 100+
 
 ### Category Distribution:
 - Physics Fundamentals: 6 principles (unchanged)
@@ -145,7 +145,7 @@ All researched authors converge on similar fundamental biomechanical truths:
 
 ## Writing Implications
 
-### Blog Post Opportunities:
+### Article Post Opportunities:
 1. **Cross-Discipline Series**: "What Taiji/Boxing/Wrestling Teaches About Aikido"
 2. **Universal Principles**: "Why All Martial Arts Use Hip Rotation"
 3. **Terminology Bridges**: "Ground Path, Grounding, and Kinetic Chains - Same Principle, Different Names"
@@ -154,7 +154,7 @@ All researched authors converge on similar fundamental biomechanical truths:
 
 ### Enhanced Credibility:
 - Your principles now validated by multiple expert sources
-- Can cite cross-discipline recognition in blog posts
+- Can cite cross-discipline recognition in article posts
 - Demonstrates Aikido principles aren't unique/mystical - they're universal physics
 - Bridges gap between Japanese martial arts and Chinese internal arts
 
@@ -174,7 +174,7 @@ All researched authors converge on similar fundamental biomechanical truths:
 3. **Cross-reference expansion** - Add more connections between principles
 4. **Video analysis** - Study authors' demonstrations to clarify concepts
 5. **Training integration** - Consciously practice newly named principles (silk-reeling, etc.)
-6. **Blog series** - Write posts exploring cross-discipline validations
+6. **Article series** - Write posts exploring cross-discipline validations
 7. **Create comparison charts** - Show how different authors describe same principles
 
 ### Questions to Explore:
@@ -211,7 +211,7 @@ All researched authors converge on similar fundamental biomechanical truths:
 
 ---
 
-**Conclusion**: This integration enriches the existing framework without disrupting it. The 32 original principles remain valid; four new principles fill gaps; existing principles gain cross-discipline validation and enhanced detail. The framework now bridges Aikido, Chinese internal arts, Western biomechanics, and universal martial arts principles. Total: 36 principles, 110+ blog ideas, solid foundation for continued growth.
+**Conclusion**: This integration enriches the existing framework without disrupting it. The 32 original principles remain valid; four new principles fill gaps; existing principles gain cross-discipline validation and enhanced detail. The framework now bridges Aikido, Chinese internal arts, Western biomechanics, and universal martial arts principles. Total: 36 principles, 110+ article ideas, solid foundation for continued growth.
 
 ---
 
@@ -224,7 +224,7 @@ All researched authors converge on similar fundamental biomechanical truths:
 - Knee bending backward (no reflex) vs. arm lock (instant reflex)
 - Exploiting reaction time delays and structural weak positions
 - Demystifying traditional "void" concept with biomechanics/neuroscience
-- 7 new blog ideas
+- 7 new article ideas
 
 **#37 - Loading the Structure** (Targeting & Application)
 - Preventing counter-movement through weight application
@@ -232,7 +232,7 @@ All researched authors converge on similar fundamental biomechanical truths:
 - Using weight (gravity) to pin feet and prevent stepping
 - Becoming part of their stability, then removing it
 - Explains how smaller practitioners control larger ones
-- 7 new blog ideas
+- 7 new article ideas
 
 ### Enhanced Existing Principles:
 
@@ -241,10 +241,10 @@ All researched authors converge on similar fundamental biomechanical truths:
 - **Vertical deflection options**: Up (ikkyo pattern) or Down (collapse guard)
 - **Horizontal deflection**: Lateral redirection + rotation to flank
 - Choosing deflection plane based on situation
-- 3 additional blog ideas
+- 3 additional article ideas
 
 ### Impact:
-- **Final Total**: 37 principles, 120+ blog ideas
+- **Final Total**: 37 principles, 120+ article ideas
 - Framework now includes structural/neurological void concept
 - Force redirection more comprehensively explained (3D options)
 - Loading principle explains grappling control across disciplines (wrestling, judo, BJJ)
@@ -299,14 +299,14 @@ User's final clarification: "The less is more is often only correctly understood
 - Why advanced practitioners instantly see similarities across unfamiliar styles
 - Why beginners can read framework but can't yet recognize principles in practice
 
-**Implication for Blog Writing**:
-- Blogs can POINT to principles, not create embodied understanding
+**Implication for Article Writing**:
+- Articles can POINT to principles, not create embodied understanding
 - Framework provides intellectual map for practitioners to reference
 - True understanding comes from mat time + intellectual framework
 - Reading accelerates recognition but doesn't replace practice
-- Blog purpose: Help practitioners NAME what their body is learning
+- Article purpose: Help practitioners NAME what their body is learning
 
-**Blog Potential**:
+**Article Potential**:
 - "Why All Martial Arts Use the Same Principles"
 - "Wing Chun vs. Aikido: Same Centerline, Different Application"
 - "Less is More: The Universal Principles Behind All Fighting Arts"

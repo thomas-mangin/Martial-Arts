@@ -4,7 +4,7 @@
 
 **Last Updated**: 2025-10-30
 
-**Status**: ⭐⭐⭐ CRITICAL PHILOSOPHICAL FRAMEWORK - Comprehensive and ready for /discuss or blog writing
+**Status**: ⭐⭐⭐ CRITICAL PHILOSOPHICAL FRAMEWORK - Comprehensive and ready for /discuss or article writing
 
 ---
 
@@ -402,7 +402,7 @@ This is a **fundamental philosophical insight** that explains martial arts desig
 
 ---
 
-## Blog Potential (25+ posts)
+## Article Potential (25+ posts)
 
 ### Core Concept (3 posts)
 - "Martial Arts Are Not Built in Vacuum: The Context Principle"

@@ -209,11 +209,11 @@ This progression mirrors the learning journey from fundamental physics through p
 
 ## Integration with Other Documents
 
-**For Blog Writing**:
+**For Article Writing**:
 - Each principle can be standalone post
 - Cross-reference related principles within categories
 - Connect to learning-journey.md stages
-- 90+ blog post ideas generated from these principles
+- 90+ article post ideas generated from these principles
 
 **For Teaching**:
 - Categories suggest natural teaching modules
@@ -232,7 +232,7 @@ This progression mirrors the learning journey from fundamental physics through p
 
 **Current Total**: 40 principles documented across 7 categories
 
-**Blog Ideas Generated**: 130+ posts from these principles
+**Article Ideas Generated**: 130+ posts from these principles
 
 **Active Collection**: More principles being gathered as training deepens
 
@@ -262,7 +262,7 @@ This progression mirrors the learning journey from fundamental physics through p
 
 Principles maintain their original numbers (#1-#40) for continuity and cross-referencing, even though they're now organized thematically rather than sequentially.
 
-**Why**: Existing blog ideas, cross-references, and notes use these numbers. Maintaining them preserves those connections.
+**Why**: Existing article ideas, cross-references, and notes use these numbers. Maintaining them preserves those connections.
 
 ---
 

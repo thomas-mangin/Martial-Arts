@@ -515,7 +515,7 @@ Many practitioners:
 
 ---
 
-## Blog Ideas from Learning Journey Concepts
+## Article Ideas from Learning Journey Concepts
 
 ### Knowing vs. Embodiment
 
@@ -956,7 +956,7 @@ Once you've reached embodied mastery (Stage 4-5), you can teach by floating natu
 **Use these questions**:
 - During personal training reflections
 - When planning teaching curriculum
-- When writing blog posts about learning/mastery
+- When writing article posts about learning/mastery
 - When stuck at a plateau
 - When assessing student progress
 - When designing training exercises
@@ -1044,7 +1044,7 @@ From Tony's teaching (Teachers Intro series):
 - Actually translating what tradition already teaches
 - Shows frameworks are accurate observation, not invention
 
-**For Your Blog**:
+**For Your Article**:
 - Can reference Tony's language alongside your biomechanical explanations
 - "Even traditional Iwama teachers recognize this distinction"
 - Bridges traditional and modern approaches

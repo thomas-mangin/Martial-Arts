@@ -46,7 +46,7 @@
 - Stage 4 transition in learning-journey.md
 - Iwama critique: Many stay tense, never truly relax
 
-**Blog Potential**:
+**Article Potential**:
 - "Rubber vs. Wood: Why Tension Kills Your Power"
 - "Why Relaxation Is More Powerful Than Strength"
 - "The Kinetic Chain Break: How Tension Disconnects Your Hips"
@@ -95,7 +95,7 @@
 - Loses centerline, weakens structure, disconnects power
 - Fix: "Raise your hands and turn your hips instead"
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Aikido Movements Are Up and Down, Not Side to Side"
 - "The Vertical Principle: How Sword Training Improves Your Taijutsu"
 - "Why Pushing Sideways Makes You Weak"
@@ -157,7 +157,7 @@
 - Locking elbows/shoulders (can't follow)
 - All-or-nothing: all tense or all relaxed
 
-**Blog Potential**:
+**Article Potential**:
 - "The Grip Paradox: Strong Fingers, Soft Joints"
 - "Why Tensing Your Shoulders Breaks Your Technique"
 - "How to Follow Without Losing Connection"
@@ -255,7 +255,7 @@
 - Combined = body weight becomes weapon
 - Like hydraulic press: pressure creates force
 
-**Blog Potential**:
+**Article Potential**:
 - "The Core Engagement Principle: Power from Your Center"
 - "Why Your Abdomen Is Your Powerhouse (Despite Having No Bones)"
 - "Internal Pressure: The Biomechanics of Hara Power"
@@ -362,7 +362,7 @@
 - Creates sustainable practice (proper oxygenation)
 - Foundation for relaxed power generation
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Aikido Shouts: The Biomechanics of Kiai"
 - "Breathing Your Way to Power: Exhale During Technique"
 - "The Dangerous Practice of Holding Your Breath"

@@ -1,6 +1,6 @@
-# Audience Profiles for Aikido Blog
+# Audience Profiles for Aikido Article
 
-**Purpose**: Define all potential reader profiles to ensure blog content serves diverse audiences effectively
+**Purpose**: Define all potential reader profiles to ensure article content serves diverse audiences effectively
 
 **Last Updated**: 2025-10-30
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-Your Aikido blog serves a diverse community with varying experience levels, roles, interests, and needs. Understanding these profiles ensures:
+Your Aikido article serves a diverse community with varying experience levels, roles, interests, and needs. Understanding these profiles ensures:
 - **Broad appeal**: Topics can engage multiple audiences simultaneously
 - **Targeted value**: Each post provides specific value to specific readers
 - **Strategic coverage**: Over time, all profiles receive attention
@@ -487,7 +487,7 @@ Your Aikido blog serves a diverse community with varying experience levels, role
 
 ### Layered Content Approach
 
-**The best blog posts serve multiple audiences simultaneously through layering:**
+**The best article posts serve multiple audiences simultaneously through layering:**
 
 **Example Structure**:
 - **Hook**: Accessible to all levels
@@ -575,7 +575,7 @@ Your Aikido blog serves a diverse community with varying experience levels, role
 
 ## Using Audience Profiles Effectively
 
-### In Every Blog Post
+### In Every Article Post
 
 **1. Identify Primary Audience** (1-2 profiles)
 - Who will gain the most value?
@@ -634,4 +634,4 @@ While serving specific audiences, maintain connections across profiles. Advanced
 
 ---
 
-*This profiles document should inform every stage of blog creation, from topic selection to final review.*
+*This profiles document should inform every stage of article creation, from topic selection to final review.*

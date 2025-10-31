@@ -33,7 +33,7 @@
 - Why traditional aikido uses more palms than fists
 - Real self-defense requires understanding what's safe to hit
 
-**Blog Potential**:
+**Article Potential**:
 - "Hard on Soft, Soft on Hard: The Self-Preservation Rule"
 - "Why Aikido Uses Palm Strikes: It's Not Just Philosophy"
 - "Punching a Skull Will Break Your Hand: Target Selection Basics"
@@ -114,7 +114,7 @@
 - Reading opponent's structure suggests best deflection plane
 - Advanced practitioners choose plane instinctively
 
-**Blog Potential**:
+**Article Potential**:
 - "The Triangle Principle: Geometry of Deflection"
 - "Why Aikido Doesn't Block: The Physics of Redirection"
 - "Hands Together, Force Apart: The Deflection Stance"
@@ -158,7 +158,7 @@
 - Explain why circular techniques work despite being slower
 - Practice exploiting directional weakness
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Circular Attacks Work: Your Body's Directional Weakness"
 - "Front Strong, Side Weak: The Human Design Limitation"
 - "Why a Light Push from Behind Works Better Than Heavy Frontal Pressure"
@@ -199,7 +199,7 @@
 - Explain vector change concept
 - Connect to deflection principles (triangle, angles)
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Ikkyo Rises: The Physics of Upward Redirection"
 - "Changing Vectors: How Ikkyo Redirects Horizontal Force Vertically"
 - "The Path of Least Resistance: Up, Not Against"
@@ -263,7 +263,7 @@
 - Hard on soft (Principle #12)
 - Universal across martial arts
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Joint Locks Work: The Universal Weak Directions"
 - "Aikido Didn't Invent Joint Locks - Anatomy Did"
 - "Understanding Your Joints' Vulnerabilities"
@@ -333,7 +333,7 @@
 - Upward redirection (Principle #19)
 - Natural walking/tai sabaki (Principle #14)
 
-**Blog Potential**:
+**Article Potential**:
 - "Why You Can't Lock During the Attack"
 - "Deflect First, Lock Second: The Safe Sequence"
 - "Knife Defense: Keep Your Hands Away from the Blade"
@@ -419,7 +419,7 @@
 - Deflect before lock (Principle #21) - After they commit
 - Triangle deflection (Principle #13) - One method of removal
 
-**Blog Potential**:
+**Article Potential**:
 - "The Empty Door: Using Expectations Against Attackers"
 - "Why Aikido Doesn't Oppose: Removing Expected Resistance"
 - "Creating and Exploiting Over-Commitment"
@@ -532,7 +532,7 @@
 - Not recognizing structural voids (positions where body can't resist)
 - Forcing technique instead of finding void
 
-**Blog Potential**:
+**Article Potential**:
 - "The Void Explained: Where Your Body Can't Defend"
 - "Why Some Techniques Don't Trigger Reflexes"
 - "Knee Bending vs. Arm Locks: Threatening vs. Non-Threatening Balance Taking"
@@ -697,7 +697,7 @@
 - Their nervous system can't react in time (feet are loaded)
 - Like pulling rug out from under someone already leaning on you
 
-**Blog Potential**:
+**Article Potential**:
 - "Loading the Structure: How Weight Prevents Counter-Movement"
 - "Why Loaded Feet Can't Move: The Neurological Inhibition"
 - "From Behind: The Four-Step Loading Sequence"

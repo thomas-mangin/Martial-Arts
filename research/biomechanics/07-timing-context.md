@@ -32,7 +32,7 @@
 - Timing training: when to intercept for maximum effect
 - Show how same movement changes based on timing
 
-**Blog Potential**:
+**Article Potential**:
 - "There Is No Defense in Aikido: Attack the Attack"
 - "Why Aikido Isn't Passive: The Offensive Nature of 'Defensive' Techniques"
 - "Timing and Intention: The Difference Between Blocking and Attacking"
@@ -109,7 +109,7 @@
 - No defense, only attack on attack (Principle #6)
 - Your knife attack experience (validates weapons context)
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Aikido Doesn't Block: It Assumes You're Blocking a Blade"
 - "The Knife Assumption: How Weapons Shape Aikido"
 - "Why Aikido Isn't Good for MMA (And That's OK)"

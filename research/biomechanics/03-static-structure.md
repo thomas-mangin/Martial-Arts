@@ -45,7 +45,7 @@
 - **Emeric Arus**: Kinetic chain analysis in biomechanics
 - **All martial arts**: Power comes from ground, not muscles alone
 
-**Blog Potential**:
+**Article Potential**:
 - "The Kinetic Chain: How Power Flows from Ground to Contact"
 - "Why Hip Position Matters More Than Arm Strength"
 - "Grounding: Connecting Your Technique to the Earth"
@@ -82,7 +82,7 @@
 - Teach committed movement with proper timing instead
 - Body alignment is prerequisite for effective technique
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Leaning Back Kills Your Technique"
 - "Body Alignment: The Hidden Power Leak"
 - "Commitment vs. Safety: The Fear That Weakens Your Aikido"
@@ -121,7 +121,7 @@
 - Connects to "let gravity do the work" concept
 - Addresses common beginner mistake: trying too hard
 
-**Blog Potential**:
+**Article Potential**:
 - "The Unbendable Arm: Why Trying Hard Makes You Weaker"
 - "Relaxation Is Not Weakness: The Physics of Structural Strength"
 - "Why Your Muscular Training Fails in Aikido"
@@ -164,7 +164,7 @@
 - Explains why beginners lose power (hands drift laterally)
 - Connects empty hand to weapons training (same centerline principle)
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Aikido Keeps Your Hands at Your Center"
 - "The Heavy Object Test: Understanding Structural Positioning"
 - "Centerline Power: What Carrying Groceries Teaches About Aikido"
@@ -214,7 +214,7 @@
 - Prevents smooth transitions
 - Increases injury risk
 
-**Blog Potential**:
+**Article Potential**:
 - "Extend, Don't Lock: Why Your Elbows Should Never Be Rigid"
 - "The Resilient Elbow: Strength Through Structure, Not Rigidity"
 - "Why Locked Joints Are Weak Joints"
@@ -281,7 +281,7 @@
 - Prevents back injury from poor mechanics
 - Enables advanced principles (core engagement, grounding)
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Aikido Posture Matters: The Spinal Alignment Principle"
 - "Your Spine is Your Power Column: Alignment for Force Transfer"
 - "Hunching Kills Your Technique: The Hidden Cost of Poor Posture"
@@ -373,7 +373,7 @@
 - Foundation for understanding weapon handling
 - Connects ken technique to empty hand principles (same physics)
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Your Sword Feels Heavy: The Distance from Center Principle"
 - "The One-Finger Bokken Balance: Understanding Moment Arms"
 - "First Ken Technique Explained: Hip-Shoulder-Vertical Sequence"

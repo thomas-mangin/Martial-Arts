@@ -27,7 +27,7 @@
 - Natural ` easy - requires conscious practice
 - Speed drills should maintain natural mechanics
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Normal Walking Is a Martial Skill"
 - "The Aikido Shuffle: Breaking Bad Movement Habits"
 - "Speed Through Simplicity: Natural Movement Under Pressure"
@@ -64,7 +64,7 @@
 - Barefoot training isn't just traditional - it's functional
 - Cat-like movement for explosive techniques
 
-**Blog Potential**:
+**Article Potential**:
 - "Why We Train Barefoot: Foot Mechanics in Aikido"
 - "Heel to Toe vs. Toe to Heel: Two Walking Systems"
 - "The Cat's Movement: Power from the Ball of Your Foot"
@@ -106,7 +106,7 @@
 - Demonstrate power difference: parallel vs. external rotation
 - Connect to hanmi stance rationale
 
-**Blog Potential**:
+**Article Potential**:
 - "Why Your Feet Turn Outward: The Power Position"
 - "Push a Car to Understand Aikido Stance"
 - "Hanmi Isn't Traditional, It's Biomechanical"
@@ -202,7 +202,7 @@
 - **#5 Balance on Contact**: Maintaining contact during turn affects their balance
 - **Stage 4 (learning-journey.md)**: Core-initiated movement - hips move body
 
-**Cross-Discipline Blog Potential**:
+**Cross-Discipline Article Potential**:
 - "Why Boxing Punches and Aikido Throws Use the Same Power Source"
 - "Tai Sabaki: What Greco-Roman Wrestlers Know That Aikidoka Don't"
 - "The Hip Rotation Principle: Universal Across All Martial Arts"
@@ -291,7 +291,7 @@ Tai sabaki works because you're moving your body mass (via hip rotation and weig
 - Enables smooth, connected technique
 - Foundation for both empty hand and weapons
 
-**Blog Potential**:
+**Article Potential**:
 - "Hip Rotation vs. Arm Extension: Why Aikido Turns Instead of Reaches"
 - "How Sword Training Teaches Better Empty-Hand Movement"
 - "The Ken Technique That Explains All of Aikido"
@@ -382,7 +382,7 @@ Tai sabaki works because you're moving your body mass (via hip rotation and weig
 - Foundation for smooth, flowing technique
 - Natural result of combining rotation with translation
 
-**Blog Potential**:
+**Article Potential**:
 - "Silk-Reeling in Aikido: The Spiral Paths of Power"
 - "Why Aikido is Circular: Helical Movement Explained"
 - "From Taiji to Aikido: The Universal Spiral Principle"
@@ -476,7 +476,7 @@ Tai sabaki works because you're moving your body mass (via hip rotation and weig
 - Connects to universal physics (not aikido-specific)
 - Helps students understand what their body should do
 
-**Blog Potential**:
+**Article Potential**:
 - "Two Ways to Rotate: The Figure Skater vs. The Hammer Thrower"
 - "Why Fast Rotations and Power Rotations Are Different"
 - "When to Pull In, When to Extend: The Rotation Choice"
@@ -588,7 +588,7 @@ Tai sabaki works because you're moving your body mass (via hip rotation and weig
 - **Boxing**: Weight shifting forward/back before rotation
 - **Universal**: Using opposing forces to create stability + power
 
-**Blog Potential**:
+**Article Potential**:
 - "Counter-Rotation: How to Generate Power While Staying Balanced"
 - "Shoulders Forward, Hips Back: The Secret Coiling in Ikkyo Ura"
 - "Why Advanced Practitioners Look Balanced but Hit Hard"
