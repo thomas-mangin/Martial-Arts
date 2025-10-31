@@ -96,6 +96,26 @@ This document contains only **active decisions** that affect how Claude should t
 
 **Why**: Authenticity builds credibility more than false expertise. First dan is ideal position - close enough to remember struggles, far enough to have useful perspective. Most readers are also on the journey.
 
+### Educational Article Series (Not Blog Posts)
+**Decision**: Write educational article series designed for progressive learning, not standalone blog posts
+
+**How this affects thinking**:
+- Articles build on each other systematically
+- Clear, descriptive titles over catchy/clickbait titles
+- Comprehensive depth over quick readability
+- Cross-reference earlier articles when building on concepts
+- Self-consistency across entire series is critical
+- Focus on completeness, not engagement metrics
+- Professional educational tone, not casual conversational
+
+**Article approach vs. Blog approach**:
+- ✅ ARTICLE: "The Role of Weapons Training in Aikido Development"
+- ❌ BLOG: "Why Your Aikido Teacher Won't Shut Up About Sword Training"
+- ✅ ARTICLE: "Ikkyo: Biomechanics, Variations, and Progressive Training"
+- ❌ BLOG: "The One Thing You're Getting Wrong About Ikkyo"
+
+**Why**: Educational articles serve long-term learning and can be compiled into book. Blog posts optimize for clicks and shares, not depth.
+
 ### Honesty About Abilities
 **Decision**: Value honesty above ego
 
@@ -139,20 +159,46 @@ This document contains only **active decisions** that affect how Claude should t
 ## Content Strategy
 
 ### Multi-Audience Layering
-**Decision**: Write for multiple audience profiles simultaneously (3-5 per post)
+**Decision**: Write for multiple audience profiles simultaneously (3-5 per article)
 
 **How this affects thinking**:
-- Every post should identify primary (1-2) and secondary (2-3) audiences
+- Every article should identify primary (1-2) and secondary (2-3) audiences
 - Use layered content approach - accessible to beginners, challenging for advanced
-- Tier practical takeaways by experience level when applicable
-- Design hooks and examples for different reader types
+- Tier practical applications by experience level when applicable
+- Design explanations and examples for different reader types
 - Check that no audiences are systematically excluded over time
 
-**Why**: Single-audience writing excludes potential readers. Blog serves entire aikido community ecosystem.
+**Why**: Single-audience writing excludes potential readers. Article series serves entire aikido community ecosystem.
 
 **Reference**: research/audience-profiles.md for complete profiles
 
 **Quarterly review**: Track which audiences are underserved, ensure balanced coverage.
+
+### Progressive Article Series Structure
+**Decision**: Organize content as progressive series where later articles build on earlier ones
+
+**How this affects thinking**:
+- Articles within a series must be written in logical order
+- Cross-reference earlier articles when building on established concepts
+- Ensure terminology and frameworks are consistent across all articles
+- Readers should be able to read series start-to-finish for complete understanding
+- Each article should still be comprehensible standalone (with references to prerequisites)
+- Series could be compiled into cohesive book chapters
+
+**Why**: Progressive learning is more effective than random standalone posts. Enables book publication.
+
+### Comprehensive Educational Depth
+**Decision**: Prioritize thoroughness and completeness over brevity and engagement
+
+**How this affects thinking**:
+- Cover topics comprehensively, not just highlights
+- Include technical details and nuance
+- Longer articles (1,500-3,000+ words) are acceptable if needed for completeness
+- Don't sacrifice depth for "quick reads"
+- Provide enough detail that readers don't need to seek other sources
+- Reference supporting evidence from multiple sources (YouTube analysis, research)
+
+**Why**: Educational articles aim to teach thoroughly. Blog posts aim to engage quickly. Different goals.
 
 ### Violence Context Awareness
 **Decision**: Always specify violence context when discussing martial effectiveness
@@ -202,18 +248,32 @@ This document contains only **active decisions** that affect how Claude should t
 ## Content Quality
 
 ### Critical and Collaborative Review
-**Decision**: /review-aikido should be highly critical and work collaboratively with user on improvements
+**Decision**: Article review should be highly critical and work collaboratively with user on improvements
 
 **How this affects thinking**:
-- Apply MA-level quality expectations (not casual blog standards)
+- Apply educational/book-level quality expectations (not casual blog standards)
 - Point out weaknesses directly without sugar-coating
 - Challenge vague statements, unsupported claims, and clichés
 - Ask probing questions to deepen thinking
 - Provide specific, actionable feedback with multiple revision options
 - Work iteratively through improvements
 - Don't accept "good enough" - push for excellence
+- Check cross-references and consistency with earlier articles in series
+- Verify completeness and educational depth
 
-**Why**: This is MA-level work requiring high standards. User wants rigorous, honest feedback, not polite praise.
+**Why**: This is educational article series that could become a book. Requires higher standards than blog posts.
+
+### Self-Consistency Across Series
+**Decision**: All articles must use consistent terminology, frameworks, and principles
+
+**How this affects thinking**:
+- Track terminology used in earlier articles (reference when reviewing)
+- Ensure frameworks presented are compatible across articles
+- If later article contradicts earlier one, either fix or explicitly acknowledge evolution
+- Cross-references should be accurate and helpful
+- Readers following series start-to-finish should not encounter contradictions
+
+**Why**: Series credibility depends on internal consistency. Book compilation requires unified voice and approach.
 
 ---
 

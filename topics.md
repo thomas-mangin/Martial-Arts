@@ -1,102 +1,120 @@
-# Blog Topics
+# Article Series Progress
 
-**Note**: Each topic should identify target audiences to ensure balanced coverage over time. See `audience-profiles.md` for complete audience definitions.
+**Note**: Track article series progress and completion. Articles should be written in series order for progressive learning. See `audience-profiles.md` for complete audience definitions.
 
 ---
 
-## Current Topic
-<!-- The topic you're currently working on -->
+## Current Article
+<!-- The article you're currently working on -->
 *None - Ready to start*
 
-**Topic**: [Topic name]
+**Series**: [Series name]
+**Article**: [Article title]
+**Number**: [e.g., "3 of 7" or "Chapter 2.3"]
 **Primary Audience**: [1-2 audience profiles]
 **Secondary Audiences**: [2-3 additional profiles]
-**Status**: [In Progress / Drafted / Under Review / Revising]
-**File**: [posts/filename.md]
+**Status**: [Planning / Drafting / Under Review / Revising / Complete]
+**File**: [articles/series-name/article-name.md]
 
 ---
 
-## Next Topics Queue
-<!-- Topics you want to write about, in priority order -->
-<!-- Format: Topic - Primary audience(s) - Secondary audiences -->
+## Article Series Queue
+<!-- Series you plan to write, in priority order -->
+<!-- Format: Series Name (Total articles) - Primary audiences - Status -->
 
-1. [Topic name] - [Primary: Audience] - [Secondary: Audiences]
-2. [Topic name] - [Primary: Audience] - [Secondary: Audiences]
-3. [Topic name] - [Primary: Audience] - [Secondary: Audiences]
+1. [Series Name] ([X] articles) - [Primary: Audience] - [Status: Not Started / In Progress / Complete]
+2. [Series Name] ([X] articles) - [Primary: Audience] - [Status]
 
 **Example**:
-1. The Three Types of Relaxation in Aikido - [Primary: Beginners, Intermediate] - [Secondary: Instructors, Technical focus]
-2. Teaching Ma-ai Effectively - [Primary: Instructors] - [Secondary: Advanced practitioners, Dojo owners]
+1. Biomechanics Foundations (6 articles) - [Primary: Beginners, Intermediate, Technical focus] - [Status: Not Started]
+2. Teaching Aikido Effectively (5 articles) - [Primary: Instructors] - [Status: Not Started]
 
 ---
 
-## Topic Ideas
-<!-- Ideas for future blog posts - include potential audiences -->
-<!-- Format: Topic idea (Audience: primary audiences) -->
+## Potential Article Series
+<!-- Ideas for future article series - include potential audiences and rough article counts -->
+<!-- Format: Series Name (~X articles) - Primary audiences - Brief description -->
 
-### From YouTube Multi-Channel Synthesis (Top Priority)
+### From Existing Research (Ready to Organize into Series)
 
-- Why Your Aikido Teacher Won't Shut Up About Sword Training (Audience: Beginners, Intermediate, Prospective students)
-- The Complete Home Aikido Training System (Audience: Intermediate, Advanced practitioners)
-- Four Aikido Masters Answer: 'Does Aikido Work?' (Audience: Prospective students, Beginners, Cross-training martial artists)
+**Biomechanics & Movement** (~10 articles):
+- Kinetic chain, hip mechanics, body alignment, deflection/angles principles
+- (Audience: Beginners to Advanced, Technical focus)
 
-### From Book Research - Pearlman's "Book of Martial Power"
+**Learning Journey & Mastery** (~5 articles):
+- Stages of progression, knowing vs. embodying, kata as foundation
+- (Audience: All levels, Instructors)
 
-- Less Is More: Why Aikido Has ~37 Principles, Not 10,000 Techniques (Audience: Intermediate, Advanced practitioners, Instructors)
-- What Makes a Martial Arts Principle 'Universal'? (Audience: Advanced practitioners, Instructors, Philosophical focus)
-- Five Martial Arts Experts Agree: These Physical Principles Are Universal (Audience: All audiences, Cross-training martial artists, Prospective students)
-- The Triangular Guard: Universal Defensive Structure Across All Martial Arts (Audience: Intermediate, Technical focus, Cross-training martial artists)
-- The Void in Martial Arts: Attacking Where the Body Can't React (Audience: Advanced practitioners, Technical focus, Philosophical focus)
-- Spinal Alignment: The Central Power Column (Audience: Beginners, Intermediate, Technical focus)
-- Physics vs. Philosophy in Martial Arts: Finding the Balance (Audience: Philosophical focus, Advanced practitioners, Instructors)
-- Universal Martial Arts Principles: What 40 Years of Cross-Training Reveals (Audience: Advanced practitioners, Cross-training martial artists, Instructors)
-- The Book of Martial Power: An Aikido Practitioner's Review (Audience: Intermediate, Advanced practitioners, Instructors)
-- How Academic Rigor Reveals Universal Martial Arts Truth (Audience: Advanced practitioners, Instructors, Prospective students)
+**Peace, Violence & Context** (~5 articles):
+- Military perspective, effectiveness contexts, legal/ethical frameworks
+- (Audience: All levels, Philosophical focus)
+
+**Teaching & Transmission** (~5 articles):
+- Progressive instruction, stage-appropriate teaching, avoiding mysticism
+- (Audience: Instructors, Advanced practitioners)
+
+**Iwama Syllabus Documentation** (~20-30 articles):
+- Complete technical reference for all kihon waza, weapons kata, progressive training
+- (Audience: All levels, Iwama practitioners)
+
+### From YouTube Multi-Channel Synthesis
+
+**Cross-Source Validation Available**:
+- Weapons training (ALL 4 instructors agree)
+- Effectiveness and honest assessment (ALL 4 address)
+- Home/solo training systems (3 of 4 instructors)
+- Internal development (kokyu, aiki definitions)
+
+These can be incorporated into series above with strong multi-source evidence.
 
 ---
 
-## Completed Topics
-<!-- Archive of completed blog posts with audiences served -->
-<!-- Format: ✓ Topic - Date completed - Primary audience(s) - File -->
+## Completed Articles by Series
+<!-- Archive of completed articles organized by series -->
+<!-- Format: Series Name: ✓ Article # - Title - Date - File -->
 
-**Example**:
-- ✓ Understanding Irimi - 2025-10-15 - [Beginners, Intermediate] - posts/irimi-2025-10-15.md
-- ✓ Teaching Aikido to Teens - 2025-10-20 - [Instructors, Parents] - posts/teens-2025-10-20.md
+**Example Series**:
+- **Biomechanics Foundations**:
+  - ✓ Article 1 - Newton's Third Law in Aikido - 2025-10-15 - articles/biomechanics/01-newtons-law.md
+  - ✓ Article 2 - The Kinetic Chain - 2025-10-22 - articles/biomechanics/02-kinetic-chain.md
+
+*No articles completed yet - system just restructured to article series approach*
 
 ---
 
 ## Audience Coverage Tracking
 
-**Purpose**: Ensure all audience profiles receive valuable content over time
+**Purpose**: Ensure all audience profiles receive valuable content over time through series planning
 
 **Last Review**: [Date]
 
 ### By Experience Level
-- **Beginners (0-2 years)**: [Count] posts
-- **Intermediate (3-7 years)**: [Count] posts
-- **Advanced (8+ years)**: [Count] posts
-- **Returning practitioners**: [Count] posts
+- **Beginners (0-2 years)**: [Count] articles across [X] series
+- **Intermediate (3-7 years)**: [Count] articles across [X] series
+- **Advanced (8+ years)**: [Count] articles across [X] series
+- **Returning practitioners**: [Count] articles across [X] series
 
 ### By Role
-- **Students**: [Count] posts
-- **Instructors/Teachers**: [Count] posts
-- **Dojo Owners**: [Count] posts
+- **Students**: [Count] articles
+- **Instructors/Teachers**: [Count] articles
+- **Dojo Owners**: [Count] articles
 
 ### By Interest
-- **Technical/Mechanical**: [Count] posts
-- **Philosophical/Spiritual**: [Count] posts
-- **Practical/Martial**: [Count] posts
-- **Historical/Cultural**: [Count] posts
+- **Technical/Mechanical**: [Count] articles
+- **Philosophical/Spiritual**: [Count] articles
+- **Practical/Martial**: [Count] articles
+- **Historical/Cultural**: [Count] articles
+- **Syllabus Reference**: [Count] articles
 
 ### Adjacent Audiences
-- **Parents**: [Count] posts
-- **Prospective students**: [Count] posts
-- **Cross-training martial artists**: [Count] posts
+- **Parents**: [Count] articles
+- **Prospective students**: [Count] articles
+- **Cross-training martial artists**: [Count] articles
 
-**Underserved Audiences**: [List profiles that need more focused content]
+**Underserved Audiences**: [List profiles that need more focused series]
 
-**Next Quarter Focus**: [Which audiences to prioritize in next 10-15 posts]
+**Series Planning**: [Which audiences to prioritize in next series development]
 
 ---
 
-*Update this file as you brainstorm, select, and complete topics. Review quarterly to ensure diverse audience coverage.*
+*Update this file as you plan series, write articles, and track completion. Review periodically to ensure diverse audience coverage across all series.*

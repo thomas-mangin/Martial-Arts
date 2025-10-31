@@ -6,18 +6,18 @@
 
 ## Current Status
 
-**Multi-Channel Synthesis Complete** ✅
+**System Restructure: Blog → Educational Article Series** 🔄
 
-Successfully completed comprehensive cross-reference analysis of 4 major Aikido YouTube channels (1,983 transcripts), identifying universal agreements, productive contrasts, and 60+ blog post ideas with multi-source validation.
+Converting project from blog-focused to educational article series designed for book publication. Focus on comprehensive depth, progressive learning, and self-consistency rather than engagement and standalone posts.
 
 **Completed This Session**:
 - ✅ Loaded previous session state via `/resume`
-- ✅ Reviewed all 4 channel analyses (Hein, Tony, Alexander, SenshinOne)
-- ✅ Identified 5 major overlapping themes (weapons, effectiveness, kokyu, training quality, solo practice)
-- ✅ Mapped 4 major contrasting perspectives (aiki definitions, training purpose, internal vs. external)
-- ✅ Created comprehensive multi-channel synthesis document (32KB)
-- ✅ Generated 60+ blog ideas with multi-source citations (15KB)
-- ✅ Committed synthesis files to git
+- ✅ Updated decisions.md: Added educational article series best practices
+- ✅ Updated decisions.md: Added progressive series structure and comprehensive depth principles
+- ✅ Updated OVERVIEW.md (.claude/CLAUDE.md): Changed all blog references to articles
+- ✅ Updated session-context.md: Reflect article series focus
+- ⏳ IN PROGRESS: Renaming blog/ directory, updating templates and guidelines
+- ⏳ IN PROGRESS: Updating command documentation for article workflow
 
 **Analysis Complete**: 5 of 6 channels
 1. **Hein's Approach** - 224 transcripts - Modern systematic positional framework
@@ -71,42 +71,24 @@ Successfully completed comprehensive cross-reference analysis of 4 major Aikido 
 
 ## Next Steps
 
-### Immediate Priority: Start Blog Writing
+### Immediate Priority: Complete System Restructure
 
-**Multi-Channel Synthesis Complete** - Ready to write well-referenced blog content!
+**Goal**: Finish converting all blog-related files and documentation to article series approach
 
-**Top 3 Recommended First Posts**:
+**Remaining Tasks**:
+1. Update `blog/` directory guidelines files to article standards
+2. Update article templates (rename blog-template.md → article-template.md)
+3. Update command documentation (`.claude/commands/`) for article workflow
+4. Update `topics.md` to track article series progress instead of blog topic queue
+5. Consider creating `articles/` directory structure (or keep `blog/` as legacy name)
 
-1. **"Why Your Aikido Teacher Won't Shut Up About Sword Training"**
-   - Validation: ALL 4 instructors agree (strongest possible)
-   - Beginner-accessible, addresses common question
-   - Clear 4-part structure showing complementary reasons
-   - Est. 1,500-2,000 words
+**After Restructure Complete**:
+- System will be ready for writing educational article series
+- All references to "blog posts" will be changed to "articles"
+- All best practices will reflect educational depth vs. engagement focus
+- Commands and workflows will support progressive series writing
 
-2. **"The Complete Home Aikido Training System"**
-   - Validation: 3 of 4 instructors (Tony, Alexander, SenshinOne)
-   - High practical value for modern practitioners
-   - Comprehensive guide format
-   - Est. 2,500-3,000 words
-
-3. **"Four Aikido Masters Answer: 'Does Aikido Work?'"**
-   - Validation: ALL 4 address this honestly
-   - Tackles biggest skepticism directly
-   - Great hook for attracting new readers
-   - Est. 2,000-2,500 words
-
-**Recommended Workflow**:
-1. Choose one of the 3 recommended posts
-2. Use `/discuss [topic]` to explore your angle and gather thoughts
-3. Use `/extract [discussion file]` to transform into blog draft
-4. Use `/review-aikido [draft file]` for critical feedback
-5. Revise based on feedback
-6. Publish when satisfied
-
-**Reference Documents**:
-- `sources/youtube/findings/2025-10-31-multi-channel-synthesis.md` - Full analysis
-- `sources/youtube/blog-ideas-multi-source.md` - Quick reference with citations
-- Individual channel analyses in `sources/youtube/findings/` for specific quotes
+**Note**: User has extensive Iwama syllabus knowledge that should be captured as part of article series (detailed "how to perform" instructions for techniques, weapons kata, etc.)
 
 ---
 

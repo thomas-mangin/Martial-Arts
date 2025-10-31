@@ -1,59 +1,76 @@
-# Blog Writing Guidelines
+# Article Writing Guidelines
 
 ## Structure Overview
 
-Your Aikido blog posts should follow a clear, engaging structure that serves both practitioners and newcomers to the art.
+Your Aikido educational articles should follow a clear, comprehensive structure that serves both practitioners and newcomers to the art. Articles are designed as progressive learning resources that could be compiled into a book.
 
 ---
 
 ## 1. Title & Metadata
 
 ### Title Best Practices
-- Clear and specific (not vague)
-- Engaging but not clickbait
-- 5-12 words typically
-- Examples:
-  - ✓ "The Principle of Irimi: Entering with Confidence"
-  - ✓ "Why Ukemi Training Transforms Your Aikido"
-  - ✗ "An Interesting Thought About Training"
+- Clear and descriptive (educational focus)
+- Professional, not catchy or clickbait
+- Directly states the topic covered
+- 5-15 words typically
+- Examples (Educational Article Style):
+  - ✓ "The Principle of Irimi: Biomechanics and Progressive Training"
+  - ✓ "Ukemi: Technical Foundations and Safety Principles"
+  - ✓ "Ikkyo: Comprehensive Guide to Variations and Applications"
+- Avoid (Blog/Clickbait Style):
+  - ✗ "Why Your Aikido Teacher Won't Shut Up About Sword Training"
+  - ✗ "The One Thing You're Getting Wrong About Ikkyo"
+  - ✗ "This Ancient Secret Will Transform Your Practice"
 
 ### Metadata Fields
 - **Date**: Publication or last updated date
 - **Author**: Your name
+- **Series**: Which article series this belongs to (if applicable)
+- **Article Number**: Position in series (e.g., "3 of 7" or "Chapter 2.3")
+- **Prerequisites**: Earlier articles readers should read first (if building on concepts)
 - **Category**: Choose from:
   - Technique (specific waza analysis)
   - Philosophy (principles and concepts)
   - Training (practice methods and tips)
   - History (lineage, O-Sensei, development)
+  - Syllabus Reference (Iwama technical documentation)
   - Personal Reflection (your journey and insights)
 - **Primary Audience**: 1-2 audience profiles who will gain the most value (see audience-profiles.md)
 - **Secondary Audiences**: 2-3 additional profiles who will benefit
 - **Audience Notes**: Brief explanation of what each audience type will gain
-- **Estimated Length**: Target word count (800-1200 words / 1200-1800 words / 1800+ words)
+- **Estimated Length**: Target word count (1,500-3,000+ words for comprehensive coverage)
 
 ---
 
-## 2. Introduction (100-200 words)
+## 2. Introduction (150-300 words)
 
-**Purpose**: Hook readers and set expectations
+**Purpose**: Establish context, learning objectives, and scope
 
 **Elements to include:**
-- An engaging opening (question, story, observation, or provocative statement)
-- Why this topic matters
-- What the reader will gain
-- Connection to broader Aikido principles
+- Clear statement of what this article covers
+- Learning objectives (what readers will understand after reading)
+- Prerequisites (if building on earlier articles, reference them)
+- Scope and approach (comprehensive coverage, technical depth, etc.)
+- Connection to broader Aikido principles or series theme
 
-**Good opening patterns:**
-- "Have you ever wondered why..."
-- "In my years of training, I've noticed..."
-- "O-Sensei once said... but what did he mean?"
-- "One of the most misunderstood aspects of Aikido is..."
+**Educational opening patterns:**
+- "This article examines [topic] through [framework/lens]..."
+- "Building on [previous article], we now explore..."
+- "Understanding [concept] requires examining three key elements: [list]..."
+- "This comprehensive guide covers [topic] from foundational principles through advanced applications..."
+
+**Avoid blog-style hooks:**
+- ✗ "Have you ever wondered why..." (too casual)
+- ✗ "What if I told you..." (clickbait pattern)
+- ✗ Provocative questions designed for engagement rather than education
 
 ---
 
-## 3. Main Content (500-1500 words)
+## 3. Main Content (1200-2500+ words)
 
-**Structure**: 2-4 major sections with descriptive headings
+**Structure**: 3-8 major sections with clear descriptive headings
+
+**Note**: Articles should be comprehensive. Longer content (2,500-4,000 words) is acceptable and encouraged if needed for thorough coverage.
 
 ### Section Headings
 - Use descriptive headings (not "Section 1")
@@ -88,11 +105,14 @@ Your Aikido blog posts should follow a clear, engaging structure that serves bot
 - Progression or variations
 
 ### Writing Style
-- **Clarity first**: Explain jargon for non-practitioners
-- **Show, don't just tell**: Use examples and stories
-- **Build progressively**: Each section should flow logically
-- **Balance**: Mix technical detail with accessibility
-- **Authenticity**: Share genuine insights, not just theory
+- **Clarity and precision**: Explain jargon for non-practitioners, but don't avoid technical depth
+- **Evidence-based**: Support claims with multi-source validation when possible
+- **Show, don't just tell**: Use examples and specific demonstrations
+- **Build progressively**: Each section should flow logically, building on previous concepts
+- **Comprehensive coverage**: Don't leave gaps - cover topic thoroughly
+- **Cross-reference**: Reference earlier articles in series when building on concepts
+- **Professional tone**: Educational and authoritative (while maintaining first-dan humility)
+- **Authenticity**: Share genuine insights from experience and observation
 
 ### Japanese Terminology
 - Use Japanese terms appropriately
@@ -613,18 +633,22 @@ What I've found in training is [concrete evidence from your practice].
 - ✗ "Ikkyo is always the first technique taught" ← Unverified generalization
 
 ### Length Guidelines
-- Minimum: 600 words (for focused, specific topics)
-- Sweet spot: 800-1200 words
-- Maximum: 2000 words (only for comprehensive topics)
-- Quality over quantity - be thorough but concise
+- Minimum: 1,200 words (shorter only for very focused reference topics)
+- Standard: 1,500-2,500 words for most articles
+- Comprehensive: 2,500-4,000+ words for major topics or syllabus documentation
+- No maximum - prioritize completeness over brevity
+- Quality AND quantity - be thorough AND comprehensive
 
 ### Tone
+- Professional and educational
 - Knowledgeable but humble
-- Accessible but not patronizing
+- Accessible but not patronizing (explain clearly without dumbing down)
 - Personal but not self-centered
 - Respectful of tradition but not dogmatic
 - Honest about challenges and questions
+- Evidence-based and well-referenced
 - **Writing from the journey, not the destination** - You're first dan, still learning
+- More formal than blog posts, but still personal voice
 
 ### Your Voice & Perspective
 
@@ -661,7 +685,7 @@ What I've found in training is [concrete evidence from your practice].
 
 ### Expect Rigorous Feedback
 
-When you use `/review-aikido`, expect **high standards and direct, critical feedback**. This is MA-level work, not casual blogging.
+When you use `/review-aikido`, expect **high standards and direct, critical feedback**. This is educational article series work that could become a book, not casual blog writing.
 
 **The review will:**
 - Point out weaknesses directly without sugar-coating
@@ -683,14 +707,16 @@ Reviews are the start of a conversation, not a final judgment.
 5. **Re-review** - Get feedback on revisions until the post reaches excellence
 6. **Keep iterating** - Multiple review rounds are normal and encouraged
 
-### What "MA-Level Quality" Means
+### What "Educational Article Quality" Means
 
 **Content depth:**
-- Goes beyond surface-level information
-- Offers genuine insight, not just facts
+- Comprehensive coverage, not surface-level highlights
+- Offers genuine insight supported by evidence
 - Shows critical thinking about Aikido concepts
 - Draws on personal experience meaningfully
 - Challenges or expands conventional understanding
+- Leaves no significant gaps in topic coverage
+- Cross-references and builds on earlier articles in series
 
 **Writing quality:**
 - Every sentence serves a purpose (no padding)
@@ -709,11 +735,12 @@ Reviews are the start of a conversation, not a final judgment.
 ### Embrace the Critical Process
 
 **This approach will:**
-- Produce significantly better final posts
+- Produce significantly better final articles
 - Deepen your critical thinking about Aikido
 - Develop your writing and analytical skills
-- Ensure your posts offer real value to readers
-- Build a body of work you can be proud of
+- Ensure your articles offer real educational value to readers
+- Build a body of work worthy of book publication
+- Maintain consistency and quality across entire series
 
 **Remember:** Critical feedback is not personal criticism. It's a tool for achieving excellence. Welcome it as an opportunity to make your work stronger.
 
@@ -746,21 +773,23 @@ Reviews are the start of a conversation, not a final judgment.
 
 ## Using the Template
 
-1. Copy `blog-template.md` to create new post:
+1. Copy `article-template.md` to create new article:
    ```
-   cp blog-template.md posts/[topic-name]-YYYY-MM-DD.md
+   cp blog/article-template.md articles/[series-name]/[article-name].md
    ```
 
-2. Fill in metadata and title
+2. Fill in metadata including series, article number, and prerequisites
 
 3. Follow the structure but adapt to your topic
 
-4. Delete optional sections if not needed
+4. Ensure consistency with earlier articles in series
 
-5. Review with `/review-aikido` before finalizing
+5. Review with `/review-aikido` for quality, depth, and consistency
 
-6. Update `topics.md` to mark as completed
+6. Revise based on feedback (multiple rounds normal)
+
+7. Update `topics.md` to track article series progress
 
 ---
 
-*Remember: The goal is to share valuable insights that help readers deepen their understanding and practice of Aikido.*
+*Remember: The goal is to create comprehensive educational resources that teach Aikido thoroughly and could be compiled into a book. Prioritize depth, completeness, and self-consistency across the series.*

@@ -1,7 +1,7 @@
-# Aikido Blog MA Thesis - Quick Reference
+# Aikido Educational Article Series - Quick Reference
 
 ## Project Purpose
-Master's thesis project for writing Aikido blog posts with session continuity between Claude Code sessions.
+Master's thesis project for writing educational Aikido article series (designed for book publication) with session continuity between Claude Code sessions.
 
 ## Essential Commands
 
@@ -11,8 +11,8 @@ Master's thesis project for writing Aikido blog posts with session continuity be
 
 ### Content Creation Agents
 - `/discuss [topic]` - Explore topics through conversation → saves to discussions/
-- `/extract [file]` - Transform discussion into blog draft → saves to posts/
-- `/review-aikido [file]` - Review blog post quality before publishing
+- `/extract [file]` - Transform discussion into article draft → saves to articles/
+- `/review-aikido [file]` - Review article quality (educational depth, consistency, completeness)
 
 ### Content Discovery Agents
 - `/track-source [name] [url] [discipline]` - Register martial arts bloggers
@@ -31,13 +31,13 @@ Master's thesis project for writing Aikido blog posts with session continuity be
 
 **Session Management:**
 - `session-context.md` - Current status, recent work, next steps
-- `topics.md` - Blog topic queue and ideas
+- `topics.md` - Article series progress and queue
 - `decisions.md` - Decision log with rationale
 
 **Content:**
-- `posts/` - Blog post drafts and finals
+- `articles/` - Article series drafts and finals (organized by series)
 - `discussions/` - Informal topic explorations
-- `blog/blog-template.md` - Copy this for new posts
+- `blog/` - Article templates and guidelines (legacy name)
 
 **Reference (read when needed):**
 - `research/` - Core values, divisive topics, learning frameworks, biomechanics
@@ -47,16 +47,18 @@ Master's thesis project for writing Aikido blog posts with session continuity be
 ## Typical Workflows
 
 **Approach A: Discussion-Based (Recommended)**
-1. `/resume` → `/discuss [topic]` → `/extract` → develop → `/review-aikido` → `/checkpoint`
+1. `/resume` → `/discuss [topic]` → `/extract` → develop article → `/review-aikido` → revise → `/checkpoint`
 
 **Approach B: Direct Writing**
-1. `/resume` → copy template → write → `/review-aikido` → `/checkpoint`
+1. `/resume` → copy template → write article → `/review-aikido` → revise → `/checkpoint`
 
 **Approach C: Source-Inspired**
-1. `/track-source` → `/scan-sources` → `/discuss [inspired-topic]` → `/extract` → develop → `/review-aikido` → `/checkpoint`
+1. `/track-source` → `/scan-sources` → `/discuss [inspired-topic]` → `/extract` → develop article → `/review-aikido` → `/checkpoint`
 
 **Approach D: YouTube-Inspired**
-1. `/youtube fetch [url]` → review findings → `/discuss` → `/extract` → develop → `/review-aikido` → `/checkpoint`
+1. `/youtube fetch [url]` → review findings → `/discuss` → `/extract` → develop article → `/review-aikido` → `/checkpoint`
+
+**Note**: Articles should be written in series order. Review for consistency with earlier articles in same series.
 
 ## Key Principles
 
