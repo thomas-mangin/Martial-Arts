@@ -1,130 +1,120 @@
 # Session Context
 
-**Last Updated**: 2025-10-30 23:35
+**Last Updated**: 2025-10-31 00:15
 
 ---
 
 ## Current Status
 
-**YouTube Channel Analysis Project - Major Progress**
+**Information Architecture - System Optimization Complete**
 
-Completed comprehensive analyses of 4 Aikido YouTube channels + created independent analysis agent system. Downloads continuing in background for 2 additional large channels.
+Created comprehensive information routing system to maintain clean architecture and prevent file bloat. All file types and locations now have explicit routing rules.
 
-**Completed**:
-- ✅ 4 channel analyses (35,000+ words total)
-- ✅ 45+ blog post ideas generated
-- ✅ YouTube channel analyzer agent created
-- ✅ 3 channels fully downloaded (ChuShinTani, Matthieu, + 600 transcripts from others)
+**Completed This Session**:
+- ✅ Created complete information routing guide (.claude/docs/information-routing.md)
+- ✅ Added violence contexts framework to research/divisive-topics.md
+- ✅ Documented 14 routing categories with decision tree
+- ✅ Updated architecture.md with routing reference
 
-**In Progress**:
-- 🔄 SenshinOne: 432/1,588 (27% - running overnight)
-- 🔄 Guillaume Erard: 194/1,223 (16% - running overnight)
+**Background Context** (from previous sessions):
+- 4 YouTube channel analyses complete (35,000+ words)
+- 45+ blog post ideas generated
+- Additional transcript downloads may have completed overnight
 
 ---
 
 ## Recent Work (This Session)
 
-### 1. Created YouTube Channel Analysis Agent System
+### Information Routing System Creation
 
-**New Command**: `/analyze-youtube-channel <channel-name>`
+**Problem Identified**: User shared violence contexts framework, and I initially misplaced it in decisions.md (behavioral instructions) instead of research/divisive-topics.md (conceptual knowledge).
 
-**Agent File**: `.claude/agents/youtube-channel-analyzer.md`
-- Comprehensive analysis framework (1-2 hours per channel)
-- Runs independently in separate context
-- Systematic approach: Discovery → Theme ID → Sampling → Blog Ideas → Documentation
-- Handles any channel size (small/medium/large strategies)
+**Root Cause**: No clear routing rules for where different types of information should be stored.
 
-### 2. Completed 4 Comprehensive Channel Analyses
+**Solution Created**:
+1. **Comprehensive Routing Guide** - `.claude/docs/information-routing.md`
+   - 14 routing categories covering all file types
+   - 12-step decision tree for routing new information
+   - Quick reference table with test questions
+   - Examples showing correct routing
 
-#### Hein's Approach (ChuShinTani)
-- **Analysis**: 11,000+ words, 18 videos analyzed across 18-year span
-- **Themes**: 12 major themes (expanded from initial 7)
-- **Blog Ideas**: 15 high-value topics
-- **Key Finding**: Position-based framework (muhani → hanmi → hitomi → irimi) rare systematic approach
-- **File**: `sources/youtube/findings/2025-10-30-heins-approach-FULL-channel-analysis.md`
+2. **Categories Documented**:
+   - decisions.md - Behavioral instructions only
+   - syllabus/ - Technical Aikido instruction
+   - research/ - Conceptual frameworks and philosophy
+   - session-context.md - Current session state
+   - PROJECT-STATUS.md - Project phases and roadmap
+   - topics.md - Blog content planning
+   - sources/ - External content
+   - blog/ - Writing standards
+   - README.md - Getting started guide
+   - help.md (future: help/) - User documentation
+   - .claude/docs/ - System internals
+   - scripts/ - Utility code
+   - sessions/ - Auto-generated history
+   - posts/discussions/ - Your content
 
-#### Tony Sargeant
-- **Analysis**: 12,000+ words, 50+ videos analyzed from 455 total
-- **Themes**: 10 major themes (traditional Iwama focus)
-- **Blog Ideas**: 15 high-priority + 5 medium-priority
-- **Key Finding**: Traditional Iwama transmission, weapons-first, "99% doesn't work" honesty, kokyu/ki development
-- **File**: `sources/youtube/findings/2025-10-30-tony-sargeant-channel-analysis.md`
+3. **Moved Violence Contexts Framework** - From decisions.md to research/divisive-topics.md
+   - Four violence types: Monkey Dance, Predatory, Sport/Cage, War
+   - Context-specific effectiveness analysis
+   - Critical for understanding "does Aikido work?" debates
 
-#### Alexander Gent
-- **Analysis**: Comprehensive, 40+ videos analyzed from 85 transcripts
-- **Themes**: 8 major themes
-- **Blog Ideas**: 15 (7 high-priority, 8 medium)
-- **Key Finding**: Living bridge between traditional Iwama (Tony Sargeant student) and Shoot Aikido alive training
-- **File**: `sources/youtube/findings/2025-10-30-alexander-gent-channel-analysis.md`
-
-#### Matthieu Jeandel
-- **Analysis**: Limited (only 2/41 transcripts available)
-- **Key Finding**: Advanced Takemusu perspective, French instruction
-- **File**: `sources/youtube/findings/2025-10-30-matthieu-jeandel-channel-analysis.md`
-
-### 3. Transcript Downloads
-
-**Completed**:
-- ChuShinTani: 224/278 transcripts (80.6% success rate)
-- Matthieu Jeandel: 3/41 transcripts
-- Additional 600+ transcripts from SenshinOne/Guillaume Erard
-
-**In Progress** (overnight):
-- SenshinOne: 1,588 total videos (very large channel)
-- Guillaume Erard: 1,223 total videos (very large channel)
+4. **Updated Architecture** - Added routing guide reference to architecture.md
 
 ---
 
 ## Next Steps
 
-### IMMEDIATE: Monitor Overnight Downloads
+### IMMEDIATE: Clean Up Workspace
 
-**Background processes running**:
-- SenshinOne download (ETA: 4-5 hours)
-- Guillaume Erard download (ETA: 4-5 hours)
+**Issue Discovered**: 150+ YouTube transcript files (.srt, .json, .txt) in wrong location
+- Currently in: `sources/youtube/transcripts/` (working directory)
+- Should organize into proper channel subdirectories or clean up
 
-### AFTER DOWNLOADS COMPLETE:
+**Actions Needed**:
+1. Investigate which channels these transcripts belong to
+2. Move to proper `sources/youtube/transcripts/[channel-name]/` structure
+3. Or delete if duplicates/test downloads
 
-**Option A: Analyze Remaining Channels**
-1. Run `/analyze-youtube-channel senshinone`
-2. Run `/analyze-youtube-channel guillaume-erard`
-3. Complete 6-channel analysis set
+### AFTER CLEANUP:
 
-**Option B: Cross-Reference Analysis (4 Channels Ready)**
-- Compare Hein (modern systematic) vs Tony (traditional Iwama)
-- Explore Alexander as bridge figure (traditional → alive training evolution)
-- Synthesize insights across teaching philosophies
-- Update blog ideas with cross-referenced perspectives
+**Option A: Continue YouTube Analysis**
+- Check if SenshinOne/Guillaume Erard downloads completed
+- Analyze remaining channels if transcripts available
+- Complete 6-channel analysis set
 
-**Option C: Begin Blog Writing** (45+ ideas ready)
+**Option B: Begin Blog Writing** (45+ ideas ready from 4 channel analyses)
 - Start with high-priority topics:
+  - The Four Types of Violence: Why Context Determines What Works (NEW from this session)
   - The Four Positions: A Framework for Understanding Aikido Techniques
   - Why Aikido Techniques Look Weird (Until You Add Weapons)
-  - The Knife Defense Hierarchy: Distance > Tools > Technique
-  - The 3-of-5 Rule: How Traditional Aikido Tracks Mastery
   - The Shoot Aikido Approach: When Traditional Meets Alive Training
+
+**Option C: System Maintenance**
+- Review help.md structure (consider help/ folder as noted in routing guide)
+- Handle SYSTEM_REVIEW.md and .crush/ (deferred from this session)
+- Investigate research.md vs research/INDEX.md relationship
 
 ---
 
 ## Blockers/Questions
 
-**None** - System working autonomously. Downloads continuing overnight.
+**None currently**
 
 ---
 
 ## Notes
 
-**Session Significance**: Created reusable analysis infrastructure + completed foundational research for multi-perspective Aikido blog.
+**Session Focus**: Information architecture improvement triggered by user feedback
 
-**Key Insights**:
-- **Hein**: Rare systematic position-based organization
-- **Tony**: Authentic traditional Iwama transmission with brutal honesty
-- **Alexander**: Proof that traditional + alive training coexist (not either/or)
-- **Lineage visible**: Tony → Alexander shows evolution without rejection
+**Key Learning**: When user shares information, the system must have clear rules for where to store it. The routing guide now provides this structure.
 
-**Strategic Value**: 45+ blog ideas with cross-referenced perspectives from multiple expert instructors. Can write credible, nuanced content that acknowledges different valid approaches.
+**Impact**: Future sessions will maintain cleaner architecture - no more misplaced information causing file bloat.
 
-**Technical Achievement**: Independent analysis agent enables parallel work - downloads run in background while analyses complete in separate contexts.
+**User Insights Captured This Session**:
+- Violence contexts framework (4 types: Monkey Dance, Predatory, Sport, War)
+- Meta-concepts about file organization (README, help/, scripts/, syllabus/, etc.)
+- Clear distinction: behavioral instructions vs. conceptual knowledge vs. technical instruction
 
 ---
 
