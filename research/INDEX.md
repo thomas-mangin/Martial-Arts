@@ -17,9 +17,9 @@ Quick reference to research files. Load specific files only when needed.
 - **Purpose**: Ensure responsible discussion of martial applications
 
 **research/learning-journey.md** - Mastery stages and progression
-- **When to read**: Writing about learning, progression, or teaching methods
-- **Contains**: Knowing vs. Embodied framework, kata as alphabet, teaching implications
-- **Purpose**: Apply consistent learning frameworks
+- **When to read**: Writing about learning, progression, teaching methods, or demonstration robotization
+- **Contains**: Knowing vs. Embodied framework, kata as alphabet, 5-stage physical progression, demonstration robotization problem, teaching implications
+- **Purpose**: Apply consistent learning frameworks and understand teaching pitfalls
 
 ## Technical References
 
@@ -43,11 +43,6 @@ Quick reference to research files. Load specific files only when needed.
 - **When to read**: Writing about kamae, footwork, or structure
 - **Contains**: Stance functions, stances as transitions, teaching implications
 - **Purpose**: Technical depth on stance work
-
-**research/demonstration-robotization.md** - Teaching trap (rigid demos → rigid students)
-- **When to read**: Writing about teaching methods or learning process
-- **Contains**: How demonstration style affects student development
-- **Purpose**: Highlight common teaching pitfall
 
 ## Evidence & Analysis
 
@@ -74,12 +69,11 @@ Quick reference to research files. Load specific files only when needed.
 |------|----------|-------------|
 | divisive-topics.md | Controversial topics | Debate frameworks |
 | legal-ethical-context.md | Self-defense/violence topics | Legal responsibility, force continuum |
-| learning-journey.md | Learning/progression posts | Knowing vs. Embodied |
+| learning-journey.md | Learning/progression/teaching posts | Knowing vs. Embodied, 5 stages, demonstration robotization |
 | biomechanics/ | Technique posts | 40 principles, 130+ ideas |
 | contextual-design-framework.md | Kata/application posts | Context principle |
 | weapons-training-framework.md | Weapons posts | Ken/jo benefits |
 | stance-principles.md | Kamae/footwork posts | Stance functions |
-| demonstration-robotization.md | Teaching posts | Demo trap |
 | teaching-transmission-gap.md | Teaching posts | Transmission challenges |
 | tony-sargeant-evidence-summary.md | Iwama/video evidence | 456 transcript insights |
 | areas-needing-development.md | Topic selection | High-priority topics |
