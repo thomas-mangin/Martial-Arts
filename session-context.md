@@ -1,99 +1,116 @@
 # Session Context
 
-**Last Updated**: 2025-10-31 00:15
+**Last Updated**: 2025-10-31 01:30
 
 ---
 
 ## Current Status
 
-**Information Architecture - System Optimization Complete**
+**Deep Audit & Reorganization Planning Complete**
 
-Created comprehensive information routing system to maintain clean architecture and prevent file bloat. All file types and locations now have explicit routing rules.
+Conducted comprehensive audit of all documents against routing rules. Created detailed 8-phase reorganization plan to properly separate behavioral decisions, core beliefs, writing guidance, and research content.
 
 **Completed This Session**:
-- ✅ Created complete information routing guide (.claude/docs/information-routing.md)
-- ✅ Added violence contexts framework to research/divisive-topics.md
-- ✅ Documented 14 routing categories with decision tree
-- ✅ Updated architecture.md with routing reference
+- ✅ Audited all documents against routing rules
+- ✅ Identified overlaps between decisions.md and core-values.md
+- ✅ Created REORGANIZATION-PLAN.md (8 phases, 3 sessions)
+- ✅ Created decisions-NEW.md with 6-category structure (ready for review)
+- ✅ Planned findings/ directory for analysis summaries
+- ✅ Planned biomechanics/ subdirectory structure
+- ✅ Ready to execute after user approval
 
-**Background Context** (from previous sessions):
-- 4 YouTube channel analyses complete (35,000+ words)
-- 45+ blog post ideas generated
-- Additional transcript downloads may have completed overnight
+**Background Context**:
+- Information routing system created (previous session)
+- 4 YouTube channel analyses complete
+- 150+ transcript files need cleanup/organization
 
 ---
 
 ## Recent Work (This Session)
 
-### Information Routing System Creation
+### Comprehensive Document Audit & Reorganization Planning
 
-**Problem Identified**: User shared violence contexts framework, and I initially misplaced it in decisions.md (behavioral instructions) instead of research/divisive-topics.md (conceptual knowledge).
+**Trigger**: User requested audit of all documents against routing rules and evaluation of research/ structure
 
-**Root Cause**: No clear routing rules for where different types of information should be stored.
+**Audit Process**:
+1. **Reviewed all root-level files** (8 markdown files)
+2. **Analyzed research/ directory** (13 files, 6,321 total lines)
+3. **Identified overlaps and misplacements**
+4. **Evaluated file sizes** (biomechanical-principles.md = 1,293 lines)
 
-**Solution Created**:
-1. **Comprehensive Routing Guide** - `.claude/docs/information-routing.md`
-   - 14 routing categories covering all file types
-   - 12-step decision tree for routing new information
-   - Quick reference table with test questions
-   - Examples showing correct routing
+**Key Findings**:
+- ✅ Most files correctly routed
+- ⚠️ Overlap between decisions.md and core-values.md (behavioral guidance vs beliefs)
+- ⚠️ research.md duplicates research/INDEX.md
+- ⚠️ biomechanical-principles.md very large (needs splitting)
+- ⚠️ No dedicated space for analysis findings (video/blog summaries)
+- ⚠️ SYSTEM_REVIEW.md needs routing
 
-2. **Categories Documented**:
-   - decisions.md - Behavioral instructions only
-   - syllabus/ - Technical Aikido instruction
-   - research/ - Conceptual frameworks and philosophy
-   - session-context.md - Current session state
-   - PROJECT-STATUS.md - Project phases and roadmap
-   - topics.md - Blog content planning
-   - sources/ - External content
-   - blog/ - Writing standards
-   - README.md - Getting started guide
-   - help.md (future: help/) - User documentation
-   - .claude/docs/ - System internals
-   - scripts/ - Utility code
-   - sessions/ - Auto-generated history
-   - posts/discussions/ - Your content
+**User Directives Received**:
+- Break down decisions.md into categories
+- Move core-values content into appropriate decision categories
+- Create findings/ for video/blog analysis summaries
+- Route SYSTEM_REVIEW content (create new rules if needed)
+- Split biomechanics into logical subdirectory
+- Consolidate research indexes (use INDEX.md, delete research.md)
+- Move "how to write" guidance to blog/
 
-3. **Moved Violence Contexts Framework** - From decisions.md to research/divisive-topics.md
-   - Four violence types: Monkey Dance, Predatory, Sport/Cage, War
-   - Context-specific effectiveness analysis
-   - Critical for understanding "does Aikido work?" debates
+**Reorganization Plan Created**:
+- **8 phases** covering all reorganization work
+- **decisions-NEW.md** created with 6 categories:
+  1. Foundational Values (beliefs about martial arts)
+  2. Writing Style (how to write blog posts)
+  3. Content Strategy (audience, topics)
+  4. Content Quality (review standards)
+  5. System Architecture (technical organization)
+  6. Session Management (git, workflow)
+- **Timeline**: 2-3 sessions with checkpoints
+- **Files**: 7 new, 4 moved, 7 updated, 5 deleted
 
-4. **Updated Architecture** - Added routing guide reference to architecture.md
+**Deliverables**:
+- `REORGANIZATION-PLAN.md` - Complete execution plan
+- `decisions-NEW.md` - New categorized structure (awaiting approval)
 
 ---
 
 ## Next Steps
 
-### IMMEDIATE: Clean Up Workspace
+### IMMEDIATE: User Review & Approval
 
-**Issue Discovered**: 150+ YouTube transcript files (.srt, .json, .txt) in wrong location
-- Currently in: `sources/youtube/transcripts/` (working directory)
-- Should organize into proper channel subdirectories or clean up
+**Review REORGANIZATION-PLAN.md**:
+- Approve 6-category decisions.md structure?
+- Approve findings/ directory creation?
+- Approve biomechanics/ split now or defer?
+- Approve timeline (2-3 sessions)?
 
-**Actions Needed**:
-1. Investigate which channels these transcripts belong to
-2. Move to proper `sources/youtube/transcripts/[channel-name]/` structure
-3. Or delete if duplicates/test downloads
+**Review decisions-NEW.md**:
+- Check categorization makes sense
+- Verify all behavioral decisions captured
+- Confirm values properly separated from style guidance
 
-### AFTER CLEANUP:
+**Answer 5 Questions**:
+1. Approve the 6 categories (Values, Style, Strategy, Quality, Architecture, Management)?
+2. Delete core-values.md entirely or keep as pointer?
+3. findings/ at top-level or under sources/?
+4. Split biomechanics/ now or defer?
+5. Timeline: all in next session or split across 2-3?
 
-**Option A: Continue YouTube Analysis**
-- Check if SenshinOne/Guillaume Erard downloads completed
-- Analyze remaining channels if transcripts available
-- Complete 6-channel analysis set
+### AFTER APPROVAL: Execute Reorganization
 
-**Option B: Begin Blog Writing** (45+ ideas ready from 4 channel analyses)
-- Start with high-priority topics:
-  - The Four Types of Violence: Why Context Determines What Works (NEW from this session)
-  - The Four Positions: A Framework for Understanding Aikido Techniques
-  - Why Aikido Techniques Look Weird (Until You Add Weapons)
-  - The Shoot Aikido Approach: When Traditional Meets Alive Training
+**Session 2** (Next):
+- Phase 1: Replace decisions.md with categorized version
+- Phase 6: Consolidate research indexes
+- Phase 4: Route SYSTEM_REVIEW.md
+- Phase 7: Create blog-voice-guide.md
 
-**Option C: System Maintenance**
-- Review help.md structure (consider help/ folder as noted in routing guide)
-- Handle SYSTEM_REVIEW.md and .crush/ (deferred from this session)
-- Investigate research.md vs research/INDEX.md relationship
+**Session 3** (Later):
+- Phase 3: Create findings/ directory
+- Phase 5: Split biomechanics/ (if approved)
+- Phase 8: Update routing guide
+
+### ALSO PENDING:
+
+**Workspace Cleanup**: 150+ transcript files in sources/youtube/transcripts/ need organization
 
 ---
 
