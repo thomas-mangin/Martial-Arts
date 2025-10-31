@@ -775,7 +775,7 @@ Reviews are the start of a conversation, not a final judgment.
 
 1. Copy `article-template.md` to create new article:
    ```
-   cp blog/article-template.md articles/[series-name]/[article-name].md
+   cp article/article-template.md articles/[series-name]/[article-name].md
    ```
 
 2. Fill in metadata including series, article number, and prerequisites

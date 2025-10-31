@@ -5,29 +5,14 @@
 ---
 
 ## Current Article
-<!-- The article you're currently working on -->
-*None - Ready to start*
 
-**Series**: [Series name]
-**Article**: [Article title]
-**Number**: [e.g., "3 of 7" or "Chapter 2.3"]
-**Primary Audience**: [1-2 audience profiles]
-**Secondary Audiences**: [2-3 additional profiles]
-**Status**: [Planning / Drafting / Under Review / Revising / Complete]
-**File**: [articles/series-name/article-name.md]
+*None - Ready to start*
 
 ---
 
 ## Article Series Queue
-<!-- Series you plan to write, in priority order -->
-<!-- Format: Series Name (Total articles) - Primary audiences - Status -->
 
-1. [Series Name] ([X] articles) - [Primary: Audience] - [Status: Not Started / In Progress / Complete]
-2. [Series Name] ([X] articles) - [Primary: Audience] - [Status]
-
-**Example**:
-1. Biomechanics Foundations (6 articles) - [Primary: Beginners, Intermediate, Technical focus] - [Status: Not Started]
-2. Teaching Aikido Effectively (5 articles) - [Primary: Instructors] - [Status: Not Started]
+*None queued yet - use research/ and sources/ to identify topics*
 
 ---
 
@@ -69,52 +54,18 @@ These can be incorporated into series above with strong multi-source evidence.
 
 ---
 
-## Completed Articles by Series
-<!-- Archive of completed articles organized by series -->
-<!-- Format: Series Name: ✓ Article # - Title - Date - File -->
+## Completed Articles
 
-**Example Series**:
-- **Biomechanics Foundations**:
-  - ✓ Article 1 - Newton's Third Law in Aikido - 2025-10-15 - articles/biomechanics/01-newtons-law.md
-  - ✓ Article 2 - The Kinetic Chain - 2025-10-22 - articles/biomechanics/02-kinetic-chain.md
-
-*No articles completed yet - system just restructured to article series approach*
+*None yet - system just restructured to article series approach*
 
 ---
 
 ## Audience Coverage Tracking
 
-**Purpose**: Ensure all audience profiles receive valuable content over time through series planning
+**Last Review**: None yet - will track after first articles are written
 
-**Last Review**: [Date]
-
-### By Experience Level
-- **Beginners (0-2 years)**: [Count] articles across [X] series
-- **Intermediate (3-7 years)**: [Count] articles across [X] series
-- **Advanced (8+ years)**: [Count] articles across [X] series
-- **Returning practitioners**: [Count] articles across [X] series
-
-### By Role
-- **Students**: [Count] articles
-- **Instructors/Teachers**: [Count] articles
-- **Dojo Owners**: [Count] articles
-
-### By Interest
-- **Technical/Mechanical**: [Count] articles
-- **Philosophical/Spiritual**: [Count] articles
-- **Practical/Martial**: [Count] articles
-- **Historical/Cultural**: [Count] articles
-- **Syllabus Reference**: [Count] articles
-
-### Adjacent Audiences
-- **Parents**: [Count] articles
-- **Prospective students**: [Count] articles
-- **Cross-training martial artists**: [Count] articles
-
-**Underserved Audiences**: [List profiles that need more focused series]
-
-**Series Planning**: [Which audiences to prioritize in next series development]
+Track article count by experience level (Beginners, Intermediate, Advanced), role (Students, Instructors, Dojo Owners), and interest (Technical, Philosophical, Practical, Historical, Syllabus Reference). See `research/audience-profiles.md` for complete definitions.
 
 ---
 
-*Update this file as you plan series, write articles, and track completion. Review periodically to ensure diverse audience coverage across all series.*
+*Update as you write articles. Review quarterly to ensure balanced audience coverage.*

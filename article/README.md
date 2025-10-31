@@ -1,4 +1,4 @@
-# Blog Directory (Guidelines & Templates)
+# Article Guidelines & Templates
 
 **Note**: This directory contains article writing **guidelines and templates**, not the articles themselves. Actual article content is in `/articles/`.
 
@@ -32,10 +32,10 @@ For writing articles, see:
 
 ## Directory Distinction
 
-- **`/blog/`** (this directory) = Guidelines, templates, reference materials
+- **`/article/`** (this directory) = Guidelines, templates, reference materials
 - **`/articles/`** = Actual article content organized by series
 - **`/discussions/`** = Informal topic explorations before extraction
 
 ---
 
-*This "blog" directory name is legacy but functional. Consider it your "article writing toolkit".*
+*Consider this your "article writing toolkit" with all the reference materials you need.*

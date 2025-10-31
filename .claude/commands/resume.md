@@ -26,7 +26,19 @@ You are helping the user resume work from their previous session by loading save
      ────────────────────────────────────────────
      ```
 
-2. **Load Session Context**
+2. **Check for Crash Recovery State**
+   - Read `.claude/state/current-objective.md` if it exists
+   - If it contains a real objective (not template):
+     - Display a **CRASH RECOVERY** notice showing the saved objective
+     - Show progress, blockers, and next steps from state file
+     - This ensures continuity even after crashes or interruptions
+   - Read `.claude/state/backlog.md` if it exists
+   - If backlog has active tasks:
+     - Show count of paused/backlog tasks
+     - Note: "You have [N] paused tasks in backlog"
+   - This state tracking ensures no work is ever lost
+
+3. **Load Session Context**
    - Read `session-context.md`
    - Display a clear summary of:
      - Current Status: What they were working on
@@ -35,20 +47,20 @@ You are helping the user resume work from their previous session by loading save
      - Blockers/Questions: Any issues or decisions needed
      - Notes: Any other relevant context
 
-3. **Review Current Topic**
+4. **Review Current Topic**
    - Read `topics.md`
    - Show the current topic they're working on
    - Show the next topics in queue
 
-4. **Check Git Status**
+5. **Check Git Status**
    - Run `git status` to show if there are any uncommitted changes
    - This helps identify if any work-in-progress exists
 
-5. **Recent Decisions**
+6. **Recent Decisions**
    - Read the last 2-3 entries from `decisions.md`
    - Show recent decisions for context
 
-6. **Ask How to Proceed**
+7. **Ask How to Proceed**
    - Based on the session context, ask the user:
      - "Would you like to continue with [current task from next steps]?"
      - "Or would you like to work on something else?"

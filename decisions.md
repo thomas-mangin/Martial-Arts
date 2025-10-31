@@ -308,6 +308,29 @@ This document contains only **active decisions** that affect how Claude should t
 
 **Why**: Agents exist to handle complexity internally. Let them have full context and make holistic decisions.
 
+### Crash Recovery State Tracking
+**Decision**: Implement explicit state tracking in `.claude/state/` for crash recovery and task management
+**Date**: 2025-10-31
+
+**How this affects thinking**:
+- Current objective is always preserved in `.claude/state/current-objective.md`
+- Backlog of paused tasks maintained in `.claude/state/backlog.md`
+- `/checkpoint` automatically saves state at session end
+- `/resume` loads state and shows crash recovery notice if needed
+- `/save-objective` provides explicit state save during work
+- `/pause-task` enables seamless task switching with full context preservation
+- No work is ever lost, even if Claude crashes or user needs to interrupt urgently
+
+**State tracking includes**:
+- Agreed objective and requirements
+- Approach and reasoning
+- Progress (completed, in progress, remaining)
+- Blockers and questions
+- Context files and references
+- Pause reasons and priorities for backlog items
+
+**Why**: Defensive programming ensures continuity. Crashes happen, priorities change, urgent work interrupts. State tracking ensures no context or work is ever lost, building user trust and enabling seamless resumption even after interruptions.
+
 ---
 
 ## Session Management

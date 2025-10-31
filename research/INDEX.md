@@ -4,15 +4,17 @@ Quick reference to research files. Load specific files only when needed.
 
 ## Authenticity & Voice
 
-**research/core-values.md** - Your fundamental beliefs as martial artist
-- **When to read**: Before writing on teaching, philosophy, or controversial topics
-- **Contains**: Teaching philosophy, mastery concepts, style perspectives, Aikido positions
-- **Purpose**: Ensure consistency and authentic voice
+**Note**: Core values and writing style guidance have been moved to `decisions.md` (root level) for easier access.
 
 **research/divisive-topics.md** - Community debates and controversies
 - **When to read**: Writing on controversial topics or responding to debates
 - **Contains**: Aikido debates, general martial arts debates, frameworks for nuance
 - **Purpose**: Handle controversial topics with awareness and respect
+
+**research/legal-ethical-context.md** - Legal and ethical framework for self-defense
+- **When to read**: Writing about technique effectiveness, self-defense, or violence
+- **Contains**: Force continuum, proportionate response, legal responsibility, vital points context
+- **Purpose**: Ensure responsible discussion of martial applications
 
 **research/learning-journey.md** - Mastery stages and progression
 - **When to read**: Writing about learning, progression, or teaching methods
@@ -47,6 +49,13 @@ Quick reference to research files. Load specific files only when needed.
 - **Contains**: How demonstration style affects student development
 - **Purpose**: Highlight common teaching pitfall
 
+## Evidence & Analysis
+
+**research/tony-sargeant-evidence-summary.md** - Summary of Tony Sargeant video analysis
+- **When to read**: Writing about Iwama tradition, weapons training, or citing video evidence
+- **Contains**: Key insights from 456 transcript analysis, teaching patterns, evidence categories
+- **Purpose**: Reference authoritative Iwama source with specific examples
+
 ## Planning & Development
 
 **research/areas-needing-development.md** - Topics needing /discuss sessions
@@ -63,16 +72,20 @@ Quick reference to research files. Load specific files only when needed.
 
 | File | Load For | Key Content |
 |------|----------|-------------|
-| core-values.md | Authenticity check | Your beliefs & positions |
 | divisive-topics.md | Controversial topics | Debate frameworks |
+| legal-ethical-context.md | Self-defense/violence topics | Legal responsibility, force continuum |
 | learning-journey.md | Learning/progression posts | Knowing vs. Embodied |
-| biomechanics/ | Technique posts | 32 principles, 90+ ideas |
+| biomechanics/ | Technique posts | 40 principles, 130+ ideas |
 | contextual-design-framework.md | Kata/application posts | Context principle |
 | weapons-training-framework.md | Weapons posts | Ken/jo benefits |
 | stance-principles.md | Kamae/footwork posts | Stance functions |
 | demonstration-robotization.md | Teaching posts | Demo trap |
+| teaching-transmission-gap.md | Teaching posts | Transmission challenges |
+| tony-sargeant-evidence-summary.md | Iwama/video evidence | 456 transcript insights |
 | areas-needing-development.md | Topic selection | High-priority topics |
 | audience-profiles.md | Audience targeting | Reader profiles |
+
+**Note**: Core values moved to `decisions.md` (root level) - see there for writing voice and foundational beliefs.
 
 ## Loading Strategy
 

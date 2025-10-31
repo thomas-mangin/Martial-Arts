@@ -18,24 +18,31 @@ You are helping the user save their current session state so they can resume wor
      - Show user what was committed
    - If no changes, note that everything is already committed
 
-3. **Session Context Already Updated**
+3. **Save Critical State** (Crash Recovery)
+   - Check if `.claude/state/current-objective.md` exists and has content
+   - If it has a real objective (not template), preserve it in session summary
+   - Check if `.claude/state/backlog.md` has active tasks
+   - If backlog has tasks, note them in session summary
+   - This ensures no work is lost if Claude crashes or restarts
+
+4. **Session Context Already Updated**
    - Assume `session-context.md` was updated during the session
    - Do NOT ask user to update it again
    - Just note that context will be saved in session summary
 
-4. **Topics File**
+5. **Topics File**
    - Assume `topics.md` is current
    - Do NOT ask for updates
    - Will be reflected in session summary if changed
 
-5. **Infer Decisions Automatically**
+6. **Infer Decisions Automatically**
    - Look at conversation history and files changed
    - If major architectural changes, new systems created, or significant choices made:
      - Add decision to `decisions.md` automatically
      - Include date, decision, and rationale based on work done
    - Do NOT ask user if decisions were made - infer from context
 
-6. **Create Session Summary Automatically**
+7. **Create Session Summary Automatically**
    - Generate timestamped session summary in `sessions/` directory
    - Filename: `session-YYYY-MM-DD-HHMM.md` (use current timestamp)
    - **Analyze the session automatically**:
@@ -57,13 +64,13 @@ You are helping the user save their current session state so they can resume wor
      - Notes (any other relevant context)
    - Write summary automatically - no user input needed
 
-7. **Push to GitHub**
+8. **Push to GitHub**
    - Check if git remote is configured: `git remote -v`
    - If remote exists, push to GitHub: `git push origin main`
    - If push succeeds, confirm to user
    - If push fails (e.g., no remote, authentication issues), inform user but don't block checkpoint completion
 
-8. **Summary**
+9. **Summary**
    - Show a brief summary of what was checkpointed
    - Mention the session summary file that was created
    - Confirm push to GitHub (if successful)

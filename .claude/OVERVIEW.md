@@ -9,6 +9,10 @@ Master's thesis project for writing educational Aikido article series (designed 
 - `/resume` - Load previous session state (run at start of every session)
 - `/checkpoint` - Save state and commit to git (run at end of every session)
 
+### Crash Recovery & State Management
+- `/save-objective` - Explicitly save current work objective (for crash recovery)
+- `/pause-task [reason]` - Move current task to backlog when switching to urgent work
+
 ### Content Creation Agents
 - `/discuss [topic]` - Explore topics through conversation → saves to discussions/
 - `/extract [file]` - Transform discussion into article draft → saves to articles/
@@ -33,11 +37,13 @@ Master's thesis project for writing educational Aikido article series (designed 
 - `session-context.md` - Current status, recent work, next steps
 - `topics.md` - Article series progress and queue
 - `decisions.md` - Decision log with rationale
+- `.claude/state/current-objective.md` - Active task for crash recovery
+- `.claude/state/backlog.md` - Paused/deferred tasks
 
 **Content:**
 - `articles/` - Article series drafts and finals (organized by series)
 - `discussions/` - Informal topic explorations
-- `blog/` - Article templates and guidelines (legacy name)
+- `article/` - Article templates and guidelines
 
 **Reference (read when needed):**
 - `research/` - Core values, divisive topics, learning frameworks, biomechanics
@@ -67,6 +73,7 @@ Master's thesis project for writing educational Aikido article series (designed 
 3. **Never push to remote** unless explicitly requested
 4. **Use agents for heavy tasks** - They handle details internally
 5. **Reference detailed docs** only when needed - See `.claude/docs/`
+6. **State is preserved** - Current objective and backlog tracked in `.claude/state/` for crash recovery
 
 ## Need More Details?
 
