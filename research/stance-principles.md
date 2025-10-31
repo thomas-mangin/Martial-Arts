@@ -2,9 +2,9 @@
 
 **Purpose**: Comprehensive framework for understanding what makes a good stance, why stances are transitions (not destinations), and how weapon properties dictate stance requirements.
 
-**Last Updated**: 2025-10-30
+**Last Updated**: 2025-10-31
 
-**Status**: ⭐⭐ VERY HIGH PRIORITY - Needs /discuss for full development
+**Status**: ⭐⭐ VERY HIGH PRIORITY - Being developed incrementally
 
 ---
 
@@ -189,18 +189,132 @@ This needs comprehensive framework covering stance mechanics, movement flow, and
 
 ---
 
-## Blog Potential (10+ posts)
+## E. Specific Stance Types
 
+### Back-Loaded Stance (Ushiro Ashi / Rear-Weighted)
+
+**Found in**:
+- First Ken cut (suburi ichi - first bokken suburi)
+- Third Jo kata (hishiro tsuki - back strike)
+- Xin Yi (Chinese martial art) - similar to "sitting on invisible high chair"
+- Karate: Cat stance (neko ashi dachi) - similar concept
+
+**Physical Description**:
+- Weight primarily on back leg (70-80% rear-weighted)
+- Like sitting on a non-present high chair
+- Front leg light, back leg bearing load
+- Lower body positioning as if seated, but standing
+
+**Structural Requirements**:
+- Requires specific muscle development (not common daily movement)
+- Needs dedicated training for strength and posture
+- Must train stance to maintain position under pressure
+- Not naturally developed through normal activity
+
+**Jo Application (Hishiro Tsuki - Back Strike)**:
+- Shift hip backward to point of "falling" (controlled fall)
+- Each step is a controlled fall, not a static position
+- Back-loading creates coiled power before turn
+- Weight shift enables rotational power when turning
+- Practice: Load back leg → turn → strike
+
+**Ken Application (First Cut - Suburi Ichi)**:
+- Stop position: Back aligns with middle of rear calf
+- Strong stance to resist forward pressure
+- Combined with unbendable arm principle (#26)
+- Hips square to pressure (facing direction of force)
+- Structure absorbs/redirects incoming force
+
+**Biomechanical Function**:
+- **Stability**: Strong against forward pressure when properly aligned
+- **Power Storage**: Rear-loaded creates spring-like potential
+- **Mobility**: Paradoxically mobile - ready to shift forward or rotate
+- **Structural Integrity**: Hips square to force maintains alignment
+
+**Why It's Strong**:
+- Skeletal structure stacked efficiently on rear leg
+- Front leg free to adjust/move without losing structure
+- Hip alignment faces incoming force (principle #16 - directional vulnerability)
+- Combined with relaxed structure (unbendable arm) creates resilient system
+- Like compressed spring - loaded and ready to release
+
+**Training Requirements**:
+- Build posterior chain strength (glutes, hamstrings, calves)
+- Develop hip flexibility for deep loading
+- Practice maintaining posture under fatigue
+- Train balance on single leg (essentially standing on back leg)
+- Develop proprioception for "point of falling" awareness
+
+**Connection to Other Principles**:
+- **#26 Unbendable Arm**: Relaxation + structure, especially in ken application
+- **#25 Hip Rotation + Tai Sabaki**: Back-loading enables powerful rotation (jo application)
+- **#16 Directional Vulnerability**: Hips square to pressure uses frontal strength
+- **#8 Grounding and Connection**: Weight primarily through one leg to ground
+- **#2 Gravity**: Controlled fall concept (jo shifting backward)
+- **#5 Balance on Contact**: Maintaining structure while rear-weighted
+
+**Common Errors**:
+- Locking rear knee (tension, not structure)
+- Leaning backward instead of sitting (breaks alignment)
+- Front leg too weighted (defeats purpose of back-loading)
+- Hips not square to pressure (creates lateral weakness)
+- Static holding instead of dynamic readiness
+
+**Cross-Discipline Recognition**:
+- **Xin Yi**: "Standing like sitting" posture
+- **Karate**: Cat stance (neko ashi dachi)
+- **Aikido**: First ken cut, jo kata positions
+- Shows universal biomechanical principle across arts
+
+**Teaching Implications**:
+- Must be explicitly trained (doesn't develop naturally)
+- Build progressively: partial loading → full rear-weighting
+- Use wall for balance practice initially
+- Connect to weapons (jo/ken) to show application
+- Emphasize controlled fall concept (not static position)
+
+**Blog Potential**:
+- "The Back-Loaded Stance: Why You Need to Sit on an Invisible Chair"
+- "First Ken Cut: The Stance That Stops Forward Pressure"
+- "Hishiro Tsuki: The Controlled Fall That Creates Power"
+- "Why Aikido Stances Look Like Karate Cat Stance (They Shouldn't, But...)"
+- "Cross-Training Insights: Xin Yi's Sitting Stance and Aikido's First Cut"
+- "How to Train the Rear-Weighted Stance Without Killing Your Legs"
+
+**Questions to Explore**:
+- How does back-loaded stance differ from 50/50 or forward-weighted?
+- Why is this uncommon in daily movement (what makes it special)?
+- How does controlled fall concept relate to continuous movement?
+- When should you use rear-weighted vs. other weight distributions?
+- How does this stance enable different types of power generation?
+
+---
+
+## Blog Potential (16+ posts)
+
+**General Stance Principles**:
 1. "What Makes a Good Stance: Stability, Power, and Movement"
 2. "The Three-Way Balance: Why Perfect Stance Doesn't Exist"
 3. "Stances Are Transitions, Not Destinations"
 4. "Why Stopping in Your Stance Makes You Vulnerable"
 5. "Flowing Through Positions: The Walking Principle"
-6. "Jo vs Ken Stances: Why Weapons Require Different Footwork"
-7. "How Weapon Properties Dictate Stance Requirements"
-8. "From Weapons to Empty Hand: How Jo/Ken Training Develops Better Stance"
-9. "The Static Stance Trap: Why Freezing in Position Breaks Flow"
-10. "Teaching Stances Without Creating Rigidity"
+6. "Teaching Stances Without Creating Rigidity"
+
+**Weapon-Specific Stances**:
+7. "Jo vs Ken Stances: Why Weapons Require Different Footwork"
+8. "How Weapon Properties Dictate Stance Requirements"
+9. "From Weapons to Empty Hand: How Jo/Ken Training Develops Better Stance"
+
+**Back-Loaded Stance Series**:
+10. "The Back-Loaded Stance: Why You Need to Sit on an Invisible Chair"
+11. "First Ken Cut: The Stance That Stops Forward Pressure"
+12. "Hishiro Tsuki: The Controlled Fall That Creates Power"
+13. "Cross-Training Insights: Xin Yi's Sitting Stance and Aikido's First Cut"
+14. "How to Train the Rear-Weighted Stance Without Killing Your Legs"
+
+**Advanced Topics**:
+15. "The Static Stance Trap: Why Freezing in Position Breaks Flow"
+16. "Weight Distribution Strategies: When to Front-Load, Back-Load, or Balance"
 
 ---
 
@@ -218,11 +332,11 @@ This needs comprehensive framework covering stance mechanics, movement flow, and
 
 ## Cross-References
 
-- **biomechanical-principles.md**: Principles #3, #8, #9, #14, #17, #24, #25
+- **biomechanical-principles.md**: Principles #2, #3, #5, #8, #9, #14, #16, #17, #24, #25, #26
 - **learning-journey.md**: Stage 3 (timing/flow) vs. rigid positioning
-- **weapons-training-framework.md**: Jo vs ken stances, 13th jo kata fluidity
+- **weapons-training-framework.md**: Jo vs ken stances, 13th jo kata fluidity, specific kata applications
 - **demonstration-robotization.md**: How demonstration practice reinforces static stances
-- **core-values.md**: Iwama approach (structure before relaxation)
+- **decisions.md**: Foundational values (biomechanics over mysticism)
 
 ---
 
