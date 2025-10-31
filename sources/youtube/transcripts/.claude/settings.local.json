@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:www.internalfightingartsblog.com)",
+      "WebFetch(domain:brianejohns.com)",
+      "WebFetch(domain:thetaichinotebook.com)"
     ],
     "deny": [],
     "ask": []

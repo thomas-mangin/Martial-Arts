@@ -122,7 +122,7 @@
 - Hips are center of mass - largest rotational force available
 - Core muscles (glutes, obliques, psoas) are strongest muscle groups
 - Rotation multiplies force through angular momentum
-- Power flows: Ground ’ Back foot push ’ Hip rotation ’ Body ’ Contact
+- Power flows: Ground ï¿½ Back foot push ï¿½ Hip rotation ï¿½ Body ï¿½ Contact
 
 **Cross-Discipline Validation**:
 - **Boxing**: Punches come from hip rotation + back foot pushing (not just arms)
@@ -298,6 +298,105 @@ Tai sabaki works because you're moving your body mass (via hip rotation and weig
 - "Why Your Tenkan Feels Weak (You're Using Shoulders, Not Hips)"
 - "Lateral Movement Done Right: The Hip Rotation Secret"
 - "From Taijutsu to Ken: One Principle, Two Applications"
+
+---
+
+## 35. Silk-Reeling / Spiral Movement - Helical Power Paths
+
+**Principle**: Power transmission through the body often follows spiral/helical paths rather than straight lines. This "silk-reeling" creates more efficient force transfer and allows continuous adjustment during movement.
+
+**Physical Explanation**:
+- Straight-line movement = rigid, one-dimensional
+- Spiral movement = three-dimensional, adaptive
+- Rotation + translation = helical path (like screw thread)
+- Muscles and fascia naturally work in spiral patterns
+- Joints rotate while moving linearly (shoulder, hip)
+
+**The Silk-Reeling Metaphor (Chinese Martial Arts)**:
+- Like drawing silk thread from cocoon
+- Continuous, smooth, spiraling motion
+- Not abrupt linear pulls
+- Maintains connection throughout movement
+- Named for the physical skill, not mystical concept
+
+**Biomechanical Reality**:
+- Hip rotation + forward movement = spiral path
+- Wrist rotation + arm extension = helical strike
+- Body turn + step forward = circular entry
+- Multiple rotational axes combining = complex spirals
+- More efficient than pure linear or pure rotational
+
+**Aikido Applications**:
+- Irimi-tenkan: Straight entry + rotation = spiral path
+- Joint locks: Spiral pressure more effective than single-plane
+- Throws: Body spirals uke down, not just pushes or pulls
+- Kokyu-ho: Extension combines with rotation (not pure push)
+- Why techniques flow smoothly (spiral paths are continuous)
+
+**Connection to Other Principles**:
+- **#25 Hip Rotation + Tai Sabaki**: Rotation component of spiral
+- **#30 Hip-Driven Lateral**: Lateral movement via rotation = spiral
+- **#28 Vertical Movement Priority**: Vertical + rotation = helical
+- **#8 Grounding and Connection**: Spiral transmits ground force efficiently
+- **#5 Balance on Contact**: Spiral maintains continuous kuzushi
+
+**Cross-Discipline Recognition**:
+- **Ken Gullette**: Lists silk-reeling as one of six core body mechanics
+- **Chen Taijiquan**: Silk-reeling (chan si jin) is fundamental principle
+- **Bagua**: Entire system based on spiral/circular movement
+- **Aikido**: Spiral/circular paths throughout all technique
+- **Biomechanics**: Helical movement patterns in all human motion
+
+**Why Spirals Work Better**:
+- Continuously changing angle (harder to resist)
+- Engages multiple muscle groups sequentially
+- Allows micro-adjustments during movement
+- More natural to human joint structure
+- Maintains connection better than straight lines
+
+**Teaching Implications**:
+- Show spiral path vs. straight push difference
+- "Turn as you enter" = creating spiral
+- Joint locks work via spiral pressure, not linear
+- Demonstrate with rope/ribbon to show path
+- Connect to Chinese martial arts terminology for broader understanding
+
+**Common Errors**:
+- Moving in pure straight lines (missing rotational component)
+- Rotating without translation (spinning in place)
+- Thinking "circular" means going around (it's helical/3D)
+- Missing the continuous nature (stopping and restarting)
+- Over-complicating (spirals emerge naturally from hip rotation + movement)
+
+**Observation Note (First Dan Perspective)**:
+- I see spiral paths in advanced practitioners but didn't have name for it
+- "Circular" describes appearance, "spiral/helical" describes actual path
+- Easier to understand with weapons (bokken path is obviously helical)
+- Still learning to create smooth spirals vs. linear-then-rotate sequences
+- Ken Gullette's terminology helps clarify what I was observing
+
+**Why This Matters**:
+- Explains why aikido feels "circular" without being mystical
+- Connects to internal martial arts (same biomechanics)
+- More efficient power transfer than pure linear
+- Foundation for smooth, flowing technique
+- Natural result of combining rotation with translation
+
+**Blog Potential**:
+- "Silk-Reeling in Aikido: The Spiral Paths of Power"
+- "Why Aikido is Circular: Helical Movement Explained"
+- "From Taiji to Aikido: The Universal Spiral Principle"
+- "How to Create Spiral Movement: Hip Rotation + Linear Motion"
+- "Why Joint Locks Use Spirals, Not Straight Pressure"
+- "The Geometry of Flow: Understanding Helical Paths"
+
+**Training Methods**:
+- Slow motion technique showing spiral path
+- Use ribbon/streamer to visualize path
+- Practice irimi-tenkan emphasizing continuous spiral
+- Partner resistance test: spiral vs. linear effectiveness
+- Video analysis comparing spiral vs. linear paths
+- Study Chen Taiji silk-reeling exercises
 
 ---
 
