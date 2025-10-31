@@ -167,6 +167,36 @@ This document contains only **active decisions** that affect how Claude should t
 
 **Reference**: research/divisive-topics.md (Violence Context Framework)
 
+### Legal/Ethical Responsibility in Blog Writing
+**Decision**: Always address legal and ethical context when discussing technique effectiveness, especially vital points or potentially excessive force
+
+**How this affects thinking**:
+- Effectiveness ≠ Appropriateness (just because it works doesn't mean it's legal/ethical)
+- When discussing any technique, address THREE dimensions: tactical effectiveness, violence context, legal appropriateness
+- Never promote techniques without discussing legal implications
+- Acknowledge historical context problem (martial arts created when powerful classes had impunity)
+- Highlight Aikido's legal advantage (control without killing = legally defensible for most scenarios)
+- Educate readers about force continuum and proportionate response
+- Include standard disclaimers when relevant ("not legal advice, laws vary by jurisdiction")
+
+**Standard approach when discussing techniques**:
+1. Explain WHY it works (biomechanics)
+2. Acknowledge WHEN it's effective (threat level)
+3. Discuss WHEN it's appropriate (legal/ethical context)
+4. Suggest alternatives if force level problematic
+
+**Why**: Readers have legal and ethical responsibility when applying martial arts. Teaching technique without context is irresponsible. Modern civilian self-defense is governed by law - trained martial artists held to higher standard and can face criminal charges for excessive force.
+
+**Your Context**: French military background means understanding both violence reality AND legal constraints that govern civilian self-defense (different from military ROE).
+
+**Reference**:
+- research/legal-ethical-context.md (full framework)
+- syllabus/vital-points-reference.md (anatomical targets and legal context)
+- research/divisive-topics.md (Legal Context of Self-Defense section)
+
+**Example application**:
+> "Wing Chun's centerline attack with throat strike is biomechanically brilliant and devastatingly effective. However, throat strikes constitute deadly force and are only legally justified when facing an imminent deadly threat (weapon, multiple attackers, disparity of force). For typical self-defense scenarios (unarmed attacker, single opponent), control techniques like Aikido's ikkyo or nikyo are both effective AND legally defensible as proportionate force."
+
 ---
 
 ## Content Quality
