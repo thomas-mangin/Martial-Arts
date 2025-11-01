@@ -1,10 +1,17 @@
 # Instance Registry
 
-**Last Updated**: 2025-11-01 15:37
+**Last Updated**: 2025-11-01 17:31
 
 ---
 
-## Active Instances (4)
+## Active Instances (5)
+
+### 2025-11-01-1731
+- **Status**: Active
+- **Created**: 2025-11-01 17:31
+- **Last Heartbeat**: 2025-11-01 17:31
+- **Working On**: New session - awaiting direction
+- **Location**: `.claude/state/instances/2025-11-01-1731/`
 
 ### 2025-11-01-1537
 - **Status**: Active
@@ -44,8 +51,8 @@
 
 ## Statistics
 
-- **Total instances**: 4
-- **Active**: 2
+- **Total instances**: 5
+- **Active**: 3
 - **Idle**: 2
 - **Stale (>24h)**: 0
 - **Archived**: 0

@@ -6,6 +6,13 @@
 
 **Context**: User's wisdom after my overly simplistic "Aikido needs to train like BJJ" thinking
 
+**Related Documents**:
+- `physical-development-stages.md` - Technical details on HOW physical development occurs (4 stages of grounding, strength-to-relaxation progression, body prerequisites)
+- `aikido-compliance-problem.md` - Specific training methodology failure in much of Aikido
+- `training-constraints-dangerous-techniques.md` - Danger constraint and training solutions from other arts
+
+**This document addresses**: WHY multiple paths exist, WHICH path to choose based on values, understanding trade-offs are unsolvable
+
 ---
 
 ## WHY This Perspective Matters
