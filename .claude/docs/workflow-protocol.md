@@ -2,6 +2,25 @@
 
 **Purpose**: Ensure consistent, efficient interaction patterns across all Claude Code sessions with clear objective tracking and crash recovery.
 
+**Last Updated**: 2025-11-01
+
+---
+
+## WHY-First Thinking (CRITICAL)
+
+**Primary Principle**: When the WHY is clear, all other questions (WHAT, HOW, WHEN) become easier to answer.
+
+**Every significant decision, analysis, or work product must document**:
+1. **WHY** - Rationale, purpose, reasoning (MOST IMPORTANT)
+2. **WHAT** - Decisions, conclusions, outputs
+3. **HOW** - Approach, methodology, implementation
+4. **Alternatives considered** - What was rejected and why
+5. **Assumptions & context** - What underlies decisions
+
+**See**: `.claude/docs/design-principles.md` for complete WHY-first thinking framework and examples.
+
+**Purpose**: Conclusions without reasoning are shallow and difficult to resume. Future Claude instances need rationale, not just outputs.
+
 ---
 
 ## Core Principle

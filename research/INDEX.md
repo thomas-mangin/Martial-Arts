@@ -21,6 +21,19 @@ Quick reference to research files. Load specific files only when needed.
 - **Contains**: Knowing vs. Embodied framework, kata as alphabet, 5-stage physical progression, demonstration robotization problem, teaching implications
 - **Purpose**: Apply consistent learning frameworks and understand teaching pitfalls
 
+## Teaching Knowledge Domains
+
+**research/learning-domains/** - Systematic research for teaching Aikido correctly
+- **When to read**: Developing teaching skills, understanding pedagogy, preventing injuries
+- **Contains**: Motor learning, teaching methodology, sports psychology, injury prevention
+- **Purpose**: Evidence-based teaching practice grounded in sports science
+- **Start with**: learning-domains/README.md for overview and layered learning approach
+- **Key files**:
+  - `motor-learning.md` - How people acquire physical skills (Layer 1)
+  - `teaching-methodology.md` - How to structure and deliver instruction (Layer 1)
+  - `injury-prevention.md` - Safe training and injury prevention protocols (Layer 1)
+  - `sports-psychology.md` - Motivation, confidence, performance (Layer 1 - pending)
+
 ## Technical References
 
 **research/biomechanics/** - 32 biomechanical principles across 7 categories
@@ -70,6 +83,7 @@ Quick reference to research files. Load specific files only when needed.
 | divisive-topics.md | Controversial topics | Debate frameworks |
 | legal-ethical-context.md | Self-defense/violence topics | Legal responsibility, force continuum |
 | learning-journey.md | Learning/progression/teaching posts | Knowing vs. Embodied, 5 stages, demonstration robotization |
+| learning-domains/ | Teaching pedagogy, injury prevention | Motor learning, teaching methodology, injury prevention, sports psychology |
 | biomechanics/ | Technique articles | 40 principles, 130+ ideas |
 | contextual-design-framework.md | Kata/application posts | Context principle |
 | weapons-training-framework.md | Weapons posts | Ken/jo benefits |

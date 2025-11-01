@@ -3,6 +3,33 @@
 ## Project Purpose
 Personal project for writing educational Aikido article series (designed for book publication) with session continuity between Claude Code sessions. MSc-level quality standards applied (author has MSc in Computer Science).
 
+## ⭐ Core Principles
+
+### WHY-First Thinking
+**CRITICAL**: When the WHY is clear, all other questions become easier to answer (WHAT, HOW, WHEN, WHERE).
+
+**Always document**: WHY (rationale) → WHAT (decisions) → HOW (approach) → Alternatives → Assumptions
+
+**Purpose**: Enable effective resumption. Conclusions without reasoning are shallow.
+
+### Collaboration Model: Professor-Student Relationship
+**CRITICAL**: Read `.claude/docs/collaboration-model.md` for complete relationship model.
+
+**User Role**: Professor/Mentor
+- Set direction and focus progress
+- Validate thinking quality (not micromanage)
+- Course correct when needed
+- Provide domain expertise
+
+**Claude Role**: Advanced Student/Expert Changing Domains
+- High capability BUT low domain experience
+- Propose approaches with reasoning
+- Execute deeply once direction clear
+- Seek validation proactively
+- Make assumptions explicit
+
+**Pattern**: User guides → Claude proposes approach → User validates → Claude executes deeply → User validates results
+
 ## 🔄 Interaction Protocol
 
 **CRITICAL**: Read `.claude/docs/workflow-protocol.md` for complete interaction guidelines.
@@ -109,7 +136,9 @@ Personal project for writing educational Aikido article series (designed for boo
 
 ## Need More Details?
 
-- **Interaction Protocol**: Read `.claude/docs/workflow-protocol.md` ⭐ **READ THIS FIRST**
+- **Collaboration Model**: Read `.claude/docs/collaboration-model.md` ⭐ **READ FIRST - How we work together**
+- **Design Principles**: Read `.claude/docs/design-principles.md` ⭐ **READ SECOND - WHY-first thinking**
+- **Interaction Protocol**: Read `.claude/docs/workflow-protocol.md` ⭐ **READ THIRD**
 - **Architecture**: Read `.claude/docs/architecture.md`
 - **Workflows**: Read `.claude/docs/workflows.md`
 - **Commands**: Read `.claude/docs/commands-reference.md`
