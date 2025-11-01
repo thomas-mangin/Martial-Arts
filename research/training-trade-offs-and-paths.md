@@ -111,166 +111,20 @@
 
 ---
 
-### The Age Appropriateness
+### The Age and Development Dimension
 
-**CRITICAL PRINCIPLE: Strength First, Relaxation Later**
+**Core principle**: Old Aikido masters were NOT nice when young - they were fierce fighters who became philosophical with age
 
-**User's insight**: "As the body ages it loose strength, strength and core should be gained first and then relaxation later. You can not fight without strength believe so is a bit of wishful thinking."
+**The progression**:
+1. **Young**: Train hard, fight, pressure test, prove yourself, **build strength foundation** (martial phase)
+2. **Middle age**: Refine technique, develop depth, teach (technical phase)
+3. **Old age**: Discover philosophy, seek harmony, wisdom, **relax from foundation of strength** (philosophical phase)
 
-**Why this matters**:
-- Cannot relax what you don't have strength to control
-- "Relaxation" in martial arts requires underlying strength foundation
-- Young masters built strength first, then learned to relax with age
-- Starting with relaxation (without strength) = wishful thinking, not martial skill
+**Modern problem**: Many students start at phase 3 (philosophy/peace) without going through phases 1-2 (martial/technical foundation)
 
-**The complete picture**:
-- **Strength is necessary** - Cannot fight without it
-- **Efficiency is also necessary** - "You also need to learn how to use your body efficiently, strength alone is not enough"
-- **Body structure is necessary** - Flexibility, alignment, ability to maintain straight body without effort
-- **Relaxation enables perception** - Tactile sensing superior to vision, but requires relaxation to work
-- **All required**: Strength + Efficient body use + Body structure + Ability to relax = Martial capability
+**Result**: "Peaceful" practitioners who never developed martial ability - they skipped the foundation
 
-**Why relaxation matters** (beyond efficiency):
-
-**User's critical insight**: "Vision is terrible, eye movement cause temporary blindness where the brain make your believe you are seing what is there. Tactile sensation is much more reliable but to sense and react you must be relaxed."
-
-**The perceptual advantage of touch**:
-- Vision has limitations: Saccadic blindness (eye movements cause temporary blindness), brain fills in gaps
-- Tactile sensation more reliable for sensing opponent's intentions and movements
-- **BUT**: Tactile sensitivity depends on your own tension level
-- **User's precise explanation**: "You can sense but not as well, you can only feel what is over your own tension, the high it is the less you can feel"
-- **Like signal-to-noise ratio**: Your tension is the "noise floor" - can only detect signals (opponent's force/movement) above your tension level
-- High tension = High threshold = Only feel strong forces = Coarse, delayed perception
-- Low tension (relaxation) = Low threshold = Feel subtle forces = Fine, fast perception
-- **Relaxation also enables**: Faster reaction time + More controlled response (not just better perception)
-
-**Prerequisites for effective relaxation**:
-
-1. **Strength foundation**: Cannot relax what you don't have strength to control
-2. **Body alignment**: "You can also not fight well if you are not able to maintain a straight body without effort"
-3. **No unbalance or body issues**: "If you have unbalance or body issues, it will affect your training"
-4. **No compensatory tension from injury**: "If you have an injury your body must compensate for, you need extra tension, which make it hard for someone to relax and use touch to perceive his opponent"
-5. **Flexibility**: "While flexibility is not spoken much off" - it's necessary for maintaining structure without effort
-
-**The hierarchy**:
-1. Build strength and core (cannot relax without foundation)
-2. Develop body alignment and flexibility (can maintain structure without excess effort)
-3. Heal injuries and address imbalances (remove need for compensatory tension)
-4. THEN relaxation becomes possible and useful (enables tactile perception)
-
-**Why old masters appear "soft"**: Not weakness - they have strength foundation, good body structure, and can relax to minimize their tension threshold. Their low tension "noise floor" allows them to detect subtle forces and movements from opponent. Superior sensing capability = Faster reactions + More controlled responses. Built on decades of strength and body development.
-
-**Why young students training "soft" doesn't work**: No strength foundation, poor body structure, often have unaddressed imbalances. Their "softness" is weakness or collapse, not functional relaxation. High tension threshold (from compensating for weakness/imbalance) OR no structure to sense from (collapsed). Cannot detect subtle opponent movements. Slow, uncontrolled reactions.
-
----
-
-### How Grounding Quality Feels (From Attacker's Perspective)
-
-**User's experiential description** of what different levels of development feel like when you try to push someone:
-
-**Stage 1 - No Grounding (Complete Beginner)**:
-"Pushing someone without good grounding (hip posture, strength), it feels like you have nothing opposing you."
-- No resistance encountered
-- Person just moves/collapses when pushed
-- Like pushing air or a loose sack
-- No martial structure present
-- No attempt to resist or hold position
-
-**Stage 2 - False Grounding (Early Development)**:
-**User's addition**: "There is a stage between 1 and 2 where you feel like there is resistance but it can not hold up"
-- Initial resistance IS present (unlike Stage 1)
-- BUT: Cannot maintain under pressure
-- Feels like it will hold, then quickly collapses or moves
-- Trying to create structure but lacking strength/foundation
-- Knows they should resist but can't sustain it
-- Common stage: Understanding what to do but not yet able to do it
-
-**Stage 3 - Strong Grounding (Intermediate)**:
-"When better the feeling become like trying to move a rock, it is hard solid and pushing seems useless."
-- Feels solid, immovable, can sustain resistance
-- BUT: Rigid, no give
-- Strength-based resistance that holds
-- Hard/tense structure
-- Has foundation but not yet refined
-- Significant improvement over Stage 2
-
-**Stage 4 - Relaxed Grounding with Structure (Advanced)**:
-"Ultimately it feels like rubber, the relaxed body ease into the force but the more you push the more it feels unmovable."
-- Initial yield (appears soft/compliant)
-- BUT: The more force applied, the more immovable it becomes
-- Like rubber or spring - gives way initially, then rebounds
-- Relaxed structure that redirects/absorbs force
-- **This is what old masters have**: Appears soft but functionally immovable
-- Combines strength foundation + body structure + relaxation
-
-**The complete progression for practitioners**:
-1. **20s-30s**: Build from Stage 1 (nothing) → Stage 2 (false resistance) → Stage 3 (solid rock) via strength and core training
-2. **40s-50s**: Refine from Stage 3 (rigid) → Stage 4 (rubber) via efficiency and relaxation training
-3. **60+**: Maintain Stage 4 (functional relaxation with immovable quality)
-
-**Why this matters for teaching**:
-- Students can assess their own progress: "What do I feel like when pushed?"
-- Teachers can diagnose student development: "What does this student feel like?"
-- **Stage 2 is critical transition**: Shows understanding but not yet capability - needs continued strength building
-- Explains why "relaxed" training without foundation fails: Stays at Stage 1-2 (nothing or false resistance), never develops Stage 3 (rock) foundation needed to reach Stage 4 (rubber)
-- Stage 4 requires Stage 3 as prerequisite - cannot skip from "false resistance" to "rubber" without going through "rock"
-
-**The rubber quality is not weakness**: It's integrated strength + structure + relaxation. The "ease into the force" is tactical (not collapse), the "unmovable" quality comes from decades of foundation building.
-
----
-
-**Young practitioners** (20s-30s):
-- **Physical peak** - Maximum strength development possible
-- **Priority**: Build strength and core foundation
-- **Development goal**: Progress from Stage 1 (nothing) → Stage 2 (false resistance) → Stage 3 (solid rock/strong grounding)
-- Can handle hard training and high intensity
-- Recovery ability high
-- Ego investment in proving capability
-- **Training focus**: Strength building + pressure testing + body conditioning
-- **Body conditioning**: "A big part of training is body conditionment via repetition of exercise. The exercise were design to develop what the martial artist will need with his training."
-- **Iwama example**: "In Iwama the Jo / ken are used to develop grounding as it is harder to control something far (lever effect) than near."
-- **Assessment**: Goal is to feel like "rock" (solid, immovable, can sustain resistance), not "nothing" (collapse) or "false resistance" (feels like it holds but can't sustain)
-
-**Why jo/ken training**: The difficulty of controlling a weapon at distance (lever effect) develops the grounding and body structure needed for empty-hand techniques. The training method is specifically designed for martial development.
-
-**Middle-aged practitioners** (40s-50s):
-- Body more fragile than youth
-- Recovery slower
-- Different priorities (family, career)
-- **CAN STILL BUILD STRENGTH**: "It is never to late to develop your strength"
-- **BUT**: Realistic about peak - "at 50 they will not be able to reach what they could have at 20"
-- **Development goal**: Refine from Stage 3 (rigid rock) → Stage 4 (rubber/relaxed structure)
-- **Training focus**: Maintain/build strength within limits + sustainable intensity + efficiency refinement + begin relaxation work
-- May value longevity over peak performance
-- Everyone can improve their health at any age
-- **Assessment**: When pushed, transitioning from "rigid solid" toward "rubber" quality
-
-**Senior practitioners** (60+):
-- Injury risk high
-- Recovery very slow
-- Accumulated damage from youth
-- **NOW relaxation training makes sense** - Have strength foundation from youth
-- **If no strength foundation**: Cannot truly relax, only be weak (stuck at Stage 1-2)
-- **Development goal**: Fully embody Stage 4 (rubber quality - yields but immovable)
-- Wisdom and philosophy more accessible
-- Very soft training appropriate **because strength was built earlier**
-- **Training focus**: Maintain what remains + emphasize efficiency + philosophical depth + maximize relaxation for tactical perception
-- **Assessment**: When pushed, should feel like "rubber" (yields initially but increasingly immovable) not "nothing" (weak/collapsed) or "false resistance" (can't hold)
-
-**The progression that works**:
-1. **Youth (20s-30s)**: Build strength and core + body conditioning + pressure testing → Develop from Stage 1 (nothing) → Stage 2 (false resistance) → Stage 3 (rock quality - solid, sustained)
-2. **Middle age (40s-50s)**: Maintain strength + refine efficiency + sustainable training → Transition from Stage 3 (rigid rock) → Stage 4 (rubber quality)
-3. **Senior (60+)**: Use strength built earlier + emphasize relaxation/efficiency + wisdom → Embody Stage 4 (rubber - yields but immovable)
-
-**The progression that doesn't work**:
-1. **Youth (20s-30s)**: Train "soft" and "relaxed" without building strength → Stuck at Stage 1-2 (nothing or false resistance that can't sustain)
-2. **Middle age (40s-50s)**: Still no strength foundation, technique doesn't work under pressure → Still Stage 1-2 (collapse or can't hold)
-3. **Senior (60+)**: Weak and unskilled, no foundation to relax from → Forever Stage 1-2 (collapse or false resistance, never "rubber")
-
-**The mismatch**:
-- 25-year-old training like 65-year-old (soft/relaxed without strength) = never develops martial capability
-- 65-year-old training like 25-year-old (building strength they didn't build in youth) = injury risk, missed opportunity
-- **Optimal**: Each age trains appropriately, building foundation in youth to utilize in age
+**For detailed technical explanation** of strength-to-relaxation progression, four stages of grounding quality, and age-appropriate physical development, see `physical-development-stages.md`.
 
 ---
 
@@ -517,32 +371,15 @@
 
 "Different martial arts attract different people based on values. Those who 'think you are tough and a real man' gravitate to full contact arts. Those wanting 'something safer' gravitate to Aikido and similar arts. **Neither is wrong** - they serve different needs. The error is claiming one path provides benefits of the other path."
 
-### Principle 3: Strength First, Relaxation Later - The Hierarchy of Development
+### Principle 3: Age and Wisdom - Strength First, Then Philosophy
 
-"As the body ages it loses strength. Strength and core should be gained first and then relaxation later. **You cannot fight without strength** - this belief is wishful thinking. But strength alone is not enough.
+"Old Aikido masters were NOT nice when young - they were fierce fighters who became philosophical with age. **The peaceful approach is appropriate for old age**, after martial foundation is built.
 
-**The complete requirement**: Strength + Efficiency + Body structure (flexibility, alignment) + Ability to relax = Martial capability.
+Modern problem: Students starting with peaceful/relaxed approach without building martial foundation, then claiming martial effectiveness.
 
-**Why relaxation matters beyond efficiency**: Vision is unreliable (saccadic blindness during eye movements). Tactile sensation is much more reliable for sensing opponent's intentions. **BUT tactile sensitivity depends on your own tension level.**
+**It is never too late to develop strength**, but be realistic: at 50 you will not reach what you could have at 20. Everyone can improve their health at any age, but peak potential differs.
 
-**The tension threshold principle**: "You can sense but not as well, you can only feel what is over your own tension, the high it is the less you can feel." Your tension acts as noise floor - can only detect signals (opponent's force/movement) above your tension level. Relaxation lowers this threshold, enabling perception of subtle forces and faster, more controlled reactions.
-
-**Prerequisites for effective relaxation**:
-1. Strength foundation (cannot relax what you cannot control)
-2. Body alignment and flexibility (maintain straight body without effort)
-3. No unbalance or body issues (affect training quality)
-4. No compensatory tension from injury (injury forces extra tension, prevents relaxation and tactile sensing)
-5. THEN relaxation becomes possible and enables superior perception
-
-Old Aikido masters were NOT nice when young - they were fierce fighters who **built strength first**, developed body structure, then learned to **relax from a foundation of strength** to maximize tactile perception.
-
-**The peaceful approach is appropriate for old age**, after martial foundation is built. Modern problem: Students starting with peaceful/relaxed approach without building strength/structure foundation - they cannot truly relax (only be weak or collapsed), have high tension threshold (compensating for weakness/imbalances), cannot detect subtle forces, then claim martial effectiveness.
-
-**Old masters appear "soft"**: Not weakness - low tension threshold = superior sensing capability. Can detect subtle forces/movements, react faster, respond with more control. Built on decades of strength and body development.
-
-**Young students training "soft"**: No strength foundation, poor body structure, often unaddressed imbalances. Their "softness" is weakness or collapse, not functional relaxation. High tension threshold from compensating for deficiencies = coarse, slow perception.
-
-**It is never too late to develop strength**, but be realistic: at 50 you will not reach what you could have at 20. Everyone can improve their health at any age, but peak potential differs."
+**For technical details** on strength-to-relaxation progression, tension threshold principle, prerequisites for effective relaxation, and four stages of grounding quality, see `physical-development-stages.md`."
 
 ### Principle 4: The Mountain Metaphor
 
@@ -566,34 +403,14 @@ Old Aikido masters were NOT nice when young - they were fierce fighters who **bu
 
 2. **How to structure Aikido training for different life stages?**
 
-   **ANSWERED - Strength First, Relaxation Later**:
+   **High-level answer**:
+   - **20s-30s**: Build strength and martial foundation (can handle intensity)
+   - **40s-50s**: Maintain foundation, refine efficiency (never too late, but realistic about peak)
+   - **60+**: Utilize foundation built in youth, emphasize relaxation and wisdom
 
-   - **20s-30s (Physical peak - BUILD FOUNDATION)**:
-     - Priority: Strength and core development
-     - High intensity training, resistance, pressure testing
-     - Body conditioning through repetition of exercises designed for martial development
-     - Iwama example: Jo/ken training develops grounding (lever effect - harder to control distant object)
-     - Build the foundation you'll use for life
+   **Critical principle**: Cannot skip foundation building in youth and jump to "relaxed/philosophical" training
 
-   - **40s-50s (Maintenance and refinement)**:
-     - Maintain/improve strength (never too late, but realistic about peak)
-     - Moderate intensity, sustainable practice
-     - Emphasize efficiency alongside strength
-     - Can still develop, but won't reach 20s potential
-
-   - **60+ (Utilize foundation built in youth)**:
-     - Gentle training NOW makes sense (have strength foundation from youth)
-     - Emphasize relaxation FROM foundation of strength
-     - Philosophical approach appropriate
-     - Maintain what remains, wisdom-focused
-
-   **Critical**: Cannot skip to relaxation without building strength, body structure, and flexibility foundation.
-
-   **Why**: "You cannot fight without strength" + "You can also not fight well if you are not able to maintain a straight body without effort" + Injuries create compensatory tension that prevents relaxation.
-
-   **Perceptual dimension**: Relaxation lowers tension threshold for tactile perception (superior to vision for sensing opponent). "You can only feel what is over your own tension" - high tension = high threshold = coarse perception; low tension = low threshold = subtle perception. Old masters' "softness" is low tension threshold = superior perception + faster reactions, not weakness.
-
-   **Complete formula**: Strength + Efficiency + Body structure/flexibility + Ability to relax = Martial capability (including perceptual superiority).
+   **For detailed technical answer** including four stages of grounding progression, specific training goals, assessment methods, and prerequisites, see `physical-development-stages.md`.
 
 3. **How to encourage cross-training without fragmenting Aikido focus?**
    - When is student "good enough" to benefit from cross-training?
@@ -641,27 +458,15 @@ Old Aikido masters were NOT nice when young - they were fierce fighters who **bu
    - Different body conditioning from each path
    - Choose based on values and goals
 
-6. **Strength first, relaxation later - The hierarchy and tension threshold principle**
-   - Young practitioners must build strength, core, body structure, flexibility foundation
-   - Cannot skip to "relaxation" without foundation (that's weakness, not martial skill)
-   - **Four stages of grounding quality** (from attacker's perspective when pushing):
-     - Stage 1 (Complete Beginner): "Nothing" - no resistance, collapses when pushed
-     - Stage 2 (Early Development): "False resistance" - feels like resistance but can't hold up/sustain
-     - Stage 3 (Intermediate): "Rock" - solid, immovable, can sustain resistance, but rigid/tense
-     - Stage 4 (Advanced): "Rubber" - yields initially but becomes increasingly immovable with pressure
-   - **Progression must go**: Stage 1 → Stage 2 → Stage 3 → Stage 4 (cannot skip stages, especially Stage 3)
-   - **Stage 2 is critical**: Shows understanding but not yet capability - needs continued strength building
-   - Relaxation has THREE purposes: Efficiency + Perception + Speed/Control of reaction
-   - **Tension threshold principle**: "You can only feel what is over your own tension, the higher it is the less you can feel"
-   - Tension acts as "noise floor" - can only detect signals (opponent's forces) above your tension level
-   - High tension = High threshold = Coarse, slow perception
-   - Low tension (relaxation) = Low threshold = Subtle, fast perception + controlled reactions
-   - Prerequisites: Strength + Body alignment/flexibility + No injuries/imbalances → THEN relaxation lowers threshold effectively
-   - Old masters' "softness" = Stage 4 rubber quality + Low tension threshold = Superior sensing + faster reactions, not weakness
-   - Young students' "softness" = Stage 1-2 (collapse or false resistance) OR high tension threshold (compensating) = poor sensing
+6. **Physical development is mandatory for martial capability**
+   - Cannot reach high level without systematic body development
+   - Strength must be built first, then refined through relaxation
+   - Old masters' "softness" is superior perception built on foundation, not weakness
+   - Young students' "softness" without foundation is weakness, not martial skill
    - Training methods (suburi, kata, basics) are body conditioning designed for martial attributes
    - Iwama example: Jo/ken training develops grounding via lever effect (harder to control distant object)
-   - **Assessment tool**: "What do I feel like when pushed?" provides objective feedback on development stage
+
+   **For detailed technical framework** including four stages of grounding quality, tension threshold principle, prerequisites for relaxation, and age-appropriate progression, see `physical-development-stages.md`.
 
 **Avoid**:
 - Binary "Aikido works/doesn't work" arguments

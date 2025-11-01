@@ -6,7 +6,12 @@
 
 ## Current Task
 
-**COMPLETE**: Layer 1 learning across Priority 1 domains - Foundation established for teaching Aikido correctly.
+**COMPLETE**: Layer 1 learning across Priority 1 domains + Physical Development Documentation
+
+**Latest work** (2025-11-01 session continuation):
+- Created `physical-development-stages.md` - Technical framework for body development in martial arts
+- Cleaned up `training-trade-offs-and-paths.md` - Now focused on philosophical/values dimension only
+- Proper separation: Philosophy (trade-offs) vs Technical (how development occurs)
 
 **STATUS**: Awaiting user direction on next phase (deeper learning layers, analysis phase, or other direction).
 
@@ -94,6 +99,25 @@
 - Old masters were fierce fighters who became philosophical with age
 - MMA/BJJ have high injury rates, Aikido has compliance problem - both valid criticisms
 - Multiple paths serve different needs at different life stages
+
+### Phase 5: Physical Development Documentation (Session Continuation)
+
+**Created**: `research/physical-development-stages.md` (NEW)
+- Four stages of grounding quality: Nothing → False resistance → Rock → Rubber
+- Experiential assessment: "What do I feel like when pushed?"
+- Strength-to-relaxation progression (cannot skip stages)
+- Tension threshold principle for tactile perception
+- Prerequisites: Strength + Body structure + Flexibility + No injuries → THEN relaxation
+- Western physical deficits: Cannot squat, seiza, move from center, single-leg stability
+- Single-leg stability and timing advantages ("half beat" - noted for future expansion)
+- Age-appropriate training: 20s build foundation, 40s refine, 60+ utilize
+- Body conditioning through designed exercises (Iwama jo/ken lever effect example)
+- "Martial course should develop your body. If you do not, you are not going to reach high level."
+
+**Cleaned up**: `research/training-trade-offs-and-paths.md`
+- Removed detailed technical content (now in physical-development-stages.md)
+- Focused on philosophical/values dimension: Which path to choose, trade-offs, mountain metaphor
+- Added cross-references to related documents
 
 ---
 
