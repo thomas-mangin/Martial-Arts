@@ -1,10 +1,24 @@
 # Instance Registry
 
-**Last Updated**: 2025-10-31 22:22
+**Last Updated**: 2025-11-01 15:37
 
 ---
 
-## Active Instances (2)
+## Active Instances (4)
+
+### 2025-11-01-1537
+- **Status**: Active
+- **Created**: 2025-11-01 15:37
+- **Last Heartbeat**: 2025-11-01 15:37
+- **Working On**: Identifying good material to learn from (source discovery and content curation)
+- **Location**: `.claude/state/instances/2025-11-01-1537/`
+
+### 2025-11-01-1525
+- **Status**: Idle
+- **Created**: 2025-11-01 15:25
+- **Last Heartbeat**: 2025-11-01 15:42
+- **Working On**: ✅ Phase 1 COMPLETE - Information architecture designed (templates, validation, structure)
+- **Location**: `.claude/state/instances/2025-11-01-1525/`
 
 ### 2025-10-31-1953
 - **Status**: Idle
@@ -30,8 +44,9 @@
 
 ## Statistics
 
-- **Total instances**: 2
+- **Total instances**: 4
 - **Active**: 2
+- **Idle**: 2
 - **Stale (>24h)**: 0
 - **Archived**: 0
 
